@@ -35,8 +35,18 @@ Pour avoir le nettoyage le plus propre possible, nous allons passer sur tous les
 ```bash
 python3 etape2_nettoyage.py
 ```
-
 Ce programme va chercher directement dans le dossier `book_data/` qui est créé par l'étape précédente.
+Nettoyé:
+- Supprimer toutes les lignes jusqu'à `Exporté de Wikisource...`
+- Supprimer toutes les lignes jusqu'à `MediaWiki`
+- Supprimer toutes les lignes jusqu'à la ligne 100 contenant des chiffres romains (I,V,X en majuscule et séparé avec des espaces des autres mots ou "IV.").
+- Mettre tout le texte en minuscule.
+- [ ] Sauvegarder pour analyse longueur phrases
+- Sur tout le texte, chercher les apostrophes (`'`). Si les deux derniers caractères sont `<espace><char>`, remplacer ces trois derniers par `<char>e<espace>`.
+- Supprimer pronoms (je,tu,etc), déterminants et conjonctions (peut être prépositions mais à voir.) avec `python spaCy`.
+- Regex pour supprimer tout ce qui n'est pas du texte comme les guillements, tiraits, 
+- Lignes vides
+- [ ] Save fichier final txt pour analyse.
 
 ## Etape 3 : Analyse des textes
 L'analyse du texte doit être faite à l'aide du langage de programmation **Julia**.
