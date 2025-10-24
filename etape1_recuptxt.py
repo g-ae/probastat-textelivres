@@ -22,9 +22,22 @@ if __name__ == "__main__":
             print(row)
             file_url = f"book_data/{row["MOUVEMENT"]}/{row["NOM_FICHIER"]}"
             print(row["URL"])
-            data = requests.get(row["URL"]).text
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0'
+            }
+            r = requests.get("https://ws-export.wmcloud.org/?format=epub&lang=fr&page=" + row["URL"].split('/wiki/')[1], headers=headers)
 
-            if not os.path.exists(file_url):
-                open(file_url, "x") # create file
-            n = open(file_url, "w") # update file
-            n.write(data)
+            if r.status_code == 200:
+                content_disposition = r.headers.get("content-disposition", "")
+                filename = "fichier.epub"
+                if "filename=" in content_disposition:
+                    filename = content_disposition.split("filename=")[-1].strip('"')
+
+                with open(filename, "wb") as f:
+                    for chunk in r.iter_content(chunk_size=8192):
+                        f.write(chunk)
+            else:
+                print(row, "Erreur", r)
+            
+            exit(1)
+            

@@ -6,10 +6,10 @@
 Pour créer une liste de romans des mouvements voulus, nous avons fait recours à l'IA pour nous créer un fichier CSV avec les informations dont nous avons besoin pour faire cette analyse. Voici le prompt utilisé avec Claude :
 
 ```
-Donne moi 100 romans français qui ont été écrits dans la période de 1700 à 1900. Je veux uniquement des livres des mouvements des Lumières, romantisme et naturalisme.
+Donne moi des romans français **obligatoirement écrits en français** qui ont été écrits dans la période de 1700 à 1900. Je veux uniquement des livres des mouvements des Lumières, romantisme et naturalisme. Je veux ~29-36 romans de chaque mouvement littéraire.
 Je veux que tu me donnes ces données en forme CSV avec points-virgule (';') avec headers. Chaque donnée devra avoir des double guillements ("), exemple: "Émile Zola". 
 La manière d'écrire le mouvement doit être uniforme et doit correspondre à un de ces trois: "lumieres", "romantisme" ou "naturalisme".
-Le champ URL doit contenir un URL vers le plain text du livre cité sur PROJECT GUTENBERG ou autres sources de livres libres de droits francophones comme WIKISOURCE (fr), GALICA (BnF) si les livres cités sont disponibles en plain text, dans le but de pouvoir curl cet URL et obtenir le texte du roman.
+Le champ URL doit contenir un URL vers le plain text du livre cité sur WIKIMEDIA OBLIGATOIREMENT.
 Le champ "nom_fichier" doit être complété avec le titre du roman et nom de l'auteur, dans le sens où, pour le roman Candide, ou l'Optimisme de Voltaire, tu mets dans le champ "candideouloptimisme_voltaire.txt", pour éviter des erreurs de file system.
 Si besoin, tu peux chercher sur le web.
 
