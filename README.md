@@ -16,18 +16,13 @@ Si besoin, tu peux chercher sur le web.
 TITRE;AUTEUR;MOUVEMENT;URL;NOM_FICHIER
 ```
 
-Ce dernier nous donne un fichier CSV avec la classification du mouvement des livres dont nous avions besoin. Nous pouvons ensuite récupérer tous les fichiers texte avec la commande python :
+Ce dernier nous donne un fichier CSV avec la classification du mouvement des livres dont nous avons besoin. 
 
-```bash
-python3 etape1_recuptxt.py data.csv
-```
+## Etape 1 : Récupération des textes
 
-### Problèmes rencontrés
-Réponse de `https://fr.wikisource.org` :
-```
-Please set a user-agent and respect our robot policy https://w.wiki/4wJS. See also T400119.
-```
-Résolution: `https://wikitech.wikimedia.org/api/rest_v1/#/Page%20content/get_page_`
+L'objectif de base serait que Claude/ChatGPT nous donne directement un lien qu'on peut `curl` et obtenir directement le plain text du livre. Comme ils font trop d'erreurs (livres faux, mauvaise langue, etc), nous avons décidé de demander une liste de livres dans les trois mouvements littéraires spécifiques, puis, comme nous sommes un groupe de trois, chacun prend un mouvement et télécharge les fichiers `.epub` ou `.txt` directement si disponible. \
+Les fichiers `.epub` peuvent être passés dans le script Python `epub2txt.py` qui les transforme en `.txt` grâce aux librairies `epub`et `BeautifulSoup`.
+
 
 ## Etape 2 : Nettoyage du texte
 Pour avoir le nettoyage le plus propre possible, nous allons passer sur tous les textes et les nettoyer avec Python.
