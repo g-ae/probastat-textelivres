@@ -23,9 +23,9 @@ def epub_to_txt(epub_path, txt_path):
 
 if __name__ == "__main__":
 
-    mouvement = "lumieres"  
+    mouvement = "naturalisme"  
     epub_dir = "book_data/" + mouvement + "/romans_epub"
-    txt_dir = "book_data/" + mouvement + "/romans_txt"
+    txt_dir = "book_data/" + mouvement
 
     for file in os.listdir(epub_dir):
         if file.endswith(".epub"):
