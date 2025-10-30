@@ -1,5 +1,7 @@
+import re
+
 def nettoyer_part1(filename):    
-    with open(filename) as f:
+    with open(filename, encoding='utf-8') as f:
         lines = f.readlines()
 
         # Supprimer tout jusqu'à "Exporté de wikisource"
@@ -17,7 +19,11 @@ def nettoyer_part1(filename):
             lines = lines[len(lines)-idx+1:len(lines)]
         
         # Supprimer les lignes jusqu'à la ligne 100 qui contient des chiffres romains (chapitres)
-        # TODO
+        roman_pattern = re.compile(r'^[ivxlcdmIVXLCDM]+[\s\.]')
+        limit = min(100, len(lines))
+        for idx in range(limit-1, -1, -1):
+            if roman_pattern.match(lines[idx]):
+                del lines[idx]
 
         # Supprimer toutes les lignes après "À propos de cette édition électronique" 
         array = [l.__contains__('À propos de cette édition électronique') for l in lines]
@@ -43,3 +49,4 @@ def nettoyer_part2(filename):
 
 mouvements = ["lumieres", "naturalisme", "romantisme"]
 #nettoyer_part1("book_data/romantisme/Atala.txt")
+#nettoyer_part1("book_data/romantisme/Notre-Dame_de_Paris.txt")
