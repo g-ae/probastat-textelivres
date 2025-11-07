@@ -48,16 +48,9 @@ def nettoyer_part1(filename):
         
 
         # Save to log file
-        log_deleted_lines = -1
-        log_kept_lines = -1
         genre = filename.split('/')[1]
-        with open(f"book_data/log_{genre}.txt", encoding='utf-8') as l:
-            log_deleted_lines = int(l.readline().split('=')[1])
-            log_kept_lines = int(l.readline().split('=')[1])
-
-        with open(f"book_data/log_{genre}.txt", 'w', encoding='utf-8') as l:
-            l.write(f"deleted_lines={log_deleted_lines+deleted_lines}\n")
-            l.write(f"kept_lines={log_kept_lines+end_lines}")
+        with open(f"book_data/log_{genre}.csv", 'a', encoding='utf-8') as l:
+            l.write(f"{deleted_lines};{end_lines}\n")
             
 
         # Save to file
@@ -70,8 +63,7 @@ def nettoyer_part2(filename):
 if __name__ == "__main__":
     mouvements = ["naturalisme", "romantisme"]
     for m in mouvements:
-        onlyfiles = [f for f in os.
-        listdir(f"book_data/{m}") if os.path.isfile(os.path.join(f"book_data/{m}", f))]
+        onlyfiles = [f for f in os.listdir(f"book_data/{m}") if os.path.isfile(os.path.join(f"book_data/{m}", f))]
         for text_file in onlyfiles:
             print(f"book_data/{m}/{text_file}")
             nettoyer_part1(f"book_data/{m}/{text_file}")
