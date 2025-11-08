@@ -59,6 +59,6 @@ for m in mouvements
 		
 		
 		########### Occurrence des mots (test) ###########
-		save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * file_name)
+		#save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * file_name)
 	end
 end
