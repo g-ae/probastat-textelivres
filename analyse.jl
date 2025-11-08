@@ -1,4 +1,5 @@
 using InteractiveUtils
+include("occurrence_mots.jl")
 
 const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
@@ -55,5 +56,9 @@ for m in mouvements
 		lines = [strip(l) for l in lines if !isempty(strip(l))]
 		
 		########### Deuxième partie du nettoyage ##############
+		
+		
+		########### Occurrence des mots (test) ###########
+		save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * file_name)
 	end
 end
