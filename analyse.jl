@@ -1,4 +1,5 @@
 using InteractiveUtils
+include("occurrence_mots.jl")
 
 const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
@@ -71,5 +72,8 @@ for m in mouvements
 			end
 			lines[i] = replace(l, r" (\S)'" => s" \1e ") # on garde le premier groupe de capture (\S)
 		end
+		
+		# Occurrence des mots (test)
+		#save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * file_name)
 	end
 end
