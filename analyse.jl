@@ -5,6 +5,11 @@ const mouvements = ["lumieres", "naturalisme", "romantisme"]
 for m in mouvements
 	all_files = readdir(pwd() * "/book_data/" * m)
 	book_files = filter(f->contains(f, '.'), all_files)
+
+	# sauvegardes analyses
+	part1_lines = []
+	part2_lines = []
+
 	for file_name in book_files
 		println(m * "/" * file_name)
 
@@ -54,6 +59,17 @@ for m in mouvements
 		# Strip et suppression des lignes vides
 		lines = [strip(l) for l in lines if !isempty(strip(l))]
 		
+		# Sauvegarder état
+		part1_lines = [x for x in lines]
+
 		########### Deuxième partie du nettoyage ##############
+		
+		# Remplacer guillemets simples
+		for (i, l) in enumerate(lines)
+			if !occursin("'", l)
+				continue
+			end
+			lines[i] = replace(l, r" (\S)'" => s" \1e ") # on garde le premier groupe de capture (\S)
+		end
 	end
 end
