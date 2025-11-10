@@ -50,7 +50,7 @@ for m in mouvements
 		if length(Set(array)) != 1
 			i = findfirst(x -> x == true, array)
 			if i !== nothing
-				lines = lines[1:i]
+				lines = lines[1:i-1]
 			end
 		end
 
