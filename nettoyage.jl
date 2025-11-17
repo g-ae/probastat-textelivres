@@ -1,4 +1,19 @@
-using InteractiveUtils
+# Configuration de PythonCall pour utilisation du venv python
+ENV["JULIA_CONDAPKG_BACKEND"] = "Null"
+ENV["JULIA_PYTHONCALL_EXE"] = ENV["VIRTUAL_ENV"] * "/bin/python3"
+
+using PythonCall, InteractiveUtils
+
+sys = pyimport("sys")
+venv_path = get(ENV, "VIRTUAL_ENV", "")
+
+println("Python utilisé: ", sys.executable)
+
+println("Importation de spacy")
+spacy = pyimport("spacy")
+println("Chargement du modèle de language")
+nlp = spacy.load("fr_core_news_sm", disable=["ner", "parser"])
+
 include("occurrence_mots.jl")
 
 const mouvements = ["lumieres", "naturalisme", "romantisme"]
@@ -11,13 +26,17 @@ for m in mouvements
 	part1_lines = []
 	part2_lines = []
 
-	for file_name in book_files
-		println(m * "/" * file_name)
+	for (i, file_name) in enumerate(book_files)
+		println(m * "/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
 
 		# Ouvrir fichier pour récupérer son contenu
 		lines = []
 		open(pwd() * "/book_data/" * m * "/" * file_name) do f
 			lines = readlines(f)
+		end
+
+		if length(lines) == 0
+			continue
 		end
 
 		####### Première partie du nettoyage #########
@@ -72,8 +91,42 @@ for m in mouvements
 			end
 			lines[i] = replace(l, r" (\S)'" => s" \1e ") # on garde le premier groupe de capture (\S)
 		end
-		
+
+		# Suppression des pronoms, déterminants et conjonctions
+		pos_a_supprimer = Set(["PRON", "DET", "CCONJ", "SCONJ", "ADP", "PUNCT"])
+
+		function filtrer_texte(lines, nlp, pos_a_supprimer; batch_size=50)
+			println("  Traitement de $(length(lines)) lignes...")
+			
+			docs = nlp.pipe(lines, batch_size=batch_size)
+			
+			lines_filtrees = Vector{String}(undef, length(lines))
+			
+			for (i, doc) in enumerate(docs)
+				tokens_gardes = [pyconvert(String, tkn.text) 
+								for tkn in doc 
+								if !(pyconvert(String, tkn.pos_) in pos_a_supprimer)]
+				lines_filtrees[i] = join(tokens_gardes, " ")
+				
+				# Progression
+				if i % 500 == 0
+					println("  Progression: $i/$(length(lines))")
+				end
+			end
+			
+			return lines_filtrees
+		end
+
+		# Utilisation avec timing
+		@time lines = filtrer_texte(lines, nlp, pos_a_supprimer, batch_size=100)
+
 		# Occurrence des mots (test)
 		#save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * file_name)
+	
+		# TODO: 
+		# - sauvegarde des fichiers pour utilisation dans analyse.jl
+		# - multithreading pour que spacy soit plus rapide ?
+		# - se mettre d'accord sur comment sauvegarder fichiers
+		# - check pour utiliser retour de filtrage texte spacy pour obtenir l'occurrence des mots (peut être possible)
 	end
 end

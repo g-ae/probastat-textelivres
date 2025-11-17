@@ -7,6 +7,7 @@ __pycache__/
 Thumbs.db
 
 # Ignore virtual environment folders
+.venv/
 venv/
 ENV/
 

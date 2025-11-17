@@ -2,6 +2,40 @@
 
 ## Objectif
 
+## Préparation à l'exécution du code
+Tout le projet a été codé sur un seul fichier Julia pour que ce soit plus simple pour nous et éviter de devoir faire des sauvegardes de textes nettoyés ou pas pour pouvoir les passer entre plusieurs scripts.
+
+Une partie du nettoyage du texte utilise la librairie Python `spacy`. Cette librairie nous permet de supprimer tous les pronoms, déterminants, conjonctions, etc. du texte qui nous sont inutiles pour l'analyse. Pour pouvoir l'utiliser en Julia, nous utilisons le package `PythonCall` qui nous permet d'utiliser des outils Python. Exemple d'utlisation de `math.sin` :
+```julia
+using PythonCall
+math = pyimport("math")
+math.sin(math.pi / 4)   # => 0.70710678...
+```
+Par contre il faut d'abord installer le package spacy. Nous l'avons fait sur l'environnement .venv.
+```bash
+python -m venv .venv
+```
+Puis entrez dans votre environnement virtuel
+```bash
+# Windows
+/path/to/.venv/bin/Activate.ps1
+# Mac/Linux
+source /path/to/.venv/bin/activate
+```
+Ceci vous permet d'installer des librairies Python sans qu'elles soient sauvegardés globalement dans votre ordinateur. \
+Ensuite, installez la librairie `spacy`, ainsi que le grand pack de language français `fr_core_news_lg`. \
+Vous devrez aussi lancer le script `nettoyage.jl` depuis l'environnement virtuel sinon la variable d'environnement `ENV["VIRTUAL_ENV"]` ne sera pas trouvée.
+```bash
+pip install spacy
+# relancez le terminal et revenez dans le .venv, puis:
+spacy download fr_core_news_sm
+```
+Ensuite, il faut ajouter les packages nécessaires en Julia.
+```julia
+julia
+import Pkg; Pkg.add("PythonCall")
+```
+
 ## Etape 1 : Prompt IA, récupération des romans
 Pour créer une liste de romans des mouvements voulus, nous avons fait recours à l'IA pour nous créer un fichier CSV avec les informations dont nous avons besoin pour faire cette analyse. Voici le prompt utilisé avec Claude :
 
@@ -18,17 +52,16 @@ TITRE;AUTEUR;MOUVEMENT;URL;NOM_FICHIER
 
 Ce dernier nous donne un fichier CSV avec la classification du mouvement des livres dont nous avons besoin. 
 
-## Etape 1 : Récupération des textes
+## Etape 1b : Récupération des textes
 
 L'objectif de base serait que Claude/ChatGPT nous donne directement un lien qu'on peut `curl` et obtenir directement le plain text du livre. Comme ils font trop d'erreurs (livres faux, mauvaise langue, etc), nous avons décidé de demander une liste de livres dans les trois mouvements littéraires spécifiques, puis, comme nous sommes un groupe de trois, chacun prend un mouvement et télécharge les fichiers `.epub` ou `.txt` directement si disponible. \
 Les fichiers `.epub` peuvent être passés dans le script Python `epub2txt.py` qui les transforme en `.txt` grâce aux librairies `epub`et `BeautifulSoup`.
 
 
 ## Etape 2 : Nettoyage du texte
-Pour avoir le nettoyage le plus propre possible, nous allons passer sur tous les textes et les nettoyer avec Python.
 
 ```bash
-python3 etape2_nettoyage.py
+julia analyse.jl
 ```
 Ce programme va chercher directement dans le dossier `book_data/` qui est créé par l'étape précédente.
 Nettoyé:
@@ -40,8 +73,7 @@ Nettoyé:
 - Lignes vides
 - [ ] Sauvegarder pour analyse longueur phrases
 - Sur tout le texte, chercher les apostrophes (`'`). Si les deux derniers caractères sont `<espace><char>`, remplacer ces trois derniers par `<char>e<espace>`.
-- Supprimer pronoms (je,tu,etc), déterminants et conjonctions (peut être prépositions mais à voir.) avec `python spaCy`.
-- Regex pour supprimer tout ce qui n'est pas du texte comme les guillements, tiraits, 
+- Supprimer pronoms (je,tu,etc), déterminants, conjonctions et ponctuation (peut être prépositions mais à voir.) avec `spacy` qui est une librairie Python. Nous pouvons utiliser cette librairie en Julia en utilisant PythonCall comme mentionné au-dessus.
 - [ ] Save fichier final txt pour analyse.
 
 ## Etape 3 : Analyse des textes
@@ -58,3 +90,15 @@ Nous avons testé l'occurrence des mots avec la base de données [FEEL](http://a
 
 ## Etape 4 : Affichage des résultats
 Pour afficher des résultats, nous avons utilisé **Julia** avec la librairie **Plots**.
+
+
+# venv python
+
+```bash
+python -m venv .venv
+```
+
+## Linux
+```bash
+source ./.venv/bin/activate
+```
