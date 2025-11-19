@@ -24,7 +24,6 @@ for m in mouvements
 
 	# sauvegardes analyses
 	part1_lines = []
-	part2_lines = []
 
 	for (i, file_name) in enumerate(book_files)
 		println(m * "/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
@@ -50,11 +49,11 @@ for m in mouvements
 			if length(Set(array)) != 1
 				i = findfirst(x -> x == true, array)
 				if i !== nothing
-					lines = lines[length(lines) - i + 1 : length(lines)]
+					lines = lines[length(lines) - i + 2 : length(lines)]
 				end
 			end
 		end
-			
+
 		# Supprimer les lignes jusqu'à la ligne 100 qui contient des chiffres romains
 		roman_pattern = r"^[ivxlcdmIVXLCDM]+[\s\.]"
 		limit = min(100, length(lines))
@@ -78,42 +77,60 @@ for m in mouvements
 
 		# Strip et suppression des lignes vides
 		lines = [strip(l) for l in lines if !isempty(strip(l))]
-		
+
 		# Sauvegarder état
 		part1_lines = [x for x in lines]
 
 		########### Deuxième partie du nettoyage ##############
-		
+
 		# Remplacer guillemets simples
 		for (i, l) in enumerate(lines)
-			if !occursin("'", l)
-				continue
-			end
-			lines[i] = replace(l, r" (\S)'" => s" \1e ") # on garde le premier groupe de capture (\S)
+			l = replace(l, r"\b(\S)[''’]" => s"\1e ") # on garde le premier groupe de capture (\S)
+    		lines[i] = replace(l, r"\bqu'" => "que ")    # qu' → que
+		end
+
+		# Supprimer tous les guillements doubles
+		for (i,l) in enumerate(lines)
+			#l = replace(l, r"[\"\"\"`«»‹›„‟''ʹʺ˝]" => "")
+			l = replace(l, r"[\"\"\"„‟ʺ˝]" => "")
 		end
 
 		# Suppression des pronoms, déterminants et conjonctions
 		pos_a_supprimer = Set(["PRON", "DET", "CCONJ", "SCONJ", "ADP", "PUNCT"])
+		elisions = Set(["l", "d", "s", "c", "j", "m", "t", "n", "qu"])
 
 		function filtrer_texte(lines, nlp, pos_a_supprimer; batch_size=50)
 			println("  Traitement de $(length(lines)) lignes...")
-			
+
 			docs = nlp.pipe(lines, batch_size=batch_size)
-			
+
 			lines_filtrees = Vector{String}(undef, length(lines))
-			
+
 			for (i, doc) in enumerate(docs)
-				tokens_gardes = [pyconvert(String, tkn.text) 
-								for tkn in doc 
-								if !(pyconvert(String, tkn.pos_) in pos_a_supprimer)]
+				tokens_gardes = String[]
+								for tkn in doc
+									pos = pyconvert(String, tkn.pos_)
+									text = pyconvert(String, tkn.text)
+
+									# différents types de guillemets
+									#text_normalise = replace(text, r"[''’]" => "'")
+
+									# Filtrer
+									# Par POS
+									# Élisions (l', d', s', etc.)
+									if !(pos in pos_a_supprimer) &&
+									!(lowercase(text) in elisions)
+										push!(tokens_gardes, text)
+									end
+								end
 				lines_filtrees[i] = join(tokens_gardes, " ")
-				
+
 				# Progression
 				if i % 500 == 0
 					println("  Progression: $i/$(length(lines))")
 				end
 			end
-			
+
 			return lines_filtrees
 		end
 
@@ -122,11 +139,30 @@ for m in mouvements
 
 		# Occurrence des mots (test)
 		#save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * file_name)
-	
-		# TODO: 
-		# - sauvegarde des fichiers pour utilisation dans analyse.jl
-		# - multithreading pour que spacy soit plus rapide ?
-		# - se mettre d'accord sur comment sauvegarder fichiers
-		# - check pour utiliser retour de filtrage texte spacy pour obtenir l'occurrence des mots (peut être possible)
+
+		####### Sauvegarde fichiers #######
+		println(" Sauvegarde des fichiers nettoyés")
+
+		outdir = "book_data/" * m
+
+		# Créer les dossiers s'ils n'existent pas
+        mkpath(outdir * "/clean_p1")
+        mkpath(outdir * "/clean_p2")
+
+        # Sauvegarder partie 1
+		outfile = outdir * "/clean_p1/" * file_name
+		open(outfile, "w") do f
+            for l in part1_lines
+                println(f, l)
+            end
+        end
+
+		# Sauvegarder partie 2
+		outfile = outdir * "/clean_p2/" * file_name
+		open(outfile, "w") do f
+		    for l in lines
+                println(f, l)
+            end
+	    end
 	end
 end
