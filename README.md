@@ -71,10 +71,10 @@ Ce qu'il fait sur chaque fichier :
 - Supprimer toutes les lignes après `À propos de cette édition électronique`
 - Mettre tout le texte en minuscule.
 - Lignes vides
-- [ ] Sauvegarder pour analyse longueur phrases sous `book_data/<mouvement>/clean_p1/<nom>.txt
+- [ ] Sauvegarder pour analyse longueur phrases sous `book_data/\<mouvement\>/clean_p1/\<nom\>.txt
 - Sur tout le texte, chercher les apostrophes (`'`). Si les deux derniers caractères sont `<espace><char>`, remplacer ces trois derniers par `<char>e<espace>`.
 - Supprimer pronoms (je,tu,etc), déterminants, conjonctions et ponctuation (peut être prépositions mais à voir.) avec `spacy` qui est une librairie Python. Nous pouvons utiliser cette librairie en Julia en utilisant PythonCall comme mentionné au-dessus.
-- [ ] Save fichier final sous `book_data/<mouvement>/clean_p2/<nom>.txt pour analyse.
+- [ ] Save fichier final sous `book_data/\<mouvement\>/clean_p2/\<nom\>.txt pour analyse.
 
 ### Etape 3 : Analyse des textes
 L'analyse du texte doit être faite à l'aide du langage de programmation **Julia**.
