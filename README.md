@@ -2,13 +2,8 @@
 
 ## Objectif
 
-## Préparation à l'exécution du code
-Le projet est structuré sur différents fichiers Julia, ici vous trouverez quelques spécifications par rapport aux fichiers.
-
-### Nettoyage du texte (nettoyage.jl)
-
-
 ## Etapes projet
+Le projet est structuré sur différents fichiers Julia, ici vous trouverez toutes les infos par rapport aux étapes.
 
 ### Etape 1 : Prompt IA, récupération des romans
 Pour créer une liste de romans des mouvements voulus, nous avons fait recours à l'IA pour nous créer un fichier CSV avec les informations dont nous avons besoin pour faire cette analyse. Voici le prompt utilisé avec Claude :
