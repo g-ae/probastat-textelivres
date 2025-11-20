@@ -77,15 +77,32 @@ Ce qu'il fait sur chaque fichier :
 - [ ] Save fichier final sous `book_data/\<mouvement\>/clean_p2/\<nom\>.txt pour analyse.
 
 ### Etape 3 : Analyse des textes
-L'analyse du texte doit être faite à l'aide du langage de programmation **Julia**.
+L'analyse des textes est faite dans le fichier `analyse.jl`. Chaque méthode est écrite dans une fonction différente, ceci permet d'être plus flexible dans le cas où on voudrait changer quelque chose dans le futur.
 
-#### Récupérer occurrence des mots
+#### Occurrence des mots
 
 #### Base de données FEEL
-Nous avons testé l'occurrence des mots avec la base de données [FEEL](http://advanse.lirmm.fr/feel.php) pour avoir une idée de ce que représentent les mots utilisés dans le roman.
+Nous avons testé l'occurrence des mots avec la base de données [FEEL](http://advanse.lirmm.fr/feel.php) pour avoir une idée de ce que représentent les mots utilisés dans le roman. \
+Le fichier CSV est structuré ainsi :
+```
+id;word;polarity;joy;fear;sadness;anger;surprise;disgust
+...
+273;compétitif;negative;0;0;0;1;0;0
+274;complètement;positive;0;0;0;0;0;0
+275;comploter;negative;0;1;0;1;0;0
+```
+Nous allons uniquement utiliser les classifications de sentiment. Le chiffre affiché est utilisé comme des points. \
+Exemple : L'analyse d'occurrence des mots a compté le mot `comploter` 132 fois. Vu que ce mot représente les sentiments `fear` et `anger`, on donne le nombre de fois que `comploter` apparaît dans le texte en points à ces sentiments là, donc :
+```julia
+sentiments["fear"] += occurrence["comploter"]
+sentiments["anger"] += occurrence["comploter"]
+```
+
+#### Longueur des phrases
 
 #### Niveau de langage
 
+#### Classification de mots
 
 ## Etape 4 : Affichage des résultats
 Pour afficher des résultats, nous avons utilisé **Julia** avec la librairie **Plots**.
