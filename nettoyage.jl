@@ -1,6 +1,26 @@
 # Configuration de PythonCall pour utilisation du venv python
 ENV["JULIA_CONDAPKG_BACKEND"] = "Null"
-ENV["JULIA_PYTHONCALL_EXE"] = ENV["VIRTUAL_ENV"] * "/bin/python3"
+#ENV["JULIA_PYTHONCALL_EXE"] = ENV["VIRTUAL_ENV"] * "/bin/python3"
+
+venv_path = get(ENV, "VIRTUAL_ENV", "")
+
+if !isempty(venv_path)
+    if Sys.iswindows()
+        pyexe = joinpath(venv_path, "Scripts", "python.exe")
+    else
+        pyexe = joinpath(venv_path, "bin", "python3")
+    end
+
+    if isfile(pyexe)
+        ENV["JULIA_PYTHONCALL_EXE"] = pyexe
+    else
+        @warn "Python executable not found at $pyexe; will try system python"
+        syspy = Sys.which("python")
+        if syspy !== nothing
+            ENV["JULIA_PYTHONCALL_EXE"] = syspy
+        end
+    end
+end
 
 using PythonCall, InteractiveUtils
 
