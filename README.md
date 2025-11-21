@@ -97,6 +97,7 @@ Exemple : L'analyse d'occurrence des mots a compté le mot `comploter` 132 fois.
 sentiments["fear"] += occurrence["comploter"]
 sentiments["anger"] += occurrence["comploter"]
 ```
+Si le mot cherché n'existe pas dans la base de données `FEEL`, on le considère comme un mot neutre, sans émotion.
 
 #### Longueur des phrases
 
