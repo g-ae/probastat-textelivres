@@ -1,4 +1,5 @@
 function occurrence_mots(text::String)
+    # Retourne un dictionnaire avec l'occurrence de chaque mot dans le texte
     res = Dict{String, Int}()
     words = split(text)
 
