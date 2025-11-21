@@ -3,7 +3,7 @@ function occurrence_mots(text::String)
     words = split(text)
 
     for word in words
-        word = strip(word, ['.', ',', '!', '?', ';', '"', '\'', '(', ')', '[', ']', '{', '}'])
+        word = strip(word, ['.', ',', '!', '?', ';', '"', '\'', '(', ')', '[', ']', '{', '}', '-'])
         if haskey(res, word)
             res[word] += 1
         else
@@ -11,7 +11,6 @@ function occurrence_mots(text::String)
         end
     end
 
-    #println(res)
     return res
 end
 
@@ -28,4 +27,47 @@ function save_occurrence_mots(occ_dict::Dict{String, Int}, output_file::String)
     end
 end
 
-#occurrence_mots("Bonjour, bonjour! C'est un test. Un test, c'est tout.")
+function concat_occurrence_dicts(dicts::Vector{Dict{String, Int}})
+    res = Dict{String, Int}()
+
+    for dict in dicts
+        for (word, count) in dict
+            if haskey(res, word)
+                res[word] += count
+            else
+                res[word] = count
+            end
+        end
+    end
+
+    return res
+end
+
+### Test
+const mouvements = ["naturalisme", "romantisme"]
+
+for m in mouvements
+    all_files = readdir(pwd() * "/book_data/" * m * "/clean_p2/")
+    book_files = filter(f -> contains(f, '.'), all_files)
+
+    dicts::Vector{Dict{String, Int}} = []
+
+    for (i, file_name) in enumerate(book_files)
+        println(m * "/clean_p2/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
+
+        # Ouvrir fichier pour récupérer son contenu
+        lines = []
+        open(pwd() * "/book_data/" * m * "/clean_p2/" * file_name) do f
+            lines = readlines(f)
+        end
+
+        if length(lines) == 0
+            continue
+        end
+
+        push!(dicts, occurrence_mots(join(lines, " ")))
+    end
+
+    total_occ = concat_occurrence_dicts(dicts)
+    save_occurrence_mots(total_occ, "occurrences_mots/" * m * "_total.txt")
+end

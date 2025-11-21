@@ -81,11 +81,19 @@ for m in mouvements
         end
 
         # Supprimer les lignes jusqu'à la ligne 100 qui contient des chiffres romains
-        roman_pattern = r"^[ivxlcdmIVXLCDM]+[\s\.]"
-        limit = min(100, length(lines))
-        for i in limit:-1:1
-            if match(roman_pattern, lines[i]) !== nothing
-                deleteat!(lines, i)
+        # Chercher un en-tête numéroté en chiffres romains dans les premières lignes
+        # et supprimer tout le contenu jusqu'à (et y compris) cette ligne.
+        roman_pattern = r"^\s*[ivxlcdmIVXLCDM]+\b\.?"
+        limit = min(20, length(lines))
+        # créer un vecteur de booléens indiquant les correspondances
+        matches = [match(roman_pattern, lines[j]) !== nothing for j in 1:limit]
+        if any(matches)
+            j = findlast(identity, matches)
+            println("Found roman header at line $(j): " * lines[j])
+            # Supprimer tout jusqu'à cette ligne (exclure la ligne elle-même)
+            if j < length(lines)
+                println(lines[1:j])
+                lines = lines[(j+1):end]
             end
         end
 
