@@ -5,6 +5,7 @@ de paris
 paris
 impriméparl’imprimerie nationale
 éditéparla librairie ollendorff
+mdcccciv victor hugo, par devéria.
 fac-similé du titre écrit par victor hugoen tête du manuscrit original de notre-dame de paris.
 table.
 pages
@@ -12,13 +13,56 @@ préface
 note ajoutée à l’édition définitive (1832)
 notre-dame de paris.
 livre premier.
+i.la grand’salle
+ii.pierre gringoire
+iii.monsieur le cardinal
+iv.maître jacques coppenole
+v.quasimodo
+vi.la esmeralda
 livre deuxième.
+i.de charybde en scilla
+ii.la place de grève
+iii.besos para golpes
+iv.les inconvénients de suivre une jolie femme le soir dans les rues
+v.suite des inconvénients
+vi.la cruche cassée
+vii.une nuit de noces
 livre troisième.
+i.notre-dame
+ii.paris à vol d’oiseau
 livre quatrième.
+i.les bonnes âmes
+ii.claude frollo
+iii.immanis pecoris custos, immanior ipse
+iv.le chien et son maître
+v.suite de claude frollo
+vi.impopularitélivre cinquième.
+i.abbas beati martini
+ii.ceci tuera cela
 livre sixième.
+i.coup d’œil impartial sur l’ancienne magistrature
+ii.le trou aux rats
+iii.histoire d’une galette au levain de maïs
+iv.une larme pour une goutte d’eau
+v.fin de l’histoire de la galette
 livre septième.
+i.du danger de confier son secret à une chèvre
+ii.qu’un prêtre et un philosophe sont deux
+iii.les cloches
+iv.ἀνάγκη
+v.les deux hommes vêtus de noir
+vi.effet que peuvent produire sept jurons en plein air
+vii.le moine-bourru
+viii.utilité des fenêtres qui donnent sur la rivière
 livre huitième.
+i.l’écu changé en feuille sèche
+ii.suite de l’écu changé en feuille sèche
+iii.fin de l’écu changé en feuille sèche
+iv.lasciate ogni speranza
+v.la mère
+vi.trois cœurs d’homme faits différemment
 livre neuvième.
+i.fièvre
 ii.bossu, borgne, boiteux
 iii.sourd
 iv.grès et cristal
