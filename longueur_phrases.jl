@@ -51,31 +51,31 @@ function concat_longueur_dicts(dicts::Vector{Dict{Int, Int}})
     return res
 end
 
-### Test
-const mouvements = ["naturalisme", "romantisme"]
-
-for m in mouvements
-    all_files = readdir(pwd() * "/book_data/" * m * "/clean_p1/")
-    book_files = filter(f -> contains(f, '.'), all_files)
-
-    dicts::Vector{Dict{Int, Int}} = []
-
-    for (i, file_name) in enumerate(book_files)
-        println(m * "/clean_p1/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
-
-        # Ouvrir fichier pour récupérer son contenu
-        lines = []
-        open(pwd() * "/book_data/" * m * "/clean_p1/" * file_name) do f
-            lines = readlines(f)
-        end
-
-        if length(lines) == 0
-            continue
-        end
-
-        push!(dicts, longueur_phrases(join(lines, " ")))
-    end
-
-    total_longueur = concat_longueur_dicts(dicts)
-    save_longueur_phrases(total_longueur, "longueurs_phrases/" * m * "_total.txt")
-end
+# ### Test
+# const mouvements = ["naturalisme", "romantisme"]
+#
+# for m in mouvements
+#     all_files = readdir(pwd() * "/book_data/" * m * "/clean_p1/")
+#     book_files = filter(f -> contains(f, '.'), all_files)
+#
+#     dicts::Vector{Dict{Int, Int}} = []
+#
+#     for (i, file_name) in enumerate(book_files)
+#         println(m * "/clean_p1/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
+#
+#         # Ouvrir fichier pour récupérer son contenu
+#         lines = []
+#         open(pwd() * "/book_data/" * m * "/clean_p1/" * file_name) do f
+#             lines = readlines(f)
+#         end
+#
+#         if length(lines) == 0
+#             continue
+#         end
+#
+#         push!(dicts, longueur_phrases(join(lines, " ")))
+#     end
+#
+#     total_longueur = concat_longueur_dicts(dicts)
+#     save_longueur_phrases(total_longueur, "longueurs_phrases/" * m * "_total.txt")
+# end
