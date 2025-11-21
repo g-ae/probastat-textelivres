@@ -51,6 +51,47 @@ function concat_longueur_dicts(dicts::Vector{Dict{Int, Int}})
     return res
 end
 
+function moyenne_longueur(filename::String)
+    total_phrases = 0.0
+    total_mots = 0.0
+
+    open(filename, "r") do f
+        for line in eachline(f)
+            parts = split(line, ":")
+            if length(parts) == 2
+                nbr_mots = parse(Int, strip(parts[1]))
+                nbr_phrases = parse(Int, strip(parts[2]))
+
+                total_phrases += nbr_phrases
+                total_mots += nbr_mots * nbr_phrases
+            end
+        end
+    end
+
+    if total_phrases == 0
+        return 0.0
+    else
+        return total_mots / total_phrases
+    end
+end
+
+using Plots
+
+function plot_moyennes(mouvements::Vector{String})
+    moyennes = Float64[]
+
+    for m in mouvements
+        filename = "longueurs_phrases/" * m * "_total.txt"
+        avg = moyenne_longueur(filename)
+        push!(moyennes, avg)
+    end
+
+    bar(mouvements, moyennes, title="Moyenne de la longueur des phrases par mouvement littéraire", xlabel="Mouvement", ylabel="Longueur moyenne des phrases (en mots)", legend=false)
+    savefig("longueurs_phrases/moyenne_longueurs_phrases.png")
+end
+
+#plot_moyennes(["naturalisme", "romantisme"])
+
 # ### Test
 # const mouvements = ["naturalisme", "romantisme"]
 #
