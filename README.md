@@ -99,6 +99,28 @@ sentiments["anger"] += occurrence["comploter"]
 ```
 Si le mot cherché n'existe pas dans la base de données `FEEL`, on le considère comme un mot neutre, sans émotion.
 
+Cette analyse est présente sur le fichier `analyse_feel.jl`, qui contient la fonction
+```julia
+function analyse_feel(lines_livre)
+end
+```
+Pour l'utiliser, il vous faudra installer les packages `CSV` et `DataFrames` en Julia.
+```bash
+julia
+import Pkg; Pkg.add("CSV")
+```
+Vous pouvez ensuite `include('analyse_feel.jl')`, ce qui vous donnera accès à la fonction `analyse_feel(lines)` dans votre code. Ceci vous retournera un dictionnaire contenant un ratio de chaque sentiment.
+```julia
+# Exemple de retour
+{
+  "joy": 0.23,
+  "fear": 0.11,
+  "sadness": 0.34,
+  "anger": 0.05,
+  "surprise": 0.19,
+  "disgust": 0.08
+}
+```
 #### Longueur des phrases
 
 #### Niveau de langage
