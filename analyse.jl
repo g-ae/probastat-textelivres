@@ -11,6 +11,8 @@ for m in mouvements
     all_files = readdir(clean_p2_path)
     book_files = filter(f -> contains(f, '.'), all_files)
 
+    dicts_occurences_mots::Vector{Dict{String, Int}} = []
+
     for (i, file_name) in enumerate(book_files)
         println(m * "/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
 
@@ -22,5 +24,14 @@ for m in mouvements
 
         # Faire analyse ici
         println(lines)
+
+        # Occurrence des mots
+        push!(dicts_occurences_mots, occurrence_mots(join(lines, " ")))
+
     end
+
+    # Occurrence des mots - total
+    total_occ = concat_occurrence_dicts(dicts_occurences_mots)
+    save_occurrence_mots(total_occ, "occurrences_mots/" * m * "_total.txt")
+
 end
