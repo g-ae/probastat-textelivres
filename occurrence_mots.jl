@@ -15,16 +15,19 @@ function occurrence_mots(text::String)
     return res
 end
 
-function save_occurrence_mots(occ_dict::Dict{String, Int}, output_file::String)
+function save_occurrence_mots(occ_dict::Dict{String, Int}, output_file::String, threshold::Int=0)
     dir = dirname(output_file)
     if !isempty(dir) && dir != "." && !isdir(dir)
         mkpath(dir)
     end
 
+    tmp_dict = occurrences_greater_than(occ_dict, threshold)
+
+    total_mots = sum(values(tmp_dict))
     open(output_file, "w") do f
-        println(f, "mot; occurrence")
-        for (word, count) in occ_dict
-            println(f, "$word; $count")
+        println(f, "mot; occurrence; frequence")
+        for (word, count) in tmp_dict
+            println(f, "$word; $count; $(round(count / total_mots, digits=4))")
         end
     end
 end
@@ -110,9 +113,7 @@ function nb_mots_par_occurrence(occ_dict::Dict{String, Int})
     return res
 end
 
-test = nb_mots_par_occurrence(occurrence_mots("Ceci est un test. Ceci est seulement un test."))
-println(test)
-
+#
 # ### Test
 # const mouvements = ["lumieres", "naturalisme", "romantisme"]
 #
@@ -121,6 +122,7 @@ println(test)
 #     book_files = filter(f -> contains(f, '.'), all_files)
 #
 #     dicts::Vector{Dict{String, Int}} = []
+#     threshold = 0
 #
 #     for (i, file_name) in enumerate(book_files)
 #         println(m * "/clean_p2/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
@@ -135,11 +137,11 @@ println(test)
 #             continue
 #         end
 #
-#         save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * splitext(file_name)[1] * ".csv")
+#         save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/frequence/" * m * "/" * splitext(file_name)[1] * ".csv", threshold)
 #
-#         push!(dicts, occurrence_mots(join(lines, " ")))
+#         push!(dicts, occurrences_greater_than(occurrence_mots(join(lines, " ")), threshold))
 #     end
 #
 #     total_occ = concat_occurrence_dicts(dicts)
-#     save_occurrence_mots(total_occ, "occurrences_mots/" * m * "_total.csv")
+#     save_occurrence_mots(total_occ, "occurrences_mots/frequence/" * m * "_total_" * string(threshold) * ".csv")
 # end
