@@ -22,8 +22,9 @@ function save_occurrence_mots(occ_dict::Dict{String, Int}, output_file::String)
     end
 
     open(output_file, "w") do f
+        println(f, "mot; occurrence")
         for (word, count) in occ_dict
-            println(f, "$word: $count")
+            println(f, "$word; $count")
         end
     end
 end
@@ -113,7 +114,7 @@ test = nb_mots_par_occurrence(occurrence_mots("Ceci est un test. Ceci est seulem
 println(test)
 
 # ### Test
-# const mouvements = ["naturalisme", "romantisme"]
+# const mouvements = ["lumieres", "naturalisme", "romantisme"]
 #
 # for m in mouvements
 #     all_files = readdir(pwd() * "/book_data/" * m * "/clean_p2/")
@@ -134,9 +135,11 @@ println(test)
 #             continue
 #         end
 #
+#         save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * splitext(file_name)[1] * ".csv")
+#
 #         push!(dicts, occurrence_mots(join(lines, " ")))
 #     end
 #
 #     total_occ = concat_occurrence_dicts(dicts)
-#     save_occurrence_mots(total_occ, "occurrences_mots/" * m * "_total.txt")
+#     save_occurrence_mots(total_occ, "occurrences_mots/" * m * "_total.csv")
 # end
