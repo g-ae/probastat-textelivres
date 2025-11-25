@@ -44,6 +44,74 @@ function concat_occurrence_dicts(dicts::Vector{Dict{String, Int}})
     return res
 end
 
+function highest_occurrences(occ_dict::Dict{String, Int}, n::Int)
+    sorted_words = sort(collect(occ_dict), by=x->x[2], rev=true)
+    return sorted_words[1:min(n, length(sorted_words))]
+end
+
+# Threshold is exclusive
+function occurrences_greater_than(occ_dict::Dict{String, Int}, threshold::Int)
+    res = Dict{String, Int}()
+
+    for (word, count) in occ_dict
+        if count > threshold
+            res[word] = count
+        end
+    end
+
+    return res
+end
+
+function nb_unique_words(occ_dict::Dict{String, Int})
+    return length(occ_dict)
+end
+
+function find_min_occurrence(occ_dict::Dict{String, Int})
+    if isempty(occ_dict)
+        return 0
+    end
+
+    min_occ = minimum(values(occ_dict))
+    return min_occ
+end
+
+function find_max_occurrence(occ_dict::Dict{String, Int})
+    if isempty(occ_dict)
+        return 0
+    end
+
+    max_occ = maximum(values(occ_dict))
+    return max_occ
+end
+
+function nb_mots_par_occurrence(occ_dict::Dict{String, Int}, occurrence::Int)
+    total = 0
+
+    for (word, count) in occ_dict
+        if count == occurrence
+            total += 1
+        end
+    end
+
+    return total
+end
+
+function nb_mots_par_occurrence(occ_dict::Dict{String, Int})
+    res = Dict{Int, Int}()
+
+    min_occ = find_min_occurrence(occ_dict)
+    max_occ = find_max_occurrence(occ_dict)
+
+    for occ in min_occ:max_occ
+        res[occ] = nb_mots_par_occurrence(occ_dict, occ)
+    end
+
+    return res
+end
+
+test = nb_mots_par_occurrence(occurrence_mots("Ceci est un test. Ceci est seulement un test."))
+println(test)
+
 # ### Test
 # const mouvements = ["naturalisme", "romantisme"]
 #
