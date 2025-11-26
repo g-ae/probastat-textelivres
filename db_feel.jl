@@ -50,16 +50,7 @@ function analyse_feel(lines_livre)
             end
         end
     end
-    # Calcul du total des scores pour la normalisation
-    total_score = sum(values(sentiments))
-
-    # Normalisation des scores si le total est supérieur à zéro
-    if total_score > 0
-        for (key, value) in sentiments
-            sentiments[key] = value / total_score
-        end
-    end
-
+    
     return sentiments
 end
 
@@ -75,4 +66,18 @@ function save_feel_file(mouvement::String, end_dict::Dict{String, Float64})
             println(f, "$feel;$ratio")
         end
     end
+end
+
+function get_ratio_from_dict(dict::Dict{String, Float64})
+    # Calcul du total des scores pour la normalisation
+    total_score = sum(values(dict))
+
+    # Normalisation des scores si le total est supérieur à zéro
+    if total_score > 0
+        for (key, value) in dict
+            dict[key] = value / total_score
+        end
+    end
+    
+    return dict
 end
