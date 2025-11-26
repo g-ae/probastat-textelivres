@@ -1,5 +1,6 @@
 include("occurrence_mots.jl")
 include("longueur_phrases.jl")
+include("db_feel.jl")
 
 const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
@@ -7,6 +8,7 @@ const mouvements = ["lumieres", "naturalisme", "romantisme"]
 # À voir comment structurer fichier sauvegardé
 
 for m in mouvements
+    println("Analyse mouvment " * m)
     path_to_mouvement = pwd() * "/book_data/" * m
 
     # Analyse des fichiers clean partie 1
@@ -17,7 +19,7 @@ for m in mouvements
     dicts_longueurs_phrases::Vector{Dict{Int, Int}} = []
 
     for (i, file_name) in enumerate(book_files)
-        println(m * "/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
+        println(m * "/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ") -> clean_p1")
 
         # Ouvrir fichier pour récupérer son contenu
         lines = []
@@ -40,9 +42,18 @@ for m in mouvements
     book_files = filter(f -> contains(f, '.'), all_files)
 
     dicts_occurrences_mots::Vector{Dict{String, Int}} = []
+    
+    dict_feel = Dict(
+        "joy" => 0.0,
+        "fear" => 0.0,
+        "sadness" => 0.0,
+        "anger" => 0.0,
+        "surprise" => 0.0,
+        "disgust" => 0.0
+    )
 
     for (i, file_name) in enumerate(book_files)
-        println(m * "/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
+        println(m * "/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ") -> clean_p2")
 
         # Ouvrir fichier pour récupérer son contenu
         lines = []
@@ -50,16 +61,20 @@ for m in mouvements
             lines = readlines(f)
         end
 
-        # Faire analyse ici
-        println(lines)
-
         # Occurrence des mots
         push!(dicts_occurrences_mots, occurrence_mots(join(lines, " ")))
 
+        # Base de données FEEL
+        for (sentiment, value) in analyse_feel(lines)
+            dict_feel[sentiment] += value
+        end
     end
 
     # Occurrence des mots - total
     total_occ = concat_occurrence_dicts(dicts_occurrences_mots)
     save_occurrence_mots(total_occ, "occurrences_mots/" * m * "_total.txt")
 
+    # Sauvegarde db feels par mouvement
+    get_ratio_from_dict(dict_feel)
+    save_feel_file(m, dict_feel)
 end
