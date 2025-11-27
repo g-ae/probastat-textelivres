@@ -1,4 +1,4 @@
-function clean_word(word::String)
+function clean_word(word::AbstractString)
     return strip(word, ['.', ',', '!', '?', ';', '"', '\'', '(', ')', '[', ']', '{', '}', '-'])
 end
 
@@ -116,35 +116,51 @@ function nb_mots_par_occurrence(occ_dict::Dict{String, Int})
     return res
 end
 
+function process_file(file_path::String)
+    lines = []
+    open(file_path) do f
+        lines = readlines(f)
+    end
 
-# ### Test
-# const mouvements = ["lumieres", "naturalisme", "romantisme"]
-#
-# for m in mouvements
-#     all_files = readdir(pwd() * "/book_data/" * m * "/clean_p2/")
-#     book_files = filter(f -> contains(f, '.'), all_files)
-#
-#     dicts::Vector{Dict{String, Int}} = []
-#     threshold = 0
-#
-#     for (i, file_name) in enumerate(book_files)
-#         println(m * "/clean_p2/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
-#
-#         # Ouvrir fichier pour récupérer son contenu
-#         lines = []
-#         open(pwd() * "/book_data/" * m * "/clean_p2/" * file_name) do f
-#             lines = readlines(f)
-#         end
-#
-#         if length(lines) == 0
-#             continue
-#         end
-#
-#         save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/frequence/" * m * "/" * splitext(file_name)[1] * ".csv", threshold)
-#
-#         push!(dicts, occurrences_greater_than(occurrence_mots(join(lines, " ")), threshold))
-#     end
-#
-#     total_occ = concat_occurrence_dicts(dicts)
-#     save_occurrence_mots(total_occ, "occurrences_mots/frequence/" * m * "_total_" * string(threshold) * ".csv")
-# end
+    if isempty(lines)
+        return nothing
+    end
+
+    return occurrence_mots(join(lines, " "))
+end
+
+function process_mouvement(mouvement::String, threshold::Int=0)
+    base_path = pwd() * "/book_data/" * mouvement * "/clean_p2/"
+    all_files = readdir(base_path)
+    book_files = filter(f -> contains(f, '.'), all_files)
+
+    dicts::Vector{Dict{String, Int}} = []
+
+    for (i, file_name) in enumerate(book_files)
+        full_path = base_path * file_name
+        println("$mouvement: $file_name ($i/$(length(book_files)))")
+
+        occ_dict = process_file(full_path)
+
+        if occ_dict === nothing
+            println("   -> skipped (empty file)")
+            continue
+        end
+
+        out_path = "occurrences_mots/frequence/" * mouvement * "/" * splitext(file_name)[1] * ".csv"
+        save_occurrence_mots(occ_dict, out_path, threshold)
+
+        push!(dicts, occurrences_greater_than(occ_dict, threshold))
+    end
+
+    total_occ = concat_occurrence_dicts(dicts)
+    save_occurrence_mots(total_occ, "occurrences_mots/frequence/" * mouvement * "_total_" * string(threshold) * ".csv")
+end
+
+
+### Test process
+const mouvements = ["lumieres", "naturalisme", "romantisme"]
+const threshold = 5
+for m in mouvements
+    process_mouvement(m, threshold)
+end
