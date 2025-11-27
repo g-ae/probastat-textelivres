@@ -1,10 +1,15 @@
+function clean_word(word::String)
+    return strip(word, ['.', ',', '!', '?', ';', '"', '\'', '(', ')', '[', ']', '{', '}', '-'])
+end
+
 function occurrence_mots(text::String)
     # Retourne un dictionnaire avec l'occurrence de chaque mot dans le texte
+    # mot => occurrence
     res = Dict{String, Int}()
     words = split(text)
 
-    for word in words
-        word = strip(word, ['.', ',', '!', '?', ';', '"', '\'', '(', ')', '[', ']', '{', '}', '-'])
+    for w in words
+        word = clean_word(w)
         if haskey(res, word)
             res[word] += 1
         else
@@ -21,13 +26,13 @@ function save_occurrence_mots(occ_dict::Dict{String, Int}, output_file::String, 
         mkpath(dir)
     end
 
-    tmp_dict = occurrences_greater_than(occ_dict, threshold)
+    filtered = occurrences_greater_than(occ_dict, threshold)
+    total_mots = sum(values(filtered))
 
-    total_mots = sum(values(tmp_dict))
     open(output_file, "w") do f
-        println(f, "mot; occurrence; frequence")
-        for (word, count) in tmp_dict
-            println(f, "$word; $count; $(round(count / total_mots, digits=4))")
+        println(f, "mot;occurrence;frequence")
+        for (word, count) in filtered
+            println(f, "$word;$count;$(round(count / total_mots, digits=4))")
         end
     end
 end
@@ -75,8 +80,7 @@ function find_min_occurrence(occ_dict::Dict{String, Int})
         return 0
     end
 
-    min_occ = minimum(values(occ_dict))
-    return min_occ
+    return minimum(values(occ_dict))
 end
 
 function find_max_occurrence(occ_dict::Dict{String, Int})
@@ -84,11 +88,10 @@ function find_max_occurrence(occ_dict::Dict{String, Int})
         return 0
     end
 
-    max_occ = maximum(values(occ_dict))
-    return max_occ
+    return maximum(values(occ_dict))
 end
 
-function nb_mots_par_occurrence(occ_dict::Dict{String, Int}, occurrence::Int)
+function nb_mots_pour_occurrence(occ_dict::Dict{String, Int}, occurrence::Int)
     total = 0
 
     for (word, count) in occ_dict
@@ -113,7 +116,7 @@ function nb_mots_par_occurrence(occ_dict::Dict{String, Int})
     return res
 end
 
-#
+
 # ### Test
 # const mouvements = ["lumieres", "naturalisme", "romantisme"]
 #
