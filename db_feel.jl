@@ -74,3 +74,46 @@ function get_ratio_from_dict(dict::Dict{String, Float64})
     
     return dict
 end
+
+function get_mouvement_probabilities_delta0(lines_livre)
+    # Fait l'analyse de DB FEEL sur les lignes données, puis calcule les probabilités que ce livre apartienne à chaque mouvement à partir de cette analyse.
+    
+    # Faire analyse DB FEEL sur lignes données
+    analyse_livre = get_ratio_from_dict(analyse_feel(lines_livre))
+    
+    # Prendre chaque sentiment de chaque mouvement, comparer
+    mouvements_files = readdir("db_feel/")
+    mouvements_ratios = Dict{String,Float64}()
+    for file_name in mouvements_files
+        mouvement = split(file_name, ".")[1]
+        
+        mouvements_ratios[mouvement] = 0.0
+        global file_lines = []
+        
+        open("db_feel/" * file_name) do f
+            file_lines = readlines(f)
+        end
+        
+        for l in file_lines
+            if startswith(l, "feel") || isempty(l)
+                continue
+            end
+            
+            all = split(l, ";")
+            delta = abs(analyse_livre[all[1]] - parse(Float64, all[2]))
+            println(mouvement, " ", all[1], " ", delta)
+            mouvements_ratios[mouvement] += delta
+        end
+    end
+    
+    total = sum(values(mouvements_ratios))
+    for (key, value) in mouvements_ratios
+        mouvements_ratios[key] = value / total
+    end
+    return mouvements_ratios
+    
+end
+
+# open("book_data/naturalisme/thereseraquin_zola.txt") do f
+#     println(get_mouvement_probabilities_delta0(readlines(f)))
+# end
