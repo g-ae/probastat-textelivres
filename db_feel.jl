@@ -5,13 +5,6 @@ include("occurrence_mots.jl")
 path = pwd() * "/FEEL.csv"
 csv_data = DataFrame(CSV.File(path, delim=';'))
 
-using CSV, DataFrames
-
-include("occurrence_mots.jl")
-
-path = pwd() * "/FEEL.csv"
-csv_data = DataFrame(CSV.File(path, delim=';'))
-
 # Optimisation: Prétraiter les données CSV dans un dictionnaire pour un accès rapide
 const feel_lexicon = Dict(
     row.word => (
