@@ -137,23 +137,23 @@ for m in mouvements
             println("  Traitement de $(length(lines)) lignes...")
 
             docs = nlp.pipe(lines, batch_size=batch_size)
-
             lines_filtrees = Vector{String}(undef, length(lines))
-
+        
             for (i, doc) in enumerate(docs)
                 tokens_gardes = String[]
                 for tkn in doc
+                    # Extraction du lemme et de la POS
+                    # .lemma_ pour avoir la racine (ex: "mangeait" -> "manger")
+                    lemme = pyconvert(String, tkn.lemma_)
                     pos = pyconvert(String, tkn.pos_)
-                    text = pyconvert(String, tkn.text)
-
-                    # différents types de guillemets
-                    #text_normalise = replace(text, r"[''’]" => "'")
-
-                    # Filtrer
-                    # Par POS
-                    # Élisions (l', d', s', etc.)
-                    if !(pos in pos_a_supprimer)
-                        push!(tokens_gardes, text)
+                    
+                    # Vérifier si c'est un stop-word (optionnel mais recommandé)
+                    is_stop = pyconvert(Bool, tkn.is_stop)
+        
+                    # On retire les POS inutiles ET les stop-words, 
+                    # ET on s'assure que le mot n'est pas une scorie de ponctuation
+                    if !(pos in pos_a_supprimer) && !is_stop && length(lemme) > 1
+                        push!(tokens_gardes, lemme)
                     end
                 end
                 lines_filtrees[i] = join(tokens_gardes, " ")

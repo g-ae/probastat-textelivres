@@ -1,20 +1,20 @@
-oeuvres
+oeuvre
 
-voltaire
+voltair
 tome xxxiii
-  imprimerie firmin didot
-rue jacob n° 24
-oeuvres
+imprimerie firmin didot
+rue jacob numéro 24
+oeuvre
 
-voltaire
-préfaces avertissements notes etc.
+voltair
+préface avertissement note etc.
 m. beuchot
 tome xxxiii
-romans tome i.
-a paris
+roman tom i.
+pari
 lefèvre libraire
-rue éperon k ° 6 werdet lequien fils
-rue battoir n° 2o
+rue éperon degré werdet lequien fil
+rue battoir numéro 2o
 mdcccxxix
 candide
 
@@ -24,6 +24,6 @@ candide
 optimisme
 traduit allemand
 m. docteur ralph
-additions
-a trouvées poche docteur lorsqu’ mourut
+addition
+trouver poche docteur lorsqu’ mourir
 minden an grâce 1759
