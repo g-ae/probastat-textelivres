@@ -34,7 +34,6 @@ spacy = pyimport("spacy")
 println("Chargement du modèle de language")
 nlp = spacy.load("fr_core_news_sm", disable=["ner", "parser"])
 
-include("occurrence_mots.jl")
 
 const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
@@ -173,8 +172,6 @@ for m in mouvements
         # Tout le texte en minuscule
         lines = lowercase.(lines)
 
-        # Occurrence des mots (test)
-        #save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * file_name)
 
         ####### Sauvegarde fichiers #######
         println(" Sauvegarde des fichiers nettoyés")
