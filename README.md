@@ -69,11 +69,11 @@ Ce qu'il fait sur chaque fichier :
 - Supprimer toutes les lignes jusqu'à `MediaWiki`
 - Supprimer toutes les lignes jusqu'à la ligne 100 contenant des chiffres romains (I,V,X en majuscule et séparé avec des espaces des autres mots ou "IV.").
 - Supprimer toutes les lignes après `À propos de cette édition électronique`
-- Mettre tout le texte en minuscule.
 - Lignes vides
 - [ ] Sauvegarder pour analyse longueur phrases sous `book_data/\<mouvement\>/clean_p1/\<nom\>.txt
 - Sur tout le texte, chercher les apostrophes (`'`). Si les deux derniers caractères sont `<espace><char>`, remplacer ces trois derniers par `<char>e<espace>`.
-- Supprimer pronoms (je,tu,etc), déterminants, conjonctions et ponctuation (peut être prépositions mais à voir.) avec `spacy` qui est une librairie Python. Nous pouvons utiliser cette librairie en Julia en utilisant PythonCall comme mentionné au-dessus.
+- Supprimer pronoms (je,tu,etc), déterminants, conjonctions, noms propres et ponctuation (peut être prépositions mais à voir.) avec `spacy` qui est une librairie Python. Nous pouvons utiliser cette librairie en Julia en utilisant PythonCall comme mentionné au-dessus.
+- Mettre tout le texte en minuscule.
 - [ ] Save fichier final sous `book_data/\<mouvement\>/clean_p2/\<nom\>.txt pour analyse.
 
 ### Etape 3 : Analyse des textes
