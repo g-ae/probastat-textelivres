@@ -1,7 +1,7 @@
 function longueur_phrases(text::String)
     # Renvoie un dictionnaire "nbr de mots dans la phrase" => "nbr de phrases"
     res = Dict{Int, Int}()
-    phrases = split(text, r"[.!?]+")
+    phrases = split(text, r"[.!?;]+")
 
     for phrase in phrases
         phrase = strip(phrase)
@@ -238,6 +238,77 @@ function plot_boxplot(mouvements::Vector{String})
     savefig("longueurs_phrases/boxplot_longueurs_phrases.png")
 end
 
+using HypothesisTests
+using Statistics
+
+# Fonction pour récupérer les données brutes
+function charger_longueurs_brutes(mvt::String)
+    filename = "longueurs_phrases/" * mvt * "_total.txt"
+    longueurs = Int[]
+
+    if !isfile(filename)
+        println("Attention : fichier $filename introuvable.")
+        return longueurs
+    end
+
+    open(filename, "r") do f
+        for line in eachline(f)
+            parts = split(line, ":")
+            if length(parts) == 2
+                nbr_mots = parse(Int, strip(parts[1]))
+                nbr_phrases = parse(Int, strip(parts[2]))
+
+                # On "décompresse" les données : si on a "10 mots: 3 phrases",
+                # on ajoute [10, 10, 10] à la liste.
+                for _ in 1:nbr_phrases
+                    push!(longueurs, nbr_mots)
+                end
+            end
+        end
+    end
+    return longueurs
+end
+
+# ANOVA
+function effectuer_test_anova(mouvements::Vector{String})
+    println("\n=== TEST STATISTIQUE (ANOVA) ===")
+
+    # Charger les données pour chaque mouvement
+    groupes = []
+    for m in mouvements
+        data = charger_longueurs_brutes(m)
+        push!(groupes, data)
+        println("  Mouvement $m : $(length(data)) phrases analysées.")
+    end
+
+    if any(isempty.(groupes))
+        println("Erreur : Un des groupes est vide. Impossible de faire le test.")
+        return
+    end
+
+    # ANOVA
+    test = OneWayANOVATest(groupes...) # L'opérateur '...' permet de passer le tableau comme arguments séparés
+
+    # Affichage et interprétation
+    println("\nRésultat brut du test :")
+    println(test)
+
+    valeur_p = pvalue(test)
+    println("\nP-value : $valeur_p")
+
+    println("\n--- INTERPRÉTATION ---")
+    if valeur_p < 0.05
+        println("RÉSULTAT SIGNIFICATIF (p < 0.05)")
+        println("Il y a une différence statistiquement avérée entre la longueur")
+        println("des phrases de ces mouvements littéraires.")
+        println("La probabilité que cette différence soit due au hasard est quasi nulle.")
+    else
+        println("RÉSULTAT NON SIGNIFICATIF")
+        println("On ne peut pas affirmer que les mouvements sont différents.")
+    end
+    println("================================\n")
+end
+
 const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
 # ### Test
@@ -286,4 +357,8 @@ const mouvements = ["lumieres", "naturalisme", "romantisme"]
 #plot_moyennes(mouvements)
 #plot_mediane(mouvements)
 #plot_distribution(mouvements)
-plot_boxplot(mouvements)
+#plot_boxplot(mouvements)
+
+### Test statistique
+println("Lancement de l'analyse statistique...")
+effectuer_test_anova(mouvements)
