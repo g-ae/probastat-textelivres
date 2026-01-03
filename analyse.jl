@@ -72,7 +72,7 @@ for m in mouvements
 
     # Occurrence des mots - total
     total_occ = concat_occurrence_dicts(dicts_occurrences_mots)
-    save_occurrence_mots(total_occ, "occurrences_mots/" * m * "_total.txt")
+    save_occurrence_mots(total_occ, "occurrences_mots/" * m * "_total.csv")
 
     # Sauvegarde db feels par mouvement
     get_ratio_from_dict(dict_feel)
