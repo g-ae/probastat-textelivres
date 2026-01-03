@@ -107,7 +107,7 @@ for m in mouvements
         end
 
         # Tout le texte en minuscule
-        lines = lowercase.(lines)
+        #lines = lowercase.(lines)
 
         # Strip et suppression des lignes vides
         lines = [strip(l) for l in lines if !isempty(strip(l))]
@@ -130,7 +130,7 @@ for m in mouvements
         end
 
         # Suppression des pronoms, déterminants et conjonctions
-        pos_a_supprimer = Set(["PRON", "DET", "CCONJ", "SCONJ", "ADP", "PUNCT"])
+        pos_a_supprimer = Set(["PRON", "DET", "CCONJ", "SCONJ", "ADP", "PUNCT", "PROPN", "NUM"])
         elisions = Set(["l", "d", "s", "c", "j", "m", "t", "n", "qu"])
 
         function filtrer_texte(lines, nlp, pos_a_supprimer; batch_size=50)
@@ -169,6 +169,9 @@ for m in mouvements
 
         # Utilisation avec timing
         @time lines = filtrer_texte(lines, nlp, pos_a_supprimer, batch_size=100)
+
+        # Tout le texte en minuscule
+        lines = lowercase.(lines)
 
         # Occurrence des mots (test)
         #save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * file_name)
