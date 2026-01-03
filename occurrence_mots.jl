@@ -278,17 +278,17 @@ using Measures
 
 ### Test process
 const mouvements = ["lumieres", "naturalisme", "romantisme"]
-# const threshold = 5
-# all_occ_dicts::Vector{Dict{String, Int64}} = []
-# for m in mouvements
-#     occ_mvt = process_mouvement(m, threshold)
-#     push!(all_occ_dicts, occ_mvt)
-#     #plot_word_stats(occ_mvt, m; top_n=10)
-# end
-# plot_total_and_unique_separately(all_occ_dicts, mouvements)
-# for (i, m) in enumerate(mouvements)
-#     plot_stats_for_movement(all_occ_dicts[i], m; top_n=10)
-# end
+const threshold = 5
+all_occ_dicts::Vector{Dict{String, Int64}} = []
+for m in mouvements
+    occ_mvt = process_mouvement(m, threshold)
+    push!(all_occ_dicts, occ_mvt)
+    #plot_word_stats(occ_mvt, m; top_n=10)
+end
+plot_total_and_unique_separately(all_occ_dicts, mouvements)
+for (i, m) in enumerate(mouvements)
+    plot_stats_for_movement(all_occ_dicts[i], m; top_n=10)
+end
 
 
 # Analyse de Spécificité (TF-IDF simplifié)
@@ -309,7 +309,9 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
     total_mots_global = 0
 
     for m in mouvements
-        path = "occurrences_mots/" * m * "_total.csv"
+        path = [
+            "occurrences_mots/" * m * "_total.csv"
+        ]
 
         filename = ""
         for p in path

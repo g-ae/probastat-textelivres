@@ -1,139 +1,139 @@
 table matière
 partie ouvrage original
 chapitre
-chapitre ii
-chapitre iii
+chapitre
+chapitre
 chapitre iv
 chapitre
-chapitrer vi
+chapitre
 chapitre
 chapitre viii
+chapitre ix
 chapitre
-chapitrer
-chapitre xi
+chapitre
 chapitre xii
-chapitre
+chapitre xiii
 chapitre xiv
+chapitre xv
+chapitre xvi
 chapitre
-chapitrer xvi
-chapitre xvii
-chapitre xviii
 chapitre
-chapitrer
-chapitrer xxi
 chapitre
-chapitre xxiii
-chapitre xxiv
 chapitre
-chapitrer xxvi
-chapitrer xxvii
-chapitre xxviii
+
+chapitre
+chapitre
+chapitre
+chapitre xxv
+chapitre
+chapitre
+chapitre
 chapitre xxix
+chapitre xxx
+
 chapitre
-chapitre xxxi
-chapitre xxxii
-chapitre xxxiii
-xxxiv
-chapitre xxxv
-chapitrer xxxvi
-chapitrer xxxvii
-chapitre xxxviii
-chapitre xxxix
+chapitre
+
+
+chapitre
+chapitre
+chapitre
+
 chapitre xl
-chapitrer
-chapitre xlii
-chapitre xliii
-chapitre xliv
+chapitre
+xlii
+chapitre
+
 chapitre xlv
-chapitre xlvi
-chapitre xlvii
-chapitrer xlviii
+chapitre
+chapitre
+chapitre
 chapitre xlix
-chapitrer
-chapitrer li
-chapitrer
+chapitre
+
+lii
 chapitre liii
-chapitrer liv
-chapitrer
-chapitrer
-chapitrer lvii
-chapitre lviii
-chapitrer lix
-chapitrer
-chapitrer lxi
-chapitre lxii
+
+
 chapitre
-chapitrer lxiv
-chapitrer lxv
-chapitrer lxvi
-chapitre lxvii
-chapitre lxviii
-chapitrer lxix
-chapitrer lxx
-chapitre lxxi
-chapitrer lxxii
-chapitre lxxiii
-chapitrer lxxiv
-chapitre lxxv
-chapitrer lxxvi
-chapitrer lxxvii
-chapitrer lxxviii
-chapitre lxxix
-chapitrer lxxx
-chapitrer lxxxi
-chapitre lxxxii
-chapitre lxxxiii
-chapitrer lxxxiv
-chapitre lxxxv
-chapitrer lxxxvi
-chapitrer lxxxvii
-chapitrer
-chapitre lxxxix
-chapitre xc
-chapitrer xci
+chapitre lvii
+chapitre
+
+chapitre
+
+
+chapitre lxiii
+
+
+
+chapitre
+chapitre
+
+chapitre
+
+
+chapitre
+
+chapitre
+
+chapitre
+chapitre
+
+
+
+
+chapitre
+
+
+
+
+chapitre
+
+chapitre
+chapitre
 chapitre xcii
-chapitre xciii
-chapitre xciv
-chapitre xcv
-chapitrer xcvi
-chapitre xcvii
-chapitre xcviii
-chapitrer xcix
 chapitre
-chapitrer
-chapitrer cii
+chapitre
+chapitre
+
+chapitre
+chapitre
+chapitre
+chapitre
+
+
 chapitre ciii
-chapitrer
-chapitrer
-chapitrer cvi
-chapitre cvii
 chapitre
-chapitrer
-chapitrer
-edmond jule goncourt
+chapitre
+
+
+chapitre cviii
+
+cx
+jules
 monsieur
-gervaisai
-pari
-librairie international
-15 boulevard montmartr 15
-lacroi verboeckhoven éditeur
-bruxelle leipzig livourn
-1869
-droit traduction reproduction réserver
+gervaiser
+
+
+boulevard
+a. lacroix
+
+
+droit traduction reproduction
 
 scudi
-oui signora
+signora
 monnaie
-france cent franc
+cent franc
 cent franc fit romaine
 montrer appartement étranger
 paraître chercher compter tête
-oui oui cent franc
+oui cent franc
 signora bien
 jeter châl brusquement
 lit défaire mettre marcher chambre chambre vive ondulation
 taille parler volubilité padrona
-chambre meubler voir -vou
+chambre meubler
 parti matin famille
 anglaise malpropre jeter
 eau partout désordre
@@ -143,12 +143,12 @@ ranger
 arrêter fenêtre enfant
 main tenir
 robe montrer voir
-place espagne escalier
+place escalier
 trinité-du-mont demander
-pierre-charle veux rester ici
+veux rester ici
 enfant répondre leva
 mère oeil grand bonheur
-che bellezza fit loueur
+bellezza fit loueur
 cri admiration romain
 beau
 mot étranger regarder minute
@@ -165,7 +165,7 @@ petit antichambre cuisine
 côté palier chambre
 domestique pièce
 suivre
-oui signora retirer
+signora retirer
 petit chambre fond
 besoin
 mère
@@ -178,30 +178,30 @@ comprendre sembler
 deviner intelligence méridional
 oeil
 bien convenir arrêter appartement
-signora cher année étranger rome
-dire maison tranquille
+signora cher année étranger
+-moi maison tranquille
 bruit
 heure entrer maison
-lire allée maestro musica
+allée
 oh ici avoir
 libraire chalcographie
 père haut magasin
 recevoir
 jamais
 souffrer
-besoin calme beaucoup
-calme
+besoin beaucoup
+
 monsieur souffrant
 lentement padrona venir
 glisser peur populaire loueur
-rome contagion maladie
-poitrine rencontrer chateaubriand
+contagion maladie
+poitrine rencontrer
 lorsqu’ chercher dernier logis
-monsieur beaumont
+monsieur
 essayer tourner tête phras
 faire expliquer étranger mal
 prendre haut bref
-tenez mademoisell finisson cent franc
+mademoisell finisson cent franc
 mois
 poser argent table
 voir trouver bien
@@ -213,7 +213,7 @@ nom falloir donner reçu
 étranger tendit carte
 
 monsieur gervaisai
-italien pencha appliquer copier
+italien pencher appliquer copier
 nom relever tête
 apercevoir enfant retourner
 main ganter mère embrasser
@@ -230,12 +230,12 @@ fasse déjeuner
 non compte prendre
 jour domestique ici faire
 cuisine demain madame vien
-pierre-charle
+
 adresser femme chambre
 rencogner fond pièce
-cœur gros tristesse prêt
-éclater bourguignonne dépayser
-honorine revenir
+gros tristesse prêt
+éclater dépayser
+revenir
 fille
 porte
 oublier monsieur faire italien
@@ -249,16 +249,16 @@ baioque
 paire petit profit
 server
 bien serva baioque
-monsieur gervaisai pouvoir empêcher
+monsieur pouvoir empêcher
 sourire bon marché
-rome joie pauvre
+joie pauvre
 ii
 table hôtel minerve
 pleine soir -là place place
-touriste consciencieux lire guid
+touriste consciencieux lire
 assiette soupe vide
 non soupe gras
-enfant monsieur gervaisai
+enfant monsieur
 garçon apporter potage maigre
 table servir maigre
 savoir asseoir
@@ -273,28 +273,28 @@ imitation peindre mosaïque manger
 monde mélanger visiteur ville
 éternelle hôte partout catholique
 laïc redingote clérical
-prêtre sorte costume
+prêtre sorte
 échantillon peuple aristocratie
 église évêque calotte violette
 beaucoup curé pays gros vin
 gros accent maigre abbé compagnie
 escorter vieux dame pèlerinage
 curiosité pieux commerçant
-enrichir payer femme
+payer femme
 voyage distingué épai industriel
-estropier nom saint
+estropier nom
 fille reprendre haut
 leçon éducation
 couvent commis voyageur expliquer
 savamment voisin
 vin pays tempérer sujet
-graisser état romain
+graisser état
 fond passant cosmopolite
 anonyme impersonnel vague
 vie hôtel coudoiement repas rapproche communier vulgarité
 monde bout table
 détacher observer haut convive
-chevalier ordre noble enveloppé
+chevalier noble enveloppé
 robe habiller vieillesse religieux
 grâce correct blanc parler
 geste homme monde
@@ -309,7 +309,7 @@ bêtise français table hôte
 prendre comparaison mesure
 idée préjugé
 produit français vouloir partout étranger
-retrouver france admettre
+retrouver admettre
 droit peuple
 peuple parole
 professorale grossière ignorance critiquaient
@@ -323,8 +323,8 @@ triste idée gouvernement
 homme chauve visage considérable accuser
 édilité endroit
 faire balayer matin prison
-saint-pierre
-monsieur gervaisai être content penser
+
+monsieur être content penser
 dernier dîner minerve
 bruit niais entourait
 ennuyait blesser presque éprouver
@@ -342,7 +342,7 @@ grand ville monde peuple
 spirituel terre
 prend orange
 finit enfant
-dessert bout patience choquer
+bout patience choquer
 tenue voisin ecclésiastique
 benedicite ragaillardir dîner
 coude avancer tapoter
@@ -368,17 +368,17 @@ donner malade crainte ombre menace nuit prendre fils
 genou mettre bercer presser
 sein sommeil
 enfant murmurer berceuse
-schumann bouche tête voix
+bouche tête voix
 cheveu
 coucher femme chambre
 monsieur prendre
 potion m.andral recommander
 prendre soir
-dieu honorine vouloir
+vouloir
 donner empêcher
-peut-être sentir puce minerve
+peut-être sentir puce
 iii
-lendemain monsieur gervaisai entrer
+lendemain monsieur entrer
 appartement louer
 enfant marche
 monter petit escalier marbre
@@ -393,16 +393,16 @@ arranger sentir intérieur
 aller retrouver long temps
 propriété douceur
 appartement banal appartement
-garni rome louer forestier
+garni louer forestier
 voir pourtant caractère
 mobilier grand
-pièce angle rue dell carrozze
-place espagne plafond peindre
+pièce angle rue dell
+place plafond peindre
 blanc diviser compartiment
 filet bleu rouge encadrer
 légère arabesque balancer
 panier fleur bout fil ornement
-camaïeu gris entrelacer
+camaïeu entrelacer
 fond bleu papier local parquet
 disparaître bande
 tapis turc rouge jaune noir blanc
@@ -412,46 +412,46 @@ petit canapé bois noyer raideur
 antique renverser
 mur petit bâton courbe
 bois noir étroit dossier apercevoir
-milieu rond muse
+milieu rond
 lyre pareille mauvais
 médaille marqueterie chaise
 style cercle autour
 guéridon soutenir pied tragique
 console jaune porter
-gaîne hermès tête femme
+gaîne tête femme
 métal doré
-côté rue dell carrozze
+côté rue dell
 cheminée marbre blanc
 étroit chambranle supporter glace
-levait pied griffon doré
+levait pied doré
 compartiment triple cadre
 bois rose surmonter petit entablement
 balustre cuivre glace
 pays air vantail arracher
 cabinet
-face piano monsieur gervaisai
+face piano monsieur
 envoyer placer veille grand tableau chronologie
-pape broder noir canevas
+broder noir canevas
 encadrement clé
 tiare pieux ouvrage patience
 fille maison accompagner
 accrocher travers paysage
-claude lorrain signer graveur parboni
+signer graveur
 chambre cheminée
 console guéridon
 poser pressé mêler sorte
 menu objet réduction obélisque
 échantillon marbre
 coupe albâtre colonnette porter
-figurine bronze lion canover
+figurine bronze lion
 terre cuit dunkerque étrusque
 tas petit morceau grand
 chose amasser vieux fille
 commode joujou
-relique lare bourgeoisie
+relique lare
 romain
 être pièce monsieur
-gervaisai mettre bientôt aller siége
+mettre bientôt aller siége
 tomber asseoir
 lassitude voyage demeurer pencher femme chambre
 donner ordre déplacer déranger
@@ -472,13 +472,13 @@ femme choisir habiter
 faire place adoption heureusement
 tranquillement compagnie
 lire écrir rêver
-creux petit coussin
+petit coussin
 canaper ramasser autour
 soutenir honorine apporter
 table placer
-buvard livre corbeille osier
+livre corbeille osier
 tresser blanc accrocher au-dessus tête envoyer chercher
-fleur remplir lit
+fleur remplir
 fils avoir être placer chambre
 voisin être oeil
 cœur voir dormir
@@ -493,7 +493,7 @@ heureux logis paraître
 doiv souffrir
 iv
 sommeil matin monsieur
-gervaisai sentit visage lumière
+sentit visage lumière
 chaleur
 doux éblouissemer chatouiller
 nuit paupière fermer
@@ -502,11 +502,11 @@ rayon glisser persienne mal
 fermé frapper plein oreiller
 sortir lit heureux réveil
 plaisir vivre
-maussade matin pari habituer
+maussade matin habituent
 existence parisien jeter
 peignoir épaule ouvrir fenêtre
 grand mettre contempler
-ciel beau jour rome ciel
+ciel beau jour ciel
 bleu croire voir promesse
 éternel beau temp ciel bleu bleu
 léger doux laiteux donne gouache
@@ -517,7 +517,7 @@ monter azur éther
 ciel clarté cristallin ciel
 regarder eau limpidité infini
 flotter mer midi ciel
-voisinage méditerranée
+voisinage
 cause inconnu
 félicité ciel garder journée
 jeunesse fraîcheur éveil
@@ -527,11 +527,11 @@ fenêtre joue
 main aspirer bleu haut corps
 battu voltigement rideau porte
 ouvrir
-dort demander
-honorine
+demander
+
 non monsieur monsieur vouloir
 venir
-honorine sourire menant
+sourire menant
 maîtresse chambre faire
 pencher petit fenêtre
 fenêtre cour
@@ -542,9 +542,9 @@ couleur féerie fruit ressembler
 fruit eau mettre
 poussière liquide diamant
 saphir travers lueur feu
-bengal renvoyer muraille
+bengale renvoyer muraille
 peinte italien cruement bleu
-midi glisser jouer luire
+joie midi glisser jouer luire
 feuille brillant fleur bourdonner
 silence chaleur vol mouche tour tour blanc
 vert noir blanc embrouiller
@@ -556,17 +556,17 @@ petit citronnier grand pot
 terre rouge boule neige montant
 morceau treille roseau
 accrocher fiascone vide
-vin orviete côté brosse soulier
-jardin bout
+vin côté brosse soulier
+bout
 filet source clair égoutter
 haut niche rocheux
 fragment cassé tombeau antique
-pierre-charle trouver être
+trouver être
 naturellement eau niche
 monter morceau marbre strie
 dégradée chemise nuit plaquer
 endroit mouiller rondeur
-petit corps bras nu jusqu’ épaule
+petit corps bras nu épaule
 pied chausser haute bottine
 bouton mettre tête
 appuyé rocaille cheveu
@@ -576,10 +576,10 @@ laisser retomber eau déborder
 amasser coupe doigt gentiment
 immobile sérieux presque
 sorte sentiment jolie pose
-charmante enfantine statu fontaine
+charmante enfantine statu
 mettre
 
-pierre-charle crier mère
+crier mère
 fenêtre
 enfant sauta vite fontaine
 grimper escalier courant être
@@ -590,15 +590,15 @@ figure oeil bras
 main place peignoir
 caresse petit animal tendre
 baiser lécher presque
-honorine dépêchon
+dépêchon
 habiller vailler matin
 sortir journée
 falloir faire beau fils aujourd’hui
-toilette commencer mère attacher
+toilette mère
 cou enfant collerette
 encadrer bien tuyauté
 linge blanc joue enfance aider
-honorine passer grand
+passer grand
 court pantalon velours
 noir petit bonhomme laisser faire
 regarder mettre plaisir
@@ -606,17 +606,17 @@ profond presque recueillir gravité
 bonheur garçon
 âge entrer veste velours
 mère nouer cou ruban soie
-cerise honorine chaussa escarpin
+cerise chaussa escarpin
 talon poser tête toquet
 velours noir aigrette
 plum héron tenir agrafe argent
-chardon écosser enfant habiller
+chardon enfant habiller
 charmer costume artistique
 théâtral inventer
 goût mère rester respectueu
 
-bien honorine monsieur
-gervaisai passer doigt collerette
+bien monsieur
+passer doigt collerette
 cou enfant
 paraître bon personne
 femme maison
@@ -626,13 +626,13 @@ comprend dire
 jeune français
 comprendre bien vite
 être intelligent
-monsieur fit honorine
+monsieur fit
 profond accablement tristesse
 femme peuple
 séparation éternel langue
 langue
 pouvoir jamais entendre
-aller pauvre honorin
+pauvre
 faute savoir
 être ici
 savoir bien monsieur savoir bien
@@ -645,16 +645,16 @@ petit
 saisir enfant pressa
 presque furieusement répéter
 
-être fou honorine fit monsieur
-gervaisai tendre main
-honorin jeter explosion
-larme aller mettre chapeau
-tenir partir
+être fou fit monsieur
+tendre main
+honorine jeter explosion
+larme mettre chapeau
+tenez partir
 pauvre fille maîtresse
 regarder aller
 moment commencer
-gros pierre-charle arriver
-monsieur gervaisai perdre vieux
+gros arriver
+monsieur perdre vieux
 femme chambre élevé
 immédiatement trouver
 remplacer convenance
@@ -671,10 +671,10 @@ honorine veiller lit nuit
 suite sauver jour médecin
 déclarer danger passer vit
 entrer soir air malheur
-honorine vouloir
+vouloir
 point tromper
 être affaire vol monsieur
-wynant femme banquier hollandais
+femme banquier hollandais
 bien reconnaître innocent
 acquitter
 être prison voleur
@@ -685,8 +685,8 @@ chercher replacer
 avouer histoire
 garder voir
 forcer aller travailler journée
-confession mauvais
-mouvement monsieur gervaisai
+confession
+mouvement monsieur
 être payer soin argent débarrasser repenser
 fille être
 maladie devoir
@@ -698,7 +698,7 @@ président tribunal ami
 mari diriger débat affaire
 innocence honorine faire
 doute femme chambre
-rester service monsieur gervaisai
+rester service monsieur
 reconnaissant maîtresse
 être meilleur vie espèce
 courage mettre garder
@@ -722,20 +722,20 @@ unique attachement mère
 enfant être
 vouer corps âm véritablement
 donnée damner envelopper
-amour jaloux enrager dévorer
+amour enrager dévorer
 expression peindre visage
-jeune joli tirer contracté devenir
+jeune joli tirer devenir
 dur presque méchant tourment
 passé défiance
 talon mère fils
 air chien dévouer mauvais
 hargneu jappeur prêt mordre
 approcher trop
-honorine rentrer
+rentrer
 appeler voiture place
-monsieur gervaisai
-vi
-forum monsieur gervaisai
+monsieur
+
+forum monsieur
 calèche remonter grand rue
 bordée boutique palais église
 étroite coup ouvrir
@@ -743,26 +743,26 @@ espace petit plaine abandonné
 champ vague terre poussiérer
 herbe rase
 cocher arrêter cheval machinalement
-instinctivement monsieur gervaisai
+instinctivement monsieur
 lever
 campo grand reste
-rome portique survivre temple
+portique survivre temple
 écrouler colonnade isolé
 appuyer ciel colonne
 foudroyer soutenir entablement
 graminée ronger
-nom empereur arc triomphe
+nom arc triomphe
 enterrer pied siècle
 fosse encombrer fragment miette édifice énorme voûte
-basilique caisson effondrer repercer
+caisson effondrer repercer
 bleu jour bout
 voie sacrer grand dalle gisante
-quartier lave paver feu refroidir
-user enchaîner nation creuser
+quartier paver feu refroidir
+user enchaîner creuser
 ornière victoire ici
 vieillesse pierre
 église marbre païen pourrir tronc
-cipolin dépolir exfolier user temps
+dépolir exfolier user temps
 blessé coup entaille
 armure grand trou
 vieux arbre partout débri formidable
@@ -771,8 +771,8 @@ sembler passer rouille eau
 noir flamme incendie déluge
 colère homme
 ciel être grandeur invaincue
-apparition rome antique
-monsieur gervaisai
+apparition antique
+monsieur
 promener fatigue
 tirer main ennui traînard
 enfant
@@ -786,7 +786,7 @@ trouver arène
 soleil brûler aller asseoir
 ombre étroite tomber petit
 autel peintur écaillée tour
-cirque embrasser tour théâtre
+embrasser tour théâtre
 immense écrasa regard
 pensée
 oiseau voler familièrement
@@ -794,17 +794,17 @@ monstrueu nid pierre
 place grand marguerite
 être rosée sang
 herbe pousser herbe indifférent
-partout abrupt roc envahir
+partout abrupt envahir
 gradin loge dégrader
 redevenir trou fauve caverne
-afrique rome aller chercher
+aller chercher
 lion appauvrir désert
-plaisir peuple roi
+plaisir peuple
 arbre pousser forêt broussaille
 grimpaient banc banc sauter trou quatre-vingts pied
 ombre ruine revenir nature
-revenir rome
-pierre retourne rocher marbre
+revenir
+pierre retourne marbre
 retourne pierre thermes
 transformer grotte palais
 sol nivell dôme éclater
@@ -817,7 +817,7 @@ statue rechanger caillou
 revendication
 reprise terre éternel
 ville éternel
-monsieur gervaisai abîmer
+monsieur abîmer
 contemplation sévère
 méditation haut lecture revenir
 page histoire réveiller
@@ -839,9 +839,9 @@ coucher reposer souffle
 bon nuit partit revoir
 forum
 appuyer parapet chemin
-escalier monte capitole silhouette
+escalier mont silhouette
 dessiner cannelure casser
-arc septime sévère perdre
+arc perdre
 mélancolie pensif regarder sublime
 décor obscurité immobilité ruine
 profondeur sombre auguste sommeil
@@ -851,16 +851,16 @@ colonne majesté grandie solitude
 déserte portique vide barrant
 ciel étoile loin courbe grand arc triomphal clarté
 nocturne blanchir espèce vallée
-mâne sorte promenade élyséen
+sorte promenade élyséen
 virgilienn rare passer
 sentier devenir apparence vaporeux
 grillon
 cri incisif ciseau dur couper
 seconde pied monument ruineux
 immortel sourd heure
-vii
+
 lendemain grand journée
-fatigue monsieur gervaisai commencer
+fatigue monsieur commencer
 vie régulier uniforme vie couper
 petit course promenade
 presser
@@ -872,32 +872,32 @@ ancien marché ville-musée arrêter
 regard souvenir
 sculpture décor borne
 quelquefois pied marbre grand
-dieu rêver statue sortir
-pari moellon moderne pierre
-neuf cité art parisien
+rêver statue sortir
+moellon moderne pierre
+neuf cité parisien
 goûter plaisir artiste errer
 cité histoire paver bâtie reconstruire
 chef œuvre fragment précieux
 siècle
 intéresser pittoresque
 mur cours palais masure
-pan passé ouvrir
+passé ouvrir
 bouche sauvage frais
-antre trou noir fruiterie enguirlander
+trou noir fruiterie enguirlander
 verdure herbe chevelure
 fenouil partout trouver tableau
 regretter abandon
 peinture sacrifice goût
 cher vie médecin
 exigé obtenir presque
-revenir rue condotti rue
+revenir rue rue
 curiosité faire station
 boutique mosaïque bijouterie devanture antiquaire étal bric-à-brac
 antique vitrine poussiéreuse
 encombrer lampe étrusque majolique
 fragment iriser
 sébille vieux monnaie
-fouiller fonds magasin obscur capharnaums
+fouiller fonds magasin obscur
 enterrer buste
 cabinet florentin coffret porphyre
 marbre or luire
@@ -910,9 +910,9 @@ heure heure déjeuner déjeuner
 lentement prolonger tête à tête
 enfant table
 repas amoureux déjeuner finir
-habitude jouer piano jusqu’
+habitude jouer piano
 arrivée honorine venir prendre
-pierre-charle faire dormir
+faire dormir
 habiller lit installer
 place aimé passer heure
 soleil user lourdeur vague rêvasserie sieste sorte
@@ -926,7 +926,7 @@ fenêtre jouer
 petit triangle lumière
 temps temps suivre
 lame persienne spectacle changer
-place espagne avancement
+place avancement
 journée grand escalier
 trinité-du-mont abandonner
 marche heure ombre
@@ -937,8 +937,8 @@ bateau rappeler nef ancien
 table côté homme couché
 dormir marge source
 boutique acquaiuolo
-toile matelas appuyer haut
-haute born fleurdelysé escalier
+toile haut
+haute born fleurdelyser escalier
 faire ascension lent balancer montée sculptural romaine porter
 paquet tête tandis
 côté modèle assise attendre
@@ -947,15 +947,15 @@ chien vendre tiraient corde
 attacher trou marche
 pierre
 heure arrivaient voiture
-appeler place emportait pincio
+appeler place emportait
 promener heure
 gagner dîner
 dîner sortir demeurer
 fenêtre écouter bruit décroissant
 place
-campanile trinité-du-mont
+campanile
 devenir pâlemer blanc
-ciel pâlemer bleu monsieur gervaisai
+ciel pâlemer bleu monsieur
 mettre raconter conte
 enfant fatigué paupière battant
 écouter bientôt
@@ -963,25 +963,25 @@ vouloir entendre voix
 mère honorine apporter sombre
 chambre lampe abat-jour
 pays enfant mettre moment
-doigt point feu représenter illumination saint-pierre
+doigt point feu représenter illumination
 girandole place peuple
-honorin emmenait
-monsieur gervaisai asseoir bureau
-veiller jusqu’ heure temps
+emmenait
+monsieur asseoir bureau
+veiller heure temps
 temps avancer tête regarder
 dormir grâce enfant
 heure coucher endormir
 bruit eau harmonie liquide
-fontaine rome musique
+fontaine musique
 berçante nuit cours
 hôtel
 viii
-rome ville bouquet
-coin rue rue condotti
-rue babuino fleuriste étaler
+ville bouquet
+coin rue rue
+rue fleuriste étaler
 petit reposoir rustique bouquet
 barioler cueillir vif
-jardin pincio mont
+jardin mont
 fanfare flore éclatant criarde pays côté bouquet bouquet
 teindre marié harmoniser
 tendre dou nuance
@@ -991,11 +991,11 @@ bouquet panier fleurir
 petit guéridon rose lit fougère
 anse rose corbeille
 camélia blanc rondir
-branche lilas blanc azalée léger
+branche blanc azalée léger
 gaze panier
 petit fleur nommer ider souffle
 poussière fleur
-jour monsieur gervaisai revenir
+jour monsieur revenir
 promenade matin
 panier fleur journée
 épanouir pièce
@@ -1004,25 +1004,25 @@ mourir suavité exquiser
 expirant
 couleur faner exhaler adieu
 odorant bientôt être besoin
-vie monsieur gervaisai bouquet
+vie monsieur bouquet
 mettre respiration auprès
 rayon chambre presqu’ compagnie solitude regarder camélia
 luire vernir rose bord
 défaillant cœur soufre
 extravaser goutte sang oeil
-volupté éclat gaieté
+éclat gaieté
 illumination fleur vie léger
 tendre immatérialité couleur
-jour ciel monsieur gervaisai
+jour ciel monsieur
 jamais percevoir jusque-là
 percevait jouissance sensation
 nouveau imprévu
-france femme
+femme
 femme entourer bien
 fleur jamais sentir
 émanation âme fleur étonner
 raffinement impression
-venir rome
+venir
 acuité perception
 demander pays peuple
 approcher soleil
@@ -1049,8 +1049,8 @@ ix
 disposition ouverture
 jouissance naturel nature
 fin choisie éprouver bout
-semaine rome visite villa pamphili être enchantement
-monsieur gervaisai
+semaine visite villa pamphili être enchantement
+monsieur
 calèche passer arc entrée
 garni jardinière fait sarcophage
 buisson épineux élance
@@ -1070,33 +1070,33 @@ bout pierre sortant
 terre rampe verdure débris
 antique arbrisseau fleur monter
 fond magique parc couronne
-pin italie perspective fermé
+pin perspective fermé
 étage arbre tête pareille
 immense bouquet porter
 épanouir arrondir azur tournant route campagne
-grandeur inattendue dôme saint-pierre
+grandeur inattendue dôme
 encadrer échappée
 combler ciel
 grand allée mener petit
 palais villa mur plaquer
 buste statue incrusté
-rond bosse bijou algarde
+rond bosse bijou
 ressembler éclater blancheur
 jour vif feuillage dense
 modèle plâtre cabinet orfévrerie
 seizième siècle florentin
 étendre dérouler
-pomp splendeur triomphe végétation
+pomp triomphe végétation
 fête architecture opéra
 magnificence félicité volupté
 amour jardin italien divin
-italie terrasse charger
+terrasse charger
 grand pot terre cuire arme
 pape petit parterre arabesque
 dessin cailloutis cerclé
 chenille courant bordure
 buis embrasser décor escalier
-rampe statue portique
+statue portique
 mêler nature beauté palais muraille ornement monter
 floraison éclatant violette
 blanche jaune
@@ -1108,16 +1108,16 @@ sommeillante île
 arbre milieu petit lac bord
 citronnier paysage
 illusion ravissement
-monsieur gervaisai paysage imagination
+monsieur paysage imagination
 endroit idéal
 poëme croire
-chant tasse souvenir revenir
-jardin armide
+chant souvenir revenir
+jardin
 accouder terrasse air
 journée fois chaude ventilée air
 caresser peau flottement
 chatouillement étoffe soyeux
-souffler subtil vif léger agir
+souffler subtil léger agir
 fibre mélancolie septentrional autour
 apparence bonheur
 sembler lever
@@ -1130,7 +1130,7 @@ délivrance idée paresseux
 lazzaronisme
 descendre parc
 trouva beau surpris ici chêne
-vert solennel écorce
+solennel écorce
 patine métal rugosité
 peau bête centenaire barrer route
 rejeton branche
@@ -1138,35 +1138,35 @@ arbre verdoiement
 sourd éclairer reflet remuer
 eau jaillissante
 haie camélia plaquer
-feuille fleur cire rocailleux
+feuille fleur cire
 galerie rocher milieu
 tapis vert plein soleil
 marbre colonne brûler blanc
 dattier songer borne
-dernier armée rome
-oasis libye loin
-hémicycle pierre pilastre balustre niche arrondir espalier sauvage
+dernier armée
+oasis loin
+hémicycle pierre pilastre balustre arrondir espalier sauvage
 hérissé colère tordre
 yuka serpentin cactus piquant
-fraîcheur fontaine jaillir
+fraîcheur jaillir
 éclair buisson roseau
 mouillé lance égouttaient
 lumière humide
-arriver bout jardin
+arriver bout
 colonnade pencher grand pin
-italie dresser ligne majesté
+dresser ligne majesté
 nef jour mesure avancer
 grand bois monumental
 tronc gris parasol entrecroiser
 branche violet chaude verdure
 mousse cendre verte trouver
 élégance grandiose élancement
-oriental palmier italie dresser
+oriental palmier dresser
 terrasse palais église
 colline roi horizon apparaître
 arbre soleil
 luxe représentation
-figurer jupe décaméron
+figurer jupe
 abrité ombre cime
 œil illusion unique élever
 reculer éclairer bleu ciel
@@ -1181,7 +1181,7 @@ décemment vêtir
 tenir vieillard main
 violon laisser muet
 chanteur asseoir tronc
-abattre monsieur gervaisai apercevoir
+abattre monsieur apercevoir
 fil petit main lever au-dessus
 tête mener rythme chant
 fleur promener air
@@ -1197,7 +1197,7 @@ grave triste suivre main
 enfant sourire fond jeune année gaiement émouvoir oeil
 demi-fermé
 
-vie monsieur gervaisai continuer
+vie monsieur continuer
 occupé enfermer longueur
 journée soir oublier
 livre asseoir canapé
@@ -1215,13 +1215,13 @@ femme grand masse plate cheveux
 nimbe front bombé lisse
 grand oeil lointain ombre cernure trait
 fin arête maladie
-garder trente-sept an minceur
+garder an minceur
 jeunesse peau pâle
-brun mettaient monsieur gervaisai
+brun mettaient monsieur
 séduction attirant étrange
 part inoubliable profonde magnétique
 pur vivant pensée
-peine terrestre visage
+peine visage
 esprit
 longueur cou étroitesse
 épaule absence poitrine néant
@@ -1235,27 +1235,27 @@ petit étagère bois tourner attacher
 mur tresse soie
 jaune portée main
 livre ami porter nom grave
-dugald stewart kant jouffroy
+dugald kant
 xi
-avoir règne louis-philippe
+avoir règne
 petit élite femme bourgeois
 avoir goût chose intelligence
 presque laisser court
 mémoire salon étroit
 page discret relire
 ami
-monsieur gervaisai exemple
+monsieur exemple
 type race femme presque
 disparaître aujourd’hui intelligence naître
 sérieux trouver porter vie
 étude sérieux perdre
-mère enfant élevé vieillard
+mère élevé vieillard
 rappeler guèr enfance
 vieux sombre cabinet lecture
 passage opéra père aller
 lire journal force supplication
 obtenir laisser
-promenade aller faire jusqu’ dîner heure bonheur
+promenade aller faire dîner heure bonheur
 petit blanc rose loin
 soleil appeler porte disparaître
 noir éternel liseur
@@ -1289,7 +1289,7 @@ philosophie
 dernier
 trouver révélation
 reconnaître désir non
-définir élever parole platon
+définir élever parole
 scène instable vie
 nature continuellement changeant
 changer vérité immuable
@@ -1332,26 +1332,26 @@ penser
 initiateur guide milieu
 poursuite écrasant problème
 psychologique être
-maître sagesse moderne reid
-dugald stewart illustre fondateur
+maître sagesse moderne
+illustre fondateur
 école écossais ennemi méthode
 analogique hypothétique école
 ancien traverser
-scepticisme locke matérialisme
+scepticisme matérialisme
 condillac éprouver philosophe
 reconnaissance
 délivrance oppression
 respirer pur sommet
-pareil hauteur bon sens
-reid homme sentiment
+pareil hauteur
+homme sentiment
 dignité base morale métaphysique
 puissance excellence
-nature humain culte reid
+nature humain culte
 associer kant
-découler liberté homme-dieu
+découler liberté
 beau princip désintéressé
 honneur humanité clef voûte philosophie devoir
-monsieur gervaisai philosophe
+monsieur philosophe
 philosophe
 rester entier femme femme
 garder aimable désir plaire
@@ -1362,12 +1362,12 @@ chose sourire élégance
 goût caprice sexe
 rob robe parure
 parure
-gaie rieuse heure
+rieuse heure
 gravité esprit garder
 enfant jeune fille
 envelopper fantaisie
 malicieux abriter paradoxe
-léger masquer blue stocking
+léger masquer blue
 penseur
 xii
 grand tâche ailleurs
@@ -1411,77 +1411,77 @@ solliciter jeune fille répondre franchement
 communication note
 recherche long travail
 sortir rejeter absolument surnaturel
-garder respect femme christ suite
+garder respect femme suite
 tracer plan lecture étude philosophique
 éclaircie résumé
 analyse point repère
 penser libre jalonnant pensée
 chemin religion beau
-vrai bien
+bien
 sœur frère maître
-disciple être continuel échange
+disciple être continuel
 entretien presque non interrompre
 esprit affranchi causer familièrement
-infini réalité supérieur
+réalité supérieur
 unique source existence
 causalité original causerie
 croiser salle étude
 école polytechnique petit chambre
-rideau frais rue helder
+rideau frais rue
 tard dernier bivouac français
-sahara arabe hadjira oasis
-lieue tougourt boudoir parisien
+arabe oasis
+lieue boudoir parisien
 marier rencontrer
-chemin mer rome oran
-venir envoyer frère monsieur gervaisai
-nommer suite campagne
+chemin
+venir envoyer frère monsieur
+suite campagne
 crimée lieutenant colonel artillerie
-frère monsieur gervaisai
-écrire rome
-…… …… …… …… revenir voiture
-corso jour
+frère monsieur
+écrire
+…… …… revenir voiture
+jour
 arrivée étonner voir
 fenêtre balcon
 tenture rouge border ancien
 tapisserier façade palais
 monde plein rue sembler attendre
 procession cocher
-ranger voiture place trajane
+ranger voiture place
 regarder attend
 rappeler défilé baïonnette
-ici force armé précèd dieu
+ici force armé précèd
 lustre allumer soleil
 grand grand bannière broder
 peindre goutte sang pleurer
-face christ avancer
+face avancer
 ligne pénitent blanc
 camail bleu bannière
 milieu majordome galonné armoirie
 file interminable prêtre
 noir cierge norm croix noueux gros arbre
 foss ours tenir équilibre
-ventre hercule confrérie geignant
+ventre confrérie geignant
 suer dais
 prélat soie eucharistie
 encenser enfant costume ange
 fermer marche grand pièce
 monter cérémonie chapelle
 entier autel briller métal
-cœur fer blanc percer épée
+fer blanc percer épée
 machine corde épaule
 homme
 compté peine soutenir
 maintenir musique station
 long lent procession
 savai vraie musiqu foire
-fanfare croix dominer
+fanfare dominer
 gros caisse émerveillement
 suivre enivrement fanatiser
 cri foi populace âme
 chose falloir
 plume
 sœur
-avoir peut-être dérisoire
+aurai peut-être dérisoire
 barbare ovation savoir mesure
 marcher tristesse dégoût prendre
 serrer cœur image
@@ -1489,8 +1489,8 @@ serrer cœur image
 -là ami
 disai pourtant foi
 civilisation voir sauvage
-brute idolâtrie orient
-ruée inde idole jaggernat
+brute idolâtrie
+ruée idole
 atteinte toucher humilier
 profond extériorité
 grossièreté figuratif symbolisme
@@ -1509,18 +1509,18 @@ blesser
 sentiment élevé délicat pudique intelligence distingué forme
 conception rapport créature
 créateur fût revenir
-corso vide rouler beaucoup
+vide rouler beaucoup
 idée demander
 falloir pays peut-être partout
 matérialité spectacle
 réalité bas effort
 muscle homme faire
 appeler religion
-…… …… …… ……
+……
 temps temps tombe
 main journal catholique
 jeter oeil traite politesse
-jour lire libres
+jour libres
 penseur philosophe
 progenitori orang outang
 xiii
@@ -1555,7 +1555,7 @@ répéter mère
 presque aussitôt voix couper bouche
 enfant remettre
 battre touche mélancoliquement
-pierre-charle naître couche
+naître couche
 violent couche fer
 tirer vie délicat petit crâne
 être froisser comprimer instrument
@@ -1569,7 +1569,7 @@ difficile formuler compréhensible être
 aimer mieux parler
 étranger attendre
 croire temps crise
-vague providenc désespérer
+vague désespérer
 voyant
 fils atrophiement
 cerveau langue montrer
@@ -1580,11 +1580,11 @@ comprendre retenir goûter savourer
 entendre musique devenir
 passion plaisir intérêt expansion
 vie rétréci incomplet
-emmener italie grand joie
+emmener grand joie
 mère donner enfant joie
 attendre fièvre mener
 mardi opéra lendemain
-pierre-charle passer obstinément journée
+passer obstinément journée
 entier enfermer cabinet
 robe tambouriner vitre
 grand morceau veille
@@ -1603,15 +1603,15 @@ coup sonnette donner
 antichambre accès
 fiévreux gaieté sauter
 pied petit fou essouffler
-pierre-charle content content
+pierre-charles content content
 content accrocher
 main chaude main dame
-Monsieur ouvrir salon mère
+monsieur ouvrir salon mère
 rester oeil heureux rapproché
 coussin terre visiteur
 visiteuse mot
 causer lever vouloir
-partir visite retenir
+partir visite
 cramponnant mettre petit
 force désespoir départ empêcher percevoir autour
 beau vilain temps âme
@@ -1622,7 +1622,7 @@ doux lever espèce interrogation
 paraître comprendre
 impression passager
 fugitif figure mère
-honorine saisissait
+saisissait
 grossir bonheur
 chagrin impressionnabilité
 petit mère
@@ -1630,43 +1630,43 @@ oublier moment retenir parler
 léger note impatience
 irritation voir aussitôt larme rouler
 oeil pauvre enfant trop
-cœur
+
 aimer personne aimer
 objet venir plaisir
 amusement récréation embrasser
 jouet venir jouer
 xiv
 après-midi fin avril passer
-fontaine paulin
-torrent verser eau trajane bruit
+fontaine
+torrent verser eau bruit
 cataracte plate forme
 rampe descendre tournoyer ancien
-janicule gravir lentement
+gravir lentement
 capucin âne chargé herbage
-monsieur gervaisai arrêter voiture
-grand rome répandre
+monsieur arrêter voiture
+grand répandre
 éparse mont éclairage
 étrange
 jour voiler heure
-lourd peser nuage violet crêté
+peser violet crêté
 blanc gauche fort
-saint-ange ligne campagne verdoyant
+ligne campagne verdoyant
 levée mamelon
 pareil tumulus peuple enterrer
-droite palatin bleu
-colline cache albano plaine bâtie infinie étendre
-rome chaos univers pierre
+droite bleu
+colline cache plaine bâtie infinie étendre
+chaos univers pierre
 entassement mêlée confusion
 superposition maison palais
 église forêt architecture
 lever cime campanile
 coupole colonne statue
-bras ruine désespérer air
+bras désespérer air
 aiguille obélisque césar bronze
 pointe épée ange noir
 ciel
-vaste panorama amphithéâtre
-capitale dieu porter étager
+panorama amphithéâtre
+capitale porter étager
 colline montant escalier
 monument assise temple
 bel ligne acropolienne
@@ -1682,21 +1682,21 @@ bruit activité industrie tomber tintement cloche espacer
 minute minute
 ciel donner apparence
 éteindre lumière grise
-terne éclipse empoussiérer mousseux
+terne empoussiérer mousseux
 toit fruste mur envelopper
-rome jaune blafard
-rappeler monsieur gervaisai tableau
-afrique paysage étouffé
+jaune blafard
+rappeler monsieur tableau
+paysage étouffé
 nuée désert
 voiture arrêter regarder
 voiture croisa homme
 descendit venir geste affectueu
 étonnement
-monsieur rome
+monsieur
 mot hôtel avoir
 honneur présenter
 cher ambassadeur arriver
-malade souffrant
+malade
 vouloir prendre
 air pays donner temps
 reconnaître faire visite
@@ -1704,8 +1704,8 @@ croire bien destiner
 monsieur rayneval
 m. rayneval incliner
 demeurer
-place espagne coin rue
-dell carrozze
+place coin rue
+dell
 sorte courage
 sortie aujourd’hui
 affreux siroco
@@ -1715,36 +1715,36 @@ sentir matin détente
 espèce malaise général
 bien monsieur permettre
 donner conseil rentrer
-vieux romain commencer
+vieux commencer
 faire sourire vilain
 vent plomb appeler
-horace éprouver
-tourner oeil pierre-charle
-rappeler enfant pari
+éprouver
+tourner oeil
+rappeler enfant
 beau
-adieu revoir cher ambassadeur
+revoir cher ambassadeur
 affectueuse amitié
 monsieur rayneval
 voiture mettre redescendre
-petit cheval pente montorio
-
+petit cheval pente
+xv
 lendemain volonté corps
 manquer sortir
 journée étendre lâche
 canaper jour trouver
 accabler tourmenter supplier
-honorine décider faire appeler
+décider faire appeler
 médecin recommander m.andral
-femme envoyer rome
+femme envoyer
 jour jour tarder voir
-paresseux demain répèter
+paresseux répèter
 malade
 médecin fameu docteur
 étranger droit
 favorisca polso pudique anglais
-place espagne libéral
-député révolutionnaire 48 visiteur
-vienne londre pari savant
+place libéral
+député révolutionnaire visiteur
+savant
 antiquaire amateur brocanteur
 statue tableau conteur anecdote sautillant bavard fin
 romain laisser tomber bout
@@ -1753,12 +1753,12 @@ gémir refrain éternel
 philosophie patience
 pays vouloir être
 prêtre phras
-falloir entendre italien che
+falloir entendre italien
 volete siamo sotto preti
 arriver asseoir parler
 malade superbe coltellata
 venir soigner hôpital
-consolation vatican camuccini
+consolation
 tribut étranger payer
 climat temps indiavolato faire
 jour
@@ -1766,27 +1766,27 @@ chose tirer veine
 presque apercevoir
 sang
 malaise badiner
-docteur monteron
+docteur
 nom être grave croire
-falloir saigner monsieur gervaisai
+falloir saigner monsieur
 fois jour
 donner honorine sérieux inquiétude être rétablir garda
 mois grand
 faiblesse
 long premier jour anxieux
-pierre-charle rester pierre
+rester pierre
 asseoir chaise bas pied lit
-mère oeil grogner
-honorine venir chercher
+mère oeil grognant
+venir chercher
 faire manger coucher passer
 heure place
 regard long attachement
 tendresse triste étonner enfant
 voir souffrir
-bien honorine dire monsieur
-gervaisai premier soir
+bien dire monsieur
+premier soir
 convalescence
-maison est-on
+maison
 intéresser maladie
 oh oui monsieur bonne
 dame ici monsieur ferait
@@ -1794,12 +1794,12 @@ bien plaisir recevoir
 sentir fort envoyer
 ambassade presque jour
 nouveau monsieur
-venir Monsieur Monsieur auditeur
-rote oui bon flamen
+venir monsieur monsieur auditeur
+oui bon
 oublier
 annoncer arrivée
 avoir court silence
-monsieur reprendre honorine
+monsieur reprendre
 désigner enfant monsieur
 faire mal
 monsieur bien jour matin
@@ -1808,15 +1808,15 @@ bureau monsieur gribouiller
 falloir mettre enveloppe
 poser tas
 pain cacheter faire timbre
-poste lettre france
+poste lettre
 voir monsieur vrai
 monsieur falloir écrire adresse
-bon dieu
+bon
 cesse aller jeter boîte
 place regarder fenêtre
 obliger faire semblant
-oui monsieur écrire
-bon dieu demander
+monsieur écrire
+bon demander
 faire mourir maman bien-aimé
 vouloir voir joliment esprit
 fond
@@ -1824,7 +1824,7 @@ enfant écouter honorine oeil inquiet
 tête avancer mieux entendre
 timide confu peureusement attentif
 fois parler
-monsieur gervaisai ouvrir
+monsieur ouvrir
 bras serrer nerveusement
 poitrine laisser tomber tête
 larme lente couler
@@ -1848,19 +1848,19 @@ droit mère
 déserter enfer
 commande vivre durer
 xvi
-monsieur gervaisai trouver
+monsieur trouver
 rétablie être trop avancer
-aller campagne louer
-maison frascati tivoli reprendre
+aller campagne
+maison reprendre
 ancien vie casanier
 retirer enfoncer ombre
 chambre demi-obscurité reposant
 persienne fermée sortir
 guère soir soleil couché
 faire prendre voiture file défilé
-parcourir corso pincio
-palais venise palais venise
-pincio lentement traîner enfant
+parcourir
+palais palais
+lentement traîner enfant
 somnolent revivre mouvement cheval équipage
 toilette alanguissement
 faiblesse flottante songerie
@@ -1868,10 +1868,10 @@ tête ébranler
 imagination relever maladie
 abandonner charme singulièremer
 poétique doucement mélancolique
-crépuscule italien paresseux
+italien paresseux
 venue nuit long venir
 obscurité ciel nord
-au-dessus tête bleu décolorer
+tête bleu décolorer
 devenir nocturne azur blême
 glacier autour apparence
 évanouissement pâlissement
@@ -1880,96 +1880,96 @@ chose orangé pierre
 rouge brique lumière
 inexprimable teindre expirant clarté
 aube lune sembler lumière
-angélique ave maria reflet éteint
+angélique reflet éteint
 ciel passer visage
 visage journée
 envelopper petit procession orphelin
 pareil fantôme petit curé
 blanc soutane traîner perdre bleuissement
 montant pavé rue marche
-palais côté corso effacer
+palais côté effacer
 monument maison
 promeneur enfoncer perdre
-mystère heure rome
+mystère heure
 presque fantastique dire
 réalité retire vie évaporer
 pensée reposer
 perdent terr vision commencer
 approcher âme
 oeil long promenade continuer
-monsieur gervaisai impression
+monsieur impression
 finir rêve traverser
 zigzag petit chauve souris
-xvii
+
 août brûlant mois redouter
-rome approche garçon
+approche garçon
 café remercier pourboire souhait
-bon mois août monsieur gervaisai passer trop souffrir ennuyer
+bon mois août monsieur passer trop souffrir ennuyer
 distrait monotonie complète
 réclusion reposer lecture
 visite journalier homme
 médecin oublier invariablement
 bavarder
-heure vieux ami france non
+heure vieux ami non
 assidu non long
 visite
-docteur monterone continuer
+docteur continuer
 amusant conversation
 décousu mimer pasquinante
 mettre lèvre scepticisme
 profonde ironie bouffe
 nouveau bruit jour mot
 partir
-pape rouge dire
-bien oui pape rouge
+rouge dire
+bien oui rouge
 appeler ici
 parole mettre couler intarissable
 savoir
-pape rome pape blanc
-vénérer saint-pèr pape
-noir général jésuite pape rouge monseigneur cardinal
-antonelli revenir
+pape blanc
+
+noir général jésuite rouge monseigneur cardinal
+revenir
 raconter jour
 histoire jeunesse jour
-promener vatican
+promener
 monseigneur aujourd’hui trouver
-porte archive
+porte
 archiviste laisse aller
 promener regarder ouvrir armoire
 lendemain audience
 grégoirexvi conversation
-saint-père laisse échapper saint
-père bien curieux armoire
-archive carreau bien
+saint-père laisse échapper
+bien curieux armoire
+carreau bien
 mauver état être entrer
-être entrer archive avoir regarder
-papier oui saint pèr
+être entrer avoir regarder
+papier
 porte oser
 savoir fils
-être excommunié dieu
-rassurer donne pénitence
+être excommunié
+donne pénitence
 remettre frais
-carreau manquer oh pape
+carreau manquer oh
 jamais esprit manque
-tenir piei air bonhomme mot obtenir
+tenez piei air bonhomme mot obtenir
 audience musicien vouloir
-croix saint-sylvestre savoir
-pape adresser
-confrère apollon
+savoir
+
+confrère
 séance rossi pauvre rossi
 recevoir mourir bras
 palais chancellerie
-savoir dire saint-père
+dire
 ministre passer porte
 venir entendre professeur
 cours impossible
 tâter table chapelet
-acheter monsieur gervaisai
-cadeal envoyer france
+acheter monsieur
+cadeal envoyer
 monsieur rosa célèbre coronara
-minerve compatriote
+compatriote
 français femme
-carte vatican gouvernement
+carte gouvernement
 femme
 main savoir couper brusquement
 phras exemple
@@ -1982,31 +1982,31 @@ docteur ambassadeur
 pouvoir bien sûr
 moitié appartenir police
 gouvernement
-révolution volete ici
+révolution che volete ici
 communauté moine noble
 plaindre macaroni vrai
 faire
 dire volete siamo
 preti prêtre prêtre
-théâtre semaine pâques monsieur
-curé paroisse lista
+théâtre semaine monsieur
+curé paroisse
 dell anime recensement âme
-voir répétition
+répétition
 livre futur communiant planche
 troupe souffleur allumeur
 quinquet danseur
 danseur précipiter embrasser
-main curé appelant padre
+main curé appelant
 curato déranger
 asseoir regarder ballet danseur
 opéra
-ferraris jamais scène
+jamais scène
 petit invocation baiser
 amulette mot
-fuoco dire
+dire
 tomber plancher
 mal balayer oh
-moment falloir croire bon dieu
+moment falloir croire bon
 soutenir désintéressée
 tenir mot frais
 semaine dernier jeune attaché
@@ -2015,7 +2015,7 @@ excuser poindre
 cadeau trouver mot
 sublime avoir
 sûr être beau
-propos monsieur essayer
+monsieur essayer
 faire entrer bel association
 pericolante oui jeune fille
 jeune femme péril
@@ -2023,37 +2023,37 @@ avoir entendre
 institution génie femme pericolante
 trouver excellent société
 pain offrir écu société demande
-preuve lettre femme apport
+preuve lettre femme apporter
 lettre prendre écu
 
 bien toucher
-vieux ami france retrouver rome
-monsieur gervaisai m.flamen
-gerbois homme
+vieux ami retrouver
+monsieur m.flamen
+homme
 compagnie ami apporter
 intérêt ému parole parole grave
 doux vie brisé haute mélancolique
 penser accent large
 esprit belle âm foi tolérante
 charité infinie bonté
-marier france père petit
-fille amener jouer pierre-charle
+père petit
+fille amener jouer
 mort femme adorer
 jeter ordre exercer
-an rome fonction auditeur
-rote france conseil
+an fonction auditeur
+rote conseil
 contentieux ecclésiastique tribunal
-jurisprudence canonique civil asylum
+jurisprudence canonique civil
 justitiæ haute place dix-huitième
 siècle aujourd’hui tomber presqu’
 personnalité valeur inutile enterrer avenir
 décanat rote mener cardinalat
-gallican attacher doctrine national
-traditionnel église france
-ancien ami lamennai dire
-confesser monsieur gervaisai profonde
+attacher doctrine national
+traditionnel église
+ancien ami dire
+confesser monsieur profonde
 tristesse amertume secret
-voir rome
+voir
 cour politique aveugle
 cour politique humain haine
 jalousie maîtresser pusillanimité
@@ -2062,14 +2062,14 @@ supériorité persécuter
 siècle grand esprit religieux
 grand voix monter chaire talent
 génie gloire promis
-église contrister lacordaire
-rejeter éloquence exil flavigny
+contrister lacordaire
+rejeter éloquence exil
 repousser croyant chesnaye
 athéisme fin
 parler m.flamen
-gerboi regarder malade
+regarder malade
 main caresser enfant
-xviii
+
 sortir hasard
 journée heure
 église relever
@@ -2077,7 +2077,7 @@ porte sieste prière
 portière cuir aimer entrer
 attirer aller
 chercher poindre impression
-religieux approche dieu chrétien
+religieux approche chrétien
 maison sensation lieu
 tranquillité paisiblement silencieusement
 agréable offrir repos hospitalité
@@ -2087,7 +2087,7 @@ peinture lueur
 polie blancheur errant
 rassérénement
 donner endroit ombre attendre
-jet eau généraliffe
+jet eau
 ville église aller -là visitant prolonger
 station laisser aller goût
 venir étranger passion
@@ -2103,21 +2103,21 @@ précieux filer long colonne
 pilastre perdre voûte
 éclair briser mesure vivre
 prendre habitude
-chaud jour milieu pierre
+jour milieu pierre
 veinée brillante moitié bijou
 froid luire couleur doucement rose
 doucement jaune doucement vert fondue
 espèce nacr iriser
 teindre changeante prisme
-nef immobile contemplatif
+nef contemplatif
 plaisir voir enveloppé
 clarté miroitant chaude magnificence
 dorure opulence paroi somptuosité tenture
 évaporer volatiliser air agatiser
 reflet porphyre
 jaspe
-
-saint-pierre superbe
+xi
+superbe
 royal porte mort portique
 marbre noir enlever
 travers tibia envolé squelette
@@ -2128,39 +2128,39 @@ trépas dresser air au-dessus
 passer bout phalange os
 sablier temps éternel
 visite après-midi
-église monsieur gervaisai sortir
+église monsieur sortir
 porte sacristie basilique
 apparut chapelle
 point arrêter oeil milieu
-chapelle nombre saint-pierre arrêter involontairement
+chapelle nombre arrêter involontairement
 confessionnal
-oreille bouche pénitence
+oreille bouche
 chrétien langue
 monde catholique inscription
 fronton
-pro gallica lingua
-pro græca lingua
+pro linguer
+linguer
 pro hispanica linguer
-pro lusitana linguer
-pro anglica linguer
-pro polonica linguer
-illyrica linguer
 pro linguer
 pro linguer
-pro italica linguer
-attirer savoir
+pro linguer
+pro linguer
+pro linguer
+linguer
+pro linguer
+savoir
 rester épeler latin englober monde
 tirer robe retourner
 fils enfant montrer au-dessus
 baldaquin bleu lumière
 rayonnement voûte mot
-petru super hanc petram ædificabo
+super hanc petram ædificabo
 moment écrire lettre
 feu bandeau coupole
 
 automne amélioration
-faire santé monsieur gervaisai
-changer vie étroite solitaire
+faire santé monsieur
+changer vie solitaire
 presque cloîtrer vie large
 répandre revenir monde
 louer voiture mois prendre
@@ -2169,13 +2169,13 @@ cuisiner monter voiture
 éternelle chemise couleur
 habit noir commencer visite
 remettre lettre recommandation
-princesse liverani
+princesse
 moment penser chercher
 logement grand
 trouver retenir intérêt apitoyer
 honnête padrone subsister
 misérablement vieux plan
-rome planche héritage
+planche héritage
 retrouver ailleurs voisinage discret
 femme apparaître
 lorsqu’ souffrant jour
@@ -2186,28 +2186,28 @@ verre paix bonheur médiocre
 tomber loin loin grand événement
 avance visite
 vieux tante
-xxi
-monsieur gervaisai fois
-princesse liverani donner
+
+monsieur fois
+princesse donner
 repas bizarre charmant
 nappe lit
 fleur aimable semis semaine
-pâque garder année point carafe
+garder année point carafe
 vin grand vase cristal
 roche splendide objet art famille
-graver triomphe amphitrite convive passer
+graver triomphe convive passer
 travers plat vieux livre
 maison cuisinier écrivait
 génération jour menu
 déjeuner dîner blanc
-couvrir note date événement
+couvrir note événement
 famille pensée
 gaieté hôte passage ajouter
 réflexion caricature dessin
 table voix
 princesse chant parole rire
 sensible italien beauté
-fils monsieur gervaisai plaçait
+fils monsieur plaçait
 côté souci
 grand personne mutisme enfant
 égal amuser voir
@@ -2238,7 +2238,7 @@ haute aristocrati romain monde
 venir soir société
 peintre pays prince romain
 parent allié jeune cousin
-trait fin hérodiade vinci
+trait fin hérodiade
 cardinal familier maison
 voir entrer chapeau ganse rouge
 jeter bras désinvolture
@@ -2252,40 +2252,40 @@ bientôt battre
 momer chapeau mollet
 pourpre lever
 saluaient disparaissaient
-xxii
+
 hiver venir santé monsieur
-gervaisai continuer bon
+continuer bon
 permettre fréquenter assidûment
-salon liverani traverser
+salon traverser
 salon grand dame
 romaine mode calèche arrêter
-terrasse pincio entourer aussitôt
+terrasse entourer aussitôt
 cour homme
 devenir presque habitué
-dîner ambassade réception villa medici soirée musique
+dîner ambassade réception villa soirée musique
 année -là talent jeune
 promettre avenir compositeur
 célèbre
 mener pierre-charle
-heureux opéra rome
-théâtre apollo arriver
-carnaval santissimo carneval
+heureux opéra
+arriver
+carnaval
 promener jour milieu
-gros joie corso enfant charmant
+gros joie enfant charmant
 costume petit garde-française
-ahuri bataille confetti
-plaisir prendre feu dernier
+ahuri bataille
+plaisir prendre dernier
 soir vouloir éteindre moccoletti
 petit bout bougie
 souffler souffle
-cri vainqueur senza moccolo
-senza moccolo
-xxiii
-monsieur gervaisai trouver année
-précédente arriver france trop fatiguer trop faible
-saint-pierre cérémonie pâques
+cri vainqueur moccolo
+moccolo
+
+monsieur trouver année
+précédente arriver trop fatiguer trop faible
+cérémonie
 second semaine saint
-passer rome avoir curiosité
+passer avoir curiosité
 impression
 jour dimanche rameau
 costume étiquette robe
@@ -2296,36 +2296,36 @@ droite gauche chœur vue aller
 passer travers fer
 hallebarde casque cimier
 panache crin blanc
-rangée patriarche dignitaire
+rangée
 chasuble tisser
 file assis cardinal
 robe couler vague somptueux
 noyer presque flot
 queue caudataire asseoir pied
 ambassadeur diplomate
-uniforme état major costume
+uniforme état major
 parade armée terre
-illustre public europe mêler
-coudoiement prince roi oeil arrivaient fond
-chœur sombrement rouge pape
-basilique éclairer jour
+illustre public
+coudoiement prince oeil arrivaient fond
+chœur sombrement rouge
+éclairer jour
 recueillir pieu froid jour mars
 soleil frappant arrêter porte
 bronze entrée allumer
-gloire jaune saint-esprit cadre
-rayon vitrail tribune
-saint-pierre jour triste teinter
+gloire jaune cadre
+rayon vitrail
+jour triste teinter
 violet vaste tenture envelopper
 messe demi-deuil dimanche
 deuil pourpre
-immensité saint-pierre silencieux
+immensité silencieux
 entendre bruit
 foule pareil marbre glissant
 bruit sourd grand eau
 écouler coup éclata
-élancer hymne pueri hebræorum
-souvenir fils judée venir
-seigneur cantique jeune joie
+élancer hymne
+souvenir fils venir
+cantique jeune joie
 hosanna déchirer air note argentin
 montant perdre hauteur
 voûte rouler loin
@@ -2336,38 +2336,38 @@ allégresse commencer marche
 procession éternel recommençant
 cour église
 aller recevoir rameau main
-saint pèr cardinal patriarche
+cardinal patriarche
 archevêque évêque
 non assistant assistant abbé
 mitré pénitencier gouverneur
-rome connétable colonna auditeur
+connétable auditeur
 chambre majordome trésorier
 protonotaire apostolique participant
 honoraire régent chancellerie
 auditeur contredite général
 ordre religieux conservateur
-auditeur rote clerc
+auditeur
 chambre votant signature
-abréviateur maître cérémonie
-camérier assistant camérier secret
-camérier ordinaire camérier extra
+maître cérémonie
+camérier assistant secret
+camérier ordinaire extrer
 avocat consistorial
-écuyer chantre clerc
-acolyte chapelle porteur
+
+chapelle porteur
 virga rubea peuple ecclésiastique
 innombrable famille pontifical allonger lent défiler
 déroulement milice chrétien
 aller cueillir ciel palme élu
-pape asseoir offrir baiser
+asseoir offrir baiser
 montaient genou couvert voile
 brodé main pied distribuer
-palme frisé san remo
+palme frisé
 mouvement automatisme grandiose
 geste hiératique ancien faire
 ressembler dais chaise
 nuageux encens statu saint
-passer
-merveilleux mettre scène admirable
+passé
+mettre scène admirable
 coup théâtre liturgie chef œuvre
 triomphal spectacle
 seizième siècle génie catholique
@@ -2381,8 +2381,8 @@ camail hermine surplis
 dentelle ruisselant brocart soie
 porter pâle palme tremblant cramoisi fonds
 harmonie splendeur sourd
-colossal titien
-monsieur gervaisai arriver état
+
+monsieur arriver état
 vague troubler faiblesse
 cérémonie long lassitude
 attention fatiguer sens contemplation
@@ -2398,10 +2398,10 @@ basse-taill infini profondeur
 âme
 chanter diacre
 plain chant dramatiser passion
-jésus christ évangile saint matthieu
-charmer nerveusement petit
+évangile saint
+nerveusement petit
 tressaillement tête monsieur
-gervaisai demeurer languissamment navrer
+demeurer languissamment navrer
 bruit grave bas balancer gamme mélancolie répandre
 note large
 murmure immense désolation suspendre
@@ -2411,7 +2411,7 @@ onde sonore rester air vouloir
 mourir bas faire
 monter descendre remonter
 sourd voilé gorge lamentation
-sacrifice agonie homme-dieu
+agonie
 modulée soupirer timbre
 humain
 chant retentir mort
@@ -2420,32 +2420,32 @@ demande bénédiction
 chant nuit véritable lumière
 monde église cierge
 encenser
-répondre gloria tibi domine
-monsieur gervaisai écouter
+répondre gloria tibi
+monsieur écouter
 bas bas pénétrante
 déchirer angoisse sembler voix
-jésus dire âme plonger
-tristesse jusqu’ mort
+dire plonger
+tristesse mort
 voix jésus faire instant lèvre chantre passer travers
 poitrine frisson défaillance
-dieu
+
 récitatif continuer couper
 reprise exultant chœur
 tempête clameur bruit caricatural
 comique féroce peuple homicide
 joie discordant blasphémante foule
 demander sang éclat
-voix aigre crucifige barabba
+voix aigre crucifige
 écraser douloureuse bas
 grand dédain résigner
-xxiv
+
 chant voix finir
 ineffable note mourant crucifier
-lamma sabachtani golgotha laisser
-monsieur gervaisai long écho
+lamma sabachtani laisser
+monsieur long écho
 emportait vibration tressaillement
 continuer endroit sensible
-montant jusqu’ lèvre répéter
+montant lèvre répéter
 soupir suprême temps
 mémoire intérieur sentir élever
 remonter
@@ -2460,10 +2460,10 @@ enchantement mélancolique
 harmonie éloigné corde
 violon eût pleurer
 rappel ancien émotion
-revenir fleur cœur
-sentir étouffé souffrir religieux
+revenir fleur
+étouffé souffrir religieux
 ailleurs approcher foi
-mêler monsieur gervaisai
+mêler monsieur
 sensation délicat profond
 sentimentalité féminine mettre
 musique
@@ -2472,10 +2472,10 @@ cruel faire point effort
 sortir abandonner immobilité corps silence pensée
 vouloir garder retenir
 mauvais songer agréable
-disposition arriver miserere
-chapelle sixtine
+disposition arriver
 
-lamentation élever chapelle
+xxv
+lamentation élever
 sixtine bruit désolé
 corne épitre triangle
 cierge cir brun faire
@@ -2485,10 +2485,10 @@ redoutable plaquer fond avalanche
 précipitement damné
 rouler enfer supplicier
 raccourcir chute angoisse
-muscle agonie dessin
+muscle agonie
 académie désespoir tableau
 muet souffrance physique
-venir frapper battre expirer chœur
+venir frapper battre expirer
 douleur âme
 voix cesser voix airain
 voix jeter verset
@@ -2500,7 +2500,7 @@ autour voix
 dolente monter descendre
 plainte chevrotant voix pathétique
 voix supplication adorant emporter
-ouragan plain chant voix
+plain chant voix
 tressaillante vocalise sanglot
 voix vif élancement retomber
 coup abîme silence rejaillir
@@ -2514,7 +2514,7 @@ neutre sexe vierge martyre
 voix fragile poignante attaquer
 nerf imprévu anti-naturel
 long intervalle fin
-psaume cierge triangle éteindre
+cierge éteindre
 chaos redoutable fond entrer
 chaos nuit obscurer public
 serrer étouffé barrière
@@ -2523,12 +2523,12 @@ langue page semaine saint
 clarté rester
 tribune mur droite balcon
 balustre petit rampe surmonter
-pupître monsieur gervaisai
-lire cantate domino tribune
+pupître monsieur
+lire domino tribune
 chanteur pontifical droit
 chanter pape cardinal
-chapelle exécuter chant grégorien
-musique aller palestrina
+exécuter chant
+musique aller
 fenêtre filtrée
 jour blanc éclairer rayon vespéral
 printemps moyen-âge dentelle
@@ -2536,33 +2536,33 @@ cotte soie violette soutane
 ceinture collaro cou
 instant au-dessus pupître passer
 tête jeune chanteur souvenir enfant
-chœur joue enflée lucca della robia
+joue enflée
 vingt-deux heure heure italien
-cierge triangle éteint
-noir chapelle recueillir
+cierge éteint
+noir recueillir
 attente
 suavement
-monter chant miserere murmure
+monter chant murmure
 prière gémissante harmonie
-musique expirant envoler dieu
+musique expirant envoler
 redescendre nuage sembler
 instant renouveler plafond
-sixtine miracle messe pape
-grégoire grand oreille entendre
+miracle messe
+grand oreille entendre
 tomber répons ciel bouche
 séraphin
-xxvi
+
 revenir lentement arrêter
 église ouvert brillante mît
 éblouissemer oeil
-plein nuit sixtine
-voûte jusqu’ autel
+plein nuit
+voûte autel
 cascade ardent ruisseler marche
 escalier cierge
 passaient repasser soutane rouge
 sacristain allumeur mur
 pilastre riche coquet
-église marbre saint-antoine
+église marbre
 portugais étinceler millier
 girandole échelle colonnade
 if lustre changer paroi miroir
@@ -2571,18 +2571,18 @@ cristal feu éclair rubis
 incendie diamant jour fleuri
 étoile palpitation lueur battant
 fourmillement lumière
-rose illuminer chœur paraître ouvrir
+rose illuminer paraître ouvrir
 fond rideau pierre
-porte aveuglante gloire divin
-xxvii
-samedi saint intérieur
-donner monsieur gervaisai
+porte aveuglante
+
+samedi intérieur
+donner monsieur
 spectacle piété fauve
 apporte foi animal sauvage
-peuple campagne rome
+peuple campagne
 place trouver sable
 jaune marche buis effeuiller
-annonce pape offici pontificalement
+annonce offici pontificalement
 passer lourde portière soulever
 tête dos vieux mendiant
 long bâton flot monde
@@ -2593,14 +2593,14 @@ milieu homme orteil trouer
 espadrille veste culotte recoudre
 ficelle peuplade champ
 exhaler fermentation sueur
-odeur chaude humanité
+odeur chaude
 asseoir accouder étager marche
 escalier autel manger
 feuille artichaut
 dormir tête genou
-basilique sacro saint églis
-appeler omnium urbi orbis ecclesiarum
-mater caput plafond
+saint églis
+appeler ecclesiarum
+plafond
 reliquaire apôtre
 grésillement mosaïque pavé
 serpentin porphyre étendre
@@ -2617,7 +2617,7 @@ jupe femme
 pressaient roulée enfant pêle-mêle
 paquet mangeaille nouer
 linge
-monsieur gervaisai surprendre
+monsieur surprendre
 grand artiste avoir saisir sculpture
 pose lassitude méditation
 absorption aveuglement dévotion
@@ -2632,7 +2632,7 @@ campagne approcher bouche filet
 eau haut bouche
 autel lever magnificence
 grand colonne bronze doré
-bronze proue galère actium
+bronze proue galère
 admirer triple rang
 femme beauté dur presser serrer
 verser tasser
@@ -2645,36 +2645,36 @@ front main montrer
 cuivre gros bague farouchement
 songeur petit doigt
 lèvre
-xxviii
+
 grand jour dimanche
-pâques
+
 peuple agro romano paysan
 rouler manteau
 étendre place épar
 escalier couché étoile rappeler
-vigile résurrection
+résurrection
 bel ligne sommeil donner
 raphaël garde endormi sépulcre
 jésus pierre prêt lever
 immortalité
 voiture cheval
-rose oreille emporter monsieur gervaisai
+rose oreille emporter monsieur
 travers mouvement bruit
 tumulte heureux amour populaire
-fête religieux national rome
-buona pasqua
-trouver saint-pierre remplir foule
+fête religieux national
+
+trouver remplir foule
 irremplissable entendre messe victoire suivre
 peuple pousser sortir
 place
 marche noir monde
 grand escalier montant homme
 femme pèlerin coquille
-touriste lorgnette pâtre sabine
+touriste lorgnette pâtre
 pied multitude
 mère çà allaiter enfant
-sein nu borgo transtevere
-monti tasser autour obélisque
+sein nu
+tasser autour
 grimper barre fer
 relier borne soubassement
 piédestal socle
@@ -2697,11 +2697,11 @@ dragon point rouge
 plastron point blanc éclair
 casque partout fourmillement
 toit alentour fenêtre
-terrasse vatican colonnade
+terrasse colonnade
 couronne statue mettre
 ciel cercle public saint
 place bourdonner multitude murmurant
-chauffer temps lourd
+chauffer temps
 charger soleil flottant montrer
 coup midi
 tomber lentement rayon partit
@@ -2720,21 +2720,21 @@ oeil attendre
 avide dévorer regard fenêtre
 loggia abriter long velum
 toile pendre tapis velours
-ciseler brodé arme clémentxi
+ciseler brodé arme
 fenêtre resta vide fin
 chose montrer religieusement
 noir mystérieux
 mitre tiare muet solennelle
-annonce souverain fois roi
+annonce fois roi
 mitre croix
 cierge allumé défiler éminentissime
 cardinal patriarche
 mitré barbe blanc
 pâli dalmatique évêque
 oriental vieillard rappeler
-élu bienheureux vénérable
-docteur église peint vieux
-chapelle ombre grégoire ambroise
+élu vénérable
+docteur peint vieux
+chapelle ombre
 passer figure ressusciter
 presser furieux bombardement coup
 cloche tempête bronze tonnaient
@@ -2754,20 +2754,20 @@ candeur magnifique
 costume vit immobile
 gloire blanc
 lenteur auguste
-main vieillard lever monter
+main lever monter
 prendre ciel bénédiction
-sembler mot descendat super
+sembler super
 moment arrêter tremblant planante
 répandre verser
 terre
 xxix
-soir journée pâques monsieur
-gervaisai lasse fatigue
+soir journée monsieur
+lasse fatigue
 émotion semaine
 trouva courage force sortir
-envoyer pierre-charle voir honorine
+envoyer voir
 rue illuminée resta
-souvenir oeil demi-ouverts
+souvenir oeil
 flottant image saint grand
 jour
 avoir impression réveiller
@@ -2785,17 +2785,17 @@ plafond jambon perspective
 bande lard dessin
 couleur boucherie
 charcuterier fête flambante gaz
-monsieur fit -ell interrompre
-coup monsieur Monsieur joseph
-Monsieur joseph peppe
-oui monsieur bien monsieur
+monsieur faire -ell interrompre
+coup monsieur monsieur
+monsieur
+monsieur bien monsieur
 rappeler franc
 donner jour part monsieur
 note
 pièce
 avoir bien
 sûr
-falloir faire compte
+falloir compte
 parler compte
 jour avant-hier
 temps
@@ -2804,18 +2804,18 @@ monsieur soutenir
 positivemer
 monsieur être erreur
 bien étonner fit monsieur
-gervaisai sortant pensée
+sortant pensée
 sourire comprendre
-pauvre honorin pepp
+pauvre
 confesser avant-hier
 romain devoir confesser hier
 recevoir absolution
 pièce franc
 valoir
-xx
+xxx
 espace temps semaine
 éloigner effacer
-monsieur gervaisai mémoire semaine
+monsieur mémoire semaine
 saint sembler
 ressentir être ébranlement
 sensibilité secousse physique
@@ -2826,7 +2826,7 @@ nature comprimé refermée resserrer malheur fermeté
 hautain idée orgueil
 stoïcisme femme duremer maître
 reconnaître
-triste aimante cœur doucement
+triste aimante doucement
 gros
 être remuer
 sentir premier
@@ -2845,13 +2845,13 @@ jour saint irriter ferveur romaine image
 idolâtrie grossier
 blesser religion naturel délicat
 spiritualisme vendredi
-saint souvenir laisser colèr
+souvenir laisser colèr
 dégoût rester matérialité culte église
-piazza cierge
+cierge
 côté plat argent poser terre
 offrande vieux descente
 lit croix bois noir
-croix christ nerveux muscler décharner
+croix christ nerveux décharner
 colorié couleur morbide
 anatomie assassiner sang peindre
 autour adoration homme
@@ -2859,15 +2859,15 @@ femme patte choisir
 party frissonnant chatouilleuse
 corps divin promener
 amour
-image saint-père haute
-saint-pierre sixtine balcon
-loggia perdre caractère auguste
+image haute
+balcon
+perdre caractère auguste
 diminuer rencontre
 trouver thermes antonin
 petit chemin courant vigne
 paysan tomber genou
 foudroyé petit carrefour
-latina croix rouiller
+rouiller
 porter colonne antique
 mur grille tête
 cyprès apparut figure blanc chapeau rouge doigt lever
@@ -2875,22 +2875,22 @@ bénir face bénigne petit
 point noir oeil grand
 bouche fin tête
 malice homme être
-monsieur gervaisai voir jour
-pape
-xxxi
+monsieur voir jour
+
+
 hâte désordre départ
-malade monsieur gervaisai laisser
+malade monsieur laisser
 portrait portrait enfant
 redemander vouloir
-mère lit rome
-petit chambre pari
+mère lit
+petit chambre
 après-midi accabler chaleur
 étendre lâche travail
 songerie réminiscence
 recevoir portrait venir arriver
 valise ambassade faire sauter
 cachet boîte contenir petit cadre revoir an miniature
-monsieur mirbel
+monsieur
 âme
 oeil lever instant léger aquarelle
 nuage couleur ivoire
@@ -2901,19 +2901,19 @@ réapparut coiffer cheveu
 gros papillon coiffure donner
 piquant physionomie exotique
 parisien premier année régner
-louis-philippe fleur fombonne
+fleur
 bruyère blanc rose
 haie jeter travers boucle
 robe tull illusion
 maille satin blanc ceinture
-bleu mademoisell mode
-hiver hiver 1836
+bleu mode
+hiver hiver
 bal m.laffitte père
 soir -là trouver charmante
 vouloir garder image
 montrer petit
 histoire portrait rappeler
-bal revoyait revoir tenture petit salon velours brodé soie
+bal revoyait revoir tenture petit salon brodé soie
 croire entendre
 demande voix bas nom
 jeune connaître
@@ -2939,15 +2939,15 @@ ménage père fille uni
 bout âge bien mêler
 père air porter sourire fille fille pensée père
 presque religieusement repasser
-aimante sérieux jeunesse
+aimante sérieux
 grave bonheur côté vieux
-conventionnel ancien homme sang
+ancien homme sang
 humaniser tendresse inconnu
 paterniter amoureux grand’père
 vieillard arriver joie soudain
 fille inespérer
 an
-xxxii
+
 souvenir devenir coup
 pénible aller mariage mariage
 désirer père pressentiment
@@ -2961,7 +2961,7 @@ intelligence bonheur dernier jour vœu mort
 sacrifier repasser triste premier
 année gris mariage
 année vide patient résigner monotone
-union amour amitier
+amour amitier
 estime année homme
 homme bon mauvais
 aimer égoïste jeune vieux
@@ -2981,7 +2981,7 @@ opinion hauteur place officiel
 importance
 vie homme
 société insupportable intelligence
-blessant pénible choc physique penser commun
+pénible choc physique penser commun
 mot idée révolter
 fibre délicat spirituel
 moment héroïsme
@@ -3001,7 +3001,7 @@ discret femme jaloux
 bas envie jaloux amère conscience
 inégalité haine
 envenimer contact frottement journalier
-côte côte ménage jaloux
+côte côte ménage
 colère rentrer rage blanc
 homme monde persécution
 hypocrite persécution lassant incessant
@@ -3020,17 +3020,17 @@ cruauté perpétuité tête à tête
 an an
 réfugier distraction
 sec consolation austère livre
-an rachel écriture
+an
 crier vainement bourreau
-Monsieur donnez enfant
+monsieur donnez enfant
 mourrai an mère
 enfant -là
-regarder pierre-charle siest
+regarder siest
 doux canapé pur visag
 sommeil arrêter souvenir
 tardif bonheur maternel temps
 grand tristesse venir figure
-xxxiii
+
 temps vie poursuivit
 attacher retirant
 présent lecture commencer
@@ -3038,37 +3038,37 @@ présent lecture commencer
 inoccupation inactivité moral
 prendre jour secouer
 repos malsain rêverie mettre
-fuir courir rome entraînement
+fuir courir entraînement
 force nerveux
 matin soir aller
 place carrefour travers
 ruine édifice effet lumière
 pittoresque chose être
 pierre peuple rencontrer
-place navone place raviner
+place place raviner
 inondation mois août
 encombrer marché légume
 bric-à-brac bouquin autour
-décor pannini obélisque fleuve cheval marin jaillissement
-fontaine retrouver portique
-octavie plein ghetto mur
+décor obélisque fleuve cheval marin jaillissement
+fontaine retrouver
+octavie plein mur
 moyen âg barré
 loquet énorme percer judas grillé
 boutique inquiète juiverie fumier
 chiffon picorer poule
 chaise dépailler arrêter
-palazzino farnèse
-temple antonin pieu
+palazzino
+temple antonin
 colonne prisonnier douane
 masse enfumé trouer
-caverne forger être théâtre
+caverne être théâtre
 marcellu aller partout accueillir
 sorte étonnement
-rome commencer reconnaître
+commencer reconnaître
 mère enfant
 costume noir éternel robe
 toilette velours fourrure
-monsieur gervaisai porter habitude
+monsieur porter habitude
 malade frileux straniera
 grand dame sembler marcher
 pavé paraître
@@ -3079,7 +3079,7 @@ trouvaille journalier curiosité
 rencontre hasard palais
 grillager fer toile araignée auge
 tombe antique coller
-relief nymphe triton
+relief triton
 épluchure salade rampe escalier
 dormir sommeil statu
 mendiant style imprévu choc
@@ -3092,49 +3092,49 @@ industrie métier friturerie
 fumante cuisine plein
 vent boutique presque arabe
 type costume acquaiuolo rotonde
-orange citron boucher
+orange citron
 blanc air sacrificateur plumeur
 poulet tisseur corbeille jonc
 genou carrettiere vino
 cheval empanacher plume coq guérite peau bête carillonnant
-sonnette rue rome rue roux
+sonnette rue rue roux
 soudain éclater rire blanc
 fleur blanc corsage femme
 transparence tablier
 jupe rose rouge collier
-corail brun oranger cou
+brun oranger cou
 chaleur temps cocher appeler
 tempo matto temps fou
 ondée minute mouiller pavé
 presque aussitôt ressuyé remontrer
 dé mosaïque blanc arrêter poindre
-grand course monsieur gervaisai
+grand course monsieur
 déplaire aspect
 vicolo éteindre violet gros
 nuag pluie ciel théâtrau orage
 éclaircie blafard
 déchirure gigantesque tourmenter
-rome dresse monumental
+dresse monumental
 air
 admirer vivacité
 vouloir exciter admirer dire
 haut beau
 dimanche prendre habitude
-passer matinée campo fiori place devenir forum
+passer matinée campo place devenir forum
 campagne romain abriter étroit
 lisérer ombre mur marche
-boutique close rangée mâle
+boutique close rangée
 homme asseoir bâton
-pied bâton hercule
+pied bâton
 main jambe garni
 dépouille mouton fonds
-albergo del sole laisser voir
+del laisser voir
 crasse voût jaune
 âne banne enfant
 petit fille bercer pied
 place brûler plein midi
 flamme lumière grand
-bande tombola lire lire 6,000
+bande tombola lire
 grouper parler mêler
 coudoyer homme vêtu
 couleur usure vert mousse
@@ -3153,11 +3153,11 @@ place disparaître décoration humain
 ornement sévère grandeur
 repos groupe asseoir contadine accouder
 appuyé pose rêverie
-souverain dessinée michel ange
+souverain dessinée ange
 ombre visage paraître
 bronze éblouissement blanc
 panno fichu
-monsieur gervaisai prendre croquis
+monsieur prendre croquis
 faire venir
 femme souci défense
 médecin commencer
@@ -3168,26 +3168,26 @@ boîte couleur surprise reconnaître
 vite guérie caprice
 espérer trouver pâtur passion
 xxxiv
-rester rome rome
+rester
 mort jeter intérêt
 enfoncer lecture historien
 antiquaire topographe
 dernier travail science
-reconstruire temps rome
-roi rome république rome
+reconstruire temps
+république
 empire aller chercher livre
 main place vestige légende
 événement présence endroit
 donner vision récit
 rappeler histoire lire air
 ciel faire revivre oeil passé
-ranimer temple vénus cloacine
-revoir geste virginiu arracher
+ranimer temple
+revoir geste
 étal boucher couteau
 tuer fille forum redevenir
-champ cincinnatu
-figurer césar passer dernier aller reggia
-curie pompée
+champ
+figurer césar passer dernier aller
+curie
 visiter musée galerie
 trésor basilique villa
 mur souvenir remplir ville
@@ -3199,42 +3199,42 @@ métier boutique mort
 retrouver peuple retrouver
 héros maître tyran
 statue buste tirer hasard
-fouille panthéon gémonie
+fouille
 approchaient contemporaine
 défilé monstre
 stoïque aïeul sagesse humain
 fou furieux pouvoir païen
-galerie portrait tacite salluste
-suétone histoire auguste interroger
+galerie portrait
+histoire interroger
 figure troubler
 démenti donner postérité
 inquiet contradiction hasard
 injustice visage prêter
-trajan crâne imbécillité néron mensonge beauté moral étudier
+crâne imbécillité mensonge beauté moral étudier
 front écrasé aplati
 faix monde ridé
-sillonner pli carte strabon
+sillonner pli carte
 physionomie tourmenter bien sévèrement
 apaisée ici sérénité douloureux
 suprême philosophe
 impérial majester porcine expression
 presque moderne antonin digne
-surnom pieu attention passer
+surnom attention passer
 tomber ranger succession
 tragique dispute sanglant
 pourpre lambeau descente
-empereur pourriture césar
+empereur pourriture
 mouler marbre corrompu
 type extrême sensualité bestial
-gâtisme toute-puissance
+gâtisme
 statue
-impressionna césar auguste
+impressionna césar
 cheveux gerbe croiser couronne
-cuirasse iliade draperie
-calme jeter bras porte-sceptre
+cuirasse draperie
+jeter bras porte-sceptre
 pareil dieu impassible commandement
-monsieur gervaisai venir
-braccio nuovo admirer moment soleil faire auguste oeil
+monsieur venir
+nuovo admirer moment soleil faire auguste oeil
 ombre
 attachement pareil jouissance
 semblable visite heure favorable
@@ -3244,20 +3244,20 @@ air dôme trouer
 grandeur pendant monument attiraient
 charme intime familier
 espèce amitié personne
-rome donner
+donner
 lieu chose
-xxxv
+
 milieu étude promenade
 faire déclin jour mai
-appia laisser
+laisser
 grand souvenir ému antiquité
 heure milieu
 murmurant harmonie susurrement
 universel recueillement las journée finie trouver grand champ
-plaine vert désert ruine héroïque
+plaine désert ruine héroïque
 traverse vol aigle
-césar semer joncher colonne débris
-temple ligne aqueduc
+semer joncher colonne débris
+temple ligne
 lever ensevelissement herbe
 droite gauche partout perte vue
 morceau monument histoire
@@ -3265,8 +3265,8 @@ manger nature
 étendre spectacle campagne
 mamelonnée creux commençaient
 emplir ombre chercher
-lit terrain velouté doré
-lumière frisant montrer jusqu’ infini
+terrain velouté doré
+lumière frisant montrer infini
 plan déroulé majesté architecture
 arcature renaître
 brisure pont victorieux éternel
@@ -3275,16 +3275,16 @@ orange chaleur tomber jour
 apothéose recommencer
 débris reste
 arcature rapetisser éloignement
-perspective jusqu’ fond
+perspective fond
 horizon perdre brouillard
-montagne latium balayée balafrer nuée grise déchirée rose
-longer mausolée cécilia
-metella appia continuer
+montagne latium balayer balafrer nuée grise déchirée rose
+longer mausolée
+continuer
 plaine brise soir leva
 pierre soulevée immense tombeau
-monsieur gervaisai envelopper
+monsieur envelopper
 châl fraîcheur songeur
-rêver penser grand rome
+rêver penser grand
 menaient avenue tombe
 planter long route
 départ lieu
@@ -3298,14 +3298,14 @@ couleur vague lentement
 défiler sembler marcher
 voiture rue sépulcre
 rotonde pyramide
-édicule cippe piédestal
+édicule piédestal
 statue bas-relief fruste
 morceau torse enfoncer
 héros couper ventre tas gravat sculpté famille buste
 regard pierre user tumulus dévasté
 volé forme
 columbarium éventrer sarcophage désert
-prière crouler manibu
+prière crouler dî manibu
 çà pencher vainement
 essayer épeler nom nom
 romain mémoire monde
@@ -3323,39 +3323,39 @@ côté campagne douteux
 dresser fantôme olivier bientôt
 mur ténèbre découpure
 arrêter rigide maison bâtisse
-toit pin italie travers
+toit pin travers
 mystère sourd puisser neutre
 alteinte montant terre pays air jour poursuivre chemin
-noir bout bout rome
+noir bout bout
 dôme détaché dessiner ligne
 nuit violet bande
 ciel jaune jaune rose ther
-xxxvi
-fréquenter vatican capitole
+
+fréquenter
 vivre long heure trésor
 relique marbre pierre
 bronze monde sculpture sentiment
-dominer bientôt monsieur gervaisai
+dominer bientôt monsieur
 pur intérêt archéologique
 femme goût supérieur
 goût sexe élever intelligence
 jouissance beau absolu beau
 statuaire antique admiration
 passionner perfection image
-humain ciseau artiste paraître
+humain ciseau paraître
 dépasser génie homme
-demeurer contemplation effigie dieu déesse matériel
+demeurer contemplation effigie dieu matériel
 sacrer isi serein pacifique
-junon superbe altier viril minerve
+junon superbe altier viril
 imposant porter majesté
 pan robe vénus peau
 marbre polie caresser
 baiser amour siècle pêle-mêle
-immortelle olympe empereur
+empereur
 empire représenter presque
-divinement nu sabine femme
-adrien arrêter visite monsieur
-gervaisai corps enveloppé
+divinement nu femme
+arrêter visite monsieur
+corps enveloppé
 étoffe mouiller embrasse baigne
 serre coller membre
 voile marbre pointe sein
@@ -3377,31 +3377,31 @@ patte lever dent panthère
 bord vase enrouler ronde
 bachique socle lever type
 admirable éphébisme grec
-jeunesse antique dessiner apollon
+jeunesse antique dessiner
 long visite finir jamais
 faire dernier station recueillement
 banc face bloc mutiler
 sublime passer repasse
 sentinell siècle retrouva
 hallebardier suisse torse torse
-apolloniu tronçon dire
-détacher ciel grèce
+tronçon dire
+détacher ciel
 beau jour briser
 membre grand chef œuvre
 tomber monde
-xxxvii
+
 passion beau païen dernier
 refuge âm inquiète tourmenter
-passion sincère rome antique
-arriver cacher rome catholique
+passion sincère antique
+arriver cacher catholique
 haie statue
-image pétrifier monsieur gervaisai
+image pétrifier monsieur
 sentir atténuer
 effacer coup évolution
 idée retourner admiration
-veille art apparaître
+veille apparaître
 représentation force
-santé beau physique découvrir
+santé physique découvrir
 sensuel froideur
 apercevoir corps
 exécution miracle outil
@@ -3412,7 +3412,7 @@ ici beauté immobile insensibiliser inexpressif presque inhumain
 beauté faunesque animer joie
 ivre capricant malfaisant
 âge champêtre bestial homme primitif
-tête luciu veru toison
+tête toison
 friser cheveux dévorer front
 grand oeil bovin dur nez
 fort énergie mâchoire planter barbe
@@ -3444,14 +3444,14 @@ mort compassion
 souffrance attendrissement
 malheur larme larme
 monde fer faire faiblesse
-lâcheté pitié
+lâcheté
 fin salle
-penser élever involontairement christianisme
+penser élever involontairement
 recréer homme frère
-homme rapporter humanité univers
-cœur
-xxxviii
-art païen ramener
+homme rapporter humanité
+
+
+païen ramener
 croyance rejeter mâle ferme réflexion jeunesse
 femme croire bien
 mourir vainement essayer résister
@@ -3485,10 +3485,10 @@ briser
 xxxix
 vide pensée solitude
 tête jour lever raison
-motif cause figure christ
+motif cause figure
 avoir coup soudain père
 moderne église appeler rencontre
-jésus christ rencontrer
+rencontrer
 détour rue imagination
 femme venir trouver
 face face constante
@@ -3497,7 +3497,7 @@ aimable maître présent
 présence être histoire
 légend souvenir continu
 renaître revenir vie errant
-prédication vagabond désert campagne judée cueillir
+prédication vagabond désert campagne cueillir
 simplicité nature charme agreste
 parabole arbre herbe
 moisson vendange grain
@@ -3506,48 +3506,48 @@ chemin long blé mûr disciple
 suivaient manger épi
 revenir parler horizon
 air libre tribune infini
-mettaient parole montagne
-mer fois bout
+mettaient parole
+fois bout
 barqu tutoyer tempête
-dire tai aimer arrêter
+dire taire aimer arrêter
 croire tendre miracle
-sauveur laisser tomber cadavre
-lazare larme humain
+laisser tomber cadavre
+larme humain
 homme voir
 homme semer bien approcher
 malade attoucher souffrance
 consoler langueur infirmité
 annoncer loi charité
 pardon humble populaire fraternel
-pauvre appeler royaume dieu
+pauvre appeler
 malheureux opprimé déshérité
 petit simple jeter affliction mot nouveau évangile heureux
 pleurer consoler passer
 poétique terre roi douleur
-devoir mélancolie
+devoir
 monde
 attacher suave mémoir
 patron
 sexe aimer femme crèche
-croix enveloppé pardonner
+enveloppé pardonner
 faiblesse reconnaître
-parfum être femme
+être femme
 choisir donner aube
 résurrection
 mêler pensée contemplation
-raphaël chercher beauté
+chercher beauté
 ligne pureté tête peintre
 fixer arrêter portrait matériel
 vision visage jésus
 flotter trembler vue rêvant
 oeil effigie brouiller
-voile véroniqu
+voile
 xl
 méchant moqueri petit camarade
 cruel mot enfant
-infirmité fils monsieur gervaisai
+infirmité fils monsieur
 entendre hasard inspirer
-idée apprendre lire pierre-charle
+idée apprendre lire
 donner distraire désœuvrement
 pensée besogne
 astreignant pénible savoir avance
@@ -3560,8 +3560,8 @@ vue élève juger
 inutile essayer montrer
 borner uniquement garder
 heure jour jouer plupart
-temps carte giuseppe
-monsieur gervaisai donner conger archiprêtre lendemain déjeuner
+temps carte
+monsieur donner conger archiprêtre lendemain déjeuner
 montrant fils alphabet
 neuf genou appela
 figure volonté
@@ -3579,7 +3579,7 @@ gosier travail arrachement crispation
 faire peine voir mettre
 autour oeil pâleur émotion
 douleur enfant
-monsieur gervaisai promettre
+monsieur promettre
 faiblir souffrir
 faire souffrir tint
 heure prescrire
@@ -3596,7 +3596,7 @@ mère monter cœur amour
 rage désespoir aveugle fou
 mettre coup frénétiquement trépigner
 pied répéter
-pierre-charle
+
 sauter excité agité
 avoir besoin arrêter main
 mère poser regard long
@@ -3607,30 +3607,30 @@ enfant rester énerver absorbé
 amuser bégayer
 parole air opprimer triste
 malheur injuste enfant
-
-monsieur honorine parler
+xli
+monsieur parler
 mère nuit
 oh gueuse lettre
 cherche
 lit pleurer pleurer
 petit homme monsieur finir malade
-monsieur gervaisai répondre
+monsieur répondre
 renoncer projet
 vœu tâcher ôter douleur
 leçon chercher moyen mécanique
 faire souvenir enfant procédé
 mémoire rappeler
-lire livre éducation essayer
+livre éducation essayer
 mnémotechnie trouver ingénieuse
 imagination mère petit
 tête paresseux leçon
 sévérité leçon
 caresse douceur encouragemer appel enfant effluve tendre
 éducation maternel moment
-sembler prier intelligence pierre-charle
-dire voyon
-pierre-charle falloir lise
-petit ami renaître
+sembler prier intelligence
+dire
+falloir lise
+petit ami
 lire veux bien
 lire beau
 enfant pencher ramasser
@@ -3639,7 +3639,7 @@ jarret plier rassembler
 concentrer attention
 faire sortir mère
 demander difficile
-reprendre monsieur gervaisai
+reprendre monsieur
 petit mère
 jusque-là
 leçon arrêter effusion
@@ -3652,28 +3652,28 @@ sensibilité trouble larmoyer
 jour
 monsieur
 honorine accourir porte
-monsieur gervaisai revenir promenade
-jour -là pierre-charle paresseux
+monsieur revenir promenade
+jour -là paresseux
 vouloir accompagner
 monsieur bien
 malade malade pauvre petit
 malade
-monsieur gervaisai courut chambre
+monsieur courut chambre
 fils trouva coucher lit
 mal enfant chéri
 précipiter petit
 mère mal
-pierre-charle
+
 hein di
 tâter corps
 tact main mère trouver
-enfant souffrir
+enfant
 répéter enfant
 oeil rouler orbite
 main porter machinalement
 narine
 toucher front
-brûler
+
 prendre main
 fièvre médecin vite
 honorine
@@ -3682,12 +3682,12 @@ coin lèvre
 expression sardonique affreux
 enfant donner symptôme
 mal dent serrer
-médecin pierre-charle lire
-monsieur gervaisai devint pâle
-jeter genou enfant prendre
+médecin lire
+monsieur devenir pâle
+genou enfant prendre
 main garda pardon moite
-caresser bouche jusqu’
-honorine ramener docteur monteron
+caresser bouche
+honorine ramener docteur
 docteur regarder enfant
 air mécontent murmurer
 dent consulter mot
@@ -3695,7 +3695,7 @@ convulsion retourner mère
 petit ami
 contrariété fatigue cérébral
 bien docteur écrier
-monsieur gervaisai dire
+monsieur dire
 tuer tuer
 mourir pouvoir bien vouloir idée imbécile
 être
@@ -3724,9 +3724,9 @@ berceau doré drap blanc petit corps drap gros bouquet
 fleur tête couronne
 blanche pied bien
 
-docteur regarda regarder mère
+docteur regarder regarder mère
 place dou mystère
-heure mort rome véritable annonciation
+heure mort véritable annonciation
 nuit passer convoi blanc
 enfant
 mère retourner jeter
@@ -3762,13 +3762,13 @@ crise jour exaspérer
 lumière solaire
 xlii
 duremer
-monsieur gervaisai honorine revenir
+monsieur revenir
 antichambre sonner
 monsieur dame
 maison venir voir enfant
 vouloir voie
 apercevoir femme glisser
-timidement honorine
+timidement
 égarement personne
 reconnaître peine
 vouloir
@@ -3776,33 +3776,33 @@ vouloir
 oh monsieur dire femme
 intimidée retirer
 pardonnez aller
-
-
+san-agostino
+san-agostino san-agostino
 vouloir
 san-agostino
-oh monsieur bien madonna
-del parto madone enfant
+oh monsieur bien
+enfant
 mère
-monsieur gervaisai état
+monsieur état
 préoccupation fixe penser
 médecin guérisseur
-charlatan mot madone
+charlatan mot
 avoir sourir méprisant presque
 amer
 coup brusquement
 soudain involontaire inconscier
-bien honorine fait
+bien fait
 donner châl
 chapeau voir bien
 dame attendre
 rue femme
 étourdissaient guérison opérer
-madone histoire enfant sauvé
+histoire enfant sauvé
 femme couche rétablir parler
 dernier récent miracle
-être bruit édification rome
+être bruit édification
 princesse nommaient
-donner madone peigne
+donner peigne
 diamant rendre
 santé fils vouloir
 fils guéri ravoir peigne donner
@@ -3811,7 +3811,7 @@ oser poindre reprendre
 reprît monter
 chaise jamais arracher
 peigne tête statue
-monsieur gervaisai écouter entendre
+monsieur écouter entendre
 parole
 bourdonnement aller compte obéir
 mouvement mécanique
@@ -3829,22 +3829,22 @@ vieux carreau verdir milieu boiserie
 vermoulue recoin ténèbre
 sordide pourrir saleté
 sembler sainteté vierge respecter
-monsieur gervaisai voir flamboiement
+monsieur voir flamboiement
 cierge lampe autel feu
 bijouterie allumée braisillant
 robe pierre précieux habiller
 marbre vierge bambino
-marbre chaud éclairer
+marbre éclairer
 dessiner noir jaune
 flambé fumée cire patine culte marbre
 adorer recuit teint mulâtre
 idole
-monsieur gervaisai finir distinguer
-bel vierge sansovino
+monsieur finir distinguer
+bel vierge
 bel main long doigt fuseau
 avançant corps enfumé incertain
 douteux assombrir caparaçonnement
-joyau rang perle collier
+joyau rang collier
 écrasant couronn dôme
 diamant oreille gorgerin pierreries
 poitrine bracelet
@@ -3857,7 +3857,7 @@ bras enrouler cape chapelet
 médaillon chaîne
 ventre sanglé jambe
 jambard émeraude apercevoir
-vierge bout
+bout
 draperie marbre pied
 pied user dévorer baiser
 moitié refaire palmer doigt adoration bouche usure
@@ -3870,10 +3870,10 @@ peinture barbouillage ingénu
 figurer enfant lit blessé
 malade éternel trou céleste
 mur apparition
-vierge bambino fond chambre
-au-dessus médecin habit noir
+bambino fond chambre
+au-dessus médecin noir
 image moment étonner
-œil monsieur gervaisai
+œil monsieur
 droite statue
 mettre regarder machinalement autour
 obscurité pieux agenouillement
@@ -3890,9 +3890,9 @@ classe figure prêtre
 fin profil menton appuyer
 main joindre doigt noué
 mouvement donataire
-vitrail prière rampant jupe
+vitrail prière rampant
 soie jupe indienne côte
-côte coucher presque génuflexion
+coucher presque génuflexion
 terre prière désespoir
 venir quitter lit mourant
 vouloir mort
@@ -3905,7 +3905,7 @@ peine entrer devenir ombre prendre
 eau bénit bénitier noir tenir
 ange blanc tomber genou
 coup jambe casser relever marcher
-droit pied vierge déposer
+droit pied déposer
 baiser poser second
 front orteil rebaiser ensuite
 tremper doigt huile lampe toucher front
@@ -3913,11 +3913,11 @@ milieu adoration balbutiant
 contemplation extatique
 attitude fasciner immobilité mort
 couper signe croix
-vierge second second entendre
+second second entendre
 bruit baiser pied pied
 adorer monde idolâtrie
 bouche décoller jamais
-émouvoir troubler sanctuaire
+émouvant troubler sanctuaire
 coin san-agostino chapelle
 ombre ardent nuit apparence
 grand marbre ranci affadissant
@@ -3940,12 +3940,12 @@ part monde oreille
 ciel
 romaine finir
 dévotion attendre porte
-monsieur gervaisai planter
+monsieur planter
 visage muet fermé lorsqu’
-mère porter petit fiévreux enfant
+mère porter petit fiévreux
 pencher tête pied vierge
 pauvre petit laissa tomber baiser
-soudain mue
+endormir soudain mue
 ressort bousculer voir
 chaise mère marcha
 droit piédestal jeter follemer
@@ -3955,10 +3955,10 @@ remonter lèvre briser
 sanglot
 femme
 oublier parla
-xliii
+
 jour docteur dire monsieur
-gervaisai
-cher monsieur regarder enfant
+
+chère monsieur regarder enfant
 oeil revenir
 pupille dilater petit
 avant-brer extension brusque
@@ -3974,11 +3974,11 @@ grâce maladie -là
 rester
 beau san-agostino reprendre
 sourire bel cure
-madone venir donner petit coup épaule indigne docteur monteron
-voyon cher docteur bien
+venir donner petit coup épaule indigne docteur
+cher docteur bien
 fini promettre être sûr
 cher monsieur
-fois regarder calme agitation
+fois agitation
 rentrer équilibre état
 nerveux
 pencher enfant examiner
@@ -3995,21 +3995,21 @@ parler tenir docteur
 vivre vivre
 demande laisse
 venir
-donner voir dieu prendre
+donner prendre
 beauté oui dire
-avoir raison pauvre mèr
+avoir raison pauvre mère
 illusion empêcher chose pareil arrivait faire
 médecin reprendre gaieté
 bavard hôtesse
 répandre histoire quartier
 prêtre fratoni beau
-bruit rome français
-femme pays voltair
-madone rendre corps âme
+bruit français
+femme pays
+rendre corps âme
 enfant oh congrégation
-rite occuper être obliger
-donner attestation madone
-docteur être méchant
+occuper être obliger
+donner attestation
+être méchant
 heureux laisson tenir
 reprendre -ell air embarrasser
 lendemain femme
@@ -4027,14 +4027,14 @@ remplir fils vivre
 inonder joi immense
 terreur maladie allégemer
 bienheureux possession embrassement
-pierre-charle sauver
+sauver
 jouissance convalescence
 renaître donner second
-fois enfant mère monsieur gervaisai
+fois enfant mère monsieur
 occuper voir
 revivre enfant
 aimer
-aimer amour jaloux
+aimer amour
 âpre amour retremper larme
 anxiété gâter donner
 oubli rouvrir petit cœur moment
@@ -4056,7 +4056,7 @@ marquer
 exprimer
 langage oeil main
 docteur vrai
-beauté visage petit
+beauté avoir visage petit
 malade désarmer maladie convulsion
 passer
 trace toucher ligne
@@ -4068,16 +4068,16 @@ breton changement
 venir crise coin
 lèvre ombre duvet follet sembler
 enfant tardif intelligence
-précocité nature puberté
-xliv
+précocité nature
+
 rétablir monsieur
-gervaisai emmenait castel-gandolfo
+emmenait
 résoudre passer
 année chaleur mois juillet
 août enfant partir bonheur
 enfant changer place
 fois sérieux oeil souriant voiture
-quitter mur brûlant rome
+quitter mur brûlant
 entrer campagne sec roussir
 tacher çà place noir pareille
 endroit brûler grand
@@ -4089,12 +4089,12 @@ immobile ciel entièrement strier
 blanc lointain montagne apparaître
 côte apercevoir
 bateau aspect rocher azuré sortir basse vapeur
-méditerraner
+
 route commencer monter
 venticello venir apporter
 fraîcheur voyageur haie rose
 paysan porter rose oreille
-annonçaient albano voiturier traverser
+annonçaient voiturier traverser
 grand trot rue maison
 gris cendre engager
 galerie chemin corniche
@@ -4104,10 +4104,10 @@ ombre forêt étroite percer
 montraient infini vue poussière
 lumière marine
 bientôt ouvrir mur créneler
-large unique rue castel-gandolfo
+large unique rue
 fond palais
-pape balcon bénédiction
-rue maison jaune jupe
+balcon bénédiction
+rue maison jaune
 rouge femme pullulement
 marmaill marche escalier
 trou étrange porte fenêtre
@@ -4115,7 +4115,7 @@ bâtisse écrouler ouvrir
 vide morceau bleu bleu lac prendre
 bleu ciel renverser
 xlv
-castel-gandolfo endroit abandonné
+endroit abandonné
 coin désert
 passer place inanimer muet
 gamin jouer marelle italien
@@ -4128,7 +4128,7 @@ tige graminée chevet
 église église montrer oubli
 décrépitude siècle fronton
 effacer fenêtre boucher balcon
-desceller pendre morceau grille
+desceller pendre morceau
 grand porte pourri vieux plâtre
 manger mousse jaune
 côté pressentir délabrer lépreux ruine église pauvre
@@ -4137,48 +4137,48 @@ grand promenoir baie carrer
 permettre embrasser campagne
 être maison
 blanchir chaux étage
-supérieur monsieur gervaisai
-installer meuble louer rome
+supérieur monsieur
+installer meuble louer
 fleur store préférer confortable
 trouver
 appartement grand rue plaisir
 jour abriter soleil vivre
-air jouir paysage petit lac
+air jouir paysage petit
 eau solitaire bleu dormant
 plénitude rond coupe
 ancien volcan immobilité
 ride ceinture bois
 sauvagerie coquet poétiquement
 appeler petit lac
-pays miroir diane
-xlvi
+pays miroir
+
 mois lorsqu’
 écrivit frère
 commencer croire cher frère
 occidental apporter
-midi provision force
+provision force
 nerveux épuiser bout
 temps impossible renouveler
-être appeler
+être
 voudra défaut
 présent
 bien aller mieux bien
 année souffrir débarrasser
 continuelle craindre anxieux
 souffrir honorine
-voit sauver courage
+voit courage
 désabuser meilleur
 état santé sentir pris
-sorte torpeur physique marche promener plaisir
+sorte torpeur physique march promener plaisir
 roulement voiture emporter
-délicieux environ ici aller
+délicieux environ ici allante
 venant prête mouvement
 coûter corps effort entraînement
 exiger ordinaire malaise
 malade rencontrer
 société ici dire être
 presque disposition voir
-côté vailler
+côté vailler voi
 venir immense paresse tête
 fatigue lire penser occuper
 sérieusement spirituellement livre
@@ -4196,13 +4196,13 @@ contemplation demande
 pays ici lac eau immobile terre muette
 sérénité ciel opiniâtre splendeur
 impassible bleu nature
-italie trop beau
+trop beau
 beau périr oh pluie
-france
+
 crise
 pauvre petit chéri passer être coup
 rester assommer
-voir oeil
+voyai oeil
 grandir chose singulier
 arriver temps
 sentir vide solitude
@@ -4215,9 +4215,9 @@ jamais pourtant aimer
 aimer remplir
 autrefoi ici plaisanter
 sûr bâtir roman remarier
-prince mettre
+mettre
 dire compte sentiment
-femme tendre tromperai bien cher frère cœur
+femme tendre amoureux tromperai bien cher frère cœur
 affection
 humain falloir
 manque vide
@@ -4232,11 +4232,11 @@ habitude mener court chemin
 fatigue abrité long
 magnifique avenue galerie
 falloir minute passer
-petit vierge bois route arriver
+petit bois route arriver
 bout allée ouvrir place
-rond église franciscain
+rond église
 place entourer semer station
-petit autel dresser lever lac
+petit autel dresser lever
 fer signe croix
 milieu chêne vert énorme
 oranger monstrueux tailler
@@ -4250,7 +4250,7 @@ tournant banc rustique inviter
 repos lieu dormir jour
 soleil tomber goutte
 embrasser horizon
-pareil grand sourir lac
+pareil grand sourir
 doux ligne serpentant colline
 face ondulant fumeuse gauche
 grève perdre vapeur
@@ -4260,10 +4260,10 @@ sein tari volcan redescendre
 aller mourir molle
 perspective rayonnant poudroyant
 splendide bleuâtre détacher
-ruine griller rocca del papa monte cavi point blanc madonna del
-tuffo grand mur loin
-palazzo fradi
-jour monsieur gervaisai
+ruine griller del point blanc del
+grand mur loin
+
+jour monsieur
 chêne oeil glisser détaché
 livre apporter ordinaire
 oublier bientôt lire regarder
@@ -4272,9 +4272,9 @@ battre joue tomber
 poitrine toilette excentrique
 déboucha galerie faire petit
 étonnement voyant
-arbre salua monsieur gervaisai
+arbre saluer monsieur
 asseoir attirer silencieusement
-pierre-charle enfant
+enfant
 connaître entra fils
 mère sorte immédiat voisinag
 amical présentation
@@ -4282,43 +4282,43 @@ rencontre sympathique mot
 parole aisance original familiarité
 conquérant grand
 dame russe secret apercevoir
-volume côté monsieur gervaisai
+volume côté monsieur
 geste grâce léger excuser
 indiscrétion rejeta coup ongle couverture livre laissa
 voir titre essai indifférence
 matière religion
 fond gouffre
-fond gouffre Monsieur abbé
-lamennai
+fond gouffre monsieur abbé
+
 sèchemer refermer
 volume regard attention
 idée eurent air quitter voisin
-aller perdre ciel lac
+aller perdre ciel
 contemplation finir lever
 incliner politesse rare
-monsieur gervaisai
+monsieur
 arbre espérer
 monsieur
-xlviii
+
 semaine
 arbre communion
 rapide intimité subit
 âme attendre rapproche hasard ouvrir
 étranger épancher confidence
-secret vie monsieur gervaisai
+secret vie monsieur
 prendre leçon italien prêtre vieillard aimable gai parler jamais religion étude plaire beaucoup tomber malade mourut mère proposer aller enterrement accepter grand cœur pauvre homme sembler devoir souvenir peine entrer église voix intérieur hai religion catholique sera jour catholique pleurer temps durer office savoir mort voix faire pleurer désespoir éprouver an mère annoncer convertir religion catholique quitter religion grec nuit passer pleurer serment jurer
 obscurité jamais changer religion soir répéter soir -là soir enterrement serment prononcer mettre prier jésuite
 mère vouloir faire
 vœu an être mettre
-correspondance mère général
-sacré cœur bien vouloir consentir
+correspondance général
+bien vouloir consentir
 recevoir considérer
-membre société retenir
+membre retenir
 monde
 an loin
 mois finir
-comtesse lomanossow
-xlix
+comtesse
+
 régulièrement femme
 rencontrer retrouver
 heure chêne vert premier
@@ -4332,23 +4332,23 @@ quelquefois tomber récit
 détail martyrologe catholique
 famille dire homicide mariage
 aïeul grand nom
-russie condamner empereur
+condamner empereur
 ann épouser bohémien octogénaire
 maison glace lit
 nuptial glace faire lendemain
-levée cadavre raidir horrible
+levée cadavre horrible
 exemple paraître éveiller
 rappeler sourd envi
 appétit sauvage mort martyriser
-monsieur gervaisai écouter interrompre
+monsieur écouter interrompre
 regardant mesure
 parler passer visage
 inspirée visage fois doux intrépide
-court carré nez méplat
+court nez méplat
 aplatir faire paraître presque fendre
 bout oeil épai sourcil blond retenir lumière
 rayonnemer roux autour bleu aigu
-prunelle oeil tenir scythe
+prunelle oeil tenir
 lion lion
 étranger ressemblance
 magnifique rouleal
@@ -4361,11 +4361,11 @@ madeleine caverne thébaïde
 milieu exaltation
 extase parole jamais mot échapper
 bouche comtesse essayer
-convertir monsieur gervaisai
+convertir monsieur
 dire adresser
 soliloque enthousiasme
 monter aller perdre nuage
-nouveau jérusalem céleste cause ange rêve
+jérusalem céleste cause ange rêve
 voix haute parisien jeter
 temps temps ironie poli comtesse
 entendre continuer taire
@@ -4374,20 +4374,20 @@ intérieurement pensée
 beal jour bleu femme
 partir enfant
 voiture faire faire invariablement
-promenade gensano lac
+promenade lac
 nemi goûter vue précipice
 verdure déployer pont
-lariccia brusque passage ombre
+brusque passage ombre
 étouffer cavée large respiration
 plaine infini
-fête pierre-charle gai
+fête gai
 bonheur physique santé revenir
 joie temps paysage
 route attirer mère prendre
 menton bout doigt approcher
 pencher figure
 faire tomber baiser
-mettre chantonner demi-voix
+mettre chantonner
 musique inventer
 chanter monologue gazouillant sublime enfant
 demi muet
@@ -4401,29 +4401,29 @@ découpée vigne maïs oriental
 tige fève plante artistique
 midi pétillaient partout lumière
 espace incendié perdre verdure
-olivier poussiéreux jusqu’
-ligne vif argent mer mer fermer
+olivier poussiéreux
+ligne vif argent mer fermer
 horizon petit rivage blanc
-odyssée
+
 être radieuse
 journer mouvement abandonné
 presser main monsieur
-gervaisai comtesse dire
+comtesse dire
 savoir cher
 bel aimer
 présent
 âme donner
-cœur intimité paraître complet jésus christ moitié
+cœur intimité paraître complet moitié
 personne amitié besoin
 lien surnaturel
-li
+
 dernier jour
-castel-gandolfo monsieur gervaisai avoir
+monsieur avoir
 émotion visite adieu venir
-faire comtesse lomanossow vouloir
-jérusalem prononcer
-vœu sacré cœur
-embarquer naple
+faire comtesse vouloir
+prononcer
+vœu
+embarquer
 quitter comtesse remettre
 souvenir petit cahier pensée
 religieux baptiser
@@ -4435,14 +4435,14 @@ patrie tourmente poussière
 humble plante exil misère sacrifice langue poétique nord
 appeler fiancée vent
 page cahier
-nom p. giansanti gesù
-
-monsieur gervaisai revenir castel-gandolfo
+nom p.
+lii
+monsieur revenir
 attendrie fibre
 intime sexe savoir
 fondre charme posséder midi
 remarqu délicat compatriote
-comtesse vaincre dur
+comtesse dur
 âme nord livrer délier
 déraidie catholicisme enchantement
 mystérieux tenir arrêter suspendue
@@ -4469,18 +4469,18 @@ montant élancer
 bouche musique
 enfant empêcher
 coup chanter cesser entrée
-honorine savoir venir
+savoir venir
 rappeler sévère défense
 m.andral
 liii
 milieu commencer
 préparer ouverture
-tendre presque mouiller cœur
+tendre presque mouiller
 tomber frais impression petit
 livre langage
 voix nourrice enfance chrétien
 âme douceur
-page saint docteur douceur
+page docteur douceur
 caresse tendresse bercement
 mot couler
 miel lait piété devenir
@@ -4509,18 +4509,18 @@ style amour langue enveloppant familiarité
 idée mot naïveter bénin
 simplicité débonnaire jolie image
 gracieuse chatouillante douillet
-image tendre divin rappel objet
+image divin rappel objet
 galantis souvenir lac
-annecy symbole péché épine
-rose jésus œillade
+symbole péché épine
+rose œillade
 intérieure fleurette gentillesse
 semer ligne apôtre essayant
-enguirlander âme monsieur gervaisai enlacement
+enguirlander âme monsieur enlacement
 trouver prête mesure
 avancer introduction
-vic dévot crucifier bouquet
+vic dévot crucifié bouquet
 porter poitrine sentir
-entourer saint françoi sale
+entourer saint
 évoqu enivrement terre
 ciel œillet lys rossignol colombe
 musique oiseau aimante
@@ -4531,10 +4531,10 @@ nature sève sourcillant petit ruisseau
 grâce éprouver molle
 séduction jardin paradis
 bouffée printemps rapporter écho
-hymne saint-françois-de asseoir
-dieu chrétien nature
+hymne
+chrétien nature
 
-mettre aller gesù
+mettre aller
 prier lèvre monter formule foi acte
 invocation récitation pieux
 rester agréablement vague
@@ -4548,9 +4548,9 @@ aimer tête voûte
 arche fouiller ornement
 caisson arabesque illuminé
 baie détacher fouettée
-soleil grâce saint aimer
+soleil grâce aimer
 fête enflammé plafond enlever
-couleur gloire bachiche
+couleur gloire
 apothéose élu mêlée triomphant
 vapeur pareille fumée
 encens déborder
@@ -4573,21 +4573,21 @@ forme heureux corps tête
 statue sourire peuple
 vivant céleste suavité partout flottante
 sembler divinemer ouvrir
-extase saint thérèse finir
-remplir monsieur gervaisai
+extase saint finir
+remplir monsieur
 recueillement charmer
 monument marbre pierreries
-trouver temple amour
+trouver temple
 divin
 dimanche assister
 messe enfant écouter office
 tendre attention grand mystère
 voiler célébrer
-maître autel exalter pourtant ressentir musique voix
+maître exalter pourtant ressentir musique voix
 amollir ravir grave
 onction volupté tendre sacrifice divin
 église
-chapelle attirer chapelle saint-ignace
+chapelle attirer chapelle
 instinctivement aller
 entrée sortie
 barrière ronflant contournée
@@ -4607,12 +4607,12 @@ couronner ange argent marbre
 au-dessus architrave tourmente
 enflure flot sculpté ruissellement
 splendeur polie groupe trinité détacher main
-dieu père boule monde
-gros morceau lapis lazuli terre
+père boule monde
+gros morceau lazuli terre
 côté figure descendant
 coulante groupe allégorie
 robe fluide vagueuser rocaille
-luxuriant lourd embrassement
+luxuriant embrassement
 doré étreindre blancheur marbre
 mur trésor
 chapelle
@@ -4623,12 +4623,12 @@ chaleur tiédeur ivoire croire
 long voir venir vacillement
 vie pâle
 vie chair marbre
-figure foi religion trembler
+figure religion trembler
 animer presque
 chair angélique
 
-secrètement métamorphose accomplir
-monsieur gervaisai
+métamorphose accomplir
+monsieur
 orgueil intelligence
 esprit analyse recherche critique
 personnalité jugement énergie rare
@@ -4651,7 +4651,7 @@ rare heure reposséder
 penser chercher conscience
 compromis arrangement accepter
 party dogme
-religion rejeter
+rejeter
 chrétien catholique réserver
 libre arbitre prendre
 chose saint permettre
@@ -4667,15 +4667,15 @@ fatal théïsme nuageux catholicisme
 rationnel
 
 automne avancer hiver arriver
-monsieur gervaisai sentît besoin désir reprendre relation négliger
+monsieur sentît besoin désir reprendre relation négliger
 maison trouver
 recevoir sympathiquement salon
-liverani goûter moment
+goûter moment
 habitude visite espacer
 paraître absorption
 
 retirer société monsieur
-gervaisai être détacher lentement
+être détacher lentement
 liaison
 séparation choc diminution estime
 part amène insensiblement
@@ -4692,8 +4692,8 @@ idée noyer vague vivre princesse
 promener autour contemplation
 superficielle satisfaite irréfléchissant
 paresse moral apathie épanoui vide
-femme orient vivacité
-extérieur femme italie italien
+femme vivacité
+extérieur femme italien
 étonner sérieux femme
 penser unique occupation
 tête vertueux honnête
@@ -4722,16 +4722,16 @@ relation passanter vie monde
 patrie race nom
 sourire accueil lèvre fond
 fermer défiance garde étranger
-ironie pari
-redouter ironie rome monsieur
-gervaisai être arrêter
+ironie
+redouter ironie monsieur
+être arrêter
 moment demi abandon
 note réserve
 ailleurs princesse pareille
 femme pays faite
 porter amitié homme
 femme
-monsieur gervaisai moment
+monsieur moment
 disposition religieux
 trouver blesser
 composer religion princesse
@@ -4741,10 +4741,10 @@ relever pratique humble
 orgueil nobiliaire aller
 mercredi semaine saint compagnie dame livre romain
 laver pied pauvresse trinité
-pèlerin
+
 lvii
-monsieur gervaisai jour -là
-gesù
+monsieur jour -là
+
 prêcher sermon commencer
 prédicateur venir apparaître tréteau
 côté table fauteuil
@@ -4753,7 +4753,7 @@ autel recoiffer bonnet
 asseoir déplier mouchoir
 essuyé lèvre reposer mouchoir
 côté silence
-lever pièce parler
+lever pièce
 talent ordre acteur
 mime commediante tragediant
 éloquence gesticulant ambulatoire
@@ -4763,7 +4763,7 @@ déclamer pleurer sangloter enfler
 voix briser geindre tonner sermon donner
 public émotion illusion
 débit jeu théâtre
-monsieur gervaisai commencer écouter
+monsieur commencer écouter
 écouter oreille réveiller
 peine note
 donner rapide soubresaut
@@ -4774,8 +4774,8 @@ phras prédicateur
 femme imprudent téméraire
 non-seulement imprudent téméraire
 misérable infortunée
-arrêter faire pause reprit
-dieu manifester
+arrêta faire pause reprit
+manifester
 témoignage nature
 connaître genre humain
 conseil volonté jugement
@@ -4785,12 +4785,12 @@ déclarer assurance trouver
 lumière
 raison nécessaire âm
 conduite religieux accomplissement devoir obligation
-dieu pouvoir
+
 empêcher ici voix
-pleurer presque pourron
+pleurer presque
 empêcher malheureux
 imprudent
-monsieur gervaisai devenir
+monsieur devenir
 attentive sérieux
 continuer orateur
 imprudence
@@ -4810,14 +4810,14 @@ repose probabilité grand divin
 répèt écrire recherche
 faire enseignement raison
 parole nouveau tomber
-chaire monsieur gervaisai sentir
+chaire monsieur sentir
 dévoilement entier
 cacher public
-espèce mise nu exposition flétrissant
+espèce mise exposition flétrissant
 idée doute
 hésitation objection penser religieux
 révolte révélation
-père jésuite terminer femme
+père terminer
 imprudent téméraire non-seulement
 imprudent téméraire misérable
 infortunée
@@ -4832,20 +4832,20 @@ venon audace insolence
 esprit exposer transgresser
 précepte divin précautionner
 crime renverser
-ordre souverainement dieu décréter
+ordre souverainement décréter
 monde conduite inquiet
-dessein dieu
+dessein
 savoir
-conseil dieu
+conseil
 dire tour non
 songer songer
-juge vengeur
-dernier mot monsieur gervaisai
+
+dernier mot monsieur
 crut voir oeil voisin
 prédicateur désigner
 dernier geste
-lviii
-monsieur gervaisai sortit église
+
+monsieur sortit église
 bouleverser éperdre épouvante
 femme penser
 entrer nuit conscience
@@ -4854,11 +4854,11 @@ entrer petit salon
 trouver domestique
 fait ici
 terriblement
-peppe tranquille sourd
+tranquille sourd
 appelle aller passer
 porte dos fuyant pan ridicule
-habit noir
-giuseppe cria monsieur gervaisai
+noir
+cria monsieur
 petit homme trapu velu
 bras ballant cheveux brosse
 détacher oreille homme bois
@@ -4869,32 +4869,32 @@ désirer monsieur
 rester immobile calé
 main expression noir
 profonde méditatif machiavélique
-envoyer honorine faire monsieur
-gervaisai changeant idée
-giusepp répondit ordre clin
+honorine faire monsieur
+changeant idée
+répondre ordre clin
 œil user habituellement épargner
 peine répondre
-aussitôt être sortir monsieur gervaisai
+aussitôt être sortir monsieur
 jeter coffret retourner
 anxieusement papier
 monsieur demande
-honorine entrer
-oui giusepp être
-oh monsieur
+entrer
+être
+monsieur
 grand voleur
 laisse traîner revoir
 agir argent
-reprendre honorin
-homme-là pâleur
+reprendre
+pâleur
 monsieur voir soir veilleuse
 petit antichambre vert
 papier papier
 écrire
 pays peut-être vouloir
 voir
-murmurer saint-office
+murmurer
 reprendre
-bien giusepp dire
+bien dire
 monsieur croire
 ici capable
 avoir avoir
@@ -4903,7 +4903,7 @@ ouvrir tiroir
 non
 monsieur
 laisser
-monsieur gervaisai replonger
+monsieur replonger
 papier vérifia compter feuille
 papier lettre
 jeter journal idée interrompre
@@ -4911,22 +4911,22 @@ mois manquer
 être déranger date suivre
 dormir nuit
 lendemain matin première
-parole m.flamen gerboi venir
+parole m.flamen venir
 voir déjeuner
-être hier gesù savoir
-princesse liverani avoir entendre
+être hier savoir
+princesse avoir entendre
 terrible parole princesse
-belgiojoso
-princesse belgiojoso
+
+princesse
 vraiment princesse
-belgiojoso laisser échapper monsieur
-gervaisai
+laisser échapper monsieur
+
 respirer profondément soulager
 comprendre
 perte momentanée bon
 sens concevoir soupçon imagination
 insensée veille
-m.flamen gerbois être partir retrouver entier
+m.flamen être partir retrouver entier
 tranquillité terreur resta
 état exaltation
 mois impression être trop
@@ -4943,16 +4943,16 @@ raison année amener préparer
 jaillir accident
 hasard immotivé décider
 enlever
-lix
+
 vaste embrassement immense contagion
-saint religion rome
-rome majesté sacrer nom rome monument
+saint religion
+majesté sacrer nom monument
 souvenir passé spectacle
 légende église
 jour année oratoire
-escalier prie dieu
-ruelle cent madone
-rome funzione religieux
+escalier prie
+ruelle cent
+funzione religieux
 diario messe
 capitulaire messe votif messe
 conventuelle chapelle cardinalice
@@ -4962,43 +4962,43 @@ office capitulaire anniversaire
 dédicace bénédiction ville
 bénir bête malade
 cheval poste agneau
-laine pallium rome
-sermon sapience prédication
+laine pallium
+sermon prédication
 permanente distribution eulogie
 instruction religieux appeler fervorino
 chemin croix triduo
 neuvaine station procession
 diurne nocturne communion général
 heure exposition
-saint-sacrement adoration annoncer invito coller
-bout arc antique rome martyr
+adoration annoncer invito coller
+bout arc antique martyr
 soupir tombe
-corridor vatican rome
+corridor
 grand ossuaire ostension vénération
 relique fragment
 membre linge sanglant morceau
 saint mort miraculeu
-rome atmosphère odeur
+atmosphère odeur
 encen seuil basilique air
 cesse émouvoir appel cloche lassant
-écho ciel rome image
+écho ciel image
 musée pieux aller tableau
-main ange paradis raphaël
-enfer michel ange rome
+main ange paradis
+enfer ange
 portement public extrême
 onction domicile grand avertissement
-mort enterrer visage découvrir
+mort enterré visage découvrir
 sac commun confrérie
-rome peuple prêtre
+peuple prêtre
 moine habiller robe église
-traîn descendre jusqu’ enfant rome
+traîn descendre enfant
 populace pauvre bouche
-mendier nom jésus
-sainte-vierge âme purgatoire rome coin monde
+mendier nom
+âme purgatoire coin monde
 mot énergique évêqu
-piéter fermenter nature
+fermenter nature
 tropique
-rencontre vaincre conquérir
+rencontre conquérir
 âme obsession persécution
 conspiration naturel chose
 environnante rassembler
@@ -5007,12 +5007,12 @@ perpétuité succession ininterrompu
 atteinte impression
 sensation accomplir fin
 fréquent miracle pavé ville éternel
-miracle chemin damas
+miracle chemin
 esprit fort homme
 femme terrasser tombent genou
-moment monsieur gervaisai
+moment monsieur
 sentir toucher commencement illumination
-passé rome premier
+passé premier
 jour revenaient mémoire
 sembler éclairer jour
 montrer secret travail
@@ -5027,22 +5027,22 @@ marbre commencer reconnaître
 liaison
 douceur religieux retrouver présent
 esprit revivante oeil
-visite saint-pierre main
+visite main
 enfant lire soleil
-mot petru super hanc
+mot super hanc
 petram dimanche rameau
-miserere chapelle sixtine
+
 apercevoir être au-delà
 sensibilité femme continuer
-fond œuvre rome
+fond œuvre
 suivre remémorer détail
 détail circonstance circonstance
 mouvement inconscier
-jeter pied madone
+jeter pied
 san-agostino changement
 ignorer ombrageux
-résistant chêne castel-gandolfo
-parole rêvant comtesse lomanossow conduire gesù
+résistant chêne
+parole rêvant comtesse conduire
 disposition personne nouveau
 foi prêt voir
 suite succession
@@ -5066,9 +5066,9 @@ demander sérieusement
 profondément convaincue persuadée
 jeter étude
 puissance travail homme
-interprète ancien testament
+interprète ancien
 apologiste controversiste
-parcourut livre nombre jusqu’
+parcourut livre nombre
 sec ardu
 abstraire théologie emplir
 extrait volume cahier tourmenter
@@ -5085,8 +5085,8 @@ répugnance logique humain
 effacer femme improbabilité
 chose sembler
 improbable
-moment phrase platon
-nécessaire maître vînt ciel instruire humanité préparer admettre
+moment phrase
+nécessaire maître vînt ciel instruire préparer admettre
 révélation divin
 revenir philosophie
 explication solution satisfait
@@ -5101,13 +5101,13 @@ milieu travail grand orateur
 parole imprimé
 parole prédicateur craindre humblement
 voir sécher feuille
-livre retrouver accent chaud
+livre retrouver accent
 vivre voix émotion
-notre-dame jour mouvement
-religieux 1834 retrouver
-apôtre jeunesse parler intelligence
-masculin lettrer france
-entendre lacordair attacher
+remplir jour mouvement
+religieux retrouver
+apôtre parler intelligence
+masculin lettrer
+entendre lacordaire attacher
 éloquence vouloir
 imposer foi proposer discussion
 chercher conviction esprit sorte respect hommage
@@ -5118,18 +5118,18 @@ prêcher âme
 siècle élargir église passé
 besoin nouveau monde avenir
 rassurer satisfaire rencontrer
-chrétien discipl lamennai
+chrétien discipl
 ambition orthodoxe
 idée maître alliance foi
 raison essayer appuyer catholicisme
 science baser
 histoire apporter vérité céleste
 preuve grand fait terre
-remonter jésus christ
+remonter
 revendiquer sagesse
-moral antique confucius zoroastre
-pythagore platon aristote
-épictèt ancêtre précurseur
+moral antique
+
+épictète ancêtre précurseur
 patrimoine naturel christianisme
 fois surprise consolée
 trouver homme prêtre
@@ -5145,31 +5145,31 @@ mois passer
 pénible labeur foi chercher
 lumière suprême mois mêler ténèbre
 clarté rayon vainqueur
-illumination soudain fiat
+illumination soudain
 lux
 heure vint pourtant monsieur
-gervaisai jour -là éclair
+jour -là éclair
 grâce écrire livre résolution
 acte foi acte amour
-premier lueur jour fête saint agathe
-amo christum amo quia amo
-amem saint bernard
+premier lueur jour fête saint
+
+amem
 lxi
 jour fils
 main entrer petit sacristie
 secret rigide tenir droit
 raider mur nu prêtre
-bonnet carré dou visage long
+dou visage long
 robe long cou disciplinairemer
 serrer collet noir soldat
-foi silhouette costume
+silhouette costume
 rester immuable
 ordre image seizième siècle
-demander père giansanti
-lxii
-église gesù confessionnal
+demander père
+
+église confessionnal
 second droite
-porte del gesù
+porte
 mosaïque chaire
 prendre étrangler appui porter
 tête ange ombre
@@ -5189,8 +5189,8 @@ verre recevoir reflet
 sang feu remuer lampe pendre
 chapelle côté
 confessionnal régulièrement
-mardi vendredi père giansanti
-recevoir confession monsieur gervaisai
+mardi vendredi
+recevoir confession monsieur
 passer
 heure heure
 confesseur secret cacher ténébreux invisible
@@ -5203,26 +5203,26 @@ impassible coupé clouer bois
 main faire peur fin
 main mort main éternel
 heure passer demie monsieur
-gervaisai poser front
+poser front
 peine porter accotoir
-enfant chapelle saint-ignac
+enfant chapelle
 mère agenouiller prier venir
 voir temps temps voir
 main
 lxiii
 promenade habituel
-viller borghèse quitter voiture
+quitter voiture
 allée fréquenter bruyante
 trot calèche enfoncer désert
-jardin allée arbre bronze arracher terre
+allée arbre bronze arracher terre
 nœud chimère serpent
 courber tête promeneur
 voût emmêler aspect végétation
 marine manger mousse
 passer verdure vert-de-grisée
 mêler poussiéreu olivier argenté
-saule verdure leccio
-chêne caractéristique italie
+saule verdure
+chêne caractéristique
 peintre paysage savoir peindre
 voir traverser bois sévère
 religieux fonds
@@ -5235,20 +5235,20 @@ lucu
 ombre herbe çà apercevoir
 chapeau ecclésiastique méditation
 dessiner pose abbé
-stalle chœur souffle vent faire
+stalle souffle vent faire
 envoler bout écharpe monacal
 rayon allumer violet soprana
 rouge ceinture solitude bois répéter doucement écho rire heureux
 sage petit curé miniature
 bande enfant noir
 rouge violet bleu enfance séminarist
-rome
+
 moment éclaircir montrer
 campagne clarté
 horizon jeune grêle léger
-fonds raphaël bouquet verdure
+fonds bouquet verdure
 maigreur ombrien mettre
-nativité
+
 calèche aller revenir fois
 allée pierre-charle
 suivre pied courir côté
@@ -5272,9 +5272,9 @@ coup soulevant enlever
 presque bras embrasser
 mordre fruit
 sauver
-monsieur gervaisai avoir jardin
-villa borghèse jour printemps
-année -là chaud
+monsieur avoir jardin
+jour printemps
+année -là
 pluvieux jour singulier bien-être
 espèce accablement suave
 détente laisser moment
@@ -5294,8 +5294,8 @@ nature jeter
 dernier regard regret arrière
 paysage chaleur adieu soleil
 mourir page bréviaire
-lire prêtre asseoir marche
-petit cirque
+prêtre asseoir marche
+petit
 lxiv
 direction jésuite poindre sévère
 dureté prêt préjuger
@@ -5307,47 +5307,47 @@ facile absolution faute
 attaquer principe toucher
 essence autorité
 gouvernement papal gouvernement particulièrement policier
-jaloux craintif influence
-extérieur chercher entourer pénitent
+craintif influence
+chercher entourer pénitent
 pénitent action
-dévouer gesù action domestique
-appartenir gesù travailler
+dévouer action domestique
+appartenir travailler
 éternellemer souterrainement
 lasser combattre
-ennemi gesù vie
-église maison liaison
+ennemi vie
+maison liaison
 mondaine intime fidèle
-père giansanti beaucoup
+père beaucoup
 refroidissement monsieur
-gervaisai ambassadeur france
-œuvre continuer m.flamen
-gerboi gallican savoir hostile
-société graduellement répétition
+ambassadeur
+œuvre continuer
+gallican savoir hostile
+graduellement répétition
 insinuation germe inquiétude
 jeter conscience monsieur
-gervaisai danger visite
+danger visite
 homme dangereux esprit jésuite
 détacher désaffectionner amitié
 haute libre dévouer
-restât m.flamen gerboi fort
-intérêt monsieur gervaisai droit long relation combattre
+restât m.flamen fort
+intérêt monsieur droit long relation combattre
 lutter disputer confesseur
 essuyer décourager contradiction
 froideur colère
 femme venir voir
 fin faire fermer porte
 força
-Monsieur porte défendre
+monsieur porte défendre
 monsieur penser
 étiez souffrant
 avoir besoin
-Monsieur femme fermer
+monsieur femme fermer
 porte homme bien
 mal élevé
 finir phrase retirer
 chambre laissa petit salon
 fils
-m.flamen gerboi parole aller
+m.flamen parole aller
 enfant voix mettre tristement
 baiser figure
 duremer renvoyer
@@ -5357,7 +5357,7 @@ compassion tendresse délicat solitude pauvre
 enfant distraction camarade
 continuer envoyer temps temps
 petit fille douce enfant méchant
-rir amuser pierre-charle
+rir amuser
 égal frère
 passer heure
 joie jeu expansion
@@ -5385,24 +5385,24 @@ appréhension ténébreux
 glisser fond femme torturer
 creuser noir tourmer supposition
 conjecture hypothèse
-jugement mauvais longuement empoisonner
+jugement mauvais empoisonner
 crainte
 mettre garde presqu haineusement
 personne
-dévouée honorine
+dévouée
 vouloir délier monde
-brusquement mettre jusqu’
+brusquement mettre
 impolitesse mieux
 séparer rompre dernier
 connaissance brutalement presque
 grossièrement rapport
 être gracieux dignité
-monsieur gervaisai pari
+monsieur
 montrer type femme distingué
 garder bourgeoisie dernier
 bon manière féminin restauration
-bientôt venir tour princesse liverani
-honorine dire monsieur
+bientôt venir tour princesse
+dire monsieur
 sortir princesse
 montrer sourire ombrelle
 maîtresse rester antichambre
@@ -5413,13 +5413,13 @@ arriver sorte sauvagerie
 insociable aimable ménage
 charger remettre lettre
 intime amier jeune
-femme fois honorine
+femme fois
 femme reviendra
 renverrez mal
 voir
-honorine objecter
+objecter
 monsieur
-femme chambre connaître rome
+femme chambre connaître
 promettre promener
 défends sortir
 monsieur songer
@@ -5429,19 +5429,19 @@ bien pouvoir faire
 voir
 
 
-bout avenue villa borghèse
+bout avenue
 tournant montée porte
 ruine verdure voiture passer
 arche grand rosier blanc jeter
 colonne fronton neige
 fleur vieux cyprès gris
 poussiérer soulever promenade monsieur
-gervaisai revenir apercevoir
+revenir apercevoir
 jour calèche chien
 caniche
 propre savonner friser
 moitié corps raser montrer dos
-couleur chair tache truffe
+couleur chair tache
 houppe poil épargner jarret
 queue rogner mèche soleil
 nez luire noir moustache
@@ -5449,19 +5449,19 @@ nageoire bout langue petit dent pointu fine têt
 gros perruque oeil humain
 larmoyant rose regard presque
 aveugler chien aveugle
-crasseux pouilleux galeux chassieux
+crasseux pouilleux galeux
 bête rue peigner vent laver
 pluie tenir asseoir
 dernier
 distance
 chien fort connaître
-rome appeler trovato
+appeler trovato
 nom local chien perdre
 trouver
 penser donner nom trovato
 passer légend populaire
 sortir matin palais rendre
-café corso garçon
+café garçon
 donner déjeuner aller
 savoir revenir accompagner
 caniche crotter suivre attacher
@@ -5471,17 +5471,17 @@ distance respectueux
 honnête domestique
 chien maître
 arriver ensembl régulièrement
-ponctuellement villa
-borghèse prendre part mouvement
+ponctuellement
+prendre part mouvement
 voiture mêler plaisir
 spectacle beau mond
-remarquer retard trovato
-aperçu jour
+remarquer retard
+jour
 poil repousser aller cacher
 laine ras dos propre
 mouvement présenter vieux
 tondeur chien petit table
-tondre forum nerva
+tondre forum
 établi offrir ciseau
 avoir besoin attacher ficelle
 bouger tonte faite
@@ -5489,7 +5489,7 @@ ablution seau eau
 voir ressuyer
 colonne antique coucher terre frappé
 raie soleil rayer bronze
-canon énorme trôner majesté
+canon énorme trôner
 bonasse côté rangée petit
 chien grelotter noyé
 parapet forum fois sec sauter
@@ -5512,20 +5512,20 @@ aussitôt signe
 bond élancer voiture
 trovato intérieur maître
 compagnon siége cocher
-compagnon trovato
+compagnon
 naturellement sentiment inégalité
 condition
-petit main pierre-charle
+petit main
 signe jour chien trovato
 dépêcher monter auprès
-tandis aller blottir jambe giuseppe jour
-retour monsieur gervaisai prolonger
+tandis aller blottir jambe jour
+retour monsieur prolonger
 bout promenade
-chemin poussin long teverone
+chemin long
 temps voiture
 amitier embrassade intimité
-lichade trovato mêler baiser
-pierre-charle pauvre petit
+lichade mêler baiser
+pauvre petit
 bonhomme isolement
 défiance nouveau mère défendre
 société petit semblable
@@ -5540,30 +5540,30 @@ hauteur enfant
 être enfant
 bientôt heure passer
 caniche caniche
-devint bonheur pierre-charle
+devint bonheur
 attendre matin remplir
 journée
 arriver jour signe
 enfant trovato compagnon remuer
 trovato reconnaître
-voiture monsieur gervaisai tourner
-rue condotti ramener
-loin corso
+voiture monsieur tournant
+rue ramener
+loin
 habitude soir non loin palais
-venise décider choisir
+décider choisir
 calèche connaître aller
-jusque-là
-pierre-charle étonner descendre
-prendre bras trovato échapper
-bousculant pierre-charle
+
+étonner descendre
+prendre bras échapper
+bousculant
 remonter mère
 fondre larme
-lxvi
-confessionnal gesù voix
+
+confessionnal voix
 timbre monotone continuelle
 bas bas paraître venir
 éloigné arriver ombre
-monsieur gervaisai
+monsieur
 avoir faute
 passer revue complet confession
 général déclaration
@@ -5578,21 +5578,21 @@ trouver crainte humble
 paisible pleine confiance garde
 vertu espérance vertu
 espérance zèle courage force
-bien être revenir dieu
+bien revenir
 falloir attendre souvenir
 erreur laisser
 crucifier
-exemple saint paul devoir
+exemple saint devoir
 profiter humilier
 troubler sœur craindre
 bien âme attaquer
 maladie foi difficile
 guérir maladie
-zèle charité amour quelquefois impuissant
+charité amour quelquefois impuissant
 pousser profond soupir rapprocher
 pénitent baisser
 secrètement voix maladie
-scrupule grand obstacle apporter
+grand obstacle apporter
 perfection oui perfection oh
 trompez scrupul
 alarme conscience délicat
@@ -5618,9 +5618,9 @@ imagination suggestion faux
 subtilité conscience
 vouloir conduire régie
 conscience timorée
-remarqu laurer justinien
+remarqu
 faire craindre pécher
-saint bernard tribulation
+tribulation
 produire pusillanimité pusillanimité
 trouble trouble enfant
 désespoir tempête
@@ -5641,22 +5641,22 @@ pencher femme accabler
 retrouver parole sourd
 prêtre souffrance moral
 endurer
-poursuivre dire non dire franchement
-non trompe dire
+poursuivre non dire franchement
+non trompe
 sacrement
 pénitence tourmenter côté
 effroi péché passer dite recevoir
 pain ange
 tremblant lutter
-spectre scrupule dire recevoir
+spectre scrupule dite recevoir
 jamais plénitude grâce
 divin sacrement conférer âme serein
 tranquille parole divin
 venir bouche sacrer
 docteur église lire
 venir père spirituel
-démentir trompe
-accepter -vous mêler
+trompe
+mêler
 trop zizanie raisonnement
 captieux rendre infructueux
 vouloir demander
@@ -5669,7 +5669,7 @@ temps lent
 appuyer accent profond médecin
 âme vouloir graver ordonnance
 esprit malade reprendre
-dire bien vouloir pénétrer
+bien vouloir pénétrer
 vérité scrupuleux
 dictamen conscience droit
 esprit obscurci discerner
@@ -5679,10 +5679,10 @@ frapper coup cécité
 parcourir ville circuler
 voie terrestre monde forcer
 prendre guide indiquer poser
-certitude pied falloir pareillement
+pied falloir pareillement
 voie spirituel
 engager tâton aveugle main
-voix directeur directeur efforcez
+voix directeur directeur
 mettre note
 presque dur bénin parole inlassable
 coulant efforcer -vou corriger opiniâtreté
@@ -5690,26 +5690,26 @@ esprit prendre résolution obéir fermement
 père spirituel être
 remords crainte appréhension
 conseiller apporter docilité
-saint bernard prescrire disciple
+saint prescrire disciple
 tourmenter scrupule
 dire directeur
-saint bernard retenez bien falloir
+saint retenez bien falloir
 obéir directeur non
 saint tenir place
-dieu sainteté assurer
+sainteté assurer
 faire volonté seigneur
 avis ordre
-exprès jésus christ donne obéir
+exprès donne obéir
 ministre
 commandent éloigner cœur
 vaine craindre croire action
 justifier oeil tout-puissant
-croyez présenter
-tribunal souverain
+présenter
+tribunal
 juge pouvoir seigneur
 acte omettre obéir
 avoir chargé gouverner
-nom être sûr dieu condamner conduite
+nom sûr condamner conduite
 contredire
 punir créature remplir
 saint volonté ordre
@@ -5718,11 +5718,11 @@ obéir persuader
 prêtre laissa tomber ici note presqu
 attendrie âm pécher
 agir ordre lumière
-père spirituel jésus christ
+père spirituel
 directeur
 apôtre écoute
 écoute
-minute monsieur gervaisai
+minute monsieur
 lever confessionnal rester
 moment incertain indécis église
 chemin prendre
@@ -5731,7 +5731,7 @@ mouvement irréfléchi air écraser
 oeil perdu personne
 voir aller front plein pensée
 battre
-lxvii
+
 suite confession
 misérable femme revenir presque
 hébéter contradiction
@@ -5742,7 +5742,7 @@ tirailler soumission
 habitude conscience déchirer indécision
 passer instant révolte
 humilité docile vouer
-père giansanti exiger
+exiger
 lassitude conviction
 imagination inexorablement tourmenter
 travaillée devenir repos
@@ -5753,9 +5753,9 @@ bouleversait confusion
 étourdissement piété aveugler
 méconnaître cherche voit voir passer côté
 consoler pécheur
-évangile rencontre jésus
+évangile rencontre
 prendre jardinier
-arriver état détresse
+arriver état
 juger foi espérance
 charité apparence
 trompeur vertu détacher
@@ -5766,12 +5766,12 @@ tristesse faire
 cruelle comparaison bon tristesse
 vraie pénitenc humble affable
 engourdir poindre esprit décourage
-cœur donne fort
+donne fort
 amertume incomparable consolation
 lxviii
-solitude monsieur gervaisai trouver
-allée écarter villa borghèse suffire vouloir
-éviter jusqu’ vue monde rencontre
+solitude monsieur trouver
+allée écarter suffire vouloir
+éviter vue monde rencontre
 connaissance contact
 vie devenir blessant
 pensée endolorie souffrance
@@ -5783,7 +5783,7 @@ extrémiter ville immense
 rempart grand jardin vigne
 ancien casin cardinal percer
 jour croisillon autour basilique
-lointain égarer vide faubourg
+lointain égarer vide
 place sécher
 arbre haillon laineux misère
 romain long grand bout rue
@@ -5791,8 +5791,8 @@ finir bâtisse
 ouvrir coup champ
 tertre fou avoin coin inculte
 perdu grimper ruine
-thermes prunier chèvre
-avertir cité
+prunier chèvre
+avertir
 saint coupole ciel
 faire traîner heure route abandonné bordée ortie
 milieu campagne mur empêchaient
@@ -5811,8 +5811,8 @@ souffrance bientôt éteindre somnolence
 coupé tressaillement nerveux
 continuer promener lent
 cheval louage chemin horizon
-lxix
-monsieur gervaisai confesser
+
+monsieur confesser
 fois semaine communier
 dimanche
 confession rapprochée
@@ -5832,14 +5832,14 @@ exprimer
 savoir falloir bien
 dire domestique
 pousser dos genou
-marches bois père giansanti
+bois père
 être bientôt obliger renoncer
 interroger entendre âm infirme
 mère décider église
 chaise asseyait
-autel saint-ignace recommander
+autel recommander
 bien sage prier
-bon dieu jusqu’ venir reprendre pourtant cruauté
+bon venir reprendre pourtant cruauté
 gronder las ennui
 place accabler pénitence immobile
 retrouver vaguant muser
@@ -5850,7 +5850,7 @@ mère enfant monde jamais
 enfant être chercher œil
 avide furtif mendiant âge
 domicile marche
-porte latéral gesù
+porte latéral
 petit teigneux tête raser
 crâne bleuâtre fragment reliqu
 sachet étoffe attacher
@@ -5864,15 +5864,15 @@ rajuster fond gros fil naïf
 rapiéçage pays culotte tenir
 attacher lisière feutre
 sauter pendre tandis remonter pantalon
-dos jusqu’ omoplate cou poitrine
+dos omoplate cou poitrine
 rein ventre
 passaient morceau
-peau brûler chair riberer
+peau brûler chair
 maille loque pied
 chaussé boue sec
 presque nu haillon habiller
 trou autour
-pudeur chose affreux
+pudeur chose
 sordide gamin rayon
 soleil santé liberté éclair
 ardent vie animal rire large
@@ -5886,25 +5886,25 @@ petit riche meilleur existence
 rencontre misérable
 camarade heureux comparaison
 
-lxx
+
 honorine surprendre voler
-monsieur gervaisai peppe
+monsieur
 fois
-giusepp mettre rire reprit presque
+mettre rire reprit presque
 aussitôt impassibilité gravité sombre
 renvoyer aller quitter
 maison instant
-giusepp redresser mouvement
+redresser mouvement
 citoyen bouche enfler
 injure théâtral
 cligner œil salua sortit
-honorine rester étonner exécution
+rester étonner exécution
 faire maîtresse
-paraître aimer service giuseppe
-monsieur gervaisai apprécier
+paraître aimer service
+monsieur apprécier
 espèce intelligence sauvageon
 race méridional fois
-laisser échapper honorine
+laisser échapper
 aimer mieux voler mal servir allemand
 suisse femme chambre expliquer
 renvoi rapprochant
@@ -5912,10 +5912,10 @@ renvoi rapprochant
 sembler temps vouloir
 rétrécir resserrer train intérieur
 petit détail
-lendemain matin giusepp sonner
-entrer force honorine poser
-monsieur gervaisai dire
-mot sono pentito
+lendemain matin sonner
+entrer force poser
+monsieur dire
+mot pentito
 repentir attendre immobile
 reprendre jamais domestique
 renvoyer
@@ -5930,15 +5930,15 @@ domestique
 bien charité
 renvoi domestique manque homme accompagner
 promenade solitaire lointain amener
-monsieur gervaisai quitter voiture
+monsieur quitter voiture
 cesser abonnement loueur
 demeurer enfermer
 temps passer église devenir
 logis vraie maison
-lxxi
+
 milieu retraite laisser
 décider prière instant vieux
-ami schnetz reparaître dimanche
+ami reparaître dimanche
 réception académie ailleurs
 pitier fils rappeler
 plaisir enfant prendre autrefoi
@@ -5949,7 +5949,7 @@ tenture tapisserie detroy
 musiqu piano chant amateur
 artiste
 chasser grand salon chaleur
-monsieur gervaisai aller respirer
+monsieur aller respirer
 fenêtre salle manger préparer
 thé presque
 pièce regarder jardin
@@ -5971,8 +5971,8 @@ fête heure cœur
 bois voix chant oiseau musique
 rossignol amoureux jeter
 note passionner jeter
-félicité limpide nuit été rome
-monsieur gervaisai moment
+félicité limpide nuit été
+monsieur moment
 arriver bel italien chanteur
 ténor échauffé animer bravo
 succès air gonfler respirer
@@ -5986,14 +5986,14 @@ admiration nuit bois
 involontairement toucher
 apercevoir
 adresser parole
-monsieur gervaisai retirer brusquement
+monsieur retirer brusquement
 mouvement femme demi
 insulter enlever fils milieu
 morceau disparut
 hallucination
 déclaration amour offense approcher
 idée enfoncer germer
-pouvoir expliquer
+expliquer
 singulier alarme honnêteté
 conscience femme
 entier pureter austère veuvag penser partir soirée
@@ -6014,15 +6014,15 @@ décider montrer monde
 mettre vivre étroitement
 sorte fermeture
 cloitrer
-lxxii
+
 oh dire naïvemer
-romaine jour monsieur gervaisai causer
+romaine jour monsieur causer
 amener conversation direction
 confesseur pays falloir
 demande trop
-mot éclairer monsieur gervaisai
+mot éclairer monsieur
 satisfaire contenter
-direction père giansanti
+direction père
 soumission espèce servitude
 confesseur exiger
 blesser présent orgueil moment
@@ -6065,7 +6065,7 @@ grand occasion héroïsme
 ambitionner trouver
 privation immolation sorte
 saint torture journalier mémoire tableau
-saint-jean climaqu prison pénitent
+prison pénitent
 souvenir rapprocher
 indulgent direction éprouver
 désappointement commode
@@ -6073,7 +6073,7 @@ salut déranger
 vivre apporter révolution
 bouleversement inconnu rêvé
 nullemer idéal agiter
-service dieu
+service
 tenter grossière mortification
 corporel
 garder tentation souffrance
@@ -6084,7 +6084,7 @@ bizarre aspiration pauvre femme
 inquiet peine tourment malheureux
 discipline charitable humain
 presque humilier miséricordieuse
-compassion jésuite
+compassion
 faiblesse santé blesser
 plaisanterie léger prêtre
 humain essayer arrêter exagération
@@ -6092,22 +6092,22 @@ zèle fièvre contrition pardonner montrer
 pardonner péché passé détester
 accuser refroidir
 insensiblement
-père giansanti trouver
+père trouver
 pénitent ouverture
-lxxiii
+
 chercher renseigner essayer
 mettre trace sévère pénitencier
-rome débonnaire
+débonnaire
 catholicisme
 être moment aller demander
-confesseur capitole
+confesseur
 confesser prisonnier malfaiteur
-commandeur ennius visconti
+
 conter soir coin
-salon espèce roman noir
+espèce roman noir
 travailler tête
 reculer bruit
-choix monde romain colonie français hésiter indécis
+choix monde romain colonie français hésiter
 ordre capucin
 trinitaire déchausser vouer exclusivement
 conduire grossière conscience
@@ -6121,14 +6121,14 @@ homme venir restaurer vieux
 ordre trinitaire
 lxxiv
 règle extrême rigueur
-trinitaire déchausser
+trinitaire déchaussés
 principe pouvoir manger chair
 poisson voyage pouvoir
 servir cheval humble monture
 âne permise surnom
 familier populaire frère âne désigner
 document dater fontainebleau an
-1330 ancien habit vêt
+ancien habit vêt
 consister tunique manche
 gros laine blanc scapulaire
 coudre correspondre
@@ -6136,69 +6136,69 @@ poitrine croix rouge bleu marcher
 déchausser sandale
 porter chapeau couvent
 endosser cape laine noir
-capuchon jusqu’ genou
-partie gauche porte cœur
-croix rouge bleu ceindre
+capuchon genou
+partie gauche porte
+croix rouge bleu ceignent
 tunique ceinture cuir user
 laine croire chair nue
 auteur ordre bienheureux
-jean matha célébration
+célébration
 messe descendre
 autel moment élévation
-hostie présent abbé saint-victor
-sainte-geneviève ange
+hostie présent abbé
+ange
 resplendir bras croix étendre
 tête esclave blanc
 chrétien noir infidèle vision
-révéler volonté céleste mission appel dieu faire généreux
+révéler volonté céleste mission appel faire généreux
 œuvre rédemption esclave
 nombre gémissant côte
 terre africain barbarie
-mauritanie 28janvier 1198 jour
-fête saint agnè nouveau messe
-célébrer jean matha basilique
-saint-jean-de-latran pape innocentiii
+mauritanie 28janvier jour
+fête saint nouveau messe
+célébrer basilique
+innocentiii
 milieu cardinal
 être témoin nouveau apparition
-ange vêtement blanc croix
-rouge bleu revêtir jean matha
+ange vêtement blanc
+rouge bleu revêtir
 tunique blanc croiser
 ange instituer ordre
 nom ordre
 trinité rédemption schiavi
-ordre établir approuver jean
-matha obtenir gualteriu seigneur
-châtillon ferté milon concession
+ordre établir approuver
+obtenir seigneur
+concession
 lieu passer retraite
-voyage rome fondre
-couvent cerfroy devenir chef
+voyage fondre
+couvent devenir chef
 ordre grand maison éducation
 prince temps jeter aventureuse
-vie trajet outre-mer consacrer jusqu’ bout racheter esclave
-tunisie
+vie trajet outre-mer consacrer bout racheter esclave
+
 ordre prospérer vite quatorzième
 siècle répandre
 couvent former trente-quatre
 province fin dix-septième
 siècle compter
 couvent diviser province
-france france normandie
-picardie flandre champagne
-provence espagne nouveau castille
-vieille-castill aragon italie
-portugal province angleterre
+normandie
+picardie
+provence
+aragon
+province
 compter maison
-province écosser compter neuf
-province irlande compter
+province compter neuf
+province compter
 être ruiner
-hérétique saxe
-hongrie bohême ravage
+hérétique
+hongrie ravage
 homme joindre dépopulation
 peste
 souffle enlever ordre religieux
 ferma porte beaucoup
 maison
-grand ordre moment largement étaler europe chrétien
+grand ordre moment largement étaler chrétien
 déchirer dissension intestin
 diminuer lent décadence fatal
 institution monastique ruiner
@@ -6207,57 +6207,57 @@ lettr mort
 esprit mission ordre réduit
 néant ordre but mourir
 obscurément couvent
-saint-chrysogon concéder trinitaire
+concéder trinitaire
 an pape pieix
 trinitaire contemplation
 tableau église figurer miracle opérer
 bienheureux fondateur écrier
 haut rapine turc
-cesser fils jean
-matha racheter chrétien
+cesser fils
+racheter chrétien
 blanc ange seigneur
 étendre droite temps venir accomplir
 partie mystique apparition
 ordre appliquer
 rachat nègre infidèle représenter
-maure tête main gauche
+tête main gauche
 ange parole accepter
 couvent parole venir haut inspiration patron
 céleste ordre
 dire ailleurs heure
 idée flotter air œuvre
 rachat femme jeune
-noir organiser nîme titre
-afrique central concorder
+noir organiser titre
+central concorder
 tentative isolé courageux
-prêtre gêne olivieri amener
+prêtre amener
 communion chrétien jeune fille
 noir égypte
 printemps année
-1853 réunion général ordre
-tenir couvent saint-chrysogon
-religieux promoteur idée père sibilla
+réunion général ordre
+tenir couvent
+religieux promoteur idée père
 exposer excellence œuvre
 prêtre olivieri proposer agréger
 œuvre magnifique avenir ordre
 trinitaire donner développement
 perpétuité
 espérer homme proposition
-père sibilla accepter unanimité
+père accepter unanimité
 nommer coadjuteur abbé olivieri
-voyage afrique
-rome préparer grand campagne rédemption
+voyage
+préparer grand campagne rédemption
 centre pays
-prêtre rome regarder
+prêtre regarder
 saint entourer prestige religieux
 légende miracle péril
-échappé monsieur gervaisai
+échappé monsieur
 avoir ambition directeur
-lxxv
+
 ailleurs fois
 fantaisie pénitent
-tourner père sibilla monsieur
-gervaisai imagination
+tourner père monsieur
+imagination
 femme séduire romanesque pieux
 dévot créer religion
 croire trouver auprès homme
@@ -6265,14 +6265,14 @@ héroïque foi âpre militant
 guide homme unique salut
 sollicité mendier direction
 refuser refuser
-monsieur gervaisai
+monsieur
 besogne délicat confessionnal confession femme maniement
 fin léger âme fragile grand
 dame gouvernement petit mince
 conscience mondaine subtile savant
 conscience
-affaire vocation calabrais
-rester calabrais rome soldat
+affaire vocation
+rester calabrais soldat
 moine cerveau remuer
 moment vaste projet
 plan conversion ressembler
@@ -6280,7 +6280,7 @@ guerre
 apôtre désireux danger sentir
 trop plein sang martyr
 veine répugnance
-presque dédain paresseux
+presque paresseux
 molle occupation sacerdoce
 asseoir direction femme
 éloigner prêtre bronzé
@@ -6288,18 +6288,18 @@ expédition brigand tard missionnaire
 travers peuplade sauvage
 air prendre apostolat
 noir ciel féroce
-afrique dureté
+dureté
 négrier
-refus net presque impoli père sibilla faire exaspérer désir
-monsieur gervaisai parvenir
+refus net presque impoli père faire exaspérer désir
+monsieur parvenir
 obtenir puissant influence
 cour papal femme ministre
-étranger recommandation saint-père
-triompher résistance
-père sibilla
+étranger recommandation
+triompher
+
 lxxvi
-direction père sibilla monsieur
-gervaisai trouver brutalité pareil
+direction père monsieur
+trouver brutalité pareil
 grand chirurgien
 resté peuple humainement doux
 malade hôpital dur
@@ -6307,13 +6307,13 @@ monde sentir
 pareil apportent gêne
 éducation supériorité
 trinitaire avoir âm rare
-distingué délicat aristocratie
+distingué délicat
 attouchement brusque rudesse intentionnel
 dureté vouloir
-mania tâta retourna maltraita sorte colère impitoyabilité
+tâta retourna maltraita sorte colère impitoyabilité
 presque jaloux prendre tâche
 abaisser ravaler avilissement
-amertume jeter découragement
+jeter découragement
 mépris dégoût action
 effort bon volonté parler
 cendre poussiérer
@@ -6352,29 +6352,29 @@ oreille jaune bile
 implanter crin dure barbe
 subir confessionnal querelle
 scène dédain emportement
-monsieur gervaisai éprouver
+monsieur éprouver
 redoublement obéissance passif
 soumission sévérité épouvante
-représentant inexorable dieu
+représentant inexorable
 pousser élancement ressemblant
 presque adoration tremblant
-battre barbarie direction mettre directeur
+battue barbarie direction mettre directeur
 espèce terrible couronn
-illusion monsieur gervaisai
+illusion monsieur
 grandissement redoutable cacher
 étroitesse petitesse homme
 lxxvii
 pénitent père
-sibilla acharner opprimer
-être pensée soumettre abaisser
+acharner opprimer
+être pensée abaisser
 penser paraître juger
 craindre poursuivre dernier orgueil
-humain rester monsieur gervaisai
+humain rester monsieur
 être
 maîtriser montrer direction
 percevoir profondeur
 secrète mouvement
-volonté dieu directeur mouvement
+volonté directeur mouvement
 court craintif oser
 aboutir sentir refouler
 être finir abattre superbe intelligence commencer
@@ -6386,11 +6386,11 @@ menaçante monstre vanité
 défendre hauteur foi
 assourdissant texte sacrer redire
 science enfler
-savoir chrétien jésus christ
-crucifier citer saint paul
+savoir jésus
+crucifier citer saint
 proscrire sentiment tendre chose
 élevé chose singulier redoutable
-piéges prêcher
+prêcher
 imitation détestation chrétien
 connaissance étude supplicier
 haine opiniâtre zèle
@@ -6403,23 +6403,23 @@ impie crédulité ignorant
 puéril superstition
 permettre livre religieux livre grand haleine aspiration
 large livre parler monsieur
-gervaisai apporter conversion
+apporter conversion
 retrancher maître vie
 spirituel priver mieux
 affamer mieux appauvrir faire
 dur privation lecture
 livre saint saint monsieur
-gervaisai prendre instruction
+prendre instruction
 apôtre contemporain méthode
 exercice religieux consister lire
 jour chapitre ancien testament
 commencer chapitre
 genèse chapitre
-testamer commencer
-chapitre saint mathieu
+testament commencer
+chapitre saint
 apprendre cœur psaume
 ancien testament épître saint
-paul père sibiller
+père
 retrancher exercice remplaçant
 invocation oraison prosternement
 agenouillement demi-heure
@@ -6427,22 +6427,22 @@ bas mécanique pratique
 entraînement piéter matériel
 physique
 faire faire pied long promenade
-pieux rome visite
+pieux visite
 église compter chapelle saint-paul-hors-les-mur
-saint-pierre saint-paul
-croix pré saint-sébastien
-saint-jean-de-latran domine vadi
-sainte-croi saint-laurent-hors-les-mur
+
+
+saint-jean-de-latran quo vadi
+saint-laurent-hors-les-mur
 sainte-marie-majeure
 station cantique commémoration
 déplacement vie jésus
-chemin basilique bifurcation
+chemin bifurcation
 route récitation infini chapelet
-seigneur litanie
-sainte-vierge prière hymne
+litanie
+prière hymne
 action grâce prescrire inventeur
-pèlerinage saint philipp
-neri recevoir prière catacombe
+pèlerinage saint
+recevoir prière
 globe feu divin
 dilaté cœur côte
 rester briser
@@ -6450,39 +6450,39 @@ vie ancien livre
 laissa guère imitation remplacer
 ordonner
 fermer misérable imprimé
-dévotion italien échelle amour divin brochure timbrer
-fleuron voir athéisme
+dévotion italien amour divin brochure timbrer
+fleuron voir
 figurer harpie mamelle percer
-poignard guide âne salut
+poignard guide âne
 histoire intervention visible
-dieu diable fatiguer miracle
+diable fatiguer miracle
 descendre terre
 commander nourrir
 vouloir mortifier ravaler
-foi savant hautain jusqu’ enfance
+foi savant hautain enfance
 conte saint usage enfant
-peuple enfant rome
+peuple enfant
 lien inexplicable resserrer
 jour femme directeur
 bout mois
 parole posséder
-fréquemment monsieur gervaisai
+fréquemment monsieur
 décider quitter appartement
-place espagne venir habiter quartier
+place venir habiter quartier
 confesseur
-lxxviii
+
 quartier sauvagemer populacier
-rejeter isolé rive droite tibre
-quartier ouvrier manufacture tabac
+rejeter isolé rive droite
+quartier ouvrier tabac
 fabrique bougie cierge
 centaine église ville
-faubourg lointain perdu arriéré
-garde vieux sang rome
+lointain perdu arriéré
+garde vieux sang
 main homme prompt couteau
 ligne grave beauté
 femme espèce banlieue
 commencer barbarie village italien
-mêler aspect orient souvenir
+mêler aspect souvenir
 antiquité angle
 étayé morceau colonne
 assise bloc minerve entière
@@ -6494,11 +6494,11 @@ moitié bouché maçonner dégager
 élancement fine colonnett chapiteau
 ionique moment
 plâtr déchiré craqueler brique
-temps auguste hasard couleur
+temps hasard couleur
 pareil palette ton
 peintr garde mur bout
 passé profil esquille grand
-os rome reparaître reperce
+os reparaître reperce
 vaste palai noir vieillesse
 splendeur délabrer garder vol
 oiseau proie soutenir
@@ -6526,10 +6526,10 @@ pendre moindre souffle mettre
 passer bruit voile gonfler
 grand atelier grossier charronnage
 remisage ciel
-charrue rappeler cincinnatu robuste
+charrue rappeler robuste
 char roue pleine pouvoir
 porter fardeau
-république vieux fer caton
+vieux fer
 pavé passage troupeau
 chèvre blanc bousculer monter
 bien repos
@@ -6553,14 +6553,14 @@ chemise passer dos
 sombre escalier bois vêtir
 robe jour descendre
 appuyer main mur
-nommer transtevere rome
-lxxix
-monsieur gervaisai vouloir loger
-côté saint-chrysogon trouver logement meubler
-place sainte-agathe voisinage
-installer vis-à-vis sainte-marie
-transtevere minute
-saint-chrysogon
+nommer
+
+monsieur vouloir loger
+côté trouver logement meubler
+place voisinage
+installer vis-à-vis
+minute
+
 immense maison délabrer
 grand porte fermé barre fer
 fenêtre rez-de-chaussée grillé
@@ -6577,7 +6577,7 @@ maison logement salon
 quartier pièce
 riche apparat salon entièrement
 peint bleu faux affectionner
-peuple italien azure jusqu’
+peuple italien azure
 chambre plafond poutre
 poutrelle blanc ligner filet
 rouge salir écailler ciel pièce grand paraître immense
@@ -6589,26 +6589,26 @@ mauvais dama rouge dos
 maigre dur renverser rebord
 enrouler baignoire console pourtant
 porter débris paradis cire
-enfant jésus moisir
+enfant moisir
 gonella soie passer bretelle
 suisse petit gymnaste
 fenêtre battu rideau auberge
 voir herbe solitude pousse
 place église porte latéral
-sainte-marie transtevere inscription
-indulgentia plenaria grand
+sainte-marie inscription
+plenaria grand
 mur brique dénuder déchausser
 auvent abriter vieux peintur
-vierge cathèdre
+cathèdre
 balancer lanterne maison parochial
 rococo espagnol fermer
 place droite petit cimetière fermant
 gauche préau jour décombre
 tombe ornement rose sauvage orbite tête
 mort petit cimetière baptisant
-nom triste rue monsieur gervaisai
-del cimitero
-lxx
+nom triste rue monsieur
+
+
 imitation devenir lecture continuel
 pain quotidien amer noir
 pensée méditer copier
@@ -6616,16 +6616,16 @@ retenir porter
 morceau sombre livre écouter
 heure sonner
 glas création nature
-humanité vivre incliner
+vivre incliner
 page bréviaire douloureux répèter
 mourir mourir
 mourir mourir corps mourir
 mourir dernier
 mot litanie dire trouver
-in pac sainteté moyen âg
-cruche eau lit planche caveau couvent profundi
+pac sainteté moyen âg
+cruche eau lit planche caveau couvent
 vie terre écrire
-angoisse approche an mil
+angoisse approche an
 jour baisser soir monde
 lueur tomber dernier soleil
 existence mettre
@@ -6635,10 +6635,10 @@ passage route traverser
 voyageur étranger
 toucher chemin inanité vacuité
 vanité vanité chose
-dieu mortification renoncement
+mortification renoncement
 écho impitoyable éternel
 redire sévère funèbre commander
-nom crainte dieu
+nom crainte
 vraie profonde dévotion arrachement
 lien ici dépouillement
 sentiment personne aimer
@@ -6649,23 +6649,23 @@ innocent ordonner regarde
 boue foin
 verset succéder verset tomber goutte goutte inexorablement
 eau voût froid
-eau pétrifiant ossifier cœur
+eau pétrifiant ossifier
 glacer affection tendresse
 empêcherait battre
 humain terre membre aimer
 monde aimer naître société
 amitié amour mariage famille
-communion attachement liaison
+attachement liaison
 cher dur livre dessécher
 froid détachement moine aridité
 égoïsme stérile imposer sœur
 frère mari épouse
 père mère
-lxxxi
+
 rendre compte dessèchement
 appauvrissement
 cœur sentir riche déborder
-autrefois répandre
+répandre
 aller spontanément
 source vif tendresse sembler tarir désintéressement détachement
 personne venir
@@ -6673,13 +6673,13 @@ grand tristesse reconnaître
 misère présent affection
 doute poignant
 affliger aimer
-pouvoir aimer fois dieu prochain
+pouvoir aimer fois prochain
 calomnier dire
 aimante oser moment
 faire remonter livre glacer froid
 renoncement mettre
 jour penser regret
-ami rome voir
+ami voir
 étonner sentir séparer
 vivre côté
 mort année songer
@@ -6688,7 +6688,7 @@ frère éloignement
 envoyer signe vie
 manque nouveau laisser
 presque indifférent revoir
-premier temps arrivée rome
+premier temps arrivée
 impatient avide souvenir laisser
 aller prendre
 poste arrivée lettre attendue lisant cour revenir
@@ -6696,23 +6696,23 @@ malheureux buraliste
 nient présent passer
 mois faire retirer occuper
 
-sympathique mémoir france
-honorine domestique devenir presque
+sympathique mémoir
+domestique devenir presque
 amie dévouement maladie
-exil honorine quitter lendemain
+exil eût quitter lendemain
 ennui
 perte habitude
 fils peur
 interroger oser
 propos
-secret cœur fils falloir bien
+secret fils falloir bien
 avouât vie
 aimer non
-amour amour unique jaloux furieux
+amour amour unique furieux
 dévorer faire fou
 chaude vraie mère pénible
 idée chasser repousser aussitôt
-jeter pierre-charle rattacher
+jeter rattacher
 réchauffer
 jour emportement
 baiser arriéré tendresse étouffement caresse frénésie
@@ -6725,22 +6725,22 @@ arriver reprocher
 transport pouvoir trouver
 régler mesure religieux
 degré amour permettre mère
-lxxxii
-matin honorine
+
+matin
 occuper habiller coiffer monsieur
-gervaisai parler religion
-tâcher entraîner église insister
+parler religion
+tâcher entraîner insister
 aller confesse
 obtenir
 fille obéissante soumise ordinaire
 vouloir
-fond entier dévouement honorine monsieur gervaisai couver
+fond entier dévouement honorine monsieur couver
 haine ardent jour
 religion prêtre
 changer maîtresse ôter
 jour bonheur
-bonté attaquer honorine répondre
-résistance laisser
+bonté attaquer répondre
+laisser
 percer horreur inspirer
 persécuteur monsieur
 venir scène maîtresse
@@ -6748,29 +6748,29 @@ violence presque rage saint
 conversion vouloir arracher
 force idée deviner
 impiété fois
-exaspération main monsieur gervaisai
+exaspération main monsieur
 main femme monde
-oublier jusqu’ approcher colère
-prête griffer visage patient résigner
+oublier approcher colère
+prête visage patient résigner
 domestique baisser tête sembler
 maîtresse
-fait monsieur monsieur souffrir
+monsieur monsieur souffrir
 
 éclat succéder froideur
-glaciale dur laisser
+glaciale dur
 besoin parole blessant coup regard
 empoisonner servant empoisonneur
 verser boire
 tenir distance éloignait refuser
 attention volontairement
 humilier faire souffrir demander
-fils honorine
+fils
 petit soin service aller chercher
 livre relever oreiller
-jour tourmenter honorine
-vivement ordinaire honorine
+jour tourmenter
+vivement ordinaire
 laisser échapper jour répugnance
-monsieur gervaisai coup
+monsieur coup
 lancer voix mauvais
 bien écouter dis
 honorine fait croire
@@ -6778,60 +6778,60 @@ croire oui avoir
 conscience avoir
 peser confession
 prier demande
-bien clair
+oh bien clair
 
-monsieur honorin
+monsieur honorine
 oeil devenir soudain grand
 comprendre paraître impossible parole être sortir bouche
 
 avoir voler
-monsieur wynant
-honorine jeter monsieur gervaisai
+monsieur
+monsieur
 regard pitié épouvanter
 fou
 monsieur
-dieu bon
-dieu rend méchant
+est-il bon
+rend méchant
 voix mourir lèvre
-tomba roide attaque nerf
+tomba roide attaque
 lxxxiii
-monsieur gervaisai sentir
+monsieur sentir
 jour malade accepter
 mal laisser aller sorte
 pieux fatalisme exaltation
 dévotion amène femme
 commencer regarder santé
-chose main dieu vraie chrétien occuper
+chose main vraie chrétien occuper
 souffrance devenir oeil espèce
 avancement spirituel voir
-médecin voir docteur monteron
+médecin voir docteur
 lent exécution faire autour
 amitié relation ancien
-confesseur jésuite particulièrement
+confesseur particulièrement
 travailler détacher docteur
 libéral député révolutionnaire
-constituant romain
+
 trouver singulier froideur accueil
-monsieur gervaisai contraindre
+monsieur contraindre
 sérieux amusant récit
 docteur vite apercevoir flair
-tact italien souterraine manœuvre
-jésuite cesser subitement
+tact italien souterraine
+cesser subitement
 visite convenir
-signe honorine rideau relever
+signe rideau relever
 fenêtre appartement dire
-jour -là monsieur gervaisai
+jour -là monsieur
 souffrant monter auparavant
 parole
 politesse banal fois
 dialogue
-montrer mouchoir
+mouchoir
 nuit
 docteur
 avoir
 cracher sang
 non tenir
-oui petit oh
+petit oh
 presque
 aller prendre chapeau
 saigner demain
@@ -6839,7 +6839,7 @@ lendemain saignée faire échange
 mot disparaître mois
 semaine visite
 brusque sorte intérêt impérieux
-laisser monsieur gervaisai courage
+laisser monsieur courage
 rompre grossièrement
 vouloir prétexte
 occasion renvoyer
@@ -6849,41 +6849,41 @@ autorité science docteur
 patience insupportable
 accepter moitier pitié
 malade moitier plaisir
-faire enrager père giansanti fond monsieur gervaisai finir concevoir
+faire enrager père fond monsieur finir concevoir
 craindre médecin arriver
 jour presque heure préciser
-crise rome
+crise
 pays espionnage peur espionnage
 flottante air contagieux
 donner trouble anxieux soupçon
 espionner
-quitter corso être
+quitter être
 content raison
 simple changement quartier
 éloignement affaire
 
 partout savoir
-saigner honorine
+saigner
 envoyer porter docteur
 prix visite
-lxxxiv
+
 croyant avancer
-foi monsieur gervaisai éprouver long temps souffrance
+foi monsieur éprouver long temps souffrance
 douloureux état oser avouer
 confesseur subir épreuve
 moment désoler ardeur
 passion dévotion tenacité
 prière tendance continuel
-dieu avidité
+avidité
 immoler devoir
-faire naître dieu
-dieu naître posséder
+faire naître
+naître posséder
 présence intérieur
 donner atteindre accablement
 venir penser reculer
 passer malaise
 tourment cœur élancer
-jeune fille manque
+jeune fille
 adorer confiance adorant
 ressentir crainte
 respect oser saint
@@ -6892,8 +6892,8 @@ sein redoutable majester
 maître dérober bonté impression
 pareil frayeur
 saint comprimer désir aimer
-abandonner peur dieu
-lxxxv
+abandonner peur
+
 pharmacien romain
 heure journée intéressant heure
 crocchio assemblée clou
@@ -6901,7 +6901,7 @@ heure heure
 réunir pharmacie médecin
 venir chercher sort lendemain
 voit porte orner
-bâton esculape entouré serpent
+bâton entouré serpent
 écarquiller oeil tâcher apercevoir
 clou affecter nombre
 chiamate ficher
@@ -6912,12 +6912,12 @@ petit morceau
 papier pendre
 affreux coup œil clou vide
 coup œil quotidien pauvre
-diable pacifico scarafoni illustrissimo dottore romano bon botaniste
+diable illustrissimo dottore bon
 heureux guérisseur fièvre local
 âne bâté buté
 excuser naïvemer rejeter
 ignorance difficulté apprendre anatomie
-rome délivre
+délivre
 étude médical morceau
 femme lieu cadavre entier
 malheur allopathe
@@ -6926,11 +6926,11 @@ temps libéralisme particulier classe
 passer zèle pratiquer
 valoir protection clientèle
 religieux ordre pauvre
-père sibilla indiquer monsieur gervaisai
+indiquer monsieur
 donner
-médecin excellence prince maximiliani
-monsieur gervaisai
-ignorer prince imitation
+médecin excellence
+monsieur
+ignorer imitation
 prince romain faire soigner
 médecin étranger disant
 docteur attacher santé
@@ -6939,19 +6939,19 @@ payer écu mois loger comble
 palazzino annexe illustre maison italien ombre grand palais
 maître
 soir -là arriver crocchio
-infortuné pacifico avoir tremblement
+infortuné avoir tremblement
 joie trouver nom riche
 français prise crachement
 sang faire appeler bond
 précipiter précieux adresse surgir
-porte honorine
+porte
 chapeau gris habit rapé traditionnel
 gilet satin noir paquet breloque
 corail jettature grand
 bouton carré jais noir marbre
 tumulaire poser chemise sale
-interroger monsieur gervaisai
-honorin expliquer
+interroger monsieur
+expliquer
 mot italien monsieur
 malade saigner
 mois bien
@@ -6960,7 +6960,7 @@ homme grand bouton hocha
 tête prononcer saignée valoir
 malade
 affaibli prendre docteur
-scarafoni engagement guérir poudre composition
+engagement guérir poudre composition
 poudre fameux poudre
 poudre
 médecin voir
@@ -6969,13 +6969,13 @@ mortuaire caricatural sinistre
 entendre débit charlatanesque
 marchand orviétan panacée
 merveilleux frisson peur
-traversa froid monsieur gervaisai
+traversa froid monsieur
 moment avoir idée renvoyer
 immédiatement faire demander
-docteur monteron
-scarafoni
+docteur
+
 malade venir appeler
-recommandation père sibilla
+recommandation père
 coin œil intérieur
 découverte image pieux avoir
 bon inspiration couper amphigouri
@@ -6986,21 +6986,21 @@ dame simplement
 poudre homéopathique voir
 poindre effrayer innocent poudre homéopathique
 dosage célèbre maître
-pari londre
+
 humble élève
 prendre componction insinuant
 mêle mêle baissant
 religieusemer voix oeil
-pâte martyr oui pâte
-saint martyr avoir devoir entendre
+pâte oui pâte
+saint avoir devoir entendre
 pouvoir ignorer
 effet miraculeux nombre malade
 donne
 père ministre infirme
-sainte-madeleine
+
 lxxxvi
 sensation plastique
-monsieur gervaisai vivre
+monsieur vivre
 chambre nu vide démeublé
 vivre personne pieux
 entour objet paraître appartement devenir oeil
@@ -7012,7 +7012,7 @@ musiqu entendre regarder
 tableau ex-voto
 imagerie sainteté complaire
 misère presque sordide lieux
-être église transtevere
+être église
 sentir aigre crèche enfant
 mêler femme guenilleux laisser
 morceau loque pavé place
@@ -7028,31 +7028,31 @@ intérêt presque réalité
 visible sensible ici
 périssable mortel percevoir
 sorte cadavéreuse beauter chose tache unique
-splendeur dieu
+splendeur
 lxxxvii
 levée semence jeter
-direction jésuite compression
-père trinitaire effacer
+direction compression
+père effacer
 pénitent grand haute
-humain idée dieu
+humain idée
 créer autrefoi
 entièrement dépouiller catholicisme
 idée dieu inaccessible
 inembrassabl trop vaste
-idée dieu
+quelqu’ idée dieu
 philosophie succéder
-redoutable dieu foi tout-puissant
-dieu père lente
+redoutable foi
+père lente
 miraculeux transformation adoucir
-lentement dieu humain dieu fils
-dieu pareil dieu mal
-souffrance dieu amant jésus christ
-jésus conversion passer évangile
+lentement humain fils
+pareil mal
+souffrance
+conversion passer évangile
 histoire divin
 oeil
 arriver temps
 suivre méthode exercice pratique
-loyola chercher
+chercher
 demi-jour conseill
 propre illusion matériel
 tâcher évoquer imagination
@@ -7079,7 +7079,7 @@ sensible tendresse
 amèrement soupirer pouvoir
 atteindre trouver
 confiance abandon femme
-livre jésus clouer
+livre clouer
 épancher chose
 posséder parfaitement
 durablement pleinement
@@ -7112,8 +7112,8 @@ vivant long allée venue
 mal éveiller prière informulée
 adoration songe laisser matin
 mémoire pâlir vision nocturne
-sauveur
 
+lxxxviii
 être succession
 mouvement ardent agitation élan dévotion vif piété appeler
 aspiration exprimer
@@ -7124,25 +7124,25 @@ parole amoureux parler
 craindre voix
 haute fût
 élever colloque silence
-oeil répondre oeil cœur
-cœur entendre
+oeil répondre oeil
+entendre
 amant sacrer dire
 souffle
-jour honorin chambre
+jour chambre
 voir maîtresse devenir
 subitement singulière entendit prononcer
-nom distinct madeleine
+nom distinct
 appel entrer amener
 madeleine imposante
 visite femme chambre resta stupéfait
 comprendre tomber genou
-parquet monsieur gervaisai faire
+parquet monsieur faire
 mouvement embrasser
 robe prosterner paraître adorer roi
 chambre vide répéter fois figure rayonnant
-rabboni bon maître
 bon maître
-lxxxix
+bon maître
+
 entier secret ingénier
 trouver souffrance supplice
 corps pauvre corps malade
@@ -7155,51 +7155,51 @@ ongle pied user
 brique sorte
 imagination pareil raffinement
 dureté doux autrefoi
-ingénier mettre toilette avare
+ingénier mettre toilette
 austérité rudesse rappeler
 pénitent premier siècle
-église haineuser corps
-temps honorine étonner trouver pouvoir deviner
+haineuser corps
+temps étonner trouver pouvoir deviner
 venir chemise
 maîtresse tache sang bout
-brindille arbuste monsieur gervaisai
-refus père sibilla
+brindille arbuste monsieur
+refus père
 porter cilice prendre habitude
 coudre toile couvrir poitrine
 petit branche rosier épine
 déchirer peau
 xc
-monsieur gervaisai prendre affection
-sainte-marie transtevere
+monsieur prendre affection
+sainte-marie
 vieux coin vieux église encombré
 rapiécer débris siècle angle obscurité
-colonne porphyre sombre
+colonne sombre
 chapiteau bronze lambeau
 ancien reste antiquité
 inscription gothique cadavre
 pierre cardinal plaquer
 mur chapeau rouge fragment
-musée vétuster vénérable présence passé rome
+musée vétuster vénérable présence passé
 montr bric-à-brac sacrer ramasser
-démolition empire expropriation
+démolition empire
 olympe
 petit sacristain enfant
 guetter maison parochial
 place voir sortir aller
 ouvrir petit porte rinceau byzantin
-monsieur gervaisai tomber
+monsieur tomber
 église marche
 boîteus doigt mouiller eau bénit
 bénitier éclairer veilleuse
 monter droite degré conduire
-tribune agenouiller
+agenouiller
 marbre dernier
 gauche hémicycle
 boiseri brun milieu lever
 blanc mystère siége marbre
 garder griffon trône redoutablement
 vide haut voûte
-colossal jésus long vierge géant
+colossal long vierge géant
 apôtre courber voussure
 pencher ciel face
 martyr sauvage blémier couleur
@@ -7219,8 +7219,8 @@ livre gravure
 habituer égarer rêve dur
 ciel paradis formidable hiératisme
 barbare beauté chercher
-anti-humain style inexorable
-figure effroi christ pareil
+anti-humain style
+figure effroi pareil
 terrible empereur souffrance
 enlever sentiment
 réalité vue troubler entrer union
@@ -7228,22 +7228,22 @@ briller au-dessus
 croire assister miracle
 lumière heure frapper mosaïque
 corps face vêtement membre mouvement ondulant
-rayon toucher figurer
+toucher figurer
 apercevoir ombre baisser doigt
 paupièr lourde griffon appesantir
 sommeil marbre inconscience
 venir presque sentir non
 anxieux plaisir perdre
 terre transporter lieu
-heure décor être apocalypse
+heure décor être
 espace avenir
-briser sceau livre
+briser sceau
 presque rester heure
 agenouiller droite raidissant
 moment devenir blanc
 sang quitter
 épuisemer suprême fin dernier
-force donner corps vaincre
+force donner corps
 tête presque mourant épaule
 affaissement évanouir
 fils garder
@@ -7252,28 +7252,28 @@ vinaigre faire emporter
 fois prévision trouver
 mal pauvre enfant dresser
 habituer faiblesse mère inquiétude
-seconde aspiration monsieur gervaisai
+seconde aspiration monsieur
 redresser héroïque reprier
 bout prière visage mortellemer
 las tirer agonie trait
 oeil rentrer regard cave presque
-renverser saint jérôm
+renverser
 recevoir communion tableau
-dominiquin
-xci
+
+
 fièvre foi tarder faire
 extase état chronique femme
 épuiser tuer mal macération
 dédain santé être bientôt
-sainte-marie transtevere
+sainte-marie
 être improviste
 avoir presque continûmer ravissement
 élancement transport
 détachaient arrachaient matière
-train travailler tapisserie pierre-charle entendre
+train travailler tapisserie entendre
 profond soupir
 voix mère devenir voix
-petit fille sanglotant étouffer
+petit fille sanglotant
 moment douloureux enfantinemer gémissant
 taire briser exclamation
 aussitôt voir visage
@@ -7302,29 +7302,29 @@ vague effroi aimer
 voir belle beauté faire
 peur
 bout temps monsieur
-gervaisai revenir petit
+revenir petit
 tremblement stupeur
 chercher autour
 confus presque
-honteux grâce dieu
+honteux grâce
 vouloir cacher rassurer trouver
 enfant remettre travailler
 passer
 arrêter reposer moment
 reprendre haleine respiration
 plaintive
-29 juin jour fête saint pierr
-saint paul envoyer fils
-voir illumination coupole saint-pierre
-honorine ramener enfant
-femme chambre trouver côté
+juin jour fête
+envoyer fils
+voir illumination coupole
+ramener enfant
+femme chambre côté
 bougie flamme expirant
 casser bobêche maîtresse évanoui renverser plat dos main
 étendre au-dessus tête
 mouvement adoration
 xcii
 maladie lent maladie éteindre
-presque doucement vie monsieur gervaisai
+presque doucement vie monsieur
 phthisie aider singulièremer
 mysticisme extatisme aspiration
 corps devenir esprit surnaturel
@@ -7344,16 +7344,16 @@ matière malade
 phthisi maladie party haute
 noble créature caractère
 faire naître phthisique
-sai élevé attendrir aimant
+sai élevé aimant
 sens voir bien beau
 idéal sorte état sublimité
 humaine presque
 ici
 phthisie agir
-monsieur gervaisai action particulier
+monsieur action particulier
 cerveau prodigieux métamorphose
 moule idée action
-inobserver voiler jusqu’ ici ignorer
+inobserver voiler ici ignorer
 médecine grand physiologiste
 temps travailler moment pénétrer
 mystère action amener
@@ -7374,8 +7374,8 @@ demie asphyxie gaz carbonique
 poumon expirer excitation
 perte sang froid tête
 ivresse léger pareille griserie petit
-enfant bu eau seltz jeun
-xciii
+enfant bu eau seltz
+
 maladie ronger
 diminuer griser continuité exténuant
 exaltation constance unique
@@ -7386,11 +7386,11 @@ naturel prédisposition
 jouissance secret amour divin amenaient
 vite lisière peine définissable
 séparer vie illuminatif
-vie unitif appeler
-grand âme dieu
+vie appeler
+grand âme
 entrer pleinement relation
 incessant sorte identification
-infini absorption
+absorption
 idée mot humain
 engloutir cœur
 mourir penser actif
@@ -7399,20 +7399,20 @@ sensitivité suspendre
 véritable catalepsie saint
 sembler envoler transporter haut
 ici lieu céleste
-oeil terre femme voir jésus
+oeil terre femme voir
 élargir autour tête presser
 déchirante couronn approcher
 partager moitié
 épine clou
 bienheureux délire ivresse bénie surexcitation
-fou folie croix nature force humain
+fou nature force humain
 limite mesure coup
 vif intense illusion
 trahir créature retomber
 communion éternité énervement
 long secouer
-xciv
-moment venir monsieur gervaisai
+
+moment venir monsieur
 extase perdre
 fréquence espacer
 jour demander obtînt
@@ -7423,7 +7423,7 @@ temps court
 montrer vision incomplet
 trouble voiler briser
 ciel chaîne bienheureux nouer
-vie haut dieu retirer
+vie haut retirer
 amitié approche familiarité
 lumière
 mesure éloigner
@@ -7441,7 +7441,7 @@ dévotion offrir mont élance
 frapper aridité stérilité demeurer
 seigneur
 terre eau
-dieu paraître retrancher
+paraître retrancher
 doux nourritur donne
 commençant foi supprime
 ensuite sèvre
@@ -7451,7 +7451,7 @@ exigence recherche intéresser
 égoïste sensualité spirituel
 arriver instant critique
 épreuve être sainteté grand
-saint instant âme continuer
+instant âme continuer
 aimer vide abandonnée
 amour divin perte
 don effusion espérance
@@ -7461,25 +7461,25 @@ délaissement rendre propre
 indigence exercice
 saveur suavité
 vainement prendre demeur
-plaie saignant jésus christ réfugier
+plaie saignant réfugier
 passion vainement redoubler
 appel évocation supplication
 parvenir attendrir
 fondre mouiller componction
 larme passée oraison
-laisser froideur statue
+froideur statue
 pouvoir regarder mur
 voir capable faire jaillir acte
 amour dureté cœur
 xcv
-enfermer quartier transtevere
+enfermer quartier
 vivre retirée jamais
 décider guère sortir
 regard tomber visage
 enfant pâleur emprisonner
 jamais dépasser pont maussade
 promenade traîner long
-tibr débouché tomber
+débouché tomber
 fleuve descendre immondezzaio
 terrain buisson rabougrir
 berge baveux limon pareil
@@ -7489,48 +7489,48 @@ fangeuse honteux pourrir
 trou porte fenêtre façade
 écorché dire bruni
 brûlé coulée fiente
-rome ligne bâtisse ordure dominer
-dôme vieux métal vert feuille aloës avancer
+ligne bâtisse ordure dominer
+dôme vieux métal vert feuille avancer
 çà arceau brique antique
 arcader égout porter rose
 sauvage citronnier machinalement
-monsieur gervaisai oublier
+monsieur oublier
 regard fleuve couler
 jaune rouler impassiblement
 eau aveugle trouble trognon
 brocoli lit chef œuvre noyer
 bourbe long course
 permettre force
-mener pierre-charle
-loin île saint-bartholomé
-petit pont capi bout
-tibr étrangler moulin baraque
+mener
+loin île
+petit pont bout
+étrangler moulin baraque
 bois long roue palette
 barrage estacade passerelle
 bois pliant coin eau
 ancien rappeler cours encombrer
 vieux fleuve vieux ville
-voir topographie mérian
+voir topographie
 enfant joue poser parapet
 amuser jeu tournoiement
-incesser giornello filet
+incesser filet
 balance plonger moment ressortir hareng mer
 esturgeon grand
 homme
 revenir promenade
-rencontrer longaretṭa
+rencontrer
 ancien domestique sentiment
 natif égalité revenir romain
-service giuseppe aborda familièrement
+service aborda familièrement
 mettre recherche
-habit neuf gant orange
+neuf gant orange
 canne tenir serrer bras
 naturellement monde poisson
-sec plat sel blanchir aisselle
-bien giuseppe avoir
-fortun monsieur gervaisai
-signora giusepp
-giusepp ajouta air
+sec plat blanchir aisselle
+bien avoir
+fortun monsieur
+signora
+ajouta air
 mystérieux société
 fouille
 voix creux suspension
@@ -7543,51 +7543,51 @@ petit profit fragment colonne
 marbre compter médaille
 monnaie
 découvrir torse
-animer tendit long bra ouvrit
+anima tendit long bra ouvrit
 petit oeil vision terre
 prodigieux trouvaill torse
 répéta exalter recevoir
 ducat annobli pape
 malheureusement travailler
 grand associé jardinier
-prince santacroc manquer capital
+manquer capital
 pourtant connaître endroit
 riche monsieur
-gervaisai vouloir bien mettre moitié
+vouloir bien mettre moitié
 sûr trouver
-grand hercule doré doré épaisseur
+grand doré épaisseur
 sequin beau
 capitole déclarer
 argent
-signora faire retourner
+signora retourner
 enfant toucher épaule content voir petit seigneur
-sainteté comte
+comte
 marquis
-xcvi
-arriver entier déréliction cœur
-monsieur gervaisai adoration
+
+arriver entier déréliction
+monsieur adoration
 mère jésus rester absent
 cœur jusque-là recours
-prière patronne sexe cœur
+prière sexe cœur
 pareil cœur illuminée amour
 jaloux saint
-vierge jalousi naturel épouse
+jalousi naturel
 mère époux cœur implorer
-fois marie consolateur
+fois marie
 affligé
 inexaucer envelopper obscurité
 ténèbre pleine incertitude
 angoisse pouvoir trouver raison
 rendre indigne miséricorde
 divine élever haut
-plainte psalmiste dieu avoir détourner visage
+plainte avoir détourner visage
 tomber trouble
 grâce sensible arriver
 éloigner confesseur sécheresse
 rejeter confessionnal
-saint-chrysogon
-xcvii
-ancien église saint-chrysogone
+
+
+ancien église
 misère richesse
 marbre délabrer dallage
 mosaïque semer dragon aigle
@@ -7599,7 +7599,7 @@ figurer légende ordre
 noir nuit descendre
 vénérable colonne amener peur
 obscurité apporter solitude basilique
-lointain infréquenter rome
+lointain infréquenter
 jour éclairer fond chœur trouble énorme candélabre
 soutenir paon porter
 immense cierge peindre long piquer
@@ -7607,7 +7607,7 @@ pomme dernier rayon
 aller mourir dalle
 lire
 verer fraternitas
-nec in mort separatur
+in mort separatur
 église paraître vide entendre
 dernier attarder glissant
 porte sonnerie cuivre
@@ -7620,8 +7620,8 @@ milieu nuit monument
 monter voix dureté dire
 femme agenouiller fragment
 tombe antique servir marche confessionnal
-misérable pécheur
-plaindre dieu repousse embrassement dieu donne livre
+pécheur
+plaindre repousse embrassement donne livre
 donner
 renoncer sacrifier
 entièrement
@@ -7629,28 +7629,28 @@ attachement terrestre enfant
 amour mère chrétien
 dire porter
 enfant
-dieu vouloir
+vouloir
 aime
-broyer cœur enfant
+enfant
 enfant marquer front signe
-colère dieu enfant punir maudire
+colère enfant punir maudire
 incrédulité
 mère vouloir essayer élever
-voix confesseur écraser
+voix confesseur
 mot
 venir
 haïr père mère épouse
 enfant enfant entendre -vou
 disciple
-paroler notre-seigneur jésus christ
-chapitre verset 26 saint
-évangile saint luc
-monsieur gervaisai rester muet briser angle confessionnal tandis
+paroler
+chapitre verset saint
+évangile
+monsieur rester muet briser confessionnal tandis
 église résonner bruit chapelet
 trinitaire marche
-xcviii
-monsieur gervaisai sortir
-pierre-charle enfant enfiévrer
+
+monsieur sortir
+enfant enfiévrer
 besoin mère paraître
 retirer enfant prendre
 habitude embrasser tôt
@@ -7660,7 +7660,7 @@ noir servir antichambre
 marche attendre
 dépêcher ouvrir aller
 baiser essouffler mère
-soir -là monsieur gervaisai rentrer
+soir -là monsieur rentrer
 repousser bras tendre
 enfant enfant courut
 petit mot passionner tirer
@@ -7677,51 +7677,51 @@ appel jurement trop gros
 bouche passer fou rage
 laisser tomber terre
 méchant porte rouler noyer
-pleur bruit honorine accourut
+pleur bruit
 ramassa porta canapé
 courage
 
-xcix
-nuit -là monsieur gervaisai
+
+nuit -là monsieur
 coucha agenouiller crucifix
 accrocher mur chambre passer nuit entretenir
 morceau cuivre raconter vie
 dire larme conversation
 presque familier exaltation
-dieu attendre
+attendre
 répond causer
 
 dire
-sacrifié dieu
-connaître dieu
-dieu prier écouter
+sacrifié
+connaître
+prier écouter
 pitier oui être
 voir trouver chemin
 aller savoir
-affliction amertume
+affliction
 détest horreur
 dégoût passé pourtant
-dieu
+
 mère aimer
-enfant trop dieu
-trop dieu confesseur jésuite
+enfant trop
+trop confesseur
 permettre enfant trouver
 amour faire point tort
 demande
-dieu voir bien tête incliner oeil abaisser
+voir bien tête incliner oeil abaisser
 bras signe clémence
 pardon
-répondre dieu dieu
+répondre
 enfant malheureux
 souffrir tue
 estropié donner
 vie avoir frapper
-naissance dieu oh
-accuser dieu volonté
+naissance oh
+accuser volonté
 falloir meur
 présent pauvre innocent enfant
-répondez -moi dieu
-répondre dieu
+-moi
+répondre
 misérable femme gémissante
 sanglotant tordre terre crucifix
 mère fils condamner
@@ -7731,12 +7731,12 @@ supplication cri grâce
 demander haut finir
 réveiller honorine croire
 moment entré maîtresse
-pied nu venir écouter porte
+nu venir écouter porte
 chambre effrayée
 long heure entendre
 larme sanglot
-prière répondre -moi
-dieu répondre fait
+prière -moi
+répondre fait
 entend
 être épuisement
 pleur étouffé plainte
@@ -7770,7 +7770,7 @@ indignité affection charnel
 imparfait créature périssable
 créer sacrifice généreux
 faire créateur froideur monsieur
-gervaisai grandir péniblement
+grandir péniblement
 milieu tourment rechute retour
 rejetaient enfant traverser
 envie soudainer étreindre
@@ -7778,7 +7778,7 @@ envie soudainer étreindre
 chambre fondre
 larme gronder faiblesse tendre affreux supplice insensibilité
 maternel travail
-broyer cœur ordre
+broyer ordre
 trinitaire
 long sentiment peur
 venir pauvre petit
@@ -7796,13 +7796,13 @@ sang dernier suprême victoire
 religion haine mélange étrange
 fils voir fils
 obstacle salut
-empêchement bonté dieu
+empêchement bonté
 ennemi chéri détester vie
 éternelle
 exemple illustre saint
 guérir affection terrestre réciter jour recommandation
 confesseur hymne
-veni creator spiritus jour
+veni creator jour
 récitait coup
 main puissant efficace faire
 retourner cœur renverser
@@ -7834,10 +7834,10 @@ matin lit réveil
 mémoire grand chagrin
 charité enfant bout
 aller subitement sourire
-petit figure rappeler lever
+petit figure rappeler
 chercher coin ombre pièce
 loin supplier mère voir
-oeil fils monsieur gervaisai
+oeil fils monsieur
 essayer éviter rencontre
 faire tressaillir pied
 tête malheureux tromper
@@ -7851,15 +7851,15 @@ femme égarer côté penser
 enfant oublier
 vite ramasser miette cœur
 mère
-soir coucher honorine
+soir coucher
 pencher border couverture
 dernier mot
-man aimer pierre-charle
-cii
-époque monsieur gervaisai
+man aimer
+
+époque monsieur
 mettre dos
 vieux rob noir trop large maigreur
-honorine remployée
+remployée
 linge posséder chemise repriser
 mauvais mouchoir vouloir entendre
 racheter
@@ -7872,7 +7872,7 @@ dépense intérieur resserrer
 maison vie enfant
 extrême parcimonie avarice maniaque
 venir
-honorine pouvoir trouver
+pouvoir trouver
 explication caprice malade
 savoir devenir argent
 monsieur
@@ -7882,25 +7882,25 @@ croîtr frileux mieux
 aimer passer dire pain
 feu refuser feu brasero
 matinée soirée froid
-monsieur gervaisai établir
-transtevere honorine penser
+monsieur établir
+penser
 maîtresse empoisonner
 plat italien trattoria quartier mettre faire
-mieux cuisine monsieur gervaisai
+mieux cuisine monsieur
 finir trouver cuisine
 maison coûter trop cher
 venir côté économique monotone
 dîner quotidien bouillon
-abattis dindon poulet rome
+abattis dindon poulet
 poulet grosseur pigeon
 bouche devoir vivr
-fils mourir faim honorine
+fils mourir faim
 nourrir cachette
-ciii
+
 jour arriver monsieur
-gervaiser grâce finir assassiner
+grâce finir assassiner
 nature femme terrestre
-exister pencher originel
+exister penchant originel
 créature chercher plaisir honnête
 existence créature chose
 besoin affection semblable
@@ -7928,7 +7928,7 @@ louange mépris mal
 bonheur pouvoir passer
 mouvement chair
 avance endurer insensibilité
-corps mettre tombeau mort dieu
+corps mettre tombeau mort
 réaliser détachement
 passager viager ici dépouillemer
 
@@ -7944,23 +7944,23 @@ donner dernier coup ôter
 attachement fort sentiment
 enraciner passion
 vivre terreur mourir lentement
-sombrement enivrer monsieur gervaisai
-devenir amoureux mort
+sombrement enivrer monsieur
+devenir amoureux
 mort tarder venue amour
 faim soif impatienter
 attendre
-civ
+
 dimanche faire conduire
-catacombe pitier emmener
+pitier emmener
 fils prendre petit cierge
 allumer frate descendre marche
 enfoncer étroit corridor
-pouzzolane aller long allée
+aller long allée
 serpentante arriver petit carrefour
 trou trace fumée
 montrer place lampe messe
 furtif marcher galerie
-excavation superposer jusqu’
+excavation superposer
 voût lit passager
 navire sonder œil peur
 envie trouver tombe crevée
@@ -7974,10 +7974,10 @@ terre saint arroser sacrifice
 arrêter peintur barbare
 faire apparaître second
 mince lueur cierge premier dessin
-enfant foi oiseau symbolique
-bout arabesque colonne
+enfant oiseau symbolique
+bout colonne
 sembler servir billot
-décapitation saint voir
+décapitation voir
 tableau vieux école attendre
 ciel volée ange
 étonner fraîcheur
@@ -8017,8 +8017,8 @@ escalier marche marbre user
 déformée creuser porteur
 ensevelisseuse filtrée
 jour blanc céleste descendre verser rayon miracle délivrance
-tombe prison mamertin
-monsieur gervaisai ressentir impression
+tombe prison
+monsieur ressentir impression
 lumière matin venir
 paupière plein rêve noir
 spectacle long contenter
@@ -8026,7 +8026,7 @@ offrir place
 mémoire mort suaire
 pierre garder tache
 cadavre
-squelette conserver verre saint-calixte
+squelette conserver verre
 falloir mort restât
 mort pourtant
 femme respecter délicatesse
@@ -8038,7 +8038,7 @@ dégoût horreur mort
 pourrissant évoquer
 amertume regret pudeur
 couronner rose légèreté riante
-mort antique art grâce consolant
+mort antique grâce consolant
 rite mythe
 allégorie coupe vide flèche tirer ciel char renverser milieu
 arène urn fleurie silicernium
@@ -8050,8 +8050,8 @@ changer dépouille cendre
 ordure tombe flamme
 matin pincée souvenir soir
 aller charnier
-rome capucin oratoire
-mort confrérie sacconi
+capucin oratoire
+confrérie sacconi
 partout mort
 étale décoration reste arranger
 contourner hideux rocaille désosser
@@ -8060,19 +8060,19 @@ fémur orne trumeau pubis
 os iliaque suspendre corniche
 élégance métacarpe métatarse
 parcourir caveau
-franciscain voir accrocher
-lustre plafond squelette enfant
-être petit princesse barberini
+voir accrocher
+lustre plafond squelette
+être petit princesse
 main faul composer
 mandibule mâchoire balance calotte
 crâne pendre péroné faire
 plateal côté grotte montrer
 moine desséché
-robe bure oeil orbite
+bure oeil orbite
 bouche brun
 bouchée terreau
 sortant rassasier regard
-repouvoir prêt job
+repouvoir prêt
 pourriture être mère
 être frère
 sœur
@@ -8081,20 +8081,20 @@ appétit mort donner
 avant-goût succéder bientôt
 âme sentiment agonie
 chrétien crainte coupable
-présomption oeil souverain
+présomption oeil
 maître volonté presser
 mourir doute humble être suffisamment
 digne aller monsieur
-gervaisai décider attendre fin
+décider attendre fin
 avide impatience laisser
-dieu choix dernier
+choix dernier
 heure prêt mourir voulait
 résigner vivre exiger
 sacrifice dernier désir
 avoir désir immense passivité
 fatigue écrasement donner
 espèce effrayant insensibilité
-grand calme apathique
+avoir grand calme apathique
 mettre sensation
 humain attendre
 espérer
@@ -8106,34 +8106,34 @@ vide épuisement
 perte paraissaient faire
 presque défaillant religion
 
-
-heure ave maria heure
-dîner rome monsieur gervaisai
+cvi
+heure heure
+dîner monsieur
 train faire enfant repas
 commencer lumière coup
 brutal retentir porte
 entendre
 honorine absolument
-honorin aller ouvrir
+aller ouvrir
 presqu’ aussitôt entra brusquement officier
 uniforme figurer bronzé
 dure moustach joue maigre
-monsieur gervaisai
+monsieur
 frère
-rome fit monsieur gervaisai
+fit monsieur
 mouvement surprise
 sembler émotion sœur
 vue frère
-oui mission corps occupation
+mission corps occupation
 trouvai temps long
 nouveau envoyer ici
 regarder enfant triste oeil
-rouge mal sécher honorine pièce
+rouge mal sécher pièce
 nue intérieur désolé
 voir deviner misère larme
 pleurée souffrance privation
 pâtie
-monsieur gervaisai embarrassée
+monsieur embarrassée
 regard sentir mur
 secret maison
 frère
@@ -8142,7 +8142,7 @@ frère apercevoir poulet
 table
 peur gamin manger
 part embrassant
-pierre-charle reconnaître ami
+reconnaître ami
 pressentir protection
 glisser jambe toucher
 petit doigt attirer bel glorieu
@@ -8165,14 +8165,14 @@ bien demain heure
 causer
 avoir voix expression douceur
 énergique
-porte honorine
+porte
 femme chambre
-reconduisait chaud
+reconduisait
 diable emporter vieux
 peau sentir petit garçon
 
-cvii
-lendemain monsieur gervaisai attendre
+
+lendemain monsieur attendre
 frère préoccupation
 inquiet
 arriver heure asseoir
@@ -8184,7 +8184,7 @@ pauvre do sœur
 faire
 carreau pied
 meuble aimer joli
-france
+
 vrai grand
 changement
 faire silence frère
@@ -8192,8 +8192,8 @@ sœur
 frère reprit
 voir m. rayneval
 non
-voir m. flamen
-gerbois
+voir m.
+
 défendre
 voir
 
@@ -8203,9 +8203,9 @@ sœur
 passer fortune
 argent
 voix frère commencer animer
-fait dire
+faire
 argent
-monsieur gervaisai redresser
+monsieur redresser
 mouvement hautain impatienc
 vouloir savoir bien
 donne prêtre pauvre
@@ -8213,7 +8213,7 @@ fit -ell reprendre
 avoir second silence profond
 
 être frère rompit
-jeann autrefoi être
+autrefoi être
 sœur avoir être presque mère aujourd’hui revoir
 dire
 temps
@@ -8222,26 +8222,26 @@ plaisir revoir
 temps écrire
 écrire semaine
 savoir sœur
-baisser tête pardonner
+baisser tête
 avoir écrire
 idée craindre
 être chose
 ici
-écrire rome m.flamen
-gerboi sai -je peut-être
+écrire
+sai -je peut-être
 honorine donner prévention
 prévention lever
 prévention voir
 entendre pauvre cher sœur
-voyon venir
+venir
 rompre amitié
 mettre marcher canapé
 fenêtre promenade revenir jeter saccade
 fois retrouver
-phrase brisée monsieur gervaisai
+phrase brisée monsieur
 immobile répondre syllabe
-voix honorine
-doi accueil
+voix
+doi
 hier attacher
 terre parent famille ami
 aimer fil
@@ -8254,13 +8254,13 @@ enfer donne
 manger enfer
 laisse mourir
 faim
-oui oeil
-voir regarde sacré
-regarde visage
+oeil
+voir sacré
+visage
 bouton galeux enfer
 ladre fil charcuterie bon
 cuisine charité faim
-oeil monsieur gervaisai
+oeil monsieur
 coup vue
 chose terre fils rentraient
 regard épouvanter précipiter
@@ -8271,20 +8271,20 @@ agita sanglot
 frère laissa pleurer
 voix élever autorité tendre
 ferme
-jeanne climat rome
+climat
 bon année
 vien passer apporter
 mieux santé jour
 mission ici terminer
 jour partir ramener
-france venir passer
-hiver algérie demain conduirai
+venir passer
+hiver demain conduirai
 marchand mode
 habiller convier sœur
 habiller jour
 fera bras visite ancien ami plaisir
 revoir
-monsieur gervaisai écouter air
+monsieur écouter air
 femme comprendre peine
 avoir finir signe main
 demanda
@@ -8298,11 +8298,11 @@ enfant enfant oublier
 mari femme scène tragique
 ménage promener officier
 mère curiosité étonnée
-monsieur gervaisai avoir quart heure
-mutisme
+monsieur avoir quart heure
+
 trouver bout dernier
 force sentir incapable porter
-loin croix plier
+loin plier
 écraser fin céder affaissement
 énergie physique
 morale vie
@@ -8315,30 +8315,30 @@ existence crime fils
 jeter face mère être
 choc suprême briser
 écrouler femme faire
-rome
+
 quart heure passer relever tête
 faire désirer frère
-lentement monsieur gervaisai
+lentement monsieur
 désirer demande
 chose départ
 arrêter moment
 demande recevoir bénédiction
-pape enfant
+enfant
 frère serra bras
-demain georges
+demain
 embrasser second fois
 cviii
-monsieur gervaisai apporter difficulter
+monsieur difficulter
 retard tergiversation mauvais
 grâce faire promettre
-frère honorine être surprise
+frère être surprise
 venir essayer robe effet
 commander observation
 maîtresse
 goût parisien
 aller conduire frère
-ambassadeur france m.flamen
-gerboi princesse liverani
+ambassadeur
+princesse
 revoir ancien connaissance aisance
 quitter
 veille montrer embarras
@@ -8347,7 +8347,7 @@ gracieux laissa visiter impression
 retrouver charme
 autrefoi français courir
 société romain bruit folie religieux envoyer fils
-docteur monteron reprendre
+docteur reprendre
 docteur montrer répugnance
 frère croire devoir
 combattre
@@ -8356,7 +8356,7 @@ promenade petit excursion dîner
 hôtel tâcher délivrer
 passé chercher
 journée légèreté distraction
-abandonner résistance
+abandonner
 désirer remercier bon
 sourire quelquefois
 rire laisser tomber temps
@@ -8375,9 +8375,9 @@ figure
 voiture voir
 absence paraître
 
-singulier phénomène nature
+phénomène nature
 femme vivre dure
-direction trinitaire
+direction
 être meurtrir frapper battre règle
 fer saigner pénitence
 moral
@@ -8412,13 +8412,13 @@ flanc châle respirer
 air bouche vie oeil
 tristesse mère voir
 remonter beau sourir intelliger
-cœur enfant
-changer honorine
+enfant
+changer
 parler
 excus attendrie indirect demande
 pardon honorine heureux
 préparer joyeusement départ
-fuite ville malheur ravir transporter idée aller tourbillonner
+fuite ville malheur transporter idée aller tourbillonner
 pièce fouiller tiroir
 plier ranger déménageant emplir
 avance malle caisse
@@ -8426,14 +8426,14 @@ avance malle caisse
 maîtresse demander
 instruction emballer
 chose entendre répondre
-oui vrai partir
+vrai partir
 
-donner monsieur gervaisai
-honorine
+monsieur
+
 prendre main lettre
 venir apporter gendarme pontifical
-lire nom timbre sec
-anticamerer pontificia
+lire nom timbre
+pontificia
 palpitation battirent
 sein arrêter main
 émotion grand événement
@@ -8441,11 +8441,11 @@ vie rester minute
 oser ouvrir solennel officiel papier vivement rompre cachet
 parcourir lettre moitié imprimé moitié
 écrite dater auguste lieu envoi
-vaticano formule prévenir
+formule prévenir
 sainteté daigner admettre audience
-samedi 30avril heure
+samedi heure
 midi
-relire lettre épeler jusqu’ illisible
+relire lettre illisible
 signature maître chambre avvertenza
 marge tenue
 dame monsieur
@@ -8455,15 +8455,15 @@ abaisser lettre genou
 regarder canapé
 robe noir voile noir préparer
 lendemain aller
-recevoir successeur saint-pierre
-vicair jésus christ pape pape
-mot faire long écho jusqu’
+recevoir successeur
+vicair
+mot faire long écho
 fond respect souvenir
 humanité paraître
 rencontre chemin
-vigne avance apercevoir transfiguré
+avance apercevoir transfiguré
 approcher image reflet présence terrestre
-dieu lumière passer
+lumière passer
 oeil moment éblouissemer faire
 voir entrée chambre rayonnant
 pareille antichambre ciel
@@ -8475,39 +8475,39 @@ bonheur
 écrire papier lire
 nuit attacha rideau fond
 lit dormir
-
+cx
 saigner saigner matin
-monsieur gervaisai frère venir
+monsieur frère venir
 entrer chambre
 sera écorcher
 gencive
 non sang
 porter main poitrine
 bien falloir envoyer chercher
-docteur monteron
-vouloir docteur monteron
+docteur
+vouloir docteur
 poudre
-oui donne poudre
+poudre
 
 nuit être mauvais
-mauvais non rappeler
+non rappeler
 nuit savoir
 quinte heure
-honorine boire gorgée
+boire gorgée
 eau calmer tousser
 heure moment
 fièvre raisonnable cher
 sœur remettre audience
 retarderion départ
-audience audience pape
+audience audience
 non non aller falloir aller
 soulever lit
 essayer rester
 force
 vouloir aller heure
-veux bien tâcher
+bien tâcher
 dormir aller bien heure
-heure précis sonner honorin lever faire habiller
+heure précis sonner lever faire habiller
 pause repos dire
 attendre
 tremper lèvre
@@ -8518,18 +8518,18 @@ volonté aller
 trajet voiture
 avoir parole
 bien regarder
-voûte colonnade saint-pierre
+voûte colonnade
 frère sœur quitter
-monsieur gervaisai prendre fils
+monsieur prendre fils
 main traversa haie hallebardier
 suisse monter garde passé
-porte vatican mettre gravir
+porte mettre gravir
 hâte haletant vaste escalier
 arrêter moment respirer
-appuyée main épaule pierre-charle
+appuyée main épaule
 arriver salle
 rouge tête nue
-salle mena sembla arme vieux pape
+salle mena sembla arme vieux
 mur vivant vague
 costume ancien trouble lumière
 coulisse théâtre
@@ -8544,14 +8544,14 @@ mesure avancer prendre
 aspect ecclésiastique allant
 venant devenir
 prêtre ombre
-palais mystérieusement peupler allonger
+mystérieusement peupler allonger
 infini confu
 chemin songe aller
 regard
 somnambule
 trouver salon pareil
 salon officier ordonnance
-peloton garde noble prendre arme
+peloton noble prendre arme
 ligne saluer épée passage
 cardinal
 donner lettre voir emporter
@@ -8562,7 +8562,7 @@ doré glissaient silencieux
 huissier noir justaucorps soie
 manteau velours fraise cou
 attendre grand
-pénitencier france obtenir
+pénitencier obtenir
 audience venir minute
 compagnie causer
 battement cœur instant
@@ -8573,7 +8573,7 @@ fixe
 parvenir dernier pièce
 voir oeil arrêt
 porte porte
-pape
+
 subitement coup sonnette traversa
 porte battant ouvrir
 dresser pied sursaut courut
@@ -8589,13 +8589,13 @@ soutenir écraser poids
 au-dessus balancement mort
 vide
 man man
-fois pierre-charle cadavre
+fois cadavre
 échappé petit bras rouler
 terre
 soudain cœur crevé
 enfant jaillir intelligence
-parole nouveau langue orphelin
+parole nouveau langue
 articuler grand cri déchiré
 mère
-rome mars 1866 auteuil décembre 1868
+mars décembre
 fin

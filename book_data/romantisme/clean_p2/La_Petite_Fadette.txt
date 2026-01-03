@@ -1,21 +1,21 @@
 
-armand barbè
-georges sand
+armand
+
 table matière
 partie ouvrage original
-préfacer
+
 i.
 ii
-roman
+
 i.
 ii
 iii
 iv
-v.
-vi
-vii
-viii
 
+
+
+viii
+ix
 x.
 xi
 xii
@@ -23,33 +23,33 @@ xiii
 xiv
 xv
 xvi
-xvii
-xviii
-xi
-xx
-xxi
-xxii
-xxiii
-xxiv
+
+
+
+
+
+
+
+
 xxv
 xxvi
-xxvii
-xxviii
+
+
 xxix
 xxx
-xxxi
-xxxii
+
+
 xxxiii
 xxxiv
-xxxv
-xxxvi
-xxxvii
-xxxviii
+
+
+
+
 xxxix
 xl
-préfacer
 
-nohant septembre 1848
+
+septembre
 parler république
 rêver subir
 être arriver endroit chemin
@@ -57,7 +57,7 @@ ombrager serpolet invite repos
 souvenir passer
 ici an
 être arrêter soir ici
-raconter histoire champi
+raconter histoire
 conseillai écrire style familier
 servir
 imiter manière
@@ -81,7 +81,7 @@ prouver révolution poindre
 lit rose savai bien
 souciai guèr vouloir
 prouver école malheur
-bon développer force calme
+bon développer force
 finir engourdir point avis
 moment -là pouvoir
 aisément prendre parti mauvais
@@ -94,17 +94,17 @@ mort pauvre metton
 côté souffrance matériel
 humanité heure souffrance
 moral amener bon
-mécher souffrir souffrance méchant
-rage souffrir souffrance
+mécher souffrance méchant
+rage souffrance
 martyre homme
 survivre
 perdre foi demander
 ami scandaliser
 moment vie contraire
 foi avenir
-idée bonté dieu destinée
+idée bonté destinée
 révolution foi compte siècle
-idée embrasser temps espace
+idée embrasser temps
 compte jour heure pauvre
 humain compter instant
 rapide passage savouron joie
@@ -121,25 +121,25 @@ tandis contempler éther
 astre tandis respirer parfum
 plante sauvage nature chant autour
 éternelle idyll étouffe
-languit pleurer râle expirer
+languit pleurer expirer
 mansarde cachot jamais race
 humain entendre plainte
 sourde rauque menaçant
 passer avenir sai
-présent décim dieu régner
+présent décim régner
 heure gouverne
 effort sortir abattement
 ami songe art tâche
 retrouver charme
 loisir impos
-art nature
-beau dieu bon temps
+nature
+beau bon temps
 content exister état abstraction
 manifester tard adepte
 digner souffle ranimer
 lyre muet pouvoir faire
 vibrer briser tempête
-art aujourd’hui travail décomposition
+aujourd’hui travail décomposition
 éclosion nouveau
 chose humain temps
 révolution plante mourir
@@ -149,16 +149,16 @@ importer nature fleur
 fruit importer
 humanité voix éteint
 cœur glacer douleur mort
-non art savoir consoler
+non savoir consoler
 souffrir aujourd’hui terre justice
-vérité art vivre bien superbe
+vérité vivre bien
 immortel poésie nature
 sourire ruine
 traverson jour néfaste
 artiste tâchon homme
 bien chose déplorer silence
 muse
-écoute chant labourage
+chant labourage
 ami -là insulter
 douleur peut-être an
 bon vin campagne semer consacre
@@ -169,8 +169,8 @@ long silence admirer variété infinie
 grave caprice improvisation
 imposer vieux thème sacramentel
 rêverie nature
-mystérieux formule
-terre proclamer phase union
+mystérieux
+terre proclamer phase
 force travail homme
 rêverie tomber
 chant disposer irrésistible
@@ -189,13 +189,13 @@ insecte murmure brise
 silence nature entrecouper
 mystérieux son indicible
 éloquence langage furtif arriver
-jusqu’ oreille fût instant
+oreille fût instant
 échapper pensée joug cruel
 homme âm plane libremer
 création régner charme souverain
 véritablement possession commun
 pauvre jouir
-riche révéler victime volontiers
+riche révéler victime
 bourreau
 voir bien ami
 affliger malheureux être
@@ -203,7 +203,7 @@ affliger malheureux être
 nature reposer poésie
 bien pouvoir donner
 malheureux faire
-art entendion naguère est-à-dire
+entendion naguère est-à-dire
 célébron doucement poésie
 doux exprimon suc
 plante bienfaisant blessure humanité doute recherche
@@ -214,7 +214,7 @@ question vital immédiat
 société question moment
 tâchon adoucir fièvre action
 innocent distraction
-être pari
+être
 reprocherion aller écouter temps
 temps musique rafraîchir
 âme champ écouton
@@ -251,11 +251,11 @@ chanvreur demande raconter
 histoire demeure loin ici
 pouvoir bien aller inviter souper
 point broyer
-poindre avalé poussière
+poindre poussière
 disert long haleine
 bien chercher ami
 réjoui avance demain écrira récit faire suite mare diable
-françoi champi série conte
+série conte
 villageois intituler classiquement
 veillée chanvreur
 dédier recueil ami prisonnier
@@ -263,9 +263,9 @@ puisqu’ défendre
 politique pouvoir
 faire conte distraire
 dédier particulier
-armand
+
 inutile nommer reprendre ami
-voir sens cacher apologue
+voir sens cacher
 découvrir abominable
 conspiration savoir bien veux
 savoir bien trace
@@ -275,16 +275,16 @@ droite grand pichet vin blanc
 gauche pot tabac charger pipe
 discrétion soirée raconter histoire
 
-george sand
+george
 ii
-nohant 21 décembre 1851
+décembre
 suite néfaste journée
-juin 1848 troubler navrer jusqu’ fond
+juin troubler navrer fond
 âme orage extérieur efforçai
 retrouver solitude
-calme foi faisai profession
+foi faisai profession
 philosophe croire prétendre
-foi idée entraîn calme
+foi idée entraîn
 esprit présence fait désastreux
 histoire contemporain
 point avouer humblement
@@ -308,7 +308,7 @@ menace calomnie monter
 ciel impur holocaust suite
 convulsion social
 moment -là génie orageux
-puisser dante écrire
+puisser écrire
 larme bile nerf poème
 terrible drame plein torture gémissement falloir tremper
 âm fer feu arrêter imagination
@@ -319,7 +319,7 @@ reflet écho génération
 éprouver besoin impérieux
 détourner vue distraire imagination
 reporter idéal
-calme innocence rêverie
+innocence rêverie
 infirmité agir
 point rougir devoir
 temps mal venir homme
@@ -335,15 +335,15 @@ poindre chemin salut mieux
 valoir douce chanson pipeau
 rustique conte endormir petit
 enfant frayeur souffrance
-spectacle mal réel renforcer rembrunir
+spectacle mal réel renforcer
 couleur fiction
-prêcher union égorger crier désert temps
+égorger crier désert temps
 âme agiter sourd
 exhortation journée
 juin événement actuel inévitable
 conséquence auteur conte
 lire imposer tâche aimable
-dût mourir chagrin laisser railler
+dût mourir laisser railler
 bergerie laisser railler
 inquiéter arrêt
 critique plaisir
@@ -354,32 +354,32 @@ faire bien accepter
 bien fugitif soulagement passager vrai
 réel déclamation passionner
 saisir démonstration classique
-george sand
+george
 
 père barbeau cosse mal
 affaire preuve conseil
 municipal commune champ
 donner nourriture famille
 profit marché cueillir
-pré foin plein
+pré foin
 bord ruisseau
 ennuyer jonc fourrage connaître
 endroit qualité
-maison père barbeau bien bâtie
-couvert tuile établir bon air côte
+maison père bien bâtie
+couvert tuile établir bon air
 bon rapport vigne
 journal grange beau verger appeler
 ouche fruit abonder prune
-guigne poire corme mêmement
+guigne poire corme mêmemer
 noyer bordure
 vieux gros lieue
 entour
-père barbeau homme bon courage
+père homme bon courage
 méchant porter
 famille injuste voisin
 paroissien
 enfant mère
-barbeau voyant doute
+voyant doute
 bien falloir dépêcher
 âge venir aviser
 donner fois beau garçon
@@ -387,7 +387,7 @@ pareil
 presque distinguer
 reconnaître bien vite besson
 est-à-dire jumeau parfait ressemblance
-mère sagette recevoir
+mère recevoir
 tablier venir monde oublia
 faire naître petit croix
 bras aiguille dire
@@ -395,14 +395,14 @@ bout ruban collier confondre faire perdre droit aînesse
 enfant fort -ell falloir
 faire marque pouvoir jamais effacer
 manquer aîné être
-nommer sylvain faire bientôt sylvinet
+faire bientôt
 distinguer frère aîner
 servir parrain cadet être appeler
 landry nom garder recevoir
 baptême oncle
 parrain garder jeune âge coutume
-appeler landrich
-père barbeau être étonner
+appeler
+père être étonner
 revenir marché voir petit tête
 berceau oh oh fit berceau
 trop étroit demain matin
@@ -410,7 +410,7 @@ falloir agrandir menuisier
 main apprendre
 moitié meuble étonner
 aller soigner femme boire grand
-verre vin chaud porta mieux
+verre vin porta mieux
 travaille bien femme
 donner courage
 enfant nourrir
@@ -418,16 +418,16 @@ avoir absolument besoin vouloir
 falloir repose cultiver terre élever bestial être
 tranquille travailler donne
 prochain fois trop
-mère barbeau prendre pleurer
-père barbeau mettre fort peine
-bellement bellement falloir
+mère prendre pleurer
+père mettre fort peine
+bellement falloir
 chagriner bon femme
 manière reproche
 manière remerciement bien contraire
 enfant beal bien
 fait poindre défaut corps
 content
-alas dieu femme savoir bien
+femme savoir bien
 reprochez maître
 souci
 chanceux
@@ -435,13 +435,13 @@ malaiser élever besson
 tort presque
 falloir périsse
 porte bien
-oui père vérité
+père vérité
 premier besson
 voi cas poindre fréquent
-mère sagett connaissance
+mère connaissance
 
-mère sagett appeler répondit
-fier besson -là
+mère appeler répondit
+besson -là
 vivre bel bien
 malade enfant an
 métier sage femme
@@ -451,7 +451,7 @@ recevoir jumeau ressemblance
 santé ressembler
 
 arriver fort faible
-vit mourir
+vit
 regarder beau
 bien corporé fils unique
 dommage
@@ -459,7 +459,7 @@ sein mère venir
 bien trop faire souffrir
 souffrir joli merveill
 demander vivre consoler
-mère barbeau
+mère
 plaisir voir grandir continuer
 guère
 voir jour faire
@@ -467,22 +467,22 @@ différence jamais
 besson pareil dire petit perdreau sortir œuf gentil
 mère perdrix
 reconnaisse
-bon heure faire père barbeau
+bon heure faire père
 gratter tête ouï
 besson prendre amitier
 quitter pouvoir
 vivre
-laisser consumer chagrin jusqu’
+laisser consumer chagrin
 mourir
-vraie vérité mère sagette
+vraie vérité mère
 écouter femme expérience
 mettre oubliance
 temps enfant âge
 quitter être peut-être
-monde conseiller fait attention
+monde conseiller attention
 besson commencer reconnaître
 ensemble
-emmener travail
+travail
 garder maison aller pêcher
 envoyer chasse gardera
 mouton aill voir bœuf
@@ -500,7 +500,7 @@ grand’peur mettiez
 oreille chat
 fait repentir grandement
 jour
-mère sagette parler crut
+mère parler crut
 promettre faire dire
 faire beau présent renvoyer
 bien recommander
@@ -508,26 +508,26 @@ besson être point
 nourrir lait enquérir vitement
 nourrice
 trouva poindre endroit
-mère barbeau compter
+mère compter
 enfant nourrir
 prendre précaution
-avance falloir père barbeau partir
+avance falloir père
 chercher nourrice environ temps mère
 pâtir petit
 donner sein
 décider vite
 riche falloir
-marchander savoir barbeau
+marchander savoir
 payer penser
 mère jeunesse
 point garder nourrisson
 épuiser nourrice père
-barbeau pouvoir trouver demander
+barbeau trouver demander
 livre mois
 bourgeois
-père barbeau vouloir donner
+père vouloir donner
 livre estimer
-beaucoup paysan courir
+beaucoup paysan courut
 côté disputer conclure
 affaire presser beaucoup
 enfant petit pouvoir fatiguer
@@ -538,11 +538,11 @@ maison dormait
 dormir père arranger
 berceau pleurer fois bercer apaiser
 temps
-père barbeau faire arrangement
+père faire arrangement
 nourrice livre tenir
 épingle femme
 
-bah maître voir
+maître voir
 dépenser quatre-vingts
 cent livre an être
 monsieur dame
@@ -553,7 +553,7 @@ bon état merlaude vouloir
 donner nourrice
 moitier fort sain lait
 mois falloir
-enfant jeune sagette
+enfant jeune
 nourrir besson lait
 empêcher prendre trop amitier
 vrai
@@ -572,30 +572,30 @@ porter bras
 savoir craindre
 perdre prie mari
 penser nourrice faire
-sagette recommander
+recommander
 vouloir enfant
 mamell prendre trop grand amitié
 connaître
 main pied
 sevrage
 faux femme
-répondre père barbeau regarder
+répondre père regarder
 femme frais fort
 voir pourtant
 mesure enfant grossir santé
 venir dépérir
-avoir peur barbeaude sentir bon appétit an
+avoir peur sentir bon appétit an
 ailleurs sentir épuiser
 promet cacher
 temps mettre
 pauvre enfant
-père barbeau rendre autant
+père rendre autant
 aimer bien autant faire dépense
 inutile mère barbeau nourrir besson
 plaindre souffrir
 beau naturel an
 sevrage petit mettre monde
-joli petit fille avoir nom nanett
+joli petit fille avoir nom
 nourrir
 trop avoir peine venir bout
 fille aîné enfant
@@ -620,7 +620,7 @@ grand oeil bleu épaule bien avaler
 corps droit bien planter taille
 hardiesse âge
 alentours passer
-bourg cosse arrêter regarder émerveiller retirance
+arrêter regarder émerveiller retirance
 aller dire
 joli pair gars
 être cause bon heure
@@ -637,7 +637,7 @@ faire prier moment
 faire point différence
 croire voir œuf œuf
 observer quart heure
-voir landry miette grand
+voir miette grand
 fort cheveu
 épai nez fort œil vif
 front large air décider
@@ -651,15 +651,15 @@ besson voix pareille
 savoir bien
 confondre répondre nom
 donner peine avertir
-méprise père barbeau
+méprise père
 embrouiller quelquefois
-sagette annoncer mère
+annoncer mère
 embrouiller jamais grand nuit
 loin voir venir
 entendre
-valoir landry
+valoir
 idée gaieté courage
-aîné sylvinet amiteux fin
+aîné amiteux
 esprit aimer
 cadet penser bien
 mois empêcher trop accoutumer
@@ -667,14 +667,14 @@ mois beaucoup
 campagne observer chose
 coutume côté voir poindre
 fît grand part curer
-mère sagett radoteur
-bon dieu mettre loi nature défaire
+mère radoteur
+bon mettre loi nature défaire
 homme bien oublier
 promettre faire
-fois ôter fourreau
+fois fourreau
 conduire messe culotte
 être habiller drap être
-jupon mère servir
+mère servir
 habillement être
 tailleur paroisse connaître poindre
 
@@ -688,19 +688,19 @@ porte porte dos
 cheval percheron tante demanda
 idée
 habiller besson
-chercher long sylvinet répondit
+chercher long répondit
 jolie couleur joli
 dessin cravate ballot
 mercier suite landry assurer
 cravate vilainer
 couleur cheval
 marchand sourire trouver -vous
-bien laid landry ressembler
+bien laid ressembler
 vieux pie
-laid sylvinet absolument
+laid absolument
 pie mal plumer
 voir bien mercier tante
-air judicieux enfant
+air enfant
 vue voit jaune rouge
 aussitôt voir rouge jaune
 falloir contrarier
@@ -714,7 +714,7 @@ vendre fois
 suite temps alla
 besson être habiller pareillement
 lieu confondre
-malice enfant force
+malice force
 loi nature curé croire impossible
 défaire casser bout sabot bien vite écorner
 pied déchirer veste
@@ -738,26 +738,26 @@ chemin main
 vouloir rentrer aise
 ensemble bouder
 parent
-chagrin -là essayer guère recommencer
+-là essayer guère recommencer
 falloir père mère
 mêmemer oncle tante frère sœur besson amitié
 tourner faiblesse
 fier force recevoir compliment
 vrai enfant
 laid sot méchant
-temps temps père barbeau inquiéter
+temps temps père inquiéter
 bien devenir accoutumance
 ensemble
 âge homme remémorer
-parole sagette essayer taquiner
+parole essayer taquiner
 
 petit faute tirer oreille
-sylvinet exemple dire landry
+exemple dire
 fois pardonner
 ordinairement raisonnable
-consoler sylvinet chaud
+consoler
 oreille voir épargner frère
-landry pleurer
+pleurer
 recevoir correction tenter
 donner chose
 envie aussitôt
@@ -773,7 +773,7 @@ caresser peine perdre
 vouloir diviser esprit corps
 aimer guère contrarier enfant
 chérir bien
-laisser vite aller chose dieu
+laisser vite aller chose
 vouloir bien faire petit picoterie
 jeu besson poindre
 dupe fort malin quelquefois
@@ -787,17 +787,17 @@ rire entendre babiller
 chantonner ensemble merle
 branche
 grand ressemblance
-grand inclination dieu
+grand inclination
 absolument pareil ciel terre vouloir avoir sort bien
 voir créature
-séparer idée bon dieu
+séparer idée bon
 propre tempérament
 voir chose essai essai
 arriver avoir ensembl
 communion famille père
 barbeau augmenter grâce fille
 aîner chômer mettre beau
-enfant monde fils aîner martin
+enfant monde fils aîner
 beau brave garçon service
 gendre travailler bien ouvrage
 abonder
@@ -806,10 +806,10 @@ vimaire temps
 embarras commerce déloger
 écu poche campagne
 rentrer bien
-pèr barbeau riche garder
+père riche garder
 monde falloir bien
 songer mettre besson condition
-père caillaud priche
+père priche
 offrir prendre toucher bœuf
 fort domaine faire valoir
 garçon trop grand trop jeune besogne mère
@@ -832,7 +832,7 @@ ensemble
 jour savoir lamenter
 bras
 craindre venir séparer
-force père barbeau eût point
+force père eût point
 sagesse paysan faire
 moitié patience moitié confiance
 temps lendemain besson
@@ -841,25 +841,25 @@ trouver effrayé volonté paternel
 eussent être menace
 châtiment
 falloir pourtant bien ranger
-landry savoir
+savoir
 ira laisser choix
-père caillaud
+père
 prendre
 partir
-sylvinet puisqu’ falloir
+falloir
 quitter
 affaire aller vivre ailleurs allai
 désaccoutumer bien
 maison
-reprendre landry
+reprendre
 pourtant rester parent
 consolation ennui
 voir besson
-père mère jardin
+père mère
 bête coutume faire
 plaisir
-landry dire air résoudre
-sylvinet remettre pleurer
+dire air résoudre
+remettre pleurer
 autant résolution frère idée perdre quitter fois
 faire peine arrêter
 larme
@@ -887,7 +887,7 @@ différence paraître
 guère croire bien chéri savoir mignon
 amiteux partir
 être loin terre
-père caillaud toucher
+père toucher
 verron jour aimer peine
 distraire courir mieux
 venir vite trouver aussitôt
@@ -898,21 +898,21 @@ inquiet sujet
 maison demande
 rester
 iii
-sylvinet vouloir point entendre
-cœur tendre landry
-père mère petit nanette
+vouloir point entendre
+tendre
+père mère petit
 effrayer endosse cher besson
 avoir bien discuté tirer
-court paille sort tomber landry
-sylvinet être content épreuve
-vouloir tenter pile face gros sou
-face tomba fois
+court paille sort tomber
+être content épreuve
+vouloir tenter pile face gros
+face tomber fois
 landry partir
-voir bien sort veut
-landry savoir falloir contrarier
+voi bien sort veut
+savoir falloir contrarier
 sort
-jour sylvinet pleurer bien
-landry pleurer presque
+jour pleurer bien
+pleurer presque
 idée départ peut-être
 gros peine frère
 mieux sentir courage
@@ -920,37 +920,37 @@ impossibilité résister
 parent force penser
 mal vite user
 beaucoup raisonnement tandis force
-désoler sylvinet courage
-raisonner bien landry
-décider partir sylvinet
+désoler courage
+raisonner bien
+décider partir
 point voir aller
-landry amour propre
+amour propre
 frère
 jamais moitié
 homme habituer quitter
-landry commencer sentir orgueil
+commencer sentir orgueil
 an envier montrer
 enfant
 être persuader entraîner
 frère fois être
-chercher nid faîte arbre jusqu’
+chercher nid faîte arbre
 jour trouver réussir
 fois tranquilliser soir rentrer maison déclarer père
 frère ranger devoir
 tirer sort
-landry aller toucher grand bœuf
-priche
+aller toucher grand bœuf
+
 père barbeau prendre besson
-genou quoiqu’ être
-grand fort parler
+genou être
+grand fort
 enfant âge raison
 connaître soumission
 content souvenir enfant
 plaisir père mère plaisir
-grand dieu ciel récompense
+grand ciel récompense
 jour vouloir savoir
 soumettre
-dieu bénir
+bénir
 bien parler bénir
 bien écouter
 conduire besson auprès
@@ -958,13 +958,13 @@ mère fît compliment
 mère barbeau avoir peine
 retenir pleurer put
 contenter embrasser
-père barbeau maladroit
+père maladroit
 savoir bien courage attache
 vouloir point froidir bon volonté
-sylvinet voir landry
+voir
 décidé
 chose chagrin frère faire
-broncher éveiller landry jour
+broncher éveiller jour
 bien soin secouer aîné
 dormir côté
 petit
@@ -973,14 +973,14 @@ voy sai chagrin
 falloir épargner adieu conduire
 maître porter
 paquet
-dire -je adieu frère demander
+dire adieu frère demander
 landry vouloir quitte
 avertir
 frère éveiller voir partir
 pleurer réveiller mère mère
 pleurer fort cause
-chagrin landry garçon
-grand cœur vouloir
+chagrin garçon
+grand vouloir
 mère malade devoir entier
 enfant par faire sembler
 tard soir conduire frère demain dimanche venir
@@ -989,33 +989,33 @@ landry obéir bravement passer porte
 maison regarder mère
 barbeau bien endormie
 tranquille entendre
-homme dire landry pauvre femme
+homme dire pauvre femme
 sentir raison mari bouger
 contenter écarter rideau voir
-sortir landry avoir cœur gros
+sortir avoir cœur gros
 jeter lit aller embrasser
 arrêter être lit
-besson sylvinet dormir plein
+besson dormir plein
 oeil pauvre garçon pleurer
 jour quasi nuit
 vanner fatigue sentir
 fièvre tourner retourner
 coussin envoyer gros soupir
 gémir pouvoir réveiller
-mère barbeau voir aviser
+mère voir aviser
 besson restât
 empêcher
 partir peine bien
 vrai sensible
-avoir tempérament fort dieu loi nature écrire
+avoir tempérament fort loi nature écrire
 personne aimer amour
 amitié donner
-cœur père barbeau
-brin préférence landry
+père
+brin préférence
 faire cas travail courage
 caresse attention
 mère brin préférence
-gracieux câlin sylvinet
+gracieux
 prendre regarder
 pauvre gar pâle défaire
 grand’pitié mettre
@@ -1025,28 +1025,28 @@ amitié besson mère
 foul point mettre danger
 maladie enfant grand idée
 devoir pensait
-cœur dur
+dur
 partir barguigner
 tourner tête verser pauvre larm
 force faire
 jeter genou demander
-courage bon dieu approcher
+courage bon approcher
 lit faire frime dormir regarder
 embrasser bout rideau landry
 bien véritable garçon demande
-vivre remuer travailler changer
+remuer travailler changer
 place cœur fille
 tendre doux
 empêcher aimer oeil
-deviser mère barbeau
+deviser mère
 retourner lit
-rendormir point tandis père barbeau
+rendormir point tandis père
 emmener landry travers prer pacage
 côté priche être
 petit hauteur voir bâtiment
 cosse aussitôt mettre
-descendre landry arrêter retourner
-cœur enfla asseoir fougère
+descendre arrêter retourner
+enfla asseoir fougère
 pouvoir faire père fit
 mine poindre apercevoir continuer
 marcher bout petit moment
@@ -1054,29 +1054,29 @@ appela bien doucement dire
 jour landry dégageon
 vouloir arriver soleil
 lever
-landry relever jurer
+relever jurer
 poindre pleurer père rentrer larme venir oeil gros
 pois faire laisser
 tomber couteau poche arriver
 priche montrer peine
 pourtant mince
 iv
-père caillaud voir
+père voir
 besson amener fort
 diligent être aise recevoir savoir
 bien devoir décider
 chagrin brave homme
-bon voisin fort ami père barbeau faire
+bon voisin fort ami père faire
 mieux flatter encourager
 jeune gars faire donner vitement soupe
-pichet vin remettre cœur
+pichet vin remettre
 aiser voir chagrin
 mena ensuite lier bœuf
 faire connaître manière
-prendre landry novice besogne -là père jolie
+prendre novice besogne père jolie
 pair bœuf ajuster
 conduit merveill aussitôt enfant vit
-grand bœuf père caillaud
+grand bœuf père
 mieux tenir mieux nourrir
 fort race pays sentir chatouiller
 orgueil bel
@@ -1086,7 +1086,7 @@ lâche
 apprendre père manquer
 faire valoir moment être
 venir partir champ
-enfant père caillaud garçon fille
+enfant père garçon fille
 grand petit venir embrasser besson
 jeune fille attacher
 branchée fleur ruban chapeau
@@ -1104,9 +1104,9 @@ fois travailler rude
 fatigue souverain remèd
 chagrin
 être malaiser passer
-pauvre sylvinet bessonnière falloir
+pauvre bessonnière falloir
 maison propriété
-père barbeau situer bourg cosse
+père situer cosse
 prendre nom naissance
 enfant cause temps
 servante maison mettre
@@ -1114,14 +1114,14 @@ monde paire besson
 point vivre paysan grand
 donneur sornette sobriquet maison
 terre recevoir nom bessonnière
-partout montrer sylvinet
-landry enfant manquer
+partout montrer
+enfant manquer
 crier autour besson
 bessonnière
 grand tristesse jour -là
-bessonnière père barbeau sitôt
-sylvinet être éveillé voir poindre
-frère côté douta vérité croire landry pût partir
+bessonnière père sitôt
+être éveillé voir poindre
+frère côté douta vérité croire pût partir
 adieu
 fâcher milieu peine
 dire
@@ -1142,7 +1142,7 @@ avoir paquet hier soir
 mère savoir
 vouloir aller adieu
 volonté pèr répondit
-mère barbeau
+mère
 pouvoir imaginer
 consoler vouloir entendre
 être voir pleurer mettre embrasser
@@ -1155,7 +1155,7 @@ songer aller laisser
 emporter instinct pigeon
 court pigeon embarrasser
 chemin
-être jusqu’ priche
+être priche
 rencontrer père revenir
 prendre main ramener dire
 aller soir falloir
@@ -1164,26 +1164,26 @@ contenter maître ailleurs
 femme peine
 compte consolera
 
-revenir pendre jupon
+pendre jupon
 mère petit enfant quitta
 point journée parler
 landry pouvoir défendre penser
 passer endroit recoin
 coutume passer ensemble
 soir aller priche père
-vouloir accompagner sylvinet fou
+vouloir accompagner fou
 aller embrasser besson
 souper hâter partir
-compter landry venir
+compter venir
 imaginer voir accourir
-landry bon envie point craindre moquer
+bon envie point craindre moquer
 jeune gars priche
 amitier bessonnière passer sorte
-maladie bien sylvinet trouva
+maladie bien trouva
 table boire manger avoir être
-vie famille caillaud
-aussitôt landry vit entrer pourtant
-cœur sauter joie fût
+vie famille
+aussitôt vit entrer pourtant
+sauter joie fût
 contenu tomber table
 banc embrasser vite oser
 maître regardaient curieusement
@@ -1191,53 +1191,53 @@ amusement voir
 amitié chose nouveau phénomène
 nature dire maître
 école endroit
-sylvinet venir jeter
+venir jeter
 embrasser pleurant serrer
 oiseau pousse
 nid frère réchauffer
-landry être fâcher cause tandis
+être fâcher cause tandis
 pourtant empêcher
 content compte vouloir
 air raisonnable frère
 faire temps temps signe observer
-étonner fâcher grandement sylvinet père barbeau mettre causer
+étonner grandement père mettre causer
 boire coup père
-caillaud besson sortirent ensembl
-landry vouloir bien aimer caresser
+besson sortirent ensembl
+vouloir bien aimer caresser
 frère secret gars
 observer loin mêmemer petit
-solange jeune fille père caillaud
+jeune fille père
 malin curieux
-vrai linot suivit petit
-coudrière rire air penaud
+linot suivit petit
+coudrière rire air
 attention démordre
 point imaginer
 aller voir chose singulier
 savoir pourtant
 surprenant amitié frère
-sylvinet quoiqu’ être étonner air tranquille
+être étonner air tranquille
 frère aborder songer
 pourtant faire reproche
 content trouver lendemain
 landry sentir appartenir
-père caillaud donner licence
+père donner licence
 devoir partir grand matin
 penser surprendre frère lit
-sylvinet dormeur
+fût dormeur
 éveiller moment landry passer barrière ouche courut nu pied
 chose avoir
-besson approcher être landry
+approcher être
 journée parfaire contentement
 plaisir revoir famille maison
 savoir revenir
 jour
-récompense sylvinet oublia
-peine jusqu’ moitié jour déjeuner
+récompense oublia
+peine moitié jour déjeuner
 dîner frère
 dîner être finir penser souper
 dernier repas commencer
 inquiet mal aise soigner câliner
-besson plein cœur donner
+besson plein donner
 meilleur manger croûton
 pain cœur salade
 inquiéter habillement chaussure
@@ -1245,12 +1245,12 @@ avoir devoir aller bien loin
 bien plaindre douter
 plaindre
 affliger
-vi
-semaine passer sylvinet
+
+semaine passer
 aller voir landry jour landry
 arrêter moment
 venir côté bessonnière landry
-prendre mieux mieux parti sylvinet
+prendre mieux mieux parti
 prenant compter
 jour heure âme peine
 monde landry pût
@@ -1267,16 +1267,16 @@ cacher bien savoir prendre
 entrer fossé
 bouchure ravine
 accoutumance jouer deviser
-landry asseoir racine
+asseoir racine
 asseoir ensembl mettre pied
 filet eau patauger
 vraie canette content
 retrouver bout bois
-landry chapuser serpette
+chapuser serpette
 caillou servir
 palet pierre feu recueillir
 cacher trou arbre
-cosse pois venir prendre
+cosse venir prendre
 regarder temps temps
 être chose conséquence aller
 remémorer creuser tête
@@ -1294,30 +1294,30 @@ pleurer compter
 larme retenir point
 espérer fine forcer fatigue user
 abattre peine
-fois être vaguer jusqu’ droit
-taille champeau retrouver riot
+fois être vaguer droit
+taille retrouver riot
 sortir bois temps pluie
 quasiment asséché
 petit moulin enfant
 grobille finement
 agencer tourner courant eau
-quelquefois bien jusqu’
+quelquefois bien
 enfant casser
-grand eau emmènent sylvinet
+grand eau emmènent
 retrouver sain entier
 mois endroit désert
-être endommager sylvinet reconnaître bien
+être endommager reconnaître bien
 ouvrage besson
 promettre venir voir
 songer
 bien moulin endroit
-sylvinet être aise retrouver
+être aise retrouver
 porta riot
 retirer voir tourner rappeler
-amusemer landry donner
+amusemer donner
 branle laissa
 plaisir revenir dimanche
-landry montrer
+montrer
 moulin résister solide bien
 construit
 pouvoir revenir
@@ -1327,10 +1327,10 @@ venir boire mettre pacager
 matin taille avancer petit
 voir animal marcher
 moulin bien mettre miette
-trouver avoir cœur gros
+trouver avoir gros
 imaginer malheur devoir arriver
-jour -là besson courir jusqu’
-priche assurer mal apercevoir landry
+jour -là besson courir
+priche assurer mal apercevoir
 aimer voir venir jour cause
 craindre fâcher maître laisser
 détemser contenter regarder
@@ -1345,17 +1345,17 @@ savoir faire consoler
 essayer mener marché
 envoyer foire bestial père
 oncle soucier
-amuser père barbeau
-essayer persuader père caillaud
+amuser père
+essayer persuader père
 prendre besson service
-père caillaud répondre chose
+père répondre chose
 sentir raison
 supposé prendrai
 temps durer
 falloir serviteur besoin
 bout
 année falloir louer part voir
-sylvinet endroit forçât
+endroit forçât
 travailler songer faire
 prendre bravement
 parti tôt tard falloir venir
@@ -1365,34 +1365,34 @@ voir
 semaine semaine mois mois
 valoir mieux commencer accoutumer
 poche
-être raisonnable
+raisonnable
 vieux fait attention caprice
 enfant femme
 enfant trop écouter trop câliner
 fort croire bien habituer
 céder point
-père barbeau rendre reconnaître
-sylvinet voir besson
+père rendre reconnaître
+voir besson
 envier voir promettre
-prochain saint-jean essayer louer
-voyant landry
+prochain essayer louer
+voyant
 prît finalement pli vivre
 surmonter amitié
 tourner fièvre langueur
 falloir point
-mère barbeau mot
+mère mot
 verser larme corps
 dire capable périr
-père barbeau grandement embarrasser
-landry conseiller père
+père grandement embarrasser
+conseiller père
 maître mère manquer
-point raisonner pauvre besson
-sylvinet défendre point promettre
+point raisonner pauvre
+défendre point promettre
 vaincr
 peine chose dire point
 eût savoir
 pousser fin fond cœur
-jalousie terrible endroit landry
+jalousie terrible endroit
 content content jamais
 être voir tenir estime
 nouveau maître traitaient
@@ -1401,11 +1401,11 @@ maison réjouir côté
 affliger offenser voir landry
 répondre trop nouveau
 amitié souffrir mot
-père caillaud doucement patiemment
+père doucement patiemment
 fût appeler courir vitemer
 vouloir laisser pèr mère frère inquiet manquer devoir
 amitié prompt obéissance
-sylvinet sentir capable
+capable
 agir rester moment
 objet amour fidèle
 pauvre enfer mettre esprit
@@ -1418,15 +1418,15 @@ amour besson refroidir
 rencontrer ailleurs personne
 convenaient mieux agréer
 davantage
-vii
-landry deviner jalousie
+
+landry deviner
 frère naturel
 jalousie vie
-sylvinet venir voir priche landry
+venir voir priche
 distraire conduire voir grand
 bœufs bel vache brebiage conséquent
-grosse récolter fermage père caillaud
-landry estimer considérer
+grosse récolter fermage père
+estimer considérer
 non envie goût
 travail terre élevage
 bestial beau bien
@@ -1434,12 +1434,12 @@ chose campagne prendre
 plaisir voir propre gras reluisant pouliche mener pré
 souffrir moindre ouvrage fût
 conscience chose pouvoir vivre
-fructifier délaisser négliger
-méprisée emmy cadeau bon dieu
-sylvinet regarder indifférence
-étonner frère prît cœur
+fructifier délaisser
+méprisée emmy cadeau bon
+regarder indifférence
+étonner frère prît
 chose ombrageu
-dire landry
+dire
 bien éprendre grand bœuf
 penser petit taurin
 vif pourtant dou
@@ -1456,25 +1456,25 @@ vrai bon bête
 dire landry regarder ici
 verra trair jamais vie
 avoir lait fois
-reprendre sylvinet
+reprendre
 bon lait bon crème
-crème lait brunet gager bien
+crème lait gager bien
 non herbe bessonnière
 meilleur ici
-diantre dire landry croire bien
+dire landry croire bien
 père échanger pourtant bon
-cœur donner grand foin
-père caillaud joncière bord
+donner grand foin
+père joncière bord
 eau
-bah reprendre sylvinet lever
+reprendre lever
 épaule joncière arbre
 beal foin
 rare fin rentre
-odeur baume
+odeur
 long chemin
 disputer landry
 savoir bien poindre bel
-sylvinet penser
+penser
 méprisant
 priche fond
 parole air part
@@ -1482,11 +1482,11 @@ enfant content travailler
 vivre
 point comprendre frère part moment aise
 tranquillité
-landry mener jardin
+mener jardin
 maître deviser
 interrompre couper branche mort
 ente arracher mauvais
-herbe gêner légume fâcher sylvinet
+herbe gêner légume fâcher
 avoir idée ordre
 service lieu
 affût moindre souffle moindre
@@ -1502,33 +1502,33 @@ peine tour
 faire reproche frère vouloir
 expliquer
 pauvre enfant jalousie
-chose occuper landry
+chose occuper
 fort personne
 landry montrer attachement souffrir landry fût camarade
 bon humeur gars priche
 voir prendre soin petit
-solange caresser amuser reprocher
-oublier petit sœur nanette
+caresser amuser reprocher
+oublier petit sœur
 fois mignon
 propre aimable vilain fille -là
 jamais justice
 laisse manger cœur
-jalousie landry venir bessonnière
+venir bessonnière
 paraître occuper trop
-petit sœur sylvinet reprocher
+petit reprocher
 faire attention
 ennui indifférence
 amitié devint exigeant
-humeur triste landry
+humeur triste
 commencer souffrir trouver
 heureux voir trop
 fatigué entendre reprocher
 accepter sort faire avoir
 trouver malheureux
 frère malheureux
-landry comprit vouloir
+landry comprendre vouloir
 faire comprendre amitié force
-grand quelquefois devenir mal sylvinet vouloir point entendre considérer
+grand quelquefois devenir mal vouloir point entendre considérer
 chose grand dureter
 frère dire bien commencer
 bouder temps temps passer
@@ -1537,10 +1537,10 @@ envie pourtant faire défendre
 mettre orgueil chose
 jamais devoir entrer brin
 arriver parole parole
-fâcherie fâcherie sylvinet prendre
-mauvais part landry
+fâcherie fâcherie prendre
+mauvais part
 dire sage honnête
-remettre esprit pauvre sylvinet vint
+remettre esprit pauvre vint
 dépit imaginer
 moment haïr objet amour
 maison dimanche poindre
@@ -1554,9 +1554,9 @@ subtil corps
 œil petit sacrifice faire
 frère quitter joyeux gar priche dimanche passer
 jour bessonnière falloir point
-sylvinet aller jouer place
+aller jouer place
 cosse promener ici
-sylvinet rester enfant corps
+rester enfant corps
 esprit beaucoup frère
 idée aimer uniquement
 aimer vouloir
@@ -1566,7 +1566,7 @@ cachette être amuser jeu
 âge
 faire petit brouette osier
 petit moulin saulner prendre petit
-oiseau maison caillou
+oiseau maison
 champ grand mouchoir
 poche enfant min
 labourer façon imitation
@@ -1576,7 +1576,7 @@ apprendre
 heure temps
 façon culture récolter recevoir donne
 terre cours année
-amusement goût landry pratiquer
+amusement goût pratiquer
 aider pratiquer chose grand
 aimer mieux conduire grand charroi
 bœufs attacher petit voiture
@@ -1585,14 +1585,14 @@ souhaiter aller escrimer fort gar
 endroit jouer grand quille
 devenir adroit enlever gros
 boul faire rouler point
-sylvinet consentir aller lieu
+consentir aller lieu
 jouer mettre coin
 prêt ennuyer tourmenter
-landry air prendre jeu trop
+air prendre jeu trop
 plaisir feu
-landry apprendre danser
-priche goût fût venir tard
-cause sylvinet jamais
+apprendre danser
+goût fût venir tard
+cause jamais
 danser bien prendre
 savoir marcher estimer
 bon danseur bourré priche
@@ -1600,18 +1600,18 @@ avoir plaisir embrasser
 fille coutume faire
 danse content
 embrasser sortait apparence
-état enfant avoir souhaité faire
+état avoir souhaité faire
 homme
 point mêmemer
 grand prenaient cou rire
 ennuyer
-sylvinet danser fois
+danser fois
 être cause grand dépit
 être colère voir embrasser
-fille père caillaud
+fille père
 pleurer jalousie trouver chose
 indécent malchrétienn
-fois landry sacrifier
+fois sacrifier
 amusemer amitié frère
 passer dimanche bien divertissant
 pourtant jamais manquer
@@ -1628,20 +1628,20 @@ cacher hont montrer chagrin parent craindre augmenter
 pouvoir
 devoir jaloux landry
 pourtant droit
-sylvinet mieux aimé mère
-mêmemer père barbeau avoir
-préférence secret landry montrer
-sylvinet complaisance ménagement
+mieux aimé mère
+mêmemer père avoir
+préférence secret montrer
+complaisance ménagement
 pauvre enfer fort
 raisonnable gâté
 craindre davantage chagriner
-meilleur sort puisqu’
+meilleur sort
 famille besson prendre
 absence peine
-fois bon landry faire
+fois bon faire
 raisonnement trouver besson
-injuste jusque-là
-bon cœur empêcher donner tort
+injuste -là
+bon empêcher donner tort
 accuser condamner
 trop santé trop
 ardeur travail plaisir
@@ -1659,42 +1659,42 @@ arrêter écouter pleurer
 loin causer
 coutume femme
 campagne grand chagrin
-landry connaître bien vite mère
+connaître bien vite mère
 courir
-héler falloir dieu dire
+hélas falloir dire
 sangloter enfant donne
 souci faire mourir bien sûr
 mère donne
-souci exclama landry jeter
+souci exclamer jeter
 cou punir pleurer
 point savoir
 fâcher demande pardon
 
 moment -là mère connaître
-landry cœur dur
+dur
 imaginer embrasser bien fort trop savoir dire
 peine
-sylvinet non plaindre
+non plaindre
 quelquefois
 idée injuste faire
-réparation sylvinet paraître
+réparation paraître
 devenir fou inquiétude
 partir manger
 jour soleil commencer descendre
 revenir midi
-côté rivière finalement mère barbeau
+côté rivière finalement mère
 craindre fût jeter finir
 jour
 viii
-idée sylvinet
+idée
 envie détruire passer tête
-mère landry aisément
+mère aisément
 mouche toile araignée
 mettre vivement recherche frère
 bien chagrin courant
-dire peut-être mère
+dire mère
 raison autrefoi reprocher cœur
-dur heure falloir sylvinet
+dur heure falloir
 bien malade faire
 peine pauvre mèr
 courut côté trouver
@@ -1706,18 +1706,18 @@ affectionner grand coupure
 rivière faire terre
 déraciner vergne
 rester travers eau racine
-air père barbeau vouloir
+air père vouloir
 retirer sacrifier
 manière tombé retenir
 terre rester prendre gros
 cosson racine bien
 propos eau faire hiver beaucoup
-dégât joncière
+joncière
 année manger morceau pré
-landry approcha coupure
+landry approcher coupure
 frère coutume appeler
 endroit joncière
-prendre temps tourner jusqu’ coin
+prendre temps tourner coin
 petit escalier
 motte gazon appuyé pierre
 racicots grosse raciner sortant
@@ -1732,20 +1732,20 @@ idée mère
 cas
 vouloir finir jour passer repasser
 feuillage battit herbage
-appeler sylvinet siffler chien
+appeler siffler chien
 doute suivre jour
 poindre maison non
 jeune maître
-landry avoir beau appeler chercher
+avoir beau appeler chercher
 trouver coupure
 garçon faire bien
 chose aviser propos
 examiner rive voir
-trouver marque pied
+trouver marque
 petit éboulement terre eût
 point coutum recherche
 bien triste bien embarrassant
-mois landry
+mois
 endroit beau connaître connaître main faire
 avoir petit changement
 rive droite gazonner mêmement
@@ -1753,9 +1753,9 @@ fond coupure jonc
 prêle pousser dru sable
 voir coin grand pied
 chercher empreinte force
-tourner retourner landry trouver
+tourner retourner trouver
 fond piste chien endroit
-herbe fouler finot
+herbe fouler
 chien taille fût coucher rond
 donner bien penser aller
 examiner berge eau imaginer trouver
@@ -1767,7 +1767,7 @@ ouvrage gros rat eau
 fourrager creusent ronger pareil
 endroit mettre fort peine
 jambe manquer jeter
-genou recommander dieu
+genou recommander
 rester temps
 force courage aller
 fort angoisser regarder rivière oeil gros larme
@@ -1779,31 +1779,31 @@ pendre tremper long rive
 aller terre petit
 bruit rire moque
 sourdine
-pauvre landry laisser gagner surmonter
+pauvre laisser gagner surmonter
 idée malheur fort
 perdre esprit petit apparence
 bien présager
 faire affaire désespérer bon
-dieu
-méchant rivière mot
+
+méchant rivière
 penser laisser bien pleurer
 an frère justement
 creux tomber cosse
 arbre temps ruine pré
 entrer jamais
-retirer dieu falloir pauvre
-besson peut-être fond eau
+retirer falloir pauvre
+peut-être fond eau
 coucher pouvoir
 voir retrouver branche roseau essaierai descendre
 mettre pleurer frère
 faire reproche jamais vie
 pareil chagrin
 idée venir aller consulter
-femme veuf appeler mère fadet
+femme veuf appeler mère
 demeurer bout joncière
 rasibu chemin descendre gué
 femme terre
-petit jardin petit maison chercher
+petit petit maison chercher
 pourtant poindre pain cause beaucoup
 connaissance mal
 dommage monde côté
@@ -1833,7 +1833,7 @@ dire sauver aimer
 mieux croire risquer
 campagne jamais
 saver sorcier beaucoup
-penser mère fadet savoir
+penser mère savoir
 long vouloir
 attribuer pouvoir faire retrouver
 chose perdre mêmemer personne
@@ -1843,9 +1843,9 @@ peine beaucoup chose
 inférer faire
 
 enfant écouter volontier
-sorte histoire landry ouï
-priche monde notoiremer crédule
-simple cosse mère fadet
+sorte histoire ouï
+notoiremer crédule
+simple cosse mère
 moyen graine jeter
 eau dire parole faire
 retrouver corps noyer
@@ -1854,23 +1854,23 @@ voir arrêter sûr
 retrouver pauvre corps beaucoup
 penser pain bénit vertu
 guère moulin conserve
-landry
-poindre mère fadet demeurer
+
+poindre mère demeurer
 côté joncière chagrin donne
 beaucoup raisonnement
-courir jusqu’ demeurance
-mère fadet conter peine
-prier venir jusqu’ coupure
+courir demeurance
+mère conter peine
+prier venir coupure
 essayer secret faire
 retrouver frère vivre mort
-mère fadet aimer poindre
+mère aimer poindre
 voir outre-passer réputation
 exposer volontier talent
 gausser renvoya duremer content
-temps employer sagette
+temps employer
 place femme mal enfant
 logis bessonnière
-landry fier naturel
+fier naturel
 peut-être plaindre fâcher
 moment accabler
 mot retourna côté coupure
@@ -1878,12 +1878,12 @@ décider mettre eau bien
 plonger nager marcher
 tête bas oeil ficher terre
 sentir taper épaule
-retourner voir petite-fille mère fadet
-appeler pays petit fadette
+retourner voir petite-fille mère
+appeler pays petit
 autant nom famille
 vouloir fût
 sorcière savoir fadet
-farfadet endroit appeler
+endroit appeler
 follet lutin fort gentil
 malicieux appeler fade fée
 côté croire
@@ -1893,7 +1893,7 @@ voyant imaginer voir follet
 petit maigre ébouriffé hardie enfant causeur moqueur vif
 papillon curieux rouge gorge
 noir grelet
-mettre petit fadette comparaison
+mettre petit comparaison
 grelet
 bel pauvre petit cricri
 champ laid cheminée
@@ -1906,27 +1906,27 @@ fâcher enfant cosse
 bête
 bien observer
 ressemblance trouver comparaison
-appeler petit fadette grelet
+appeler petit grelet
 vouloir faire enrager mêmemer quelquefois
 manière amitié craindre
-malice détester
+malice
 point cause faire
 sortir conte apprendre
 jeu nouveau esprit inventer
 nom surnom feraient
 bien oublier recevoir baptême avoir peut-être tard
-envie savoir appeler françois
+envie savoir appeler
 grand’mère aimer
 point changer nom appeler
-fanchon
+
 
 piqu bessonnière
-mère fadet besson parler beaucoup
-petit fadette mêmemer
+mère besson parler beaucoup
+petit mêmemer
 éloignement
 jamais bien volontier jouer
 petit frère sauteriot
-sec malin
+sec
 pendre côté fâcher
 courir attendre essayer
 jeter pierre moquer
@@ -1934,32 +1934,32 @@ enrager gros
 enrager vouloir
 humeur gai porter rire
 idée compte mère
-fadet
-père barbeau imaginer grelet
-sauteriot aimez mieux grillon
+
+père imaginer grelet
+aimez mieux grillon
 sauterelle porteraient malheur
-amitier empêcher poindre enfant
-poindre honteux petit fadette
+amitier empêcher point enfant
+poindre honteux petit
 manquer accoster besson bessonnière
 sorte drôlerie
 sornette loin voir venir
 côté
 ix
-adoncque pauvre landry retourner
+pauvre retourner
 ennuyer coup venir
-recevoir épaule voir petit fadette
-loin jeanet sauteriot
+recevoir épaule voir petit
+loin sauteriot
 suivre cloper ébigancher
 mal jambé naissance
-landry vouloir faire attention
+vouloir faire attention
 continuer chemin
-point humeur rire fadette
+point humeur rire
 récidiver épaule
-loup loup vilain besson
+loup loup vilain
 moitié gars perdre moitié
-landry train insulter taquiner
+train insulter taquiner
 retourna derechef allonger petit
-fadette coup poing avoir bien
+coup avoir bien
 sentir eût esquiver besson
 aller an manchot
 aller
@@ -1970,74 +1970,74 @@ trop aviser trop alerte
 attendre coup perdre
 force jeu main gagnait
 vitesse traîtrise sauter côté
-point bien landry être
+point bien être
 donner poing nez gros arbre
 trouver
-mécher grelet pauvre
-besson colère falloir avoir
-cœur venir agacer quelqu’
+grelet pauvre
+colère falloir avoir
+venir agacer quelqu’
 peine
 veux émalicer appeler
 moitié garçon bien envier aujourd’hui
-casser vilain sauteriot
+casser vilain
 voir faire
 quart chose bon
-oui beau besson bessonnière
+beau bessonnière
 seigneur joncière bord rivière
-répondre petit fadette ricaner
+répondre petit ricaner
 être bien sot mettre mal
 venir donner nouveau
 besson retrouverez
 reprendre landry
-apaiser bien vite sai fadette
+apaiser bien vite sai dis-le-moi
 être content
 fadette grelet
 envie contenter
 heure répliquer petit fille
 avoir sottise avoir frapper
-être lourd pôtu chercher
+être pôtu
 imbriaque
-besson être saver
+être saver
 retrouver
 bien sot écouter méchant
-fille landry tourner dos
+fille tourner dos
 remettre savoir
 frère
 savant grand’mère
 vieux menteur grand’chos
-petit fadette tirer patte sauteriot réussir rattraper
-pendre mauvais jupon cendrou
-mettre landry ricaner
+petit tirer patte sauteriot réussir rattraper
+pendre mauvais cendrou
+mettre ricaner
 dire
 retrouver jamais besson bien
-landry pouvoir débarrasser
+pouvoir débarrasser
 imaginer sorcellerie
-grand’mère peut-être
+peut-être
 accointance follet rivière empêcheraient
-retrouver sylvinet prendre parti
+retrouver prendre parti
 tirer sus joncière revenir
 maison
-petit fadette suivit jusqu’ sautoir
+petit suivit sautoir
 pré avoir descendre percher
 pie barre cria
-adieu beau besson cœur
+beau
 laisse frère aura
 beau attendre souper verra
 aujourd’hui demain non
 bouger non
 pauvre pierr orage venir
 arbre rivière
-nuit rivière emporter sylvinet
+nuit rivière emporter
 loin loin jamais
 retrouvera
-mauvais parole landry
+mauvais parole
 écouter quasi faire passer
 sueur froid corps croire
-absolument famille fadet
+absolument famille
 réputer entendemer
 diable bien assurer
 
-fanchon landry arrêtant
+arrêtant
 veux oui non tranquille
 vrai savoir
 chose frère
@@ -2061,66 +2061,66 @@ heure fond val
 voir ciel moment
 gagner haut
 aviser orage moment petit
-fadett annoncer aussitôt
-jupon enflé vilain cheveux
+annoncer aussitôt
+enflé vilain cheveux
 noir sortir coiffe
 mal attacher quintant oreille
 dresser crin sauteriot
 casquette emporter
 grand coup vent grand’peine
-landry empêcher chapeau
+empêcher chapeau
 envoler
 ciel minute
-devenir noir fadette
-barre paraître fois grand
-ordinaire landry peur falloir
+devenir noir
+paraître fois grand
+ordinaire peur falloir
 bien confesser
-fanchon rend
+rend
 rend frère peut-être
-savoir peut-être bien être bon
-fille savoir amusement trouver peine montre bon
-cœur croire val mieux
+savoir peut-être bien bon
+fille savoir amusement trouver peine bon
+croire val mieux
 air parole
 bon fille
 reprendre traire méchant
 jamais mal
-aurai bon cœur besson
+aurai bon besson
 fier coq
 jamais montrer petit amitier
-fadette reprendre landry veux
+reprit veux
 promettre chose dire vite
-envie donnerai veux
+envie donnerai vouloir
 couteau neuf
 voir fadette sauter
 grenouille côté
 avoir couteau
-vilain parrain landry
+vilain parrain
 payer dernier foir être
 tenter moment bientôt trouver
 trop demanda donner
 bien petit poule blanc
 gros pigeon
-plume jusqu’ bout doigt
+plume bout doigt
 poule
-blanc mère répondit landry promet demander
+blanc mère répondit promet demander
 répondre mère
 refuser content
-revoir sylvinet coûter
+revoir coûter
 récompenser
-oui reprendre petit fadette
+reprendre petit
 envi chebril nez noir
-mèr barbeau donner
-dieu dieu
-long décider fanchon
+mère barbeau donner
+
+long décider
 mot servir frère
 danger conduire suite
 auprès logis
 poule poulette chèvre chevrillon
 père mère
 vouloir donner remercîment
-bien voir landry
-petit fadette tendre petit main sec
-besson mît signe
+bien voir
+petit tendre petit main sec
+mît signe
 accord faire trembler
 moment -là
 oeil ardent lutin
@@ -2128,18 +2128,18 @@ dire présent
 veux savoir peut-être souvenir bien promet
 heure manque faire
 savoir monde
-confiance parole besson
+confiance parole
 landry adieu ici oublier poindre
-réclamerai jusqu’ jour
+réclamerai jour
 être décider aller trouver
 requérir chose commandement
 fera retard regret
-bon heure fadette promettre
+bon heure promettre
 signer landry taper
 main
 -ell air fier content
 retourn bord rivière
-descend jusqu’ entende bêler
+descend entende bêler
 voir agneau bureau voir aussitôt
 frère arriver
 dire parole
@@ -2147,39 +2147,39 @@ grelet prendre sauteriot
 bras faire attention chose
 plaire guèr démener
 anguille sauter milieu buisson
-landry vit entendre non
+vit entendre non
 rêvé perdre point
-temps demander petit fadette moquer courir haleine jusqu’
-joncière suivit jusqu’ coupure
+temps demander petit moquer courir haleine
+joncière suivit coupure
 aller passer
 descendre questionner
-endroit assurer sylvinet
+endroit assurer
 point aller éloigner
 entendre bêler agneau
-dieu âme penser -t fille
+âme penser fille
 annoncer chose entendre agneau
 frère mourir vivant
 savoir
 sauter coupure entrer
 broussaille frère point
 fil eau
-entendre agneau bêler landry vit
+entendre agneau bêler voir
 rive frère asseoir petit
 agneau tenir blouse
 vrai bureau couleur
-bout nez jusqu’ bout queue
-sylvinet bien vivant
+bout nez bout queue
+bien vivant
 paraître gâté déchirer figure
-habillement landry être aise
-commencer remercier bon dieu
-cœur songer demander pardon
+habillement être aise
+commencer remercier bon
+songer demander pardon
 recours science diable bonheur -là moment
-aller appeler sylvinet voir
+aller appeler voir
 faire min entendre
 cause bruit eau grouiller fort
 caillou endroit arrêter
 regarder étonner trouver
-petit fadette prédire
+petit prédire
 milieu arbre vent tourmenter
 furieusement bouger non
 pierre
@@ -2191,11 +2191,11 @@ quantité déracin
 vergne court racine
 être gros vieux
 tomber fort bien corps
-avertir sylvinet
+avertir
 pourtant simple fou
 paraître compte
 danger penser être
-trouver abri bon grange fatigué
+trouver abri bon grange
 courir jour vaguer aventure
 bonheur noyer rivière bien
 noyer chagrin
@@ -2214,47 +2214,47 @@ genou laisser crier entendre
 pauvre petit faire voix
 désoler regarder autour
 gros oeil clair étonner écouter
-quelqu’ espèce reconnaître
+espèce reconnaître
 pré mère étable
 endroit ombrager herbu
 gros courant eau peut-être bien faire
 grand’peur
-naper nymphæa nénufar
 
-landry être séparer sylvinet
+
+avoir être séparer
 rivière large
 parcours mètre
 temps nouveau
 endroit creux
 large avoir sûr sauter
-réflexion cou frère sylvinet
+réflexion cou frère
 voir avoir temps
 penser manière éveillerait
 rêvasserie persuasion
 ramener maison
 idée pauvre boudeur bien
-tirer côté landry sitôt trouver gué passerelle
+tirer côté sitôt trouver gué passerelle
 aller rejoindre
 landry songer
 demander père
 raison prudence
 agir rencontre aviser bien
-propos père barbeau prendre
+propos père prendre
 doucement faire sembler
-montrer sylvinet
+montrer
 causer angoisse occasionner
 trop repentir encourager trop recommencer
 jour dépit
 mettre siffler appeler
 merle faire chanter
 pâtour suivre buisson
-nuit tombant faire lever tête sylvinet
+nuit tombant faire lever tête
 voyant frère avoir hont
 leva vivement croire être
-landry faire apercevoir
+faire apercevoir
 beaucoup crier rivière chanter
 haut empêcher entendre
-sylvinet
+
 matin voyant
 sortir venir promener
 ici attendre souper compter bien retrouver maison
@@ -2262,23 +2262,23 @@ rentrer ensembl
 descendre rivière
 rive joindre gué
 roulette gué trouver
-droit maison mère fadet
-marchon sylvinet ramasser
+droit maison mère
+ramasser
 agneau connaître
 suivre volontier
 descendre rivière trop
 oser regarder craindre
 faire voir peine
 fâché plaisir sentir
-retrouver temps temps landry
+retrouver temps temps
 paraître croire dépit
 frère dire parole
 marchant demanda
-prendre petit agneau bureau sylvinet
+prendre petit agneau bureau
 trop vouloir point
 avouer être bien loin
 savoir nom endroit
-passer landry voyant embarras
+passer voyant embarras
 
 conter tard
 vent grand trop bon arbre long eau
@@ -2291,11 +2291,11 @@ retrouver pluie commencer
 sûr fille long
 
 dire point passer bon
-quart heure expliquer mère fadet
+quart heure expliquer mère
 tandis prier refuser
 écouter petit fadette
 vue sortant maison bien
-sylvinet explication -là
+explication -là
 idée vint savoir
 bien peine lorsqu’
 accoster puisqu’ point
@@ -2303,40 +2303,40 @@ temps expliquer vieux
 fois idée venir
 demander frère personne
 venir joncière
-petit fadette
+petit
 bien petit écouter
 fin discours grand’mère cacher faire
 connaître contenter
 curiosité
-côté pauvre sylvinet penser
+côté pauvre penser
 manière expliquer
 mauvais comportement vis-à-vis
 frère mère poindre
-feinte landry savoir
+feinte savoir
 histoire faire mentir
 vie jamais cacher
 besson
 trouver bien mal aise passer
 gué venir jusque-là
 trouver sortir embarras
-être rive landry embrassa
+être rive embrassa
 fit
 cœur coutume retenir
 questionner voir bien savoir
 ramena maison
 parler sorte chose
-tenir cœur
-passer maison mère fadet
-regarder bien voir petit fadette
+tenir
+passer maison mère
+regarder bien voir petit
 sentir envie aller remercier
 porte fermé entendre bruit voix sauteriot beugler
 grand’mère fouailler
 arriver soir eût
 mérité non
-faire peine sylvinet entendre pleurer galopin frère
+faire peine entendre pleurer galopin frère
 vilain maison entendre
 cri coup savoir bien
-mauver diversieux
+mauver
 sauteriot grelet
 donner enfant
 malheureux père
@@ -2351,81 +2351,81 @@ douceur honnêteté
 voisin entendre point
 trop heureux
 connaître poindre avantage
-pourtant petit fadette enfant
+pourtant petit enfant
 malheureux maltraité terre rire plaindre jamais
 comprendre reproche avoir regret
 faute bien
 matin fois envier
 revenir honte retenir
-moment cœur grossit pleurer
+moment grossit pleurer
 frère prit main
 dire
-rude pluie sylvinet
+rude pluie
 galop maison
-mettre courir landry essayant
-faire rire sylvinet efforcer
+mettre courir essayant
+faire rire efforcer
 contenter
 pourtant moment entrer maison
-sylvinet envier cacher
+envier cacher
 grange craindre père faire
-reproche père barbeau prendre
+reproche père prendre
 chose femme
-contenter plaisanter mère barbeau
+contenter plaisanter mère
 mari sagement
 leçon essayer cacher tourment
 occuper
 faire sécher besson bon
-feu donner souper sylvinet voir
+feu donner souper voir
 bien pleurer temps temps regarder air inquiétude
-chagrin être
+être
 demander pardon
 caresser consolée père
 aimer beaucoup mijoterie
-sylvinet être obliger aller lit
+être obliger aller lit
 suite souper fatigue
 surmonter manger
-journée aussitôt avoir avalé souper
+journée aussitôt avoir souper
 grand besoin sentir
 ivre force être déshabiller
 coucher besson rester côté
 asseoir bord lit
 main
-vit bien landry prit
+vit bien landry prendre
 conger parent apercevoir poindre
 mère embrasser amour
 fois croire
 aimer autant frère
-poindre jaloux dire
+poindre dire
 aimable part
 devoir soumettre autant
 respect mère amitier
 besson besoin
 caresse consolation
-lendemain sylvinet courut lit
-mèr barbeau levée
+lendemain courut lit
+mère levée
 ouvrir cœur confesser regret
 honte conter trouver
 bien malheureux temps
 non cause séparer
-landry imaginer
+imaginer
 landry aimer point mère
 questionner injustice être bien
 empêcher motiver
 maladie
 défendre mère comprendre mieux
-vouloir air cœur
+vouloir air
 femme aisément prendre tourment -là
 ressentir
-souffrir voyant landry tranquille
+souffrir voyant tranquille
 courage vertu
-fois reconnaître jalousie
+fois reconnaître
 mauvais amour
-dieu commande
-garder bien encourager sylvinet
+commande
+garder bien encourager
 ressortir peine causer
 frère grand bonté frère
 eue plaindre montrer
-choquer sylvinet reconnut convenir frère meilleur chrétien
+choquer reconnut convenir frère meilleur chrétien
 faire promess forma résolution guérir
 volonté sincère
 bien prendre air
@@ -2434,13 +2434,13 @@ essuyé larme répondu
 plainte raison fortifiant
 faire agir
 simplement justement frère
-rester cœur levain amertume
+rester cœur levain
 frère penser
 chrétien chère
 mère vérité aimer
 fort aime
 soumettre songer
-air tranquille quasi indifférer landry
+air tranquille quasi indifférer
 retrouvant bord rivière
 remémorer entendre
 siffler cherchant moment
@@ -2449,14 +2449,14 @@ rivière idée
 quitter maison avoir
 fois soir croire frère
 pardonner jamais boudé évité
-fois vie affront penser
+fois vie penser
 être jamais consoler bien content
 pardonner penser
 pourtant pardonner
 aisément enfant malheureux
 soupirer combattre
 combattre soupirer
-pourtant dieu récompense
+pourtant récompense
 aide avoir
 bon intention complair arriver
 être raisonnable
@@ -2468,46 +2468,46 @@ père fit travailler davantage apercevoir
 écouter mieux
 trouver travail
 parent jamais rude
-commande landry
+commande
 épargner guère prendre force
 taille année besson
 petit différence
 observer devenir marquante
 esprit passer figure landry avoir compter an
-devenir beau garçon sylvinet
+devenir beau garçon
 rester joli jeune homme mince
 couleurer frère
 prendre jamais
 ressembler
 frère voir coup
-besson landry censé
-cadet naître heure sylvinet
+besser censé
+cadet naître heure
 paraître voir
 fois aîné an
-augmenter amitié père barbeau
+augmenter amitié père
 vrai manière campagne estimer
 force taille
 xi
 premier temps ensuivre
-aventure landry petit fadette
+aventure petit
 garçon avoir souci promesse
 faire moment
 sauver inquiétude engager
 père mèr donner
 meilleur bessonnière
-voir père barbeau prendre
-bien sérieux bouderie sylvinet
+voir père prendre
+bien sérieux bouderie
 poindre montrer inquiétude craindre
 bien petit fadette venir
 réclamer récompense père mît
-porte moquer bel science bel parole landry
+porte moquer bel science bel parole
 donner
-peur rendre landry honteux
+peur rendre honteux
 mesure chagrin
 dissipé juger bien simple
 croire voir sorcellerie
 arriver tenir
-petit fadette gaussée
+petit gaussée
 sentir bien doute
 trouver bon raison
 donner père prouver
@@ -2520,21 +2520,21 @@ grand étonnement lendemain
 affaire mois
 saison entendre petit
 fadette bessonnière priche
-présenter père caillaud
-demander landry père
+présenter père
+demander père
 barbeau réclamer chose
-landry vit loin champ
+vit loin champ
 aller point côté paraître poindre faire attention
 coutume courir monde
 regarder curiosité rire
 jouer badiner bon
 humeur tancer railler
 point
-maison mère fadet
+maison mère
 voisin priche cosse
-faire jour landry
+faire jour
 trouver nez nez petit
-fadette chemin chemin
+chemin chemin
 large bien force donner
 tape mot passer
 soir petit fadette rentraire
@@ -2542,34 +2542,34 @@ oie sauteriot
 talon landry être chercher
 jument pré ramener tranquillement
 priche bien croiser
-petit chemin descendre croix
+petit chemin descendre
 bosson gué roulette
 bien fondre encaissement
-point moyen éviter landry devenir
+point moyen éviter devint
 rouge peur entendre
 sommer parole vouloir
-point encourager fadette sauter jument loin vit jouer
+point encourager sauter jument loin vit jouer
 sabot prendre trot
 jument enfarge
 pied enfourcher avancer
 vite landry voir
-petit fadette oser regarder
+petit oser regarder
 fit min retourner voir
 poulain suivaient regarder
-fadette dépasser
+dépasser
 savoir
 point regarder oeil
 rire sollicité bonsoir
-voir jeanet sauteriot
+voir sauteriot
 traversieux méchant ramasser pierre
 jeter jambe jument
-landry avoir bon envie allonger
+avoir bon envie allonger
 coup fouet avoir peur arrêter
 explication sœur faire
 min apercevoir être
 regarder
-fois landry rencontra
-petit fadette être
+fois rencontra
+petit être
 enhardir regarder
 mesure âge raison venir
 inquiéter petit affaire lorsqu’ avoir prendre courage regarder
@@ -2579,7 +2579,7 @@ chose vouloir être
 tourner tête côté
 peur
 enhardir vis-à-vis
-cœur
+
 demanda grand tort
 jamais remercier plaisir
 science hasard
@@ -2588,87 +2588,87 @@ fois voir moment -là
 venir faire côté
 commencer bonjour causer
 
-approcher petit fadette
+approcher petit
 prendre air fier quasi fâcher décider
 regarder fit manière
 méprisant être démonter
 point porter parole
-être dernier fois année landry
+être dernier fois année
 rencontrer partir jour -là
-petit fadette mener savoir
-fantaisie éviter bien loin voir tourner
+petit mener savoir
+fantaisie bien loin voir tourner
 côté entrer héritage faire
 grand détour poindre voir landry
 penser fâcher être
 ingrat répugnance
 grand savoir décider tenter
-réparer tort petit fadette
+réparer tort petit
 enfant
 ombrageux naturel
 aimer provoquer
 injure moquerie sentir
 langue bien affiler répondre
-dernier piquant mot
+dernier piquant
 jamais vue bouder
 reprocher manquer fierté convier
 fillette lorsqu’ prendre an
 commencer ressentir
 chose allure
-gamin mêmemer affecter tourmenter
-sylvinet déranger
+mêmemer affecter tourmenter
+déranger
 pousser bout lorsqu’ surprendre
 rêvasserie oublier quelquefois
 suivre bout
 chemin lorsqu’ rencontrer
-moquer bessonnerie tourmenter cœur dire landry aimer
+moquer bessonnerie tourmenter cœur dire aimer
 point moquer peine pauvre
-sylvinet landry
+
 croire sorcier étonner deviner
 pensée détester bien cordialement
 mépris famille
-éviter landry éviter méchant
+éviter éviter méchant
 grelet dire suivre tôt tard
 exemple mère mener
 mauvais conduite quitter mari finalement
 suivre soldat partir
 vivandier temps naissance
-sauteriot jamais
-entendre mari mourir chagrin
+jamais
+entendre mari mourir
 honte vieux
-mère fadet être obliger charger
+mère être obliger charger
 enfant soigner fort mal
 cause chicherie âge
 avancer permettre guère surveiller
 proprement
-raison landry
-pourtant fier sylvinet sentir
-dégoût petit fadette regretter
+raison
+pourtant fier sentir
+dégoût petit regretter
 rapport garder
 bien faire connaître cacha besson vouloir
 confesser inquiétude avoir
-sujet côté sylvinet cacha
-méchanceté petit fadette
+sujet côté cacha
+méchanceté petit
 hont
-divination jalousie
+divination
 temps passer âge
 besson semaine
 mois mois an
 changement amener corps
-esprit bientôt landry oublia aventure
+esprit bientôt oublia aventure
 tourmenter souvenir
-fadette penser non
+penser non
 rêve
-mois landry
+mois
 entrer priche approcher
-saint-jean époque engagement
-père caillaud brave homm
+époque engagement
+père brave homm
 content bien décider
 augmenter gage voir
 partir landry demander mieux
 rester voisinage famille
 renouveler priche
 convenaient beaucoup mêmement sentir
-venir amitié nièce père caillaud appeler madelon
+venir amitié nièce père appeler
 beau brin fille an
 traiter
 enfant diminuer jour jour
@@ -2677,58 +2677,58 @@ moquer lorsqu’ hont embrasser
 jeu danse fin
 rougir lieu provoquer
 rester étable
-fenil madelon poindre pauvre
+fenil poindre pauvre
 mariage bien arranger
 suite temps famille
 bien famer tenue estime
-pays père caillaud voir
+pays père voyant
 enfant commencer chercher
 craindre dire père barbeau
 bien faire beau coupl
 point mal faire bon long
 connaissance
 être convenir jour
-saint-jean landry rester priche
-sylvinet parent raison
-bien revenir père barbeau
+rester priche
+parent raison
+bien revenir père
 prendre fièvre enfant savoir
-utile travail terre sylvinet grand’peur envoyer loin
+utile travail terre grand’peur envoyer loin
 crainte agir bien
-efforcer vaincre
-excédent amitié landry
-poindre trop paraîtr paix
+efforcer
+excédent amitié
+poindre trop paraître paix
 contentement revenir
 bessonnière besson visser
 fois semaine
-saint-jean être jour bonheur
+être jour bonheur
 aller ensembl ville voir
 louer serviteur ville campagne
 fête ensuivre grand place
 landry danser bourrée belle
-madelon sylvinet complair
+complair
 essaya danser tirer
-trop bien madelon témoigner
+trop bien témoigner
 beaucoup égard prendre main
 vis-à-vis aider marquer
-sylvinet trouver frère
+trouver frère
 promettre apprendre bien danser
-partager plaisir jusque-là gêner
+partager plaisir gêner
 landry
 sentir trop jalousi
-madelon landry réserve
-ailleurs madelon flatter encourager sylvinet gêne
+réserve
+ailleurs flatter encourager gêne
 connaître
 juger besson
-préférer landry jaloux
-être nature ennemi jalousie
+préférer
+être nature ennemi
 peut-être savoir dire
-grand innocence madelon agir
+grand innocence agir
 faire plaisir occasion
 trouver
 chose aller mieux
-mois jusqu’ jour
-saint-andoch fête patronal
-bourg cosse tombe dernier
+mois jour
+fête patronal
+cosse tombe dernier
 jour septembre
 jour -là
 besson grand bel fête
@@ -2736,7 +2736,7 @@ danse jeu sorte
 grand noyer paroisse amener
 nouveau peine attendre
 mie
-père caillaud donner licence landry
+père donner licence
 aller veille coucher bessonnière
 voir fête matin landry partit
 souper bien content aller surprendre
@@ -2745,7 +2745,7 @@ court nuit tombe vite landry
 jamais peur plein jour
 être âge pays
 aimer trouver nuit
-chemin automne
+automne
 saison sorcier follet commencer
 donner bon temps cause brouillard
 aider cacher malice
@@ -2762,37 +2762,37 @@ appeler manière cause
 caillou rond trouver grand
 quantité relever jambe
 pantalon eau
-jusqu’ au-dessus cheville pied fit
+au-dessus cheville pied fit
 bien attention marcher
 gué établir biaisant droite gauche mauver trou
-landry connaître bien gué
+connaître bien gué
 guère tromper ailleurs voir
 travers arbre
 moitié dépouillé feuille petit clarté
-sortir maison mère fadet
+sortir maison mère
 regarder clarté marchât
 direction poindre chance
 faire mauvais route
-faire noir arbre landry
+faire noir arbre
 tâta pourtant gué bâton
 entrer être étonner trouver eau
-coutume autant entendre
+autant entendre
 bruit écluse ouvert
 bon heure pourtant voir
-bien lumière croisée fadette
-risquer bout
+bien lumière croisée
+bout
 eau haut genou retirer
 juger tromper essayer
 haut
-trouver creux davantage
+trouver davantage
 tomber pluie écluse gronder
 chose bien surprenant
 xii
-falloir pensa landry prendre
+falloir pensa prendre
 faux chemin charrière coup
-voir droite chandelle fadette
+voir droite chandelle
 devoir gauche
-remonter chemin jusqu’ croix-au-lièvre
+remonter chemin
 faire tour oeil fermer
 désorienter avoir bien remarquer
 arbre buisson autour
@@ -2800,16 +2800,16 @@ trouver bon chemin revenir jouxt
 rivière bien gué paraître
 commode poindre faire
 voir coup presque
-clarté maison fadett devoir face revenir rive
+clarté maison devoir face revenir rive
 clarter paraître devoir
 trouver reprendre gué biaisant
 sens fois avoir eau presqu
-jusqu’ ceinture avancer
+ceinture avancer
 augurer rencontrer trou
 aller sortir marchant
 lumière
 faire bien arrêter trou creuser
-jusqu’ épaule eau
+épaule eau
 bien froid rester moment
 demander revenir
 lumière paraître changer place
@@ -2822,7 +2822,7 @@ bruit grésillement faire pétrole
 résine
 fois landry avoir peur faillit perdre
 tête ouï
-abusif méchant feu -là
+abusif méchant feu
 faire jeu égarer regardent
 conduire creux eau rire manière moquer
 angoisse
@@ -2836,7 +2836,7 @@ martin pêcheur disparaître
 fois devenir
 gros tête bœuf
 aussitôt menu œil chat
-accourir auprès landry tourner autour
+accourir auprès tourner autour
 vite ébloui
 voyant vouloir
 retourner frétiller roseau
@@ -2845,22 +2845,22 @@ landry oser point bouger
 retourner moyen
 faire fuir follet obstiner
 courir courir
-mettre travers chemin jusqu’
+mettre travers chemin
 rendu fou
 tomber mauvais passer grelotter
 peur froid lorsqu’ entendre petit voix doux
 chanter
-fadet fadet petit fadet
+fadet petit
 prend chandell cornet
 prendre cape capet
 follette follet
-aussitôt petit fadette apprêter
+aussitôt petit apprêter
 gaiemer passer eau montrer
 craindre étonnement feu follet heurta
-landry asseoir terre
+asseoir terre
 brune retirer jurer
 garçon mieux appri
-fanchon landry relever
+landry relever
 peur ennemi
 parler peur
 presque autant follet
@@ -2868,35 +2868,35 @@ entendre chanson voir bien
 faire conjuration feu follet
 danser tortiller fou
 avoir être aise voir
-voir bien beau besson
-petit fadette être consulter
+voir bien beau
+petit être consulter
 flatter moitié
 mort peur voix trembl
-gosier grand’mère pauvre cœur nuit fier
+gosier grand’mère pauvre nuit fier
 jour gager oser passer
 eau
-foi sors landry
+foi sors
 manquer noyer
-risquer fadette crain perdre
+risquer crain perdre
 gué
-perdre voir
-bien inquiet répondre petit fadette
+voir
+bien inquiet répondre petit
 rire donne main poltron
 follet mécher croi
 mal épeurent
 coutume voir connaître
-force landry
+force
 eût supposer tira
 bras amener gué courant
 chanter
 prendre cape capet
 fadette fadet
-landry guère aise
+guère aise
 société petit sorcière
 follet aimer mieux voir
 diable apparence propre espèce feu sournois
-fugace faire résistance être tôt
-rassurer sentir fadette conduire
+fugace faire être tôt
+rassurer sentir conduire
 bien marcher caillou
 marcher vite
 ouvrir courant air feu follet
@@ -2905,46 +2905,46 @@ appeler maître école
 long chose -là
 assurer nul craindre
 xiii
-peut-être mère fadet
+mère
 connaissance enseigner
 petite-fille redouter feu
 nuit bien force voir
 entour gué roulette
-grand hasard landry
+grand hasard
 point peut-être petit
 idée esprit
 souffler poindre méchant vouloir
-bien sentir landry trembler
+bien sentir trembler
 corps mesure follet approcher
 
 innocent -ell feu brûler poindre subtil manier
 verrai laisse
 marque
-pis pensa landry feu
+pis pensa feu
 brûler
-venir dieu feu bon dieu
+venir feu bon
 chauffer brûler
 faire connaître pensée
-petit fadette voir sain
+petit voir sain
 rive avoir grand envie planter
 ensauver bessonnière
 point cœur ingrat vouloir poindre
 quitter remercier
 second fois rend
-service fanchon fadet valoir
+service valoir
 disai
-souvenir vie
+vie
 fou trouver follet
 vanner charmer jamais avoir passer
 rivière bien être jamais sortir
-peut-être bien aurai passer
+bien aurai passer
 peine danger sot répondit
-fadette avoir jamais croire grand
+avoir jamais croire grand
 gars an
 tarder barbe menton aiser épeurer content
 voir
-être content fanchon
-fadet
+être content
+
 aimer point
 méprisant
 
@@ -2954,21 +2954,21 @@ besson père
 mère fier riche
 croire devoir
 rendre service apprendre
-ingrat landry vilain
+ingrat vilain
 défaut homme
 peureux
-landry sentir bien humilier reproche
+sentir bien humilier reproche
 petit fille reconnaître
 injuste
 répondit
-fautif fadette imputez
+fautif imputez
 frère père
 mère connaissance
 secours avoir fois
 donner fois savoir avoir récompense
-désirer
+
 bien orgueilleux reprendre
-petit fadette imaginer
+petit imaginer
 présent pouvoir
 croire pareil
 grand’mère pourvoir baille
@@ -2980,34 +2980,34 @@ cœur trouver pauvre mot
 remerciement amitier
 an guéri gros
 peine
-fautif confesser fadette
-landry empêcher
+fautif confesser
+empêcher
 étonner manière entendre raisonner
 fois
 faute bien
 sorcier faire retrouver frère
 venai doute voir
 expliquer grand’mère
-vraiment cœur bon reprocher
+vraiment bon reprocher
 point lieu faire souffrir attendre lieu faire donner
 parole mener loin
-avoir suite dévalle pré
+avoir suite pré
 verra rivet eau
 point coûter beaucoup lieu
 vilain jeu peine
-mandré prix service rendre
-petit fadette pourtant
+prix service rendre
+petit pourtant
 repartie prompt resta pensif moment
 
 voir bien
-écarter reconnaissance cœur
+écarter reconnaissance
 imaginer devoir point
 cause récompense promettre
 coup dur
-mauvais cœur puisqu’ poindre
+mauvais cœur poindre
 observer réclamer
 faisai reproche ingratitud
-vrai fanchon landry
+vrai
 bon foi tort
 sentir honte avoir
 devoir intention
@@ -3020,77 +3020,77 @@ savoir suite vouloir poindre
 paiement être ami lieu
 heure mauvais opinion
 avoir devoir débrouiller follet
-avoir bonsoir landry
+avoir landry
 bessonnière aller sécher habit aller
 parent petit guenillon
 grelet avoir foi boire bon coup
 soir rivière
-parler petit fadette tourner
+parlant petit tourner
 dos marcha côté maison chanter
 prend leçon paquet
-landry barbeau bessonnet
-fois landry sentit grand
+landry bessonnet
+fois sentit grand
 repentir âme non être disposer
 sorte amitier fille paraître
 esprit bonté
 vilain manière plaire point
-amuser cœur
+amuser
 haut vouloir point garder tort conscience courir rattraper
 cape
-voyon fanchon fadet falloir
+falloir
 affaire -là arranger finir
 mécontent
 bien content falloir
 dire souhaite tard
 demain apporterai
 souhaiter jamais voir répondre
-fadette duremer
+duremer
 chose apportera bien compter
-jeter nez
+nez
 parole trop rude
 offrir réparation vouloir
 point cadeau peut-être moyen
 service montrer
-vouloir bien non mal dire
+vouloir bien non mal
 faire contenter
 savoir demander
-pardon souhaiter amitié fadette
+pardon souhaiter amitié
 arrêtant
-pardon beaucoup demander
-répondit landry vaincre
+beaucoup demander
+répondit vaincre
 hauteur endroit fille point
 considérer proportion âge commencer porter
 raisonnablement
-devoir amitié fadette drôlemer
+devoir amitié drôlemer
 bâtie esprit savoir
-grand’fiance demande
+demande
 chose pouvoir donner suite
 être obliger reprendre
-bien fadette voix clair
+bien voix clair
 sec souhaitez
-besson landry offrir pardon
+offrir pardon
 vouloir point présent
 réclame avoir promettre
 obéir commandement jour
 serez requérir jour -là
-tard demain saint-andoche
+tard demain
 vouloir faire danser
 bourrer messe bourrée
-vêpres bourrée angélus
+vêpres bourrée
 faire sept. journée
-être lever jusqu’
-être couché danser
+être lever
+couché danser
 bourrer fille femme
-fait savoir avoir
-chose bien laid ingratitude
-peur manque parole bonsoir attendre demain ouvrir danse porte
+savoir avoir
+chose bien laid
+peur manque parole attendre demain ouvrir danse porte
 église
-petit fadette landry suivre
-jusqu’ maison tirer corillette entra
+petit suivre
+maison tirer corillette entra
 vite porte être pousser recoriller
 besson répondre mot
 xiv
-landry trouva idée fadette
+landry trouva idée
 drôle penser rire fâcher
 fille fou
 méchant désintéresser croire
@@ -3103,16 +3103,16 @@ bord chemin pâtour
 démener petit diable vivement
 peiner mesure
 bel mal attifer dimanche garçon âge
-landry eût danser
+eût danser
 monde porcher
 gars poindre
 communion trouvaient digne
 invité beau campagne aimer
 point danse landry
 sentit humilier vouer
-pareille danseur souvenir
+pareille souvenir
 promettre bourrée
-bel madelon demander
+belle demander
 prendre affront forcer
 faire réclamer point
 froid faim craindre
@@ -3123,7 +3123,7 @@ sécha conter poindre gué
 cause grand’nuit
 peine sortir eau avoir hont
 confesser peur avoir parler
-feu follet petit fadette
+feu follet petit
 coucha dire bien tôt
 lendemain tourmenter conséquence
 mauvais rencontre faire pouvoir dormir mal faire
@@ -3133,12 +3133,12 @@ grand coq rouge tenir
 patte lanterne corne
 chandelle rayon
 étendre joncière
-petit fadette changer grelet gros
+petit changer grelet gros
 chèvre crier voix
 grelet chanson comprendre
 entendre mot
-rime grelet fadet cornet capet
-follet bessonnet sylvinet tête
+rime grelet fadet capet
+follet tête
 cassé clarté follet sembler vif
 prompt éveiller
 orblute petit boule
@@ -3146,27 +3146,27 @@ noir rouge bleu
 oeil
 regarder trop assurance orbe
 soleil lune
-landry être fatigué mauvais nuit
+être fatigué mauvais nuit
 endormir long messe
 mêmemer entendre parole
-sermon m.lecuré pourtant louer
-magnifier mieux vertu propriété bon saint andoche sortant
-église landry charger langueur
-oublier fadette pourtant
+sermon pourtant
+magnifier mieux vertu propriété bon saint sortant
+église charger langueur
+oublier pourtant
 porche auprès belle
-madelon tenir bien
+tenir bien
 invitation
 approcher falloir bien
 voir grelet faire
 bien haut hardiesse pareille
-landry inviter hier soir
+inviter hier soir
 danse compte
 manquer
 landry devint rouge feu voyant
-madelon devenir rouge grand
+devenir rouge grand
 étonnement grand dépit
 pareille aventur prendre courage
-petit fadette
+petit
 promettre
 faire danser grelet prier
 auparavant tour venir
@@ -3175,20 +3175,20 @@ non repartir fadette assurance
 souvenance défaut landry
 promettre
 parole réclame an dernier renouveler hier
-soir madelon envier danser
-aujourd’hui besson pareil
+soir envier danser
+aujourd’hui pareil
 prendre place vaut
 
-grelet raison répondre madelon
-fierter prendre main sylvinet
+grelet raison répondre
+fierter prendre main
 avoir promesse
-ancien falloir landry aimer bien
+ancien falloir aimer bien
 autant danser frère
-oui oui chose sylvinet
+oui chose
 naïvement danser
 
 falloir bien passer
-attirer attention monde grelet commencer
+attirer attention monde grelet
 sautiller orgueil
 prestesse jamais bourré être mieux
 marquer mieux enlever être pimper
@@ -3198,7 +3198,7 @@ belle vouloir légèreté
 aplomb pauvre grelet mal
 habillé paraître fois laid
 coutume landry oser
-regarder madelon chagriner humilier vis-à-vis regarder danseur
+regarder chagriner humilier vis-à-vis regarder
 trouva beaucoup vilain
 guenille jour croire
 faire bel dressage bon faire
@@ -3217,7 +3217,7 @@ trop court main
 grandi beaucoup année
 bras maigre mordre soleil sortaient
 manche patte
-aranelle tablier
+tablier
 incarnat bien fier
 venir mère poindre
 songer retirer bavousette
@@ -3230,38 +3230,38 @@ mépriser mauvais tenue
 point commander misère
 avarice grand’mère manque
 goût petite-fille
-
-sylvinet trouver étrange besson
-prendre fantaisie fadette
-compte aimer landry
+xv
+trouver étrange besson
+prendre fantaisie
+compte aimer
 faire landry savoir expliquer
 chose vouloir cacher terre
-madelon bien malcontent
+bien malcontent
 entrain petit fadette forcer
 jambe prendre figure
 triste porter diable
 terre
-aussitôt fin danse landry
+fin danse landry
 esquiver aller cacher ouche
-bout instant petit fadette escorter sauteriot
+bout instant petit escorter
 plume paon gland faux
-casquette rageur braillard
-coutume venir bientôt relancer amener
+casquette
+venir bientôt relancer amener
 bande drôlesse jeune
 âge fréquentaient guère
-landry vit volaille
+vit volaille
 compter prendre témoin cas
 refus soumettre conduisit
 noyer bien vouloir trouver coin
 danser remarquer
-bonheur madelon sylvinet
+bonheur
 côté -là endroit
 vouloir profiter occasion remplir
 tâche danser bourré
-fadette autour
+autour
 étranger faire grand attention
 avoir finir courir chercher
-madelon inviter venir ramée
+inviter venir ramée
 manger fromentée
 danser
 promettre régaler refuser
@@ -3272,25 +3272,25 @@ monde faire
 remarqu manger vite lever table
 haut vêpres sonner
 danser
-tourner côté landry compter
+tourner côté compter
 dire bien vite
 avoir desserrer dent
-madelon daigner
+daigner
 envoyer regard reproche pitié
 aller vêpres nouveau galant
 vite vêpres être chanter
-madelon partit pierre aubardeau suivie
-jean aladenise étienne alaphilipp
+partit suivie
+
 firent danser
 manquer bel fille
 non landry regarder coin
-œil petit fadette rester
+œil petit rester
 église dire long prière
 faire dimanche
 grand dévotion
 mieux cacher jeu
 diable
-landry être bien peiner voir madelon
+être bien peiner voir
 montrer souci endroit rouge plaisir fraise
 consoler bien affront
 forcé faire aviser
@@ -3305,55 +3305,55 @@ chagriner ramée
 deviner chose
 vouloir pouvoir expliquer
 soucier mie pourtant gai
-biquet cœur
-fendre chagrin
+biquet
+fendre
 avoir contenter danseur
-landry approcher désirer
+approcher désirer
 secret justifier mieux savoir
 prendre emmener écart
 âge guère
 courage femme pouvoir
 trouver parole propos prit
 main faire
-air moitier dépit moitier pardon
-oui landry vien faire
+air moitier moitier pardon
+vien faire
 danser fin
 non danser répondit
 savoir feindre idée manquer
 parole chose
 pouvoir refuser entendre
-secret landry
-fois répondit madelon
+secret
+fois répondit
 retirer main aujourd’hui
 jour danser divertir
 bout jambe
 grelet user coucher
 veux
-accepter offre germain
-audoux venir faire danser
-tourner dos landry landry
-entendre germain audoux dire
+accepter offre
+venir faire danser
+tourner dos
+entendre dire
 parler
 gars paraître bien croire
 bourré revenir
-peut-être bien madelon hocher
+bien hocher
 tête nez
-landry être grandement choquer
+être grandement choquer
 parole rester auprès danse observer
-allure madelon poindre malhonnête fier
+allure poindre malhonnête fier
 nargue dépita revenir
 côté regarder
 oeil moquer
 bravade
-bien landry trouver
-danseur aujourd’hui sera
+bien trouver
+aujourd’hui sera
 fine obligé retourner grelet
-retourner bon cœur répondit
+retourner bon répondit
 landry bel fête
 danse mieux
 être alentours église
-chercher petit fadette ramener
-danse face madelon
+chercher petit ramener
+danse face
 danser bourrée quitter place
 falloir voir grelet fier
 content cacher poindre aise faire
@@ -3364,11 +3364,11 @@ malheur triomphe donna
 dépit gamin
 danser habitude pouvoir
 approcher jamais être fier
-estimaient beaucoup danse mettre critiquer reprocher
-fierté chuchoter autour voir
-grelette croire charmer landry
-barbeau grelette sautiote farfadette chat
-grillé grillette râlette sornette
+estimaient beaucoup danse mettre critiquer
+fierté chuchoter autour
+grelette croire charmer
+grelette sautiote farfadette chat
+grillé râlette sornette
 manière endroit
 xvi
 petit fadette passer
@@ -3378,21 +3378,21 @@ jeune entendre
 bien apprendre frapper oreillon
 coiffe virer oreille
 crier grand calot
-grand calot mère fadet
+grand calot mère
 pauvre grelet allonger tape
 droite gauche servir
 attirer attention côté
 personne endroit commencer
-voir grelette chance aujourd’hui landry
+voir grelette chance aujourd’hui
 barbeau danser moment
 vrai danse bien
 bel fille carre agasse
-parler landry avoir dire
+parler avoir dire
 jeter sort pauvre
-landry regarder bien
+regarder bien
 veu passer sorcier bientôt
 verron mener loup champ
-landry être mortifier sylvinet
+être mortifier
 voir excellent estimable
 frère être davantage
 voir donner riser
@@ -3401,44 +3401,44 @@ mêler faire question
 bien beau gar
 drôle idée coiffer
 vilain
-assemblée madelon vint air
+assemblée venir air
 triomphe écouter moquerie
 charité mêler mot
-vouloir landry
+vouloir
 petit enfant âge pourvu
 trouver regarder
 tête chèvre figure chrétien
-sylvinet prendre landry bras
+prendre bras
 dire
 frère bien falloir
 fâcher moque insulte
-petit fadette revient savoir
+petit fadette revenir savoir
 idée prendre aujourd’hui faire
 danser fois suite dire
 cherche ridicule finir amusement -là
 prie bon exposer
 dureté mépris monde
 cherche goût
--en revenir
-angelus fera danser
-madelon fille bien falloir
+revenir
+fera danser
+fille bien falloir
 aimer trop danse
 faire faire chose raison
-landry suivit
+suivit
 retourner entendre grand clameur
-voir petit fadette madelon
+voir petit fadette
 fille livrer moquerie
 galant gamin encouragé
 risée faire venir
-décoiffer coup poing
+décoiffer coup
 grand cheveux noir pendre
-dos débattre colère chagrin fois
+dos débattre colère fois
 mériter maltraiter pleurer
 rage pouvoir rattraper coiffe
 méchant galopin emporter bout
 bâton
 landry trouver chose bien mauvais
-bon cœur soulever injustice
+bon soulever injustice
 attrapa gamin ôter coiffe bâton
 appliquer bon coup
 revenir milieu mettre fuite
@@ -3446,18 +3446,18 @@ montrer prendre pauvre
 grelet main rendre coiffure
 vivacité landry peur gamin
 faire grandement rir assistant applaudir
-landry madelon tournant
+landry tournant
 chose avoir garçon
-âge landry âgé
+âge âgé
 avoir air rire dépens
-landry perdre honte sentir
+perdre honte sentir
 brave fort savoir homme
 dire remplir devoir
 laisser maltraiter femme laid
 bel petit grand prise
-danseur savoir monde
-apercevoir manière regarder côté madelon aller droit vis-à-vis
-aladenise alaphilippe disant
+savoir monde
+apercevoir manière regarder côté aller droit vis-à-vis
+aladenise disant
 bien
 avoir convient
 donner attention fille -là
@@ -3470,7 +3470,7 @@ ici homme
 grand garçon face
 attendre voir
 molester fille petit enfant danser
-sylvinet quitter frère
+quitter frère
 approuvât poindre soulever
 querelle tenir prêt soutenir
 grand
@@ -3480,98 +3480,98 @@ fond battre
 considérer souffler mot regarder
 
 demander intention
-mesurer landry présenter landry poindre lâcher main
-fadette
-mets vite coiffag fanchon danson
+mesurer présenter landry poindre lâcher main
+
+mets vite coiffag danson
 voir venir ôter
-non petit fadette essuyer
+non petit essuyer
 larme dansé aujourd’hui
 
 non non falloir danser
-landry feu courage
+feu courage
 fierter puisse
 danser insulter
 faire danser
 adresser mot regard travers
-madelon soupirant être danser
-ailleurs bourrée petit fadette
-landry
+soupirant être danser
+ailleurs bourrée petit
+
 présent landry content
 rend parole retourn
 maison danse voudra soir
 aller reprendre petit frère
 battre enfant alla
-vite landry voir
+vite voir
 retirer
-xvii
-landry aller souper frère
+
+aller souper frère
 bien soucieux
 passer raconter
 maill partir veille soir
-feu follet petit fadette
+feu follet petit
 délivrer courage
 magie demander récompense
 faire danser fois fête
-saint-andoch parla point
+parla point
 vouloir jamais peur
 eue trouver noyer an auparavant
 sage mauvais ider
 enfant mettre quelquefois tête revenir bientôt attention
-sylvinet approuver frère tenir parole ennui attirer augmenter autant estime devoir effrayer danger landry courir rivière manquer reconnaissance petit fadette éloignement vouloir point croire avoir trouver hasard secourir bonté
-conjurer fadet troubler esprit faire noyer dieu permettre jamais être état péché mortel méchant grelet abuser bonté reconnaissance faire promesse savoir bien fâcheux dommageable mauvais fille -là sorcière aimer mal bonne savoir bien brouiller madelon honnête connaissance vouloir faire battre second fois bon dieu poindre défendre avoir bien mauvais dispute attraper malheur
-landry voir volontier oeil frère penser peut-être bien raison défendre guère fadette causer ensembl follet sylvinet jamais bien curieux entendre pourtant désirer voir oser mère peur songer père moquait donner attention
-devoir danser jusqu’ grand’nuit landry cœur gros cause bon fâcher madelon vouloir poindre profiter liberté fadette rendre aider frère aller chercher bête pacage conduire moitié chemin priche mal tête adieu frère bout joncière sylvinet vouloir point aller passer gué roulette craindre follet grelet faire mécher jeu faire promettr prendre long aller passer planchette grand moulin
-landry fit frère souhaiter lieu traverser joncière descendre traîne longer côte chaumoi peur bruit air cause fête entendre musette cri danseur saint-andoche savoir bien esprit malice monde endormir pays
-être côte droit carrière entendre voix gémir pleurer croire courlis mesure approcher ressembler gémissement humain cœur faire jamais défaut agir affaire être espèce porter secours descendre hardiment creux carrière
+approuver frère tenir parole ennui attirer augmenter autant estime devoir effrayer danger courir rivière manquer reconnaissance petit éloignement vouloir point croire avoir trouver hasard secourir
+conjurer fadet troubler esprit faire noyer permettre jamais être état péché mortel méchant grelet abuser bonté reconnaissance faire promesse savoir bien fâcheux dommageable mauvais fille -là sorcière aimer mal bonne savoir bien brouiller honnête connaissance vouloir faire battre second fois bon poindre défendre avoir bien mauvais dispute attraper malheur
+voir volontier oeil frère penser peut-être bien raison défendre guère causer ensembl follet jamais bien curieux entendre pourtant désirer voir oser mère peur songer père moquait donner attention
+devoir danser grand’nuit gros cause bon fâcher vouloir poindre profiter liberté rendre aider frère aller chercher bête pacage conduire moitié chemin priche mal tête adieu frère bout joncière vouloir point aller passer gué roulette craindre follet grelet faire mécher jeu faire promettr prendre long aller passer planchette grand moulin
+landry faire frère souhaiter lieu traverser joncière descendre traîne longer peur bruit air cause fête entendre musette cri danseur savoir bien esprit malice monde endormir pays
+être droit carrière entendre voix gémir pleurer croire courlis mesure approcher ressembler gémissement humain faire jamais défaut agir affaire être espèce porter secours descendre hardiment creux carrière
 plaindre silence entendre venir
 pleurer ici demander voix assurer
 répondre mot
 malade fit
 dire songer aller auparavant vouloir regarder emmy pierre grand chardon encombrer endroit bientôt voir clarté lune commencer monter coucher terre long figure bouger non mourir valût guèr mieux jeter grand affliction faire apercevoir voulût point remuer
-landry jamais toucher mort
-idée peut-être faire grand émotion surmonter penser devoir porter assistance prochain aller résolument tâter main étendre voir découverte relever moitié aussitôt être auprès landry connaître petit fadette
-xviii
-landry être fâcher obligé
-trouver petit fadette
+jamais toucher mort
+idée peut-être faire grand émotion surmonter penser devoir porter assistance prochain aller résolument tâter main étendre voir découverte relever moitié aussitôt être auprès connaître petit
+
+être fâcher obligé
+trouver petit
 chemin paraître
 peine avoir compassion entretien
 avoir ensemble
-grelet pleurai
-frapper pourchasser
+pleurai
+quelqu’ frapper pourchasser
 plain cache
-non landry molester
+non molester
 bravement défendu
 ailleurs craindre
 cachai pleurer sot montrer peine
 gros peine cause méchanceté fait aujourd’hui faute falloir consoler exposer
-dire landry faute outrage souhaiter danser fille droit amuser
-poindre fadette point reproche vouloir danser souhaiter conduire devoir tort ancien journée aujourd’hui avoir poindre savoir bien
-non landry aimer dieu connaître tort -là jamais songer reproche chose causer désagrément gré
-parler fadette plainte parlon connaître poindre défaut vouloir bon foi bon amitié dis avoir
-oui landry veu estimer meilleur récompense meilleur punition puisse donner bien mal
-bien fanchon fadet parle raisonnablement fois vie voir doux traitable respecter fille an devoir pouvoir exiger fille garçon air manière prend soin commencer poindre air propre soigneux paraîtr laid habillemer langag savoir bien enfant appeler nom déplaire grelet appeler mâlot bien croire propos an poindre ressembler fille monte arbre chat-écurieux saute jument bride selle galoper diable bon fort leste bon peur avantage nature homme femme trop trop air vouloir faire remarquer remarqu taquin crier loup esprit répond malice rire adresser poindre bon esprit force montrer ennemi curieux surprendre secret jette figure bien duremer aussitôt plaindre craindre détester craindre mal être sorcier non vouloir croire connaissance espérer donner mauvais esprit cherche paraître effrayer fâchent vilain renom donne tort fanchon fadet cause tort rumine chose voir vouloir savoir grer entendemer
-remercier landry répondre petit fadette air sérieux écouter besson bien religieusement monde reproche beaucoup honnêteté ménagement point présent veux répond veux asseoir côté petit moment
-endroit guère agréable landry soucier poindre trop attarder songer mauvais sort accusait jeter méfier point
-trouve poindre endroit agréable reprendre -ell riche être difficile falloir beau gazon asseoir pouvoir choisir pré jardin bel place meilleur ombrage demander long bon dieu accommoder pierre venir poser tête épine blesser poindre pied trouver observer joli avener ciel terre poindre vilain endroit landry connaître vertu douceur chose dieu fait savoir sorcière bon herbe écrase pied savoir usage regarder mépris odeur figure landry enseigner heure chose rapporter âme chrétien bien fleur jardin ronce carrière méprendre trop paraître beau bon prive secourable salutaire
+dire faute outrage souhaiter danser fille droit amuser
+poindre point reproche vouloir danser souhaiter conduire devoir tort ancien journée aujourd’hui avoir poindre savoir bien
+non landry aimer connaître tort -là jamais songer reproche chose causer désagrément gré
+parler plainte parlon connaître poindre défaut vouloir bon foi bon amitié dis avoir
+veu estimer meilleur récompense meilleur punition puisse donner bien mal
+bien parle raisonnablement fois vie voir doux traitable respecter fille an devoir pouvoir exiger fille garçon air manière prend soin commencer poindre air propre soigneux paraîtr laid habillemer langag savoir bien enfant appeler nom déplaire grelet appeler mâlot bien croire propos an poindre ressembler fille monte arbre chat-écurieux saute jument bride selle galoper diable bon fort leste bon peur avantage nature homme femme trop trop air vouloir faire remarquer remarqu taquin crier loup esprit répond malice rire adresser poindre bon esprit force montrer ennemi curieux surprendre secret jette figure bien duremer aussitôt plaindre craindre détester craindre mal être sorcier non vouloir croire connaissance espérer donner mauvais esprit cherche paraître effrayer fâchent vilain renom donne tort cause tort rumine chose voir vouloir savoir grer entendemer
+remercier répondre petit air sérieux écouter besson bien religieusement monde reproche beaucoup honnêteté ménagement point présent veux répond veux asseoir côté petit moment
+endroit guère agréable soucier poindre trop attarder songer mauvais sort accusait jeter méfier point
+trouve poindre endroit agréable reprendre -ell riche être difficile falloir beau gazon asseoir pouvoir choisir pré jardin bel place meilleur ombrage demander long bon accommoder pierre venir poser tête épine blesser poindre pied trouver observer joli avener ciel terre poindre vilain endroit connaître vertu douceur chose fait savoir sorcière bon herbe écrase pied savoir usage regarder mépris odeur figure enseigner heure chose rapporter âme chrétien bien fleur jardin ronce carrière méprendre trop paraître beau bon prive secourable salutaire
 entendre bien veux signifier landry asseoir auprès
-rester moment petit fadette esprit envolé idée landry connaître poindre embrouillement tête empêcher plaisir entendre fille jamais entendre voix doux parole bien dire parole voix fadette moment -là
-écoute landry -ell plaindre blâmer tort jamais sérieux monde raisonnable faire attention bon cœur vilain figure mauvais habillement voir apprend sai être sort monde dire point mal pauvre mèr blâme insulte poindre défendre pouvoir faire savoir bien mal être pousser faire bien monde méchant peine mère avoir délaisser pleurai bien amèrement moindre dépit enfant jeu pardonner reprocher faute mère vouloir forcer rougir peut-être place fille raisonnable dire abaisser silence penser prudent abandonner cause mère injurier préserver voi pouvoir fort mère mère vouloir retrouve entendre jamais aimer force cœur appeler enfant coureuse vivandier colère non cause savoir bien offenser mal cause pauvre cher femme devoir défendre savoir défendre venge dire vérité mériter montrant valoir mieux jeter pierre dire curieux insolent surprend secret divulguer vrai bon dieu faire curieux désirer connaître chose cacher être bon humain avoir songer contenter curiosité dépens prochain avoir renfermer amusemer connaissance secret enseigne grand’mère guérison corps humain fleur herbe pierre mouche secret nature bien occuper divertir aimer vaguer fureter partout avoir être connaître ennui grand plaisir aller endroit fréquent point rêvasser chose entendre jamais personne croire bien sage bien aviser laisser attirer commerce prochain envie service petit connaissance venue grand’mère profit bien lieu remercier honnêtement enfant âge guérir blessure maladie enseigner remède demander jamai récompense être traiter sorcière venir bien doucement prier besoin dire tard sottise occasion
-courroucer avoir nuire savoir chose faire bien savoir faire mal pourtant jamais usage connaître poindre rancune venger parole soulager dire suite venir bout langue ensuite pardonner dieu commande prendre soin manière devoir montrer fou croire bel savoir laid regarder sache voyant dur méprisant bon dieu mal partager plaisir déplaire consoler idée figure repousser bon dieu ange gardien reprocheraient reproche dire chenille vilain bête laid falloir tuer écraser pauvre créature bon dieu chenill tombe eau tend feuille sauf cause aimer mauvais bête sorcier aimer faire souffrir grenouille arracher patte guêpe clouer chauve souris vivant arbre pauvre bête tuer vilain avoir droit vivre
-
-landry être savoir émotionner
-manière petit fadette parler
+rester moment petit fadette esprit envolé idée connaître point embrouillement tête empêcher plaisir entendre fille jamais entendre voix doux parole bien dire parole voix moment -là
+-ell plaindre blâmer tort jamais sérieux monde raisonnable faire attention bon cœur vilain figure mauvais habillement voir apprend sai être sort monde dire point mal pauvre mèr blâme insulte poindre défendre pouvoir faire savoir bien mal être pousser faire bien méchant peine mère avoir délaisser pleurai bien amèrement moindre dépit enfant jeu pardonner reprocher faute mère vouloir forcer rougir place fille raisonnable dire abaisser silence penser prudent abandonner cause mère injurier préserver voi pouvoir fort mère mère vouloir retrouve entendre jamais aimer force cœur appeler enfant coureuse vivandier colère non cause savoir bien offenser mal cause pauvre cher femme devoir défendre savoir défendre venge dire vérité mériter montrant valoir mieux jeter pierre dire curieux insolent surprend secret divulguer vrai bon faire curieux désirer connaître chose cacher être bon humain avoir songer contenter curiosité dépens prochain avoir renfermer amusemer connaissance secret enseigne grand’mère guérison corps humain fleur herbe pierre mouche secret nature bien occuper divertir aimer vaguer fureter partout avoir être connaître ennui grand plaisir aller endroit fréquent point rêvasser chose entendre jamais personne croire bien sage bien aviser laisser attirer commerce prochain envie service petit connaissance venue grand’mère profit bien lieu remercier honnêtement enfant âge guérir blessure maladie enseigner remède demander jamai récompense être traiter sorcière venir bien doucement prier besoin dire tard sottise occasion
+courroucer avoir nuire savoir chose faire bien savoir faire mal pourtant jamais usage connaître poindre rancune venger parole soulager dire suite venir bout langue ensuite pardonner commande prendre soin manière devoir montrer fou croire bel savoir laid regarder sache voyant dur méprisant bon mal partager plaisir déplaire consoler idée figure repousser bon ange gardien reprocheraient reproche dire chenille vilain bête laid falloir tuer écraser pauvre créature bon chenill tombe eau tend feuille sauf cause aimer mauvais bête sorcier aimer faire souffrir grenouille arracher patte guêpe clouer chauve vivant arbre pauvre bête tuer vilain avoir droit vivre
+xi
+être savoir émotionner
+manière petit parler
 humblement tranquillement laideur
 remémorer figure voir
 guère obscurité carrière
 songer flatter
-fadette vilain
+vilain
 croi veux bien
 bien déplaisant
 reproch
 soi
-landry
-jolie fille voyon cherche consoler chagrin
-dame
+
+jolie fille voyon cherche consoler
+
 être habiller coiffé
 chose monde
 nez court
@@ -3584,7 +3584,7 @@ bien oeil -là
 landry parler sorte trop
 compte dire trouver train
 rappeler défaut qualité
-petit fadette fois
+petit fois
 donner attention intérêt
 croire capable moment tôt
 prendre garde fit paraîtr
@@ -3598,10 +3598,10 @@ coqueter monde
 monde goût
 bel vouloir paraître
 aimable convenir
-landry penser madelon petit
-fadette laisser idée -là
+landry penser petit
+laisser idée -là
 continua ensuit
-landry tort
+tort
 point chercher
 quêter pitié indulgence
 laideur montrer
@@ -3626,8 +3626,8 @@ paresse vagabondage retenir auprès
 grand’mère aimer pourtant
 guère bien moyen prendre
 servant
-bien fadette poindre vérité
-landry reproche aimer
+bien poindre vérité
+reproche aimer
 ouvrage grand’mère
 vouloir entendre profit
 prendre domestique place
@@ -3645,7 +3645,7 @@ vertu connaître bien étonner drogue
 voir ensuite bon
 bête bel surprendre
 voir pareil troupeau
-pacage communal
+communal
 bien grand’mère
 ouaille bon laine chèvre
 bon lait poindre envier
@@ -3653,25 +3653,25 @@ val gros
 coûter aimer grand’mère
 rudoyer prive beaucoup
 raison quitter
-dirai veu landry
-bien di répondit landry
+dirai veu
+bien répondit
 fatiguer poindre écouter
-fadette
+
 -ell mère laisser
 bras
 an pauvre enfer bien laid laid
 disgracier
-éclopé naissance chétif maladif crochu
-chagrin malice
+éclopé naissance chétif maladif
+malice
 souffrance pauvre gar
 monde tracasse repousse avilit
-pauvre sauteriot grand’mère tanc trop rudement frapper trop
+pauvre grand’mère tanc trop rudement frapper trop
 défendre sembler
 tarabuster place grand
 soin toucher vrai
 bien faute
 accourir cacher jupon
-bat grand’mère
+grand’mère
 prendre bat rire
 malin sembler crier
 soign empêcher
@@ -3684,18 +3684,18 @@ vie malingret
 bien malheureux bientôt
 terre côté pauvre pèr
 empêcher mourir savoir
-rend service vivre tortu
+rend service tortu
 malplaiser fort
-landry songer prendre
+songer prendre
 service argent
-retirer misère cœur
+retirer misère
 fendre pitié reproche mère sauteriot
 voir périr faute
 tort manquement landry
-présent bon dieu juge
+présent bon juge
 pardonner méconnaissent
 
-landry écouter petit fadette
+écouter petit
 grand contention esprit
 trouver redire raison
 dernier lieu manière
@@ -3703,28 +3703,28 @@ petit frère sauteriot faire
 coup sentir amitié
 vouloir
 partir monde
-fois fadette
+fois
 donner tort tort
 bien
-douter bon cœur
+douter bon
 bon raisonnement connaître parler
 mal rendre
 justice
-bien landry reprendre
+bien reprendre
 besoin plaire plaire
 point
 
 
-landry arrêter étonner
+arrêter étonner
 manquer reprendre
 fit estime
 croire
 pourtant haïr cause
 jamais être bon
 haï
-répondre petit fadette être
+répondre petit être
 partir aujourd’hui
-landry croire fier
+croire fier
 savoir surmonter fierter
 faire devoir autant
 mérite croire ingrat
@@ -3744,18 +3744,18 @@ méchant enfant provoquer
 grand garçon
 maltraiter soir entendre
 pleurer venir assister
-consoler croire poindre landry
+consoler croire poindre
 oublier jamais chose -là aura
 vie preuve garde
 grand souvenance pourra requérir
 tour voudra
 moment commencer
 savoir aujourd’hui
-gros peine oui sai landry
+gros peine oui sai
 sorcier deviner
 matin doutai point être
 malice méchanceté
-savoir amoureux madelon avoir brouiller
+savoir amoureux avoir brouiller
 forcer danser
 amuser tombe accord
 voir danser laideron
@@ -3763,62 +3763,62 @@ laissai côté bel fille
 croire
 petit piqûre amour propre
 vraie
-blessure cœur
-regarder côté madelon
+blessure
+regarder côté
 dépit donner envier pleurer
-pleurer vrai pleurer moment
+pleurer pleurer moment
 vouloir battre galant
 croire larme repentance
 pleurer amèrement
 surprendre ici
-pleurer jusqu’ réparer mal
+pleurer réparer mal
 causer bon brave garçon
 connaître présent
-supposer pauvre fanchon
-landry ému larme
+supposer pauvre
+ému larme
 recommencer verser aie causer
 fâcherie fille
 amoureux dire
 faire remettre bon accord
-fie landry répondre petit
-fadette sot
+répondre petit
+sot
 expliquer falloir madelon savoir
 tort venir confesser
 rendre blanc
 neige amitié
 demain jamais aimer
 devoir regretter
-fanchon jamais
+jamais
 aimer prendrai peine inutile
 console
 petit chagrin
 guéri
 peine guérir vite
-répondre petit fadette raviser
+répondre petit raviser
 fit
 dépit landry
 avoir demain venir
-sera bien triste jusqu’ aie
+sera bien triste aie
 paix bel fille
-peut-être bien landry
+bien
 heure baille foi savoir
 point imaginer
 veux faire accroir
 beaucoup amitier petitement
 quasiment perdre souvenanc
-drôle petit fadette soupirer
+drôle petit soupirer
 aimer
 garçon
-dame fille aimer
+fille aimer
 mieux choquer
 aisément consoler vite
 venu parler
 chose entendre peut-être
-petit fadette
+petit
 gausser amoureux
 croire bien amuse
 heure vouloir arranger affaire
-madelon
+
 croire charger
 tromper fâcher
 peut-être penser présenter
@@ -3831,19 +3831,19 @@ faire assavoir parole
 laisson passer chose reviendra vouloir revient
 croire bien mourrai poindre
 savoir mieux pense
-landry reprendre petit fadette
+reprendre petit
 croire jamais
-connaître amitier madelon
+connaître amitier
 parole falloir bien simple
 connaître oeil
 aujourd’hui être cause
 fâcherie falloir être cause
 contentement bon occasion
-faire comprendre madelon aime
+faire comprendre aime
 faire ferai finement
 propos pouvoir point
 accuser provoquer fie
-landry petit fadette pauvre vilain
+petit pauvre vilain
 grelet poindre laid
 pardonner tourmenter
 résulter grand bien
@@ -3851,19 +3851,19 @@ connaîtra doux amour
 belle utile amitié
 laid laide désintéressement
 donne dépit
-être bel laid fanchon
-landry prendre main croire comprendre amitier bon
+être bel laid
+prendre main croire comprendre amitier bon
 chose bon amour peut-être
 mauvais comparaison
-beaucoup bonté connaître présent
+beaucoup connaître présent
 grand affront
 vouloir prendre garde aujourd’hui
 bien conduire
 trouve agir fort malhonnêtement
-landry savoir
+savoir
 
 embrasser
-fois danse fanchon pourtant
+fois danse pourtant
 devoir droit
 coutume traiter
 petit fille an baisse
@@ -3873,20 +3873,20 @@ différence injure
 bon fille serai bien
 apercevoir
 
-petit fadette lever sentir
+petit lever sentir
 mentir vouloir faire
 paraître -ell forcer
 gaie écout grelet chantent blé chaume appeler
 nom chouette crier
 heure étoile marquer
 cadran ciel
-entendre bien falloir
+bien falloir
 rentrer priche dis
-adieu fadett vouloir
+adieu vouloir
 pardonner
-veux landry
+veux
 pardon faire
-landry agité
+agité
 savoir
 parler amour amitier voix doux
 bouvreuil gazouiller
@@ -3894,23 +3894,23 @@ dormir buisson paraître dur
 auprès devoir pardon
 falloir présent embrasser
 réparer omettre jour
-petit fadette trembla
+petit trembler
 aussitôt reprendre bon humeur
-veu landry fass expier
+veu fass expier
 tort punition bien
 garçon bien
 danser laide trop
 vertu vouloir embrasser
-dire exclamer landry
+dire exclamer
 prendre main bras ensemble
 croire punition
 embrasser chose
 chagrin répugner venir
 
 avoir faire souher
-embrasser petit fadette trembler
+embrasser petit trembler
 peur consentir point
-écoute landry -ell voix
+-ell voix
 doux flatteur bel dire
 lieu heure embrasser
 cachette coqueter penser
@@ -3918,21 +3918,21 @@ contraire heure lieu
 nuit cache laideur
 ici faire hont fantaisie
 
-bel dire serre-moi main
+bel dire main
 signe honnête amitier être content
 amitier jamais
 jamais
-oui landry serre main
-cœur entend fadette
+serre main
+entend
 honnête amitier
 empêcher poindre embrasser dénier preuve -là croire
 chose
 tenter embrasser surprise
-faire résistance obstiner
+faire obstiner
 mettre pleurer disant
-laisse landry beaucoup
+-moi beaucoup
 peine
-landry arrêter étonner chagriné
+arrêter étonner
 voir larme avoir
 dépit
 voir bien dire
@@ -3944,7 +3944,7 @@ peur embrasser
 nuit voir haïssiez
 revoir jour
 jamais vue
-landry impatienter voir
+impatienter voir
 présent vien lune
 voir bien savoir laide
 aimer figure aime
@@ -3952,7 +3952,7 @@ embrasser tremblant
 revenir goût avoir peur repoussant
 landry dire
 embrasse colère pense
-madelon apais parler demain
+parler demain
 demain embrassera joie
 donner
 sortir vitemer abord
@@ -3967,7 +3967,7 @@ lendemain aller voir bœuf
 petit jour affenant câlinant
 penser causerie
 grand heure avoir carrière
-chaumoi petit fadette
+chaumoi petit
 paraître instant
 tête alourdir sommeil fatigue
 esprit journée
@@ -3986,19 +3986,19 @@ bien défende penser
 sûr ensorceler hier soir jamais
 vie sentir père mère
 sœur frère non bel
-madelon non cher
-besson sylvinet élan amitier pareil
+non cher
+élan amitier pareil
 minute
 diablesse causer voir
-cœur pauvre sylvinet
-coup être manger jalousie
-attache madelon
+pauvre
+coup être manger
+attache
 faire point tort frère lieu
 devoir rester jour affolé
-enflambé être moment
-côté fadette deviendrai insensé
+être moment
+côté deviendrai
 connaître monde
-landry sentir étouffé honte
+sentir étouffé honte
 fatigue impatience asseoir
 crèche bœuf peur charmeuse
 ôter courage raison
@@ -4015,7 +4015,7 @@ fâcher pourtant point
 priche ami
 mettaient poindre mauvais intention
 taquinerie avoir courage
-petit fadette
+petit
 croire valoir bien
 capable grand
 service railla
@@ -4025,74 +4025,74 @@ bête malade remède petit bavard
 moindre secret guérir
 endormir gars
 paraît guèr quitter
-saint-andoche faire bien prendre
-garde pauvre landry appeler
+faire bien prendre
+garde pauvre appeler
 bientôt grelet grelette follet
-fadette diable mettre georgeon
-venir tirer drap lit boucler
+diable mettre
+venir tirer lit boucler
 crin chevaline être obliger
 faire exorciser
 croire bien dire petit solange
 mettre hier
-matin attirer sorcier petit fadette
+matin attirer sorcier petit
 bien apercevoir
-xxi
-jour landry occuper couvraille
-voir passer petit fadette marcher
+
+jour occuper couvraille
+voir passer petit marcher
 vite aller côté taille
-madelon faire feuille mouton
+faire feuille mouton
 heure délier bœuf
 demi-journée landry
 reconduire pacage regarder
-courir petit fadette marcher léger
+courir petit marcher léger
 voir point fouler herbe
 curieux savoir aller
-madelon lieu presser aller
+lieu presser aller
 manger soupe attendre sillon
-chaud fer charrue aller doucement long taille écouter
+fer charrue aller doucement long taille écouter
 tramer ensembl jeunesse
-voir madelon
+voir
 marmotter réponse voix sourde
 savoir poindre dire
-voix petit fadette doux
+voix petit doux
 clair perdre
 parole crier
-point parler madelon
+point parler
 faire connaître
-promettre landry parole
+promettre parole
 prise mois auparavant commandement
 chose requérir
 plaisir expliquer
 humblement gentillement
 plaisir entendre
-follet peur landry avoir
+follet peur avoir
 conter manquer noyer
 prendre faux gué roulette veille
-saint-andoche exposer bon
+exposer bon
 côté démontrer
 mal venir fantaisie
 vanité avoir danser
 grand gars jamais danser
 petit
-madelon écolérer élever
+écolérer élever
 voix
 danse
 vie besson bessonnière
 croire grelet faire
 moindre tort moindre envie
-fadette reprit
+reprit
 dire parole dur
-pauvre landry madelon landry
+pauvre landry
 donner cœur vouloir prendre
 chagrin savoir
 pourtant jolie parole
-caresser donner landry
+caresser donner
 louange vouloir retenir
 façon servir
 occasion rougir aise entendre
 approuver sorte
-madelon étonner part
-joli petit fadette
+étonner part
+joli petit
 dédaigner trop témoigner
 bel japp fière hardiess
 -ell dire grand’mère
@@ -4103,19 +4103,19 @@ garde-l mignonne
 dernier fantaisie vilain
 museau vouloir
 fils roi
-landry sot falloir
+sot falloir
 bien chose croire
 enlever vien prier reprendre
 beau galant petit
-fadette soucier point
+soucier point
 blesse répondre
-fadette aller jusqu’ fin fond
-cœur landry être fier point
+fadette aller fin fond
+être fier point
 vouloir humilier
 contenter mettre
-pied bel madelon orgueil courage
+pied bel orgueil courage
 pauvre grelet champ croire
-dédaigner landry
+dédaigner
 prier pardonner bien
 plaire aime
 garçon
@@ -4126,10 +4126,10 @@ penser faire aimer savoir savoir beau riche
 considérer laid pauvre mépriser
 savoir bien poindre
 avoir devoir voir dédaigner
-fête être satisfaite
-petit fadette ose
+fête satisfaite
+petit ose
 regarder voir oeil
-remplir amour punir petit fadette
+remplir amour punir petit
 moquer reprendre
 oser disputer
 amitier punir
@@ -4137,21 +4137,21 @@ insolence promettre -moi
 reviendra excuser auprès bien
 recevoir donner consolation
 lieu apitoyer soumission
-dévouement madelon montrer
-dur renvoyer petit fadette
-dire landry bien
+dévouement montrer
+dur renvoyer petit
+dire bien
 falloir trouver
 trop enfant trop sot grand sacrifice
 fadette porta
-fruit dépit rebuffade bel madelon
-femme cœur mode
+fruit dépit rebuffade bel
+femme mode
 jeune gars commencer paraître
-homme sitôt voient estimer choyer femme madelon
-jamais penser bien sérieusement landry
+homme sitôt voient estimer choyer femme
+jamais penser bien sérieusement
 mettre penser beaucoup aussitôt avoir
-renvoyer fadette remémorer
+renvoyer remémorer
 bel parleur amour
-landry songer fadette
+songer fadette
 éprendre point oser avouer
 glorifier pouvoir tirer vengeance
 pauvre fille
@@ -4160,18 +4160,18 @@ demeurance éloigner
 portée fusil couleur chercher
 bête mêler
 champ oncle voir
-landry œil encourager approcher
+œil approcher
 
-landry apercevoir bien
-petit fadette mêler singulièrement
-dégourdi esprit fadette
-sorcière penser -t rendre bonne
-grâce madelon
+apercevoir bien
+petit mêler singulièrement
+dégourdi esprit
+sorcière penser rendre bonne
+grâce
 causette quart heure
 avoir savoir faire année
 esprit merveilleux cœur bon
-dieu
-penser regarder madelon
+
+penser regarder
 tranquillement retirer
 décider
 poindre fût honteux
@@ -4184,10 +4184,10 @@ dormir sortir lit ruelle
 glisser long mur être droit gué
 roulette feu follet faire
 petit danse soir -là loin
-vit sautiller landry pensa mieux
-fadet fadette loin
-passer gué peur tromper
-aller jusqu’ maison mère fadet
+vit sautiller landry penser mieux
+fadet loin
+gué peur tromper
+aller maison mère
 furetant regarder côté
 rester bon moment voir lumière
 entendre bruit monde
@@ -4195,15 +4195,15 @@ coucher espérer grelet sortir
 soir grand’mère
 sauteriot endormir vaguer
 part environ mettre vaguer
-côté traverser joncière aller carrière chaumoi siffler chanter
+côté traverser joncière aller carrière siffler chanter
 faire remarquer rencontrer
 blaireau fuir chaume
 chouette siffler arbre force
 être rentrer remercier bon
 amie bien servir
-xxii
-semaine passer landry
-pouvoir rencontrer fadette bien
+
+semaine passer
+rencontrer bien
 étonner bien soucieux croire
 ingrat penser pourtant
 voi point faute
@@ -4215,24 +4215,24 @@ offenser
 songer semaine
 songer vie voir
 clairement propre cervelle pensif agité obliger forcer travailler grand bœuf charrue reluisant bel terre rouge humide fine plui automne suffire contemplation rêvasserie
-aller voir besson jeudi soir trouva soucieux sylvinet caractère pareil quelquefois contre-coup deviner chose troubler tranquillité frère pourtant loin douter demanda paix madelon fois dire oui landry faire volontairement mensonge landry mot madelon penser temps pressait
-venir dimanche landry arriver premier messe entrer fût sonnée savoir petit fadette coutume venir moment -là faire long prière moquer voir petit agenouiller chapelle saint vierge tourner dos cacher figure main prier recueillement bien posture petit fadette coiffage tournure landry ressortit voir trouver poindre porche appeler guenillière cause gredot peillerou mendiant loqueteux tenir office
-guenille fadette être voir point entendre messe apercevoir être préface regarder fille prier dévotemer chapelle voir lever tête reconnaître grelet habillement air nouveau bien pauvre dressage jupon droguet devanteau rouge coiffe linge dentelle reblanchir recouper recousu courant semaine robe long tomber convenablement bien blanc coiffe prendre forme nouveau attacher gentillement cheveux noir bien lisser fichu neuf jolie couleur jaune doux faire valoir peau brun rallonger corsage lieu air pièce bois habiller taille fin ployant corps bel mouche miel savoir mixture fleur herbe laver jour visage main figure pâle main mignonne air net doux blanc épine printemps
-landry voir changer laisser tomber livre heure bruit faire petit fadette retourner regarder temps regarder devenir rouge petit rose buisson fit paraître quasi bel autant oeil noir jamais trouver redire laissèrent échapper feu clair parut transfigurer landry pensa sorcière vouloir devenir bel laide bel miracle être transir peur peur empêcher point pourtant envie approcher jusqu’ fin messe cœur sauta impatience
-regarder lieu mettre courir folâtrer enfant prière aller discrètemer avoir peine temps voir changer amender landry poindre autant quitter point oeil bout heure réussir échapper fois cœur poussant dirigeant trouver petit fadette garder sagement bête petit chemin creux appeler traîne-au-gendarme gendarme roi être tuer cosse ancien temps lorsqu’ vouloir forcer pauvre mond payer taille faire corvée contrairement terme loi bien dur donner
-xxiii
-dimanche petit fadette coudre filer garder ouaille occuper amusement tranquille enfant prendre quelquefois bien sérieusement chercher trèfle feuille trouver bien rarement porte bonheur mettre main
-trouver fanchon landry aussitôt être côté
+aller voir besson jeudi soir trouva soucieux caractère pareil quelquefois contre-coup deviner chose troubler tranquillité frère pourtant loin douter demanda paix fois dire oui faire volontairement mensonge mot penser temps pressait
+venir dimanche arriver premier messe entrer fût sonnée savoir petit fadette coutume venir moment -là faire long prière moquer voir petit agenouiller chapelle saint tourner dos cacher figure main prier recueillement bien posture petit coiffage tournure ressortit voir trouver poindre porche appeler guenillière cause gredot peillerou mendiant loqueteux tenir office
+guenille être voir point entendre messe apercevoir être préface regarder fille prier dévotemer chapelle voir lever tête reconnaître grelet habillement air nouveau bien pauvre dressage droguet devanteau rouge coiffe linge dentelle reblanchir recouper recousu courant semaine robe long tomber convenablement bien blanc coiffe prendre forme nouveau attacher gentillement cheveux noir bien lisser fichu neuf jolie couleur jaune doux faire valoir peau brun rallonger corsage lieu air pièce bois habiller taille fin ployant corps bel mouche miel savoir mixture fleur herbe laver jour visage main figure pâle main mignonne air net doux blanc épine printemps
+voir changer laisser tomber livre heure bruit faire petit retourner temps regarder devenir rouge petit rose buisson fit paraître quasi bel autant oeil noir jamais trouver redire laissèrent échapper feu clair parut transfigurer penser sorcière vouloir devenir bel laide bel miracle être transir peur peur empêcher point pourtant envie approcher fin messe sauta impatience
+regarder lieu mettre courir folâtrer enfant prière aller discrètemer avoir peine temps voir changer amender landry poindre autant quitter point oeil bout heure réussir échapper fois poussant dirigeant trouver petit garder sagement bête petit chemin creux appeler gendarme roi être tuer cosse ancien temps lorsqu’ vouloir forcer pauvre mond payer taille faire corvée contrairement terme loi bien dur donner
+
+dimanche petit coudre filer garder ouaille occuper amusement tranquille enfant prendre quelquefois bien sérieusement chercher trèfle feuille trouver bien rarement porte bonheur mettre main
+trouver landry aussitôt être côté
 trouver répondit porte point bonheur croire servir brin
 livre
-landry asseoir auprès aller
+asseoir auprès aller
 mettre causer
 coup sentir honteux
-jamais être auprès madelon
+jamais être auprès
 intention bien chose
 pouvoir trouver mot
 petit fadette prit hont
-besson dire regarder
+dire regarder
 oeil étrange
 demander paraître étonner
 regarder
@@ -4245,104 +4245,104 @@ montrer peur
 fasse reproch dire
 vouloir laid
 réussir
-dire vouloir landry
+dire vouloir
 savoir devenir
 jolie vérité aujourd’hui falloir crever oeil
 point voir
-moque landry reprendre petit
-fadette beauté tourne tête
+moque reprendre petit
+beauté tourne tête
 beau laideur désolation
 laide habituer faire peur
 vouloir devenir sot croyant
 faire plaisir
 venai attendre dire
-madelon pardonner
+pardonner
 venir
-madelon pardonner savoir
+pardonner savoir
 informe point savoir
 parler bien parler
 devoir grand remerciement
-sai parler
+savoir parler
 cas avoir
 paix
 poindre paix
 aimer
 guerre savoir parler
 rapporter
-petit fadette rougit beaucoup
-embellit jamais jusqu’ jour -là
+petit rougir beaucoup
+embellit jamais jour -là
 joue honnête couleur crainte plaisir enjoliver
 laide temps inquiéter
-songer madelon devoir répéter
+songer devoir répéter
 parole donner riser amour
-confesser sujet landry
-madelon
+confesser sujet
+
 demanda
 grand sot
 plaire fille petit
-fadette petit fadette méprisait
+petit méprisait
 fuyait cacher semaine
 point voir semaine
 avoir chercher courir côté
-rencontrer petit fadette
-risée monde fanchon
+rencontrer petit
+risée monde
 aimer aimer
 point
 méchant propos répondre
-fadett étonnée
+étonnée
 sorcière deviner moment -là
 landry fin croire
-madelon menteur perfide
-falloir pardonner landry
+menteur perfide
+falloir pardonner
 dépit dépit amour
-peut-être bien landry point dépit fanchon pardonner méprendre
-poindre mérité dire landry non vrai mérité jamais être fou menterie prêt parler madelon nuir devoir bien contraire prouver estime faire
-écoute fanchon landry disputer point vouloir consulter savant dimanche dernier carrière prendre savoir venir amitié fort semaine manger soûl vouloir cacher fille fine peine perdre avouer hont amitié lundi matin avoir vouloir aller bien loin retomber folleté lundi soir retomber bien passer gué nuit inquiéter follet vouloir empêcher chercher méchant riser rendre lundi matin imbécile plaiser goût soir fou sentir goût fort mauvais honte aujourd’hui voir gentil sage apparence monde étonner jour continu non pardonner amoureux bien fort avoir mérite aimer devoir guère préférence pourtant souvenir dimanche dernier jour saint-andoche souviendra demander carrière permission embrasser autant cœur être réputer laid haïssable droit fadette di compter chose fâche lieu persuader
-petit fadette mettre figure main répondre point landry croire entendre discours madelon aimer falloir amour commander coup voir pose honteux triste petit commencer craindre conte madelon bon intention faire réussir raccommodement négocier rendre amoureux prit chagrin ôter main visage vit pâle aller mourir reprocher vivement répondre affolement sentir laisser aller terre joindre main soupirer suffoquer tomber faiblesse
-xxiv
-landry avoir bien peur frapper main faire revenir main froider glace raide bois échauffa frotta bien retrouver parole
-croire jeu landry chose falloir pourtant point plaisanter prie tranquille jamais avoir chose demander cas être service
-fadett fadette landry dire poindre bon être jouer détester pourtant avoir croire chose
--ell affliger accroir offrir donner bon amitier besson peut-être meilleur jalousie lieu traverser amour servir
-vérité landry être bon bon dieu tort faire reproche pardonne fanchon laisse aimer pouvoir peut-être tranquillement aimer besson sœur nanette promet chercher embrasser répugner
-landry imaginer petit fadette amitié bien tranquille vain fanfaron trouver craintif avancer auprès avoir point entendre oreille bel madelon
-petit fadette fine connaître landry bel bien amoureux fou trop grand plaisir trouver pâmoison moment craindre perdre trop vite bonheur vite gagner cause crainte vouloir donner landry temps souhaiter vivement amour
-rester auprès jusqu’ nuit oser conter fleurette éprendre prendre plaisir voir écouter décider quitter moment jouer sauteriot jamais loin sœur venir bientôt rejoindre montrer bon apercevoir bientôt pauvre petit maltraité monde sot mécher traiter bien mêmement bout heure bien apprivoiser reconnaître embrasser main besson appeler landry appeler sœur fanchon landry compassionné attendrir trouver monde passé bien coupable pauvre enfant mère fadet besoin meilleur aimé
-lendemain jour landry réussir voir petit fadette soir causer jour rencontrant campagne pouvoir arrêter vouloir point savoir point manquer devoir content mot cœur regarder oeil continuer gentil habillement manière monde faire monde prit garde bientôt changer manière faire être propos injuria entendre injurier avoir tentation invectiver chagriner
-opinion tourne vite résolution devoir écouler temps passer mépris estime aversion bon vouloir dire tard faire changement présent pouvoir bien imaginer donner gros part attention rangement petit fadette bon vieux bon vieux regarder élever jeunesse indulgence endroit père mère monde deviser quelquefois noyer cosse regarder petit jeune monde grouiller autour jouer quille danser vieux dire
-beau soldat continuer corps trop bon réussir faire exempter finet entendre père bien sagesse tranquillité mère jeune lucette promettre bon servante ferme gros louise plaire petit marion laisser grandir raison venir bien
-venait tour petit fadette examiner juger
-bien vite dire vouloir chanter danser voit saint-andoche falloir croire être grandement choquer enfant ici décoiffer danse changer grand calot présent dire vilain
-avoir attention peau blanchir temps dire fois mère couturier figure œuf caille force couvrir tache rousseur dernier fois vue étonner trouver blanche mêmemer pâle demander poindre fièvre voir dire pouvoir refaire devenir bel prendre an
-raison venir père naubin fille ressent apprendre élégant agréable bien temps grelet apercevoir poindre garçon dieu penser tourner mal honte endroit ranger amender sentir bien faire pardonner mère blâmable voir faire point
-dieu veuill mère courtillet vilain fille air chevau échappé espérer fadette rencontrer hier lieu mettre contrefaire boiterie bonjour demander portement beaucoup honnêteté
-petite-là parler fou méchant père henri poindre mauvais cœur dire preuve garder petit enfant champ pur complaisanc fille malade soigner bien vouloir quitter
-vrai raconter reprendre mère couturier besson père barbeau affolé dernier saint-andoche
-répondit père naubin falloir prendre sérieux amusette enfant barbeau poindre bête enfant père mère entendre -vou
-deviser petit fadette penser mie voir presque
+bien point dépit pardonner méprendre
+poindre mérité dire landry non vrai mérité jamais être fou menterie prêt parler nuir devoir bien contraire prouver estime faire
+disputer point vouloir consulter savant dimanche dernier carrière prendre savoir venir amitié fort semaine manger soûl vouloir cacher fille fine peine perdre avouer hont amitié lundi matin avoir vouloir aller bien loin retomber folleté lundi soir retomber bien passer gué nuit inquiéter follet vouloir empêcher chercher méchant riser rendre lundi matin imbécile plaiser goût soir fou sentir goût fort mauvais honte aujourd’hui voir gentil sage apparence monde étonner jour continu non pardonner amoureux bien fort avoir mérite aimer devoir guère préférence pourtant souvenir dimanche dernier jour souviendra demander carrière permission embrasser autant être réputer laid haïssable droit compter chose fâche lieu persuader
+petit fadette mettre figure main répondre point landry croire entendre discours aimer falloir amour commander coup voir pose honteux triste petit commencer craindre conte bon intention faire réussir raccommodement négocier rendre amoureux prit chagrin ôter main visage vit pâle aller mourir reprocher vivement répondre affolement sentir laisser aller terre joindre main soupirer suffoquer tomber faiblesse
 
-voir faire grand attention landry barbeau enrager aise trouver moment apaiser content enseigner raison consoler idée jouer petit jeu peut-être entacher coquetterie pensait quelquefois motif honnêteté vouloir point amour bien tourner retourner chose esprit poindre droit offenser suspecter vouloir tromper force amour espèce amour voir campagne aimer patiemment ville justement landry caractère patient jamais présager laisser brûler fort chandelle savoir cacher bien grandement émerveiller petit fadette voyant donner entièrement subitement peur fût feu paille bien prenant feu mauver côté chose aller loin honnêteté enfant poindre âge marier parent prudence amour attendre guère fois mettre sang jeunesse miracle attendre approbation
-petit fadette être apparence enfant posséder raison volonté bien au-dessus âge être falloir esprit fier force cœur ardent peut-être cœur sang landry aimer folle pourtant conduire grand sagesse jour nuit heure temps penser sécher impatience voir envie caresser aussitôt voir prendre air tranquille parler raison feindre poindre connaître feu amour permettre serrer main haut poignet
-landry endroit retirer trouver ensembl mêmemer nuit bien noir oublier jusqu’ soumettre ensorceler craindre pourtant fort déplair tenir aimer amour vivre innocemment être sœur jeanet petit sauteriot
+avoir bien peur frapper main faire revenir main froider glace raide bois échauffa frotta bien retrouver parole
+croire jeu landry chose falloir pourtant point plaisanter prie tranquille jamais avoir chose demander cas être service
+dire poindre bon être jouer détestez pourtant avoir croire chose
+-ell affliger accroir offrir donner bon amitier besson peut-être meilleur lieu traverser amour servir
+vérité être bon bon tort faire reproche -moi laisse aimer pouvoir peut-être tranquillement aimer besson sœur promet chercher embrasser répugner
+imaginer petit amitié bien tranquille vain fanfaron trouver craintif avancer auprès avoir point entendre oreille belle
+petit fine connaître bel bien amoureux fou trop grand plaisir trouver pâmoison moment craindre perdre trop vite bonheur vite gagner cause crainte vouloir donner temps souhaiter vivement amour
+rester auprès nuit oser conter fleurette éprendre prendre plaisir voir écouter décider quitter moment jouer sauteriot jamais loin sœur venir bientôt rejoindre montrer bon apercevoir bientôt pauvre petit maltraité monde sot mécher traiter bien mêmement bout heure bien apprivoiser reconnaître embrasser main appeler landry appeler sœur landry compassionné attendrir trouver monde passé bien coupable pauvre enfant mère besoin meilleur aimé
+lendemain jour réussir voir petit soir causer jour rencontrant campagne arrêter vouloir point savoir point manquer devoir content mot cœur regarder oeil continuer gentil habillement manière monde faire monde prit garde bientôt changer manière faire être propos injuria entendre injurier avoir tentation invectiver chagriner
+opinion tourne vite résolution devoir écouler temps passer mépris estime aversion bon vouloir dire tard faire changement présent pouvoir bien imaginer donner gros part attention rangement petit bon vieux bon vieux regarder élever jeunesse indulgence endroit père mère monde deviser quelquefois noyer cosse regarder petit jeune monde grouiller autour jouer quille danser vieux dire
+beau soldat continuer corps trop bon réussir faire exempter finet entendre père bien sagesse tranquillité mère jeune lucette promettre bon servante ferme gros plaire petit marion laisser grandir raison venir bien
+venait tour petit fadette examiner juger
+bien vite dire vouloir chanter danser voit falloir croire être grandement choquer enfant ici décoiffer danse changer grand calot présent dire vilain
+avoir attention peau blanchir temps dire fois mère figure œuf caille force couvrir tache rousseur dernier fois vue étonner trouver mêmemer pâle demander poindre fièvre voir dire pouvoir refaire devenir bel prendre an
+raison venir père fille ressent apprendre élégant agréable bien temps grelet apercevoir poindre garçon penser tourner mal honte endroit ranger amender sentir bien faire pardonner mère blâmable voir faire point
+veuill mère vilain fille air chevau échappé espérer rencontrer hier lieu mettre contrefaire boiterie bonjour demander portement beaucoup honnêteté
+petite-là parler fou méchant père poindre mauvais preuve garder petit enfant champ pur complaisanc fille malade soigner bien vouloir quitter
+raconter reprendre mère besson père affolé dernier
+répondit père falloir prendre amusette enfant poindre bête enfant père mère entendre -vou
+deviser petit penser mie voir presque
+xxv
+voir faire grand attention landry enrager aise trouver moment apaiser content enseigner raison consoler idée jouer petit jeu peut-être entacher coquetterie pensait quelquefois motif honnêteté vouloir point amour bien tourner retourner chose esprit poindre droit offenser suspecter vouloir tromper force amour espèce amour voir campagne aimer patiemment ville justement caractère patient jamais présager laisser brûler fort chandelle savoir cacher bien grandement émerveiller petit voir donner entièrement subitement peur fût feu paille bien prenant feu mauver côté chose aller loin honnêteté enfant poindre âge marier parent prudence amour attendre guère fois mettre sang jeunesse miracle attendre approbation
+petit être apparence enfant posséder raison volonté bien au-dessus âge être falloir esprit fier force ardent peut-être sang aimer folle pourtant conduire grand sagesse jour nuit heure temps penser sécher impatience voir envie caresser aussitôt voir prendre air tranquille parler raison feindre poindre connaître feu amour permettre serrer main haut poignet
+landry endroit retirer trouver ensembl mêmemer nuit bien noir oublier soumettre ensorceler craindre pourtant fort déplair tenir aimer amour vivre innocemment être sœur petit sauteriot
 distraire idée vouloir point encourager instruire chose savoir esprit talent naturel surpasser
 enseignement grand’mère vouloir
-faire mystère landry
+faire mystère
 peur sorcellerie
 mettre soin faire comprendre
 diable secret
 savoir
-landry -ell jour
+-ell jour
 faire intervention mauvais esprit
 esprit bon
-dieu lucifer invention Monsieur
-curer georgeon invention vieux
+invention monsieur
+invention vieux
 commère campagne
 petit croire peur maléfice
 grand’mère moquer
 bien raison
 doute croire
 croire
-satan sorcier feindre invoquer
+sorcier feindre invoquer
 propos savoir bien
 jamais jamais recevoir
 assistance être
@@ -4352,48 +4352,48 @@ passe-aux-chien grand’mère raconter aller
 chemin gros trique appeler
 diable donner dire bon
 vanner entendre crier nuit
-viendra figurer loup viendra
-chien enrager viendra georgeon
-diable jamais georgeon vint bien
+figurer loup
+chien enrager viendra
+diable jamais venir bien
 meunier devenir quasi fou
 vanité dire diable peur
-dire landry croire
+dire croire
 diable exister poindre trop
-chrétien petit fanchon
+chrétien petit
 disputer
 répondit exister bien
 assurer pouvoir venir
 terre abuser demander
-âme retirer bon dieu
+âme retirer bon
 insolence
-terre bon dieu bon dieu
+terre bon bon
 pouvoir gouverner chose homme
 trouver
 landry revenir fou peur
 empêcher admirer
 idée prière
-petit fadette bon chrétien mêmemer dévotion joli
-aimer dieu
-feu cœur chose
-tête vif cœur tendre
-parler amour landry sentir
+petit bon chrétien mêmement dévotion joli
+aimer
+feu chose
+tête vif tendre
+parler amour sentir
 étonner être enseigner
 prière pratique
 jamais penser comprendre porter
 respectueusemer idée
-devoir cœur fût jamais
+devoir fût jamais
 échauffé amour créateur
-petit fadette
-xxvi
+petit
+
 deviser marchant
 apprendre propriété herbe
 recette guérison personne
 bête essayer bientôt dernier
-vache père caillaud prendre
-enflure manger trop vert
+vache père prendre
+enflure manger trop
 vétérinaire abandonner
 dire heure
-faire boire breuvage petit fadette
+faire boire breuvage petit
 apprendre composer fit secrètement
 matin laboureur
 bien contrarié perte bel vache
@@ -4401,19 +4401,19 @@ venir chercher jeter trou trouver commencer
 flairer nourriture bon œil quasiment
 désenflée fois poulain
 être mordre vipère landry
-enseignement petit fadette
+enseignement petit
 sauva bien lestement essayer
 remède rage chien
 priche être guéri mordre
 landry cacher mieux
-accointance petit fadette
+accointance petit
 vanter science attribuer
 guérison bête grand soin
-donner père caillaud
+donner père
 entendre bon fermier
 métayer faire étonner
 
-père barbeau talent
+père talent
 bestiau mêmemer poindre
 bonheur beaucoup perdre an dernier
 fois
@@ -4421,83 +4421,83 @@ landry main heureux
 chose venir monde
 aller
 étudier école artiste
-servir adroit naissance dire landry
+servir adroit naissance dire
 adroit idée trouver
 convient grand don nature
 recevoir valoir mieux
 capital bien conduire ferme
-dire père caillaud
+dire père
 homme crédule raison
 tromper attribuer don nature
-landry landry
+landry
 soigneux entendre appliquer
 recette enseignement don
 nature poindre fable
-petit fadette
+petit
 leçon raisonnable grand’mère
 donner découvrir deviner
 invent vertu bon
-dieu mettre herbe
+mettre herbe
 manière employer
 point sorcier raison
 défendre esprit
 observer comparaison
 remarque essai don
-nature nier père caillaud
+nature nier père
 pousser chose loin
 penser bouvier laboureur main bon
 vertu présence étable
 bien mal animal pourtant
-vrai
+
 faux croyance accorder
 bon soin propreté ouvrage
 conscience vertu amener bien
 négligence bêtise empirer
-landry mettre idée
+mettre idée
 goût chose -là amitié
-concevoir fadette augmenter
+concevoir augmenter
 reconnaissance devoir
 instruction estime faire
 talent jeune fille savoir grand
 forcer distraire amour
 promenade entretien
 faire reconnaître
-prendre cœur intérêt utilité
+prendre intérêt utilité
 amoureux plaisir
 courtiser flatter cesse eût
 souhaité
-landry être bientôt éprendre mettre
+être bientôt éprendre mettre
 pied honte
 paraître amour petit fille réputer
 laid mauvais mal élevé mettre précaution cause besson
 connaître jalousie
 grand effort faire accepter
-dépit amourette landry avoir
-madelon amourette bien petit bien tranquille
+dépit amourette avoir
+amourette bien petit bien tranquille
 prix sentir
-fanchon fadet
-landry trop animer
+
+trop animer
 amour mettre prudence
-revanche petit fadette esprit
+revanche petit esprit
 porter mystère ailleurs vouloir
-mettre landry trop épreuve taquinerie
-monde petit fadette fin
+mettre trop épreuve taquinerie
+monde petit fin
 compte aimer trop consentir
 causer peine famille exigea
 grand secret passer
 an chose découvrir landry
-habituer sylvinet surveiller
+habituer surveiller
 démarche pays
 guère peupler couper ravin
 couvert arbre bien propice
 secret amour
-sylvinet voir landry occuper
-madelon accepter
+voir occuper
+accepter
 partage amitié mal nécessaire rendre doux honte
 landry prudence fille
-réjouir bien penser landry
+réjouir bien penser
 presser retirer cœur donner
-femme jalousie quittant
+femme quittant
 laissa libre occupation
 course jour fête repos landry
 manquer prétexte aller
@@ -4508,16 +4508,16 @@ bien commode donner
 petit lit carphanion
 reprendre peut-être mot-là
 maître école fâche vouloir dire
-carphanaüm connaître mot
+connaître mot
 connaître poindre chose être obliger
 apprendre endroit grange
 voisin étable serre joug
 chaîner ferrage épelette
 espèce servir bête labour
 instrument travail terre
-manière landry rentrer heure
+manière rentrer heure
 vouloir réveiller
-dimanche jusqu’ lundi matin père caillaud fils
+dimanche lundi matin père fils
 aîner homme
 sage aller jamais cabaret
 point noc jour férié
@@ -4525,52 +4525,52 @@ coutume prendre
 soin surveillance ferme
 jour -là disaient jeunesse
 maison travailler
-semaine pouvoir ébattre divertir
-liberté ordonnance bon dieu
+semaine ébattre divertir
+liberté ordonnance bon
 hiver nuit
 difficilement causer amour
-plein champ landry
-petit fadette bon refuge tour
+plein champ
+petit bon refuge tour
 jacot ancien colombier redevance
 abandonner pigeon long
 année bien couvert bien
-fermer dépendre ferme père caillaud
-mêmemer servir serrer
-surplus denrée landry
+fermer dépendre ferme père
+servir serrer
+surplus denrée
 clef situer confins
 terre priche non loin gué
-roulette milieu luzernière
+milieu luzernière
 bien close diable être fin avoir être surprendre
 entretien jeune amoureux temps doux taille jeune bois coupe pays parsemé bon retraite voleur amant voleur poindre pays amant profiter trouver peur ennui
-xxvii
-secret pouvoir durer beau jour dimanche sylvinet passer long mur cimetière entendre voix besson parler faire mur landry parler bien doucement sylvinet connaître bien parole deviner entendre
-vouloir venir danser dire sylvinet voir point poindre vue arrêter messe trouver mauvais faire danser censé quasiment connaître dire amour honnêteté curieux savoir temps savoir bien danser
-non landry non répondre voix sylvinet reconnaître point entendre petit fadette tenir écart monde particulièrement non dire falloir faire attention mieux danser fois vouloir recommencer dimanche falloir faire causer croire landry jour savoir aime commencemer peine laisse aller aura passer partie jour famille besson venir rejoindre être convenir
-pourtant triste jamais danser landry aimer danse mignon danser bien plaisir main faire tourner bras voir léger gentille danser
-justement falloir point reprendre voir bien regretter danse bon landry savoir renoncer danser faire plaisir songer amuse attendre patiemment
+
+secret pouvoir durer beau jour dimanche passer long mur cimetière entendre voix besson parler faire mur landry parler bien doucement connaître bien parole deviner entendre
+veux venir danser dire voir point poindre vue arrêter messe trouver mauvais faire danser censé quasiment connaître dire amour honnêteté curieux savoir temps savoir bien danser
+non landry non répondre voix reconnaître point entendre petit tenir écart monde particulièrement non dire falloir faire attention mieux danser fois vouloir recommencer dimanche falloir faire causer croire jour savoir aime commencemer peine aller aura passer partie jour famille venir rejoindre être convenir
+pourtant triste jamais danser aimer danse mignon danser bien plaisir main faire tourner bras voir léger gentille danser
+justement falloir point reprendre voir bien regretter danse bon savoir renoncer danser faire plaisir songer amuse attendre patiemment
 trop patience landry voix marquer guèr aimer mieux faire couper jambe danser fille aimer point embrasser franc
-bien dansai reprendre fadett falloir danser embrasser
-bien vitement landry vouloir point embrasser
-sylvinet entendre éloigner poindre surprendre écoute frère revenir entrer vivement cimetière laissa passer
-découverte être coup couteau cœur sylvinet chercha point découvrir fille landry aimer passionnémer bien savoir landry délaissait pensée point cacher besson recevoir poindre confidence falloir défier penser -t fille aimer porte craindre détester étonner voir ennuyer maison inquiet vouloir promener renoncer croire voir goût présent garder bien essayer troubler dire vouloir surprendre vouloir confier souffrir réjouir débarrasser
-sylvinet faire promettre pousser loin besoin non chercher retenir frère auprès point gêner quitter maison aller rêvasser ouche vouloir point aller campagne penser venir rencontrer landry imaginer épie faire bien voir dérange
-ancien chagrin quasiment guéri revenir lourd obstiné tarder voir figure mère reprit doucement hont an faiblesse esprit avoir vouloir jamais confesser ronger
-être sauva maladie bon dieu abandonner abandonner courage renfermer peine fort plaint pauvre besson prendre habitude triste pâle avoir temps temps accès fièvre grandir rester délicat mince bien soutenir ouvrage poindre faute savoir travail bon bien ennuyer père tristesse vouloir fâcher
+bien dansai reprendre falloir danser embrasser
+bien vitement vouloir point embrasser
+entendre éloigner poindre surprendre écoute frère revenir entrer vivement cimetière laissa passer
+découverte être coup couteau cœur chercher point découvrir fille aimer passionnémer bien savoir délaissait pensée point cacher besson recevoir poindre confidence falloir défier penser fille aimer porte craindre détester étonner voir ennuyer maison inquiet vouloir promener renoncer croire voir goût présent garder bien essayer troubler dire vouloir surprendre vouloir confier souffrir réjouir débarrasser
+faire promettre pousser loin besoin non chercher retenir frère auprès point gêner quitter maison aller rêvasser ouche vouloir point aller campagne penser venir rencontrer imaginer épie faire bien voir dérange
+ancien chagrin quasiment guéri revenir obstiné tarder voir figure mère reprit doucement hont an faiblesse esprit avoir vouloir jamais confesser ronger
+être sauva maladie bon abandonner abandonner courage renfermer peine fort plaint pauvre besson prendre habitude triste pâle avoir temps temps accès fièvre grandir rester délicat mince bien soutenir ouvrage poindre faute savoir travail bon bien ennuyer père tristesse vouloir fâcher
 faire tort lâcheté mettre
 ouvrage travailler colère
 prendre
 supporter lendemain
 las faire
 jamais fort ouvrier dire
-père barbeau
+père
 épargne
 vouloir point mettre
 crainte
-reproche force dieu
+reproche force
 donner tuer bien vite avoir
-reprocher vie
-mère barbeau goûter fort raison
-faire égayer sylvinet
+vie
+mère goûter fort raison
+faire égayer
 consulter médecin santé
 dire falloir ménager
 beaucoup faire boire lait
@@ -4581,19 +4581,19 @@ fortifier mère barbeau savoir
 écouter arriver
 prendre avis
 heureusement doute
-suivre sylvinet marcha
-route bon dieu
+suivre
+route bon
 rencontrer faire verser droite
 gauche traîner petit mal
-trop fouler jusqu’ moment amour
-landry faire éclat sylvinet voir
+trop fouler moment amour
+landry faire éclat voir
 augmenter peine être faire
 frère
-xxviii
-être madelon découvrir pot
+
+être découvrir pot
 rose fit malice
 tira -ell mauver partir bien
-consolée landry perdre
+consolée perdre
 beaucoup temps aimer
 guère demander oublier
 rester cœur petit
@@ -4601,58 +4601,58 @@ attendre occasion faire sentir
 vrai dépit femme
 dur regret
 chose arriver belle
-madelon renommer air sage
+renommer air sage
 manière fière garçon coquet
 moitier raisonnable fidèle
 amitié pauvre grelet
-mal parler mal augurer adonc madelon
+mal parler mal augurer
 amoureux compter
-landry prononcer
-cousin fils cadet père caillaud
+prononcer
+cousin fils cadet père
 priche prononcer bien
 surveiller dernier donner
 espérance craindre faire
 éclat savoir cacher causer
 loisir laisser persuader
 aller babiller colombier
-justement landry honnête rendez-vous
-petit fadette
-cadet caillaud bien chercher clef
+justement honnête rendez-vous
+petit
+bien chercher clef
 colombier poindre trouver
-poche landry
+poche
 oser demander
 bon raison
 expliquer demande bien
-landry inquiéter savoir
-cadet caillaud songer
+inquiéter savoir
+songer
 perdre père tenir
 trousseau gêner enfoncer porte jour fit landry
-fadette trouver amoureux
+trouver amoureux
 trouver bien penaud voir
 engager
 taire ébruiter
-madelon avoir
-jalousie colère voyant landry
+avoir
+colère voyant
 devenir beal garçon pays
-estimé garder saint-andoche
-bel fidéliter petit fadette
+estimé garder
+bel fidéliter petit
 former résolution venger
-confier cadet caillaud
+confier
 honnête homm point prêter
 faire aider jeune fillette
 amie dépiter
-mépris landry paraître faire
+mépris paraître faire
 prier jamais danser mettre
-surveiller bien petit fadette
+surveiller bien petit
 falloir grand temps assurer
-amitié landry
+amitié
 avoir épier voir fois ensemble
 faire grand bruit pays
-dire vouloir écouter dieu
+dire vouloir écouter
 médisance manqu oreille faire
-entendre langue faire répéter landry mauvais
+entendre langue faire répéter mauvais
 connaissance petit
-fadette
+
 jeunesse femelle mêla
 lorsqu’ garçon bel min bon
 occuper
@@ -4662,31 +4662,31 @@ faute
 méchanceté exploiter femme
 vite loin
 jour aventure
-tour jacot question tour
-madelon bien soin
+tour question tour
+bien soin
 mettre feindre
 apprendre nouveau
 dévoiler sourdine
 monde savait petit grand vieux jeune
-amour landry besson fanchon
+amour besson
 grelet
-bruit venir jusqu’ oreille
-mèr barbeau affliger beaucoup
+bruit venir oreille
+mère affliger beaucoup
 vouloir point homme
-père barbeau apprit part sylvain
+père apprit part
 bien discrètement garder secret frère avoir chagrin voir
 monde savait
-soir landry songer quitter
+soir songer quitter
 bessonnière bon heure
-coutume faire père présence
+faire père présence
 mère sœur aîné besson
 être hâteux quitter
-landry attendre
+attendre
 parrain ici
 famille intéresser sort
 vouloir demander explication
-parrain oncle landrich
-être arriver père barbeau parla
+parrain oncle
+être arriver père barbeau
 manière
 donner
 hont landry
@@ -4696,7 +4696,7 @@ famille espérer honte
 salutaire guérir fantaisie
 porter préjudice
 paraître connaissance
-date dernier saint-andoche
+date dernier
 prochainement an parler
 jour chose imaginant voir danser jour fête
 fille laid malpropre
@@ -4721,37 +4721,37 @@ conduite chose fausseté
 faire grand plaisir donner
 parole connaître
 desservir tort opinion
-père landry vouloir bien
+père vouloir bien
 accuser répondre vérité respect
 devoir
-accus landry croire
+accus croire
 suffisamment donner entendre
 commerce malhonnête petite-fille
-mère fadet mauvais femme
+mère mauvais femme
 compter propre mère
 malheureux fille vilainement quitter mari
 enfant pays soldat
 accuser promener côté
-petit fadette faire craindre
+petit faire craindre
 voir engager mauvais
 amour vie
 repentir entend fin
 entendre bien cher père répondit
-landry souffrir question
-répondre cause
+souffrir question
+répond cause
 famille cause
-regarder fanchon fadett
+regarder
 mauvais connaissance
 doute cause
-reprendre père barbeau
+reprendre père
 sévérité mettre commencement
-trouver landry
+trouver
 bien penaud trouver tranquille résoudre fit
 mauvais parenté vilain tache
 jamais famille estimée honorer
 vouloir faire alliance
-famille fadet ensuite petit
-fadet inspir estime
+famille ensuite petit
+inspir estime
 confiance voir élever
 savoir valoir bien
 entendre reconnaître
@@ -4771,22 +4771,22 @@ légère peiner beaucoup
 chose attribuer
 reprochée finir procès
 scandale
-landry mot
+mot
 bien promettre prudent expliquer
 douceur perdre patienc devenir rouge
 feu lever
 père
 menti chien
-insulte fanchon fadet
+insulte
 tenai falloir avoir dédire
-battre jusqu’
-restât terre dire
+battre
+restât terre
 lâche païen venir
 face
 insinuer traître auron
 beau jeu
-fâche landry
-sylvinet abattre chagrin père
+fâche
+abattre père
 accus poindre tort fille
 craindre mettre
 embarras veuill
@@ -4794,12 +4794,12 @@ faire croire promener jour
 nuit donner
 réparation
 xxix
-voix besson adoucir landry
+voix besson adoucir
 parole dire pouvoir passer
 relevât
 frère entendre
 être prévenir petit
-fadette connai point inquiet
+connai point inquiet
 bien
 souffrirai poindre
 veux père mère sachent
@@ -4811,7 +4811,7 @@ avoir jamais croire
 âme chrétien pouvoir reprocher
 malheur naissance
 avoir air faire
-reproche landry père barbeau
+reproche père
 lever montrer souffrir
 chose aller loin
 voir dépit tenir
@@ -4822,14 +4822,14 @@ devoir faire prévenir
 étourderie jeunesse heure
 devoir retourner maître
 quitter
-sylvinet retenir frère commencer
-aller père landry
-chagrin déplaire
-donnez pardon
+retenir frère commencer
+aller père
+déplaire
+pardon
 embrassez pleurer nuitée
 trop punir mécontentement
-sylvinet pleurer mère barbeau pleurer
-sœur aîné oncle landrich
+pleurer mère barbeau pleurer
+sœur aîné oncle
 père barbeau landry avoir oeil sec
 cœur bien gros faire embrasser
 père exiger promesse
@@ -4838,33 +4838,33 @@ promesse chanceux vouloir
 point compromettre autorité faire
 comprendre landry poindre finir
 revenir landry aller courroucé
-désolé sylvinet bien vouloir
+désolé bien vouloir
 cause présumer
 bien aller faire part chagrin
-fadette coucha triste
+coucha triste
 nuit faire soupirer rêver
 malheur famille
-landry frapper porte
-petit fadette mère fadet devenir
+aller frapper porte
+petit mère devenir
 fois endormie éveiller
-temps landry voir
-découvrir causer fanchon
+temps voir
+découvrir causer
 soir chambre dormir
 vieux petit jeanet risquer
 gros vieux sorcière
 souffrir eût sortir coup
 baler bien compliment
-landry raconter peine petit fadette trouver grandement soumettre courageux
+raconter peine petit trouver grandement soumettre courageux
 essayer persuader faire
 bien intérêt reprendre
 amitier penser
 voir affliger révolter
 engager obéissance
 donner espérer temps venir
-écoute landry -ell
+-ell
 prévoyance arriver
 songer faire cas
-échéant pèr poindre tort
+échoir pèr poindre tort
 veux grand amitié
 craindre voir éprendre
 méritante
@@ -4888,10 +4888,10 @@ cacher attendre falloir
 obéisse pèr
 défendre fréquenter
 jamais avoir courage
-landry aimer mieux jeter
+aimer mieux jeter
 rivière
 bien avoir
-petit fadette aller
+petit
 quitter pays temps
 mois offrir bon place
 ville grand’mère
@@ -4900,15 +4900,15 @@ vendre drogue
 donner consultation
 parent bon offrir venir
 demeurer soigner bien
-pauvre sauteriot
+pauvre
 petit fadette avoir voix coupé
-moment idée quitter enfant landry aimer
+moment idée quitter enfant aimer
 monde reprendre courage
 présent fort passer
 faire communion
 amusement aller catéchisme
 enfant distraira chagrin
-départ devoir observer devenir
+départ doi observer devenir
 raisonnable garçonnet
 guère enrager faut
 voi landry falloir oublier
@@ -4923,127 +4923,127 @@ jamais
 landry vouloir écouter proposition -là
 faire désespérer
 retourner priche état
-pitier cœur
+pitier
 jour mener cuve
-vendange cadet caillaud
-voir landry veu temps parler
+vendange
+voir veu temps parler
 croire doute
-ébruité amour petit fadette
+ébruité amour petit
 fâcher puisse croire pareille
-vilenie part dieu
+vilenie part
 ciel jamais souffler mot
 mêmemer chagrin
 causer ennui
 grand cas jamais injure
-petit fadette
+petit
 estime fille
 arriver colombier
 bavarder part jamais
 savoir être discret
 servir pourtant fin tirer
-vengeance madelon bien
+vengeance bien
 auteur caquet
-point voir landry falloir
+point voir falloir
 point fier apparence réputation
-fadette passer méchant être
-bon madelon passer bon
+passer méchant être
+bon passer bon
 être bien traître non
-fadette
+
 heure grandement plaindre
 fidélité
-landry accepter bon cœur explication
-cadet caillaud consola
+landry accepta bon cœur explication
+consola
 mieux chagrin
 bien peine pauvre
-landry finir doi
+finir doi
 consoler bon conduite petit
-fadette bien aller
+bien aller
 faire finir tourment famille venir
 
 adieu passage
-cadet
-exclamer landry
+
+exclamer
 partie
-savai cadet penser
+savai penser
 chose convenir
 conduisai point
 blâmé sûr passer
 droit
 quart heure petit paquet
-bras aller château-meiller
+bras aller
 heure loin
-vieille-vill bien côte urmont
+bien
 landry laissa aiguillon accoté frontal
 bœuf prendre course arrêter
-avoir rejoindre petit fadette chemin sable descendre vigne urmont
+avoir rejoindre petit chemin sable descendre vigne
 fremelaine
 épuiser chagrin grand
 hâte course tomber travers
 chemin pouvoir
 connaître signe
 marcher corps quitter
-être remettre fadette
+être remettre
 
 vouloir épargner peine
 cher landry
-ôter courage être
-homme empêcher cœur
+ôter courage
+homme empêcher
 falloir penser
-songer pauvre petit jeanet
+songer pauvre petit
 cherche crie heure
 sens faible rien casser
-tête pierre prie landry
+tête pierre prie
 aide lieu détourner
 devoir aujourd’hui
-aller jamais être perdre
-fanchon fanchon besoin
-grand courage répondit landry
+jamais être perdre
+besoin
+grand courage répondit
 regrette enfant consoler bientôt
 enfer soucier désespoir connaître
 amour point
 oublier vite revenir
 peut-être jamais
-revenir landry prend dieu
+revenir landry prend
 témoin revenir an
 tôt an tard
 oublier avoir jamais
 ami amoureux
-ami fanchon
+ami
 retrouvera jamais
 soumettre
 amoureux savoir
 répondre
 répond
-savoir fadette
+savoir
 jamais aimer amour venir
 souviendra guèr pauvre
 landry aimer manière
 aime quitter
 
-croi landry petit fadette
+croi petit
 regardant air triste bien sérieux
-peut-être bien savoir dire
+bien savoir dire
 croire amour commander amitié faire
 bien amour commande
-avoir chagrin oh
-oui fanchon amour croire quasiment
+avoir oh
+oui amour croire quasiment
 être heureux malheur
 avoir confiance parole
 espérance avenir avoir courage
-vrai amour
+amour
 bien fois
 grand tranquillité côté
 croire amour
-petit fadette bien assurer
+petit bien assurer
 regardant oeil remplir
 larme tomber joue
 tandis sourire manière bien
 étrange
-dieu bon dieu écrier
+bon écrier
 landry prendre bras pouvoir
 tromper
 croire bien trompé
-répondre petit fadette sourire
+répondre petit sourire
 pleurer croire bien
 âge an pauvre grelet remarquer
 landry jamais remarquer
@@ -5052,11 +5052,11 @@ folie taquinerie forcer occuper
 savoir poindre
 faire pousser
 croire bien mettre
-jour recherche sylvinet savoir
+jour recherche savoir
 landry peine trouver
 bord rivière pensif
 petit agneau genou
-sorcière landry landry fût
+sorcière fût
 forcer reconnaissance
 croire bien injurier gué
 roulette dépit
@@ -5065,20 +5065,20 @@ parler croire bien
 vouloir danser
 fou espérer plaire
 joli danse croire bien
-pleurer carrière chaumoi
+pleurer carrière
 repentir peine déplu
 croire bien vouloir
 embrasser refuser
 parler amour répondre
 parole amitié crainte
 perdre amour contenter trop vite croire
-déchirer cœur espérance
+déchirer espérance
 revenir digne esprit
 monde pouvoir
 femme désoler humilier famille
-fois landry crut devenir
+fois landry croire devenir
 fou rire crier pleurer
-embrasser fanchon main robe
+embrasser main robe
 embrasser pied
 vouloir souffrir releva
 donner vrai baiser amour faillit
@@ -5089,15 +5089,15 @@ chemin ramasser paquet rouge
 confus sauver
 défendre jurer
 revenir
-xx
-landry soumettre revenir vendange
+xxx
+soumettre revenir vendange
 bien surpris trouver malheureux
 
 grand douceur savoir aimé
 foi grand aimer grandement
 étonner aise pouvoir défendre
-cadet caillaud étonner
-admirer petit fadette
+étonner
+admirer petit
 bien savoir défendre faiblesse
 imprudence temps
 aimer landry aimer
@@ -5110,13 +5110,13 @@ laid temps
 monde bien voir vouloir
 plair devenir jour
 agréable aimer uniquement
-landry contenter poindre déplair
+contenter poindre déplair
 chercher approbation
 répond
 femme caractère bien convenir
 ailleurs petit enfant
 connaître considérer
-grand cœur aller demander
+grand aller demander
 conscience vérité
 
 obligé témoigner monde
@@ -5126,141 +5126,141 @@ mêler jeter pierre
 mauvais réputation trop savoir
 plaisir écraser
 défendre
-landry trouver grand soulagement entendre raisonner cadet caillaud sorte
+landry trouver grand soulagement entendre raisonner sorte
 jour -là faire grand amitié
 consoler ennui
 confiant mêmemer jour
-madelon
+
 valoir peine
-brave cadet âge
+brave âge
 presse marier
-petit sœur nanette joli
+petit sœur joli
 cœur bien élevé doux mignon
-prendre an vien voir
+prendre an voir
 père estime beaucoup
 connaîtra bien nanette
 voir avoir meilleur idée
 devenir beau-frère
-foi dire non répondit cadet
+foi dire non répondit
 fille poindre accorder ailleurs
 aller dimanche
-soir départ fanchon fadet landry
+soir départ
 vouloir aller voir père apprendre
 honnête conduire fille
 mal juger temps faire
 réserve avenir soumission
-présent avoir cœur bien
-gros passer maison mère fadet armer grand courage
-dire départ fanchon
+présent avoir bien
+gros passer maison mère armer grand courage
+dire départ
 peut-être savoir
 bonheur aimer voir
-mère fanchette parent
-marraine fanchon venir
+mère parent
+marraine venir
 soigner vieux petit place
 asseoir porte sauteriot
 genou pauvre jeanet pleurer
-vouloir point aller lit fanchon
+vouloir point aller lit
 poindre rentrer dire
 faire prière
 coucher mère fanchette réconfortait
-mieux landry entendit
+mieux entendre
 plaisir parler beaucoup
 douceur amitié sauteriot
-voir passer landry échapper main
-fanchette risque
+voir passer échapper main
+risque
 patte courut jeter jambe
-besson embrassant questionnant
-conjurant ramener fanchon landry
+embrassant questionnant
+conjurant ramener landry
 prit bras pleurant
 consoler pouvoir vouloir donner
 grapp beau raisin porter
-petit panier part mère caillaud mère barbeau jeanet habitude
-gourmand vouloir landry
-promettre aller quérir fanchon
-falloir landry promettre soupirer
-fût point soumettre fanchette
-père barbeau attendre guère
-grand résolution petit fadette être
+petit panier part mère mère habitude
+gourmand vouloir
+promettre aller quérir
+falloir promettre soupirer
+fût point soumettre
+père attendre guère
+grand résolution petit être
 content avoir regret
 homme
-bon cœur
-fâcher landry aie
+bon
+fâcher aie
 courage renoncer fréquenter
 agi devoir avoir
-être cause départ dieu veuill
+être cause départ veuill
 enfant souffrir nouveau
 condition absence faire
 tort grand’mère petit
 frère beaucoup dire
-mal quelques-uns
+mal
 défendent assurer
 bon serviable famille
 enceint
 fausseté sauron bien
-défendron falloir malheur vrai être coupable landry
+défendron falloir malheur vrai être coupable
 assister laisseron tomber
-misère épouse jamais
+misère jamais
 landry exiger
-père landry juger
+père juger
 chose différemment coupable
 penser demander
 contraire permission épouser
-petit fadette innocent
-sœur nanette demande
+petit innocent
+sœur demande
 pardonner chagrin
 causer parler
 tard avoir promettre
-falloir bien père barbeau passer
+falloir bien père passer
 condition insister davantage
 trop prudent brusquer
 chose devoir content
 obtenir
 moment être question
 petit fadette bessonnière éviter
-nommer landry devenir
+nommer devenir
 rouge aussitôt pâle nom
 échapper
 bien aisé voir
 oublier jour
-xxxi
-sylvinet avoir contentement
+
+avoir contentement
 égoïste apprendre départ
-fadette flatter dorénavant
-besson aimer quitter
+flatter dorénavant
+aimer quitter
 être poindre
-sylvinet bien landry aimer
-mieux monde petit fadette
+bien aimer
+mieux monde petit
 plaire
-société sylvinet vouloir poindre
-départir aversion fanchon aussitôt
-landry essayer
-mettre intérêt sylvinet affliger
+société vouloir poindre
+départir aversion aussitôt
+essayer
+mettre intérêt affliger
 faire reproche obstiner idée répugnant parent
-chagrinant landry
+chagrinant
 parla
 vivre partager
-temps cadet caillaud petit jeanet
+temps petit
 emmener promener faire
 répéter catéchisme instruire
 consoler mieux rencontrer
 enfant fût moquer
-osé landry
+osé
 laisser jamais bafouer
 fier honteux montrer
-amitier frère fanchon fadet
+amitier frère
 protester
-prétendre père barbeau
+prétendre père
 sagesse bien vite raison
-amour sylvinet voyant frère
+amour voyant frère
 revenir autant souhaiter
 trouver réduire porter jalousie
-petit jeanet cadet caillaud voyant
-côté sœur nanette
-jusqu’ consoler réjouir
+petit jeanet voyant
+côté sœur
+consoler réjouir
 soin doux attention
 mignarde commencer plaire beaucoup
-société cadet caillaud famille approuver fort inclination
-pauvre sylvinet fantaisie
+société famille approuver fort inclination
+pauvre fantaisie
 posséder amitié
 aimer tomber ennui mortel
 langueur singulier esprit
@@ -5279,15 +5279,15 @@ famille souhaiter
 mort dire bon
 épargner compassion état
 charge parent
-grand grâce bon dieu pouvoir
+grand grâce bon
 faire débarrasser
-quelquefois père barbeau entendre
+quelquefois père entendre
 parole chrétien blâmer sévérité
-amener bon fois père barbeau conjurait pleurant
+amener bon fois père conjurait pleurant
 mieux reconnaître amitié
-pire sylvinet pleurer repentir demander
+pire pleurer repentir demander
 pardon père mère
-besson famille fièvre revenir
+famille fièvre revenir
 fort donner cours
 trop grand tendresse cœur
 malade
@@ -5296,30 +5296,30 @@ conseillèrent grand’chos voir
 min juger mal venir
 bessonnerie devoir tuer
 faible conséquemment
-consulter baigneuse clavière
+consulter clavière
 femme savant canton
-sagett mourir mère fadet
+mourir mère
 commencer tomber enfance femme
-habile répondre mère barbeau
+habile répondre mère
 chose sauver
 enfant aimer femme
 justement souffrir
-mèr barbeau jamais garçon
+mère jamais garçon
 fier sage moment
-besson mettre amour tête
-mal fille connaître blâme
+mettre amour tête
+mal fille connaître
 malheureusement
 meilleur enlever prétendre
 cœur besson
-bien baigneuse
+bien
 grand jugement maladie
-corps esprit fils sylvinet jour
+corps esprit fils jour
 aimer femme aimer
 follemer aimer frère prédire
 surabondance amitier
-cœur porter
-besson oublier quasiment sexe
-manquer loi bon dieu
+porter
+oublier quasiment sexe
+manquer loi bon
 vouloir homme chérir femme
 père mère frère sœur consoler
 pourtant
@@ -5328,36 +5328,36 @@ retarder idée -là
 femme aimer pauvre
 laid méchant hésiter poindre
 donner mariage apparence
-aimer vie cœur
+aimer vie
 trop attache falloir grand
 miracle nature séparer
 besson falloir grand séparer
 venir préférer
-avis baigneuse paraître fort sage père
-barbeau essayer envoyer sylvinet
+avis paraître fort sage père
+essayer envoyer
 maison beau bon
-fille marier sylvinet fût joli
+fille marier fût joli
 garçon bien élevé air indifférent
 triste réjouir point cœur fille
 avance
 timide imaginer force
-craindre détester
-père caillaud grand ami
+détester
+père grand ami
 meilleur conseil famille ouvrit
 avis
 fit absence
-meilleur remèd voir landry
-devenir insensé petit fadette
-pourtant petit fadette partie perdre
+meilleur remèd
+devenir insensé petit
+pourtant petit partie perdre
 raison santé
 triste avoir
 observer savion poindre
 cause présent paraître raisonnable
-soumettre sylvinet
+soumettre
 mois voir poindre
 frère moyen séparer doucement ferme
 priche bien revanche propre
-bien côté arton mal
+bien côté mal
 cause an colon
 malade remettre vouloir
 point mettre véritable
@@ -5367,95 +5367,95 @@ remettrait malade fatigue
 trop grand courage consentir
 envoyer landry passer bien
 saison feron partir
-sylvinet
+
 diron contraire
 jour jour passer
 parler jour
-jusqu’ accoutumer suivre
+accoutumer suivre
 conseil lieu flatter fantaisie
 enfant avoir trop épargner
 rendre trop maître
 père barbeau incliner
-conseil mère barbeau effraya
-craindre fût sylvinet
+conseil mère effraya
+craindre fût
 coup mort falloir transiger
-demander fît essai garder landry jour maison
+demander fît essai garder jour maison
 savoir frère voyant
 heure guérir point empirer
 contraire rendre avis père
-caillaud
-être landry venir bon cœur
+
+être venir bon
 passer temps requérir bessonnière
 fit venir prétexte père
 besoin aide battr blé
-sylvinet pouvoir travailler landry
+pouvoir travailler landry
 mettre soin bonté
 frère content voir
 heure coucher lit soigner
 avoir être petit enfant
-jour sylvinet être bien joyeux
-second prétendre landry ennuyer
-landry put ôter idée
-jour sylvinet être colère
-sauteriot venir voir landry
+jour être bien joyeux
+second prétendre ennuyer
+put ôter idée
+jour être colère
+sauteriot venir voir
 landry avoir point courage renvoyer
 bout semaine falloir
-renoncer sylvinet devenir
+renoncer devenir
 injuste exiger jaloux ombre
 penser mettre exécution idée
-père caillaud landry eût guère envie aller arton étranger
+père eût guère envie aller étranger
 aimer endroit
 ouvrage famille maître soumettre
 conseiller faire
 intérêt frère
-xxxii
-fois sylvinet manqua mourir
+
+fois manquer mourir
 jour second être tranquille
 fièvre quitta
 prit résignation résolution
 ensuite bout
 semaine reconnaître absence
 frère valoir mieux présence trouver
-raisonnement jalousie
+raisonnement
 faire secret motif quasi
-satisfait départ landry
+satisfait départ
 dire endroit
 connaître faire suite
 nouveau amitié ennuyer penser regretter
 reviendra aimer davantage
-mois landry
-absent an petit fadette
+mois
+absent an petit
 quitter pays lorsqu’ revenir
 coup grand’mère
 tomber paralysie soigna grand
-cœur grand zèle âge pire
+grand zèle âge pire
 maladie bout jour
-mère fadet rendre âme songer
+mère rendre âme songer
 jour conduire cimetière
 corps pauvre vieux ranger
 maison déshabillé coucher frère
 embrasser bon marraine retirer
 dormir chambre petit
-fadette asseoir bien tristement
+asseoir bien tristement
 petit feu envoyer guère clarté
 écouter chanter grelet cheminée
 sembler
-grelet grelet petit grelet
-fadette fadet
+grelet petit grelet
+fadette
 pluie tomber grésiller vitrage
-fanchon penser amoureux lorsqu’
+penser amoureux lorsqu’
 frapper porte voix
-fanchon fadet être
+être
 reconnaître -vou
 être poindre engourdie aller
 ouvrir grand être joie laisser
-serrer cœur ami landry landry
+serrer cœur ami landry
 connaissance maladie
-grand’mère fanchon
+grand’mère
 résister envie voir venir
 nuit aller jour passer
 nuit causer coin
-feu bien sérieusement bien sagement
+bien sérieusement bien sagement
 petit fadette rappeler landry lit
 grand’mère rendre âme
 peine refroidir heure
@@ -5464,9 +5464,9 @@ bon résolution sentir
 bien heureux ensembl voir
 aimer jamais
 aimé
-jour approchait landry commencer
+jour approchait landry
 pourtant perdre courage prier
-fanchon cacher grenier
+cacher grenier
 pouvoir voir nuit
 ramena raison
 faire entendre séparer résoudre
@@ -5479,10 +5479,10 @@ confier marraine
 conter utile guérison frère
 voir temps
 raison -là pouvoir
-décider quitter répondit landry
-pauvre besson causer bien peine
+décider quitter répondit
+pauvre causer bien peine
 crain cause
-saver fanchonnett devoir bien
+saver devoir bien
 trouver moyen guérir
 connaître raisonnement
 répondit esprit
@@ -5491,29 +5491,29 @@ guérir guérir
 aversion avoir jamais
 occasion donner
 consolation
-pourtant esprit fadette
+pourtant esprit
 parle bien don particulier
 persuader veu prend peine parler
 heure ressentir essaie
 demande rebuter
 fierter mauvais humeur oblige
 écouter effort
-fanchon réussite amour
+réussite amour
 opposition père
 petit empêchement
-fanchon promit quitter
+promit quitter
 répéter cent fois
 aimer aimer
-xxxiii
-savoir pays landry
+
+savoir pays
 venir quelqu’
-sylvinet retomber mal
+retomber mal
 point pardonner frère venir
 voir fadette non
-jour petit fadette habiller
-proprement sou
+jour petit habiller
+proprement
 maill deuil belle sergette
-fine traverser bourg cosse
+fine traverser cosse
 beaucoup grandi
 voir passer reconnurent
 considérablement embellir
@@ -5523,30 +5523,30 @@ prendre garçon déguisé
 taille bel agréable voir
 amour bonheur mettre
 figure savoir
-voir expliquer poindre
+voir expliquer point
 non joli fille monde
-landry imaginait avenant
+imaginait avenant
 mieux faite frais peut-être
 désirable pays
 porter grand panier passer
 bras entra bessonnière
-demander père barbeau être
-sylvinet vit détourner
+demander père être
+vit détourner
 déplaisir rencontrer
 demander père
 honnêteté être obliger
 répondre conduire grange
-pèr barbeau occuper chapuser
-petit fadette prier père barbeau
+père occuper chapuser
+petit fadette prier père
 conduire lieu pouvoir
 secrètement fermer porte grange
 
 vouloir
-petit fadette laisser essotir
-air froid père barbeau asseoir
+petit laisser essotir
+air froid père asseoir
 botte paille
 sorte
-père barbeau défunt
+défunt
 grand’mère dépit
 dépit vrai
 connaître homme
@@ -5560,13 +5560,13 @@ savoir mieux
 être
 valoir venir demander
 service donner confiance
-parler fadette répondre père barbeau
+parler répondre père
 jamais refuser assistance
 chose conscience
 défendre pouvoir fier
 
-petit fadette
-soulever panier placer jambe père barbeau défunt grand’mère
+petit
+soulever panier placer jambe père défunt
 gagner vie donner
 consultation vendre remède
 argent penser
@@ -5578,7 +5578,7 @@ trouvera avoir laisser
 bien
 frère prive présent
 trouver davantage
-jour laisse loi toucher
+jour laisse loi
 feraient manger frais
 tiendra vie
 servir vieux jour
@@ -5588,12 +5588,12 @@ obéi commandement
 prendre clef cellier défaire
 brique mur endroit
 montrer trouver apporter
-panier père barbeau prier
+panier père prier
 faire placement entendrez
 satisfaire loi connaître guère préserver
 gros frer redoute
 obliger confiance
-fadette père barbeau ouvrir
+père ouvrir
 panier fût curieux
 droit recevoir argent
 surveiller affaire poindre
@@ -5605,7 +5605,7 @@ savoir poindre nouveau
 savoir
 mort vivant pauvre âm
 parenté marraine
-fanchette brave honnête
+brave honnête
 femme incapable gérer
 bien conserver
 serrer défendre
@@ -5616,23 +5616,23 @@ curieux fît diminuer prendre
 garde pauvre cher marraine
 point cas savoir faire compte
 chose conséquence
-père barbeau oeil attacher
+père oeil attacher
 dépit couvercle
 panier prit anse soupeser
-trouva lourd
+trouva
 étonna
 ferraille falloir
 beaucoup charger cheval
-petit fadette esprit
+petit esprit
 diable amuser envie
 voir panier faire min ouvrir
-père barbeau croire manquer
+père croire manquer
 dignité laisser faire
 regarder point
 prendre dépôt
 devoir point connaître affaire
-falloir pourtant bien père barbeau
-fadette rendre
+falloir pourtant bien père
+rendre
 petit service -là beaucoup
 savant marraine compter
 au-dessus ensuite savoir
@@ -5644,19 +5644,19 @@ voir père barbeau
 tenir grand service
 demander devoir poindre
 refuser
-petit fadette releva lestemer
+petit relever lestemer
 couvercle panier tira
 gros sac contenance
 franc écu
 bien gentil père
-barbeau petit dot faire
+petit dot faire
 rechercher
-petit fadette
+petit
 fond panier
 petit chose connaître guère
 tirer bourse peau anguille
-verser chapeau père barbeau
-louis frapper ancien
+verser chapeau père
+ancien
 coin faire arrondir oeil brave
 homme avoir compté remettre
 peau anguille tirer
@@ -5666,7 +5666,7 @@ argent menu monnai
 panier beaucoup
 franc
 tiers
-père barbeau posséder bâtiment
+père posséder bâtiment
 campagne
 réalisent guère espèce sonnant jamais
 argent fois
@@ -5679,22 +5679,22 @@ manque fois
 franc vingt-deux écu
 autant hérite part
 bel pistole sonnant
-beau partir pays petit fadette
+beau partir pays petit
 frère sauteriot bien
 chétif boiteux vie pouvoir aller
-visiter bien carriole réjoui
+visiter bien carriole
 riche faire assavoir
 désire trouver vite beau mari
 poindre presser petit
-fadette demande contraire
+demande contraire
 garder secret richesse père
-barbeau fantaisie laid
-poindre épouser argent bon cœur bon renommée
+fantaisie laid
+poindre épouser argent bon bon renommée
 mauvais
 pays désirer passer temps
 apercevoir mérite point
-laideur fadette
-père barbeau relever oeil
+laideur
+père relever oeil
 point lâcher couver panier
 conscience
 avoir diantrement rappeler
@@ -5722,32 +5722,32 @@ manière mettre sûreté bon rapport
 héritage mère passer
 main homme chicane
 bien fidèle remporter
-cacher jusqu’
+cacher
 réponse offrir
 occasion porter témoignage
 mandataire cohéritier chiffre
 somme compter
 écrir coin grange
 oublier
-vouloir petit fadette
+vouloir petit
 père barbeau savoir
 sentir fier
 riche
 accuser vouloir exploiter landry
 xxxiv
-père barbeau voir prudent
+père voir prudent
 comprendre fine presser
 faire dépôt placement
 enquérir réputation
-acquérir château-meiller
+acquérir
 passer année bel dot tenter
 faire passer mauvais
 parenté
 agir honneur fille souhaiter
 aller
-château-meiller prendre information
+prendre information
 conscience être non
-petit fadette poindre venir enceint poindre enfant
+petit poindre venir enceint poindre
 bien comporter
 poindre petit blâme
 donner servir vieux religieux
@@ -5761,13 +5761,13 @@ aimable caractèr
 retrouver jamais pareille
 vieux dame riche
 faire grand charité
-petit fadette seconder merveilleusement
+petit seconder merveilleusement
 soigner malade préparer médicament
 instruire beau
 secret maîtresse apprendre
 couvent révolution
-père barbeau être bien content revenir
-cosse décider éclaircir chose jusqu’
+père être bien content revenir
+cosse décider éclaircir chose
 bout assembler famille charger
 enfant aîné frère parent
 procéder prudemment enquête
@@ -5781,13 +5781,13 @@ maintenir défense
 faite landry fréquenter enquête être
 faite prudence souhaiter
 question dot fût ébruitée
-mot femme
-temps -là petit fadette vivre
+femme
+temps -là petit vivre
 retirer petit maison
 vouloir changer
 propre mirer pauvre
 meuble faire habiller proprement
-petit sauteriot faire paraîtr
+petit faire paraîtr
 mit marraine
 bon nourriture faire vivement
 enfant refit mieux
@@ -5802,84 +5802,84 @@ boiterie petit
 nez camard
 part grand changement
 habitude
-fanchon fadet méchant propo
+méchant propo
 être oublier garçon
 voyant marcher léger bel grâce
 souhaiter fin deuil
 pouvoir courtiser faire danser
-sylvinet barbeau
+
 voulût point revenir compte voir
 bien manigancer chose propos
 famille père
 
 recevoir rétractation ancien mensonge
-compte fanchon
-applaudir intérêt landry dire
+compte
+applaudir intérêt dire
 souffrir accuser
 fils mettre mal jeunesse innocent
 parler prochain
-landry père barbeau paraître souhaiter chose fût agréer père caillaud
-sylvinet voir bien
-contraire amour landry
-chagrin revenir opinion virer
-vent faveur fadette
+père barbeau paraître souhaiter chose fût agréer père
+voir bien
+contraire amour
+revenir opinion virer
+vent faveur
 croire riche plaire
 déplaire autant
-sylvinet voir rival
-amour landry
-temps temps père barbeau laisser
+voir rival
+amour
+temps temps père laisser
 échapper mot mariage
 dire besson tarder
-âge penser mariage landry
-être idée désolant sylvinet
+âge penser mariage
+être idée désolant
 dernier mot séparation
 reprendre fièvre mère consulta
 médecin
-jour rencontrer marraine fanchett
+jour rencontrer marraine
 entendre lamenter
 inquiétude demander aller
 consulter loin dépenser argent
-main remégeuse
+main
 habile pays
 vouloir point exercer argent
-grand’mère amour bon dieu prochain
-nommer petit fadette
-mère barbeau parla mari
-être poindre contraire château-meillant
-fadette tenir réputation
+grand’mère amour bon prochain
+nommer petit
+mère parla mari
+être poindre contraire
+tenir réputation
 grand savoir côté
 venir consulter bien dame
 mère barbeau pria fadette
-venir voir sylvinet garder lit
+venir voir garder lit
 donner assistance
-fanchon chercher fois occasion
+chercher fois occasion
 promettre
-landry jamais prêter
+jamais prêter
 faire semondre courut voir
 pauvre besson trouva
 fièvre prier famille
 coutume remégeuse
 agir secret contraria
 rester chambre
-fadette poser main
-besson pendre bord lit
+poser main
+pendre bord lit
 fit doucement
 apercevoir sommeil
 léger mouche volant éveiller
-main sylvinet chaude feu devenir chaude
-petit fadette montrer agitation
+main chaude feu devenir chaude
+petit montrer agitation
 essayer retirer main
-fadett mettre main front
+mettre main front
 doucement fois
 agiter
 calma sentit tête main
 malade rafraîchir minute
 minute sommeil devenir
-calme petit enfant rester
-auprès jusqu’ vit
+petit enfant rester
+auprès vit
 disposer éveiller retirer
 rideau sortit chambre
-maison dire mère barbeau
+maison dire mère
 aller voir garçon donnez
 chose manger
 fièvre parler point
@@ -5887,35 +5887,35 @@ vouloir guérisse revenir
 soir heure avoir
 mal empirer tâcher couper
 mauvais fièvre
-xxxv
-mère barbeau être bien étonner voir
-sylvinet fièvre donner vitement
+
+mère être bien étonner voir
+fièvre donner vitement
 manger profiter appétit
 jour fièvre
 point lâcher
 vouloir prendre extasier beaucoup
-savoir petit fadette éveiller
+savoir petit éveiller
 faire boire vertu
 conjuration penser
 mettre bon chemin
 soir venir fièvre recommença
-bien fort sylvinet assoupir battre
+bien fort assoupir battre
 campagne rêvassant éveiller peur autour
 
-fadette revint matin
+revint matin
 resta petit heure
 magie
 main tête bien doucement respirer
 fraîchement auprès figure feu
 matin ôter délire
 fièvre retirer recommander
-parler poindre sylvinet
+parler point
 assistance trouva dormir
 sommeil paisible figure rouge
 paraître malade
-savoir fadette prendre idée -là
+savoir prendre idée -là
 venir hasard expérience
-auprès petit frère jeanet
+auprès petit frère
 fois ramener article
 mort remède
 rafraîchir main haleine
@@ -5925,43 +5925,43 @@ amitié volonté
 bon santé attouchement main
 pur bien vivant écarter mal
 douer esprit grand confiance bonté
-dieu temps imposer
+temps imposer
 main dire âme bel
-prière bon dieu
+prière bon
 petit frère faire
-frère landry vouloir
+frère vouloir
 essayer
 être cher point porter
 grand intérêt penser
 vertu remède fort
 amitier offrir cœur
-malade dieu donner
+malade donner
 pouvoir mal
 petit fadette charmer
-fièvre sylvinet dire dieu
+fièvre dire
 prière lorsqu’
 charmer fièvre frère bon
-dieu fait santé passer corps
+fait santé passer corps
 corps souffrir dou
-jésus offrir vie racheter âme
+offrir vie racheter âme
 humain volonté
 ôter vie donner malade
-prendre rend bon cœur
+prendre rend bon
 échange guérison demande
 petit fadette bien songer essayer vertu prière auprès lit mort
 grand’mère oser
 sembler vie âme
 corps éteindre vieux
 femme âge loi
-nature propre volonté dieu
-petit fadette mettre
+nature propre volonté
+petit mettre
 voit religion diablerie
 charme craint déplaire
 demander chose poindre coutume
 accorder miracle chrétien
 remède fût inutile souverain
 bien sûr jour
-débarrasser sylvinet fièvre
+débarrasser fièvre
 avoir jamais savoir éveiller
 vite dernier fois venir
 vue pencher retirer
@@ -5969,59 +5969,59 @@ doucement main
 croire apparition
 refermer oeil point voir
 demander ensuite mère
-fadette point tâter tête
+point tâter tête
 pouls rêve
-mèr barbeau mari toucher chose projet
+mère mari toucher chose projet
 souhaiter voir revenir déplaisir
 répondre venir
 jour matin soir
 merveilleusement couper
 fièvre soigner secret
-sylvinet paraître croire
+croire
 fièvre aller
-parole secret fadette
+parole secret
 vanité folie rester bien tranquille bien
 porter jour père
-barbeau crut devoir profiter
+barbeau croire devoir profiter
 chose possibilité mariage
 frère toutefois nommer
 vue
 avoir besoin cacher
 nom future destiner répondit
-sylvinet savoir bien
-fadette charmé
-enquête secret père barbeau
-être favorable petit fadette
+savoir bien
+charmé
+enquête secret père
+être favorable petit
 hésitation souhaiter
-grandement pouvoir rappeler landry
-craindre jalousie besson
+grandement pouvoir rappeler
+craindre jalousie
 efforcer guérir travers dire frère jamais heureux
-petit fadette sylvinet
+petit
 répondre
-fait falloir frère
+falloir frère
 heureux
-oser sylvinet
+oser
 retomber fièvre aussitôt
 paraître agréer chose
-xxxvi
-père barbeau peur
-petit fadette garder rancun
+
+père peur
+petit garder rancun
 injustice passer consolée
-absence landry songer
+absence songer
 lorsqu’ venir bessonnière
-soigner sylvinet essayer
-landry semblant
+soigner essayer
+semblant
 entendre voir bien
 embarrasser
 matin prendre résolution aller
-trouver petit fadette
-fanchon fadet venir
+trouver petit
+venir
 faire question prie donner réponse honneur
 vérité décès grand’mère
 avoir ider grand bien devoir
 
-oui père barbeau répondre petit
-fadette idée
+père répondre petit
+idée
 voir compter argent
 jamais sortir
 maison gros
@@ -6030,53 +6030,53 @@ jeunesse moquer guenille
 inquiet petit sera
 riche jour arriver
 pourra habiller soie pied
-jusqu’ tête bon plaisir
-reprendre père barbeau avoir
-savoir chose landry
+tête bon plaisir
+reprendre père avoir
+savoir chose
 point cause argent fils
 faire sembler éprendre
-père barbeau répondre
-petit fadette idée
+père répondre
+petit idée
 aimer beau oeil
 chose jamais refuser
 sot aller landry
 beau oeil sac peau anguille pourtant avoir
 danger landry aimer
-honnêtement grand cœur
+honnêtement grand
 jamais inquiéter savoir
 riche misérable
 mère grand décéder
-chère fanchon reprendre père barbeau
+chère reprendre père
 pouvoir donner parole honneur
-landry poindre être informer
+poindre être informer
 
-donne fadette
-aimer dieu être
+donne
+aimer être
 monde connaissance
 chose -là
-amour landry
-penser fanchon conservé
+amour
+penser conservé
 avoir recevoir décès
 grand’mère marque
 poindre être infidèle
 recevoir meilleur marque
 répondit confesse
 venir voir jour décès
-jurer mourir chagrin
+jurer mourir
 femme
-fadette répondre -vou
-père barbeau être
+répondre -vou
+père être
 obliger ferai
 contenter répondre
 avoir temps songer mariage
 décider volontier
-garçon faire cour gré
+garçon faire cour
 parent
-petit fadette dire
-fier dégager père barbeau être
+petit dire
+fier dégager père être
 inquiet
 droit interroger
-fanchon fadet savoir poindre
+savoir poindre
 avoir intention fils heureux
 malheureux vie savoir
 aimer terriblement
@@ -6092,161 +6092,161 @@ amour susciter aimer
 absent présent bien aimer méfier
 veux jamais mari
 
-père barbeau répondre petit fadette
+père répondre petit
 répète avoir grand
 répugnance entrer famille rougir
 céder faiblesse
 compassion
 retenir
-décider fanchon reprendre père barbeau
-famille landry estime
-désirer croire poindre changer
+décider -vou reprendre père
+famille estime
+désirer croire point changer
 être riche poindre pauvreté
 répugner mauvais
 propos tenir compte
 être bien fonder jamais landry devoir
 mourir avoir consentir appeler
 bru vouloir raison
-propos -là être château-meiller
+propos -là être
 exprès enquérir moindre chose
 pays
 reconnaître menti
 être sage honnête
-landry affirmer feu
-fanchon fadet venir demander épouser fils dire oui
+affirmer feu
+venir demander épouser fils dire oui
 ici jour
 ouverture bien prévoir
-rendre petit fadette bien content
+rendre petit bien content
 vouloir voir vouloir
 jamais respecter future
 famille répondre ménagement
-père barbeau
+père
 voir fille
-chose cœur
+chose
 exiger homme âge
 fasse excuse contenter bon
 parole dire être
 aimé estimer rapporter -vou
-père barbeau tromper
+père tromper
 vouloir donner baiser
 paix tuteur être choisir
 père vouloir adopter
-petit fadette pouvoir défendre
+petit pouvoir défendre
 jeter bras cou père
-barbeau vieux cœur être réjoui
-xxxvii
+vieux être réjoui
+
 convention être bientôt fait
 mariage lieu fin deuil
-fanchon agir faire
-revenir landry mère barbeau
-venir voir fanchon soir embrasser
+agir faire
+revenir mère
+venir voir soir embrasser
 donner bénédiction
 nouvelle prochain mariage
-frère sylvinet retomber malade
+frère malade
 demander attendre
 jour guérir consoler
-avoir faute mèr barbeau
-petit fadette confirmer sylvinet
+avoir faute mère
+petit confirmer
 poindre rêver voir côté sortir fièvre présent idée
 contrarier avoir
 vertu guérir sommeil
 repousse
 présence empire mal
 point répondre mère
-barbeau sentir mal
-coucher disant fadette
+sentir mal
+coucher disant
 avi soulager
 revenir
 venir chercher paraître content
 impatient
-répondre fadette
+répondre
 fois falloir prendre
 dire réussir
 lorsqu’ savoir poindre opérer
 prendre
-drogue remède mère barbeau
-non fadette corps
+drogue remède mère
+non corps
 bien malade esprit affaire
 essayer faire entrer
 promet point réussir
 promettre attendre patiemment
 landry
 demander avertir avoir ramener frère santé
-landry fortement recommander
+fortement recommander
 savoir approuver retarder
 contentement
-sylvinet voir petit fadette auprès
+voir petit auprès
 lit paraître mécontent vouloir
 point répondre trouver
 vouloir toucher pouls retirer
 main tourner figure côté ruelle
-lit fadette fit signe laissât
-monde être sortir
+lit faire signe laissât
+être sortir
 éteindre lampe laisser entrer
 chambre clarté lune pleine
 moment -là revenir auprès
-sylvinet commandement
+commandement
 obéir enfant
-sylvinet donner -moi main
+donnez -moi main
 répondre
 vérité déranger
 argent prendre peine venir
 soigner mal recevoir
-mal remercier fait attention
+mal remercier attention
 demander
 aller
 tromper
-demander juger propos
-fadette répondre besson essoti
+juger propos
+répondre besson essoti
 entendre sévèrement
-moqueur petit fadette
+moqueur petit
 temps passer répondre coup
 pierre
-sylvain barbeau reprendre paraître
+reprendre -ell paraître
 souhaiter mourir
-sylvain trébucha esprit
-répondre fadette serrer
+trébucha esprit
+répondre serrer
 main fort faire sentir grand
 volonté beaucoup confusion
 arriver
 heureux mourir voir
 bien peine embarras
 famille mauvais santé
-dire sylvain falloir
+falloir
 celer
 esprit soucieux
 changer reprendre besson accablé
-mauvais cœur
+mauvais
 fadette dur avoir colère
 peur
-xxxviii
+
 accuser mauvais
-cœur dire injure
+dire injure
 voir force
 défendre
-vérité sylvain reprendre
-fadette bien
+vérité reprendre
+bien
 pitié maladie
 connaître voir
 bien sérieux danger
 devenir fou
 tenter mieux savoir
 mener malice faiblesse esprit
-reprochez faiblesse esprit sylvinet malice
+faiblesse esprit malice
 reproche croire poindre mériter
 essayer défendre répondit
-petit fadette connaître mieux
+petit connaître mieux
 connaître
-sylvain dire faiblesse engendrer
+dire faiblesse engendrer
 fausseté être
 égoïste ingrat
-penser mal fanchon
-fadet doute frère landry
+penser mal
+doute frère
 bien maltraiter parole
 voir amitier porter
 connaître croyez
 connaître
-attendre sylvain
+attendre
 savai bien dire parole
 plaindre besson
 accuser amitié avoir
@@ -6254,21 +6254,21 @@ trop fou désordonné
 changer dépit rancune connaître
 être moitié fou
 être poindre bon bien dire
-landry aimer fois
+aimer fois
 aimez preuve
 reproche jamais chose faire souffrir tandis
 chose
 céder servir vouloir
 voir différence
-landry bien
+bien
 mal penser
 considérer frère bon
 méconnaître âme injuste
-haïssez fadette
+haïssez
 point abuser savoir bien
 ôtiez amour frère
 dire mal
-attendre maître sylvain
+attendre maître
 content prendre
 partie bien répondre
 être méchant cœur enfant
@@ -6279,7 +6279,7 @@ bien étiez contraire
 fois priver
 grand plaisir monde
 plaisir voir landry rester
-envoyer landry auprès
+envoyer auprès
 donner bonheur retirer devoir pourtant avoir
 être ennemi loin
 souvenir jamais rencontrer
@@ -6289,20 +6289,20 @@ occasion manquer
 point rendre insu
 bien mal grand idée
 âm chrétien pardonner
-prochain plaire dieu
-dieu doute
+prochain plaire
+doute
 entendre guèr être ennemi
 salut
 laisse bien chose
-fadette trop fort
+trop fort
 accuser païen
 avoir
 heure souhaiter mort
-croire idée chrétien
-fadett
-sylvinet arrêter effrayer songeant
+idée chrétien
+
+arrêter effrayer songeant
 paraître impie
-remontrance fadette
+remontrance
 laissa point tranquille
 continuer tancer
 -ell parole
@@ -6313,7 +6313,7 @@ rester maître famille
 tourmenter pauvre mère désole
 besson simple croire
 vouloir mettre fin jour
-dupe sylvain croire
+dupe croire
 craindre mort autant
 fait jeu
 peur donner chérir
@@ -6325,24 +6325,24 @@ commode fort doux mot
 faire plier autour
 manière être maître ici
 nature
-arriver moyen dieu réprouv
-dieu châtie rendre
-malheureux être obéir
+arriver moyen réprouv
+châtie rendre
+malheureux obéir
 lieu commander
 ennuyer vie faire trop doux manquer
-bon sage garçon sylvain
+bon sage garçon
 parent bien rude beaucoup
 misère pain jour
 coup bien avoir être élever
-école frère jeanet
+école frère
 lieu ingrat être reconnaître
-moindre chose tenir sylvain
+moindre chose tenir
 retranchez bessonnerie savoir
 beaucoup trop autour
 amitié bessonnière loi nature
 devoir faire mourir contrarier
 avoir croire obéir sort
-porter amitié excès dieu
+porter amitié excès
 injuste marquer
 mauver sortir ventre mère
 mécher donner
@@ -6351,12 +6351,12 @@ fait injure superstitieux
 être croire
 sang corps force mauvais
 destiner esprit
-résistance raison jamais
-être fou croire pouvoir
+raison jamais
+fou croire pouvoir
 combattre jalousie vouliez vouloir trop
 caresser vice âme estimer
 devoir fantaisie
-sylvinet répondre laisser fadette
+répondre laisser
 réprimander bien
 faire grâce blâme sentir
 raison fond manquer
@@ -6372,30 +6372,30 @@ faire dessein tarabuster
 beaucoup esprit prendre
 douceur consolation forcer
 duremer paraître
-colèr tandis cœur sentir
+colèr tandis sentir
 pitié amitier
 malade feinte quitter
 fatiguer laisser
 xxxix
-vérité sylvinet moitier
+vérité moitier
 malade paraître plaire
-croire petit fadette
+croire petit
 pouls reconnaître fièvre
 fort
 délire esprit malade
 affaibli corps croire
 devoir prendre esprit donner
 grand crainte jour
-retourner auprès guère dormir
-tranquille abattre sitôt
+retourner auprès guère
+tranquille abattre
 vit tendit main lieu
 retirer veille
-offrir main sylvain examiner
+offrir main examiner
 fièvre voir bien figure
 avoir
-sylvinet honteux retirer main
+honteux retirer main
 poindre vouloir toucher
-bonjour fadette
+bonjour
 remercier peine
 prendre
 cas accepter bonjour -ell
@@ -6404,17 +6404,17 @@ jamais repousse honnêteté
 croire poindre faux
 marquer intérêt sentiez
 
-sylvain ressentir grand bien
+ressentir grand bien
 éveillé main
-fadette doux
+doux
 avoir pourtant bien malmener hier
-soir fanchon savoir
+soir savoir
 veux point
 trouver bien bon venir voir
 avoir reprocher
-fadette asseoir auprès lit
-parler
-veille mettre bonté douceur tendresse sylvain éprouva
+asseoir auprès lit
+
+veille mettre bonté douceur tendresse éprouva
 soulagement plaisir autant grand
 juger courroucer
 pleurer beaucoup confesser
@@ -6429,29 +6429,29 @@ maladie chagrin temps
 vit point voulait
 
 sortir lever
-sylvain avoir fièvre
+avoir fièvre
 falloir rester dorloter tandis
 mère fatigue servir perdre temps
 compagnie manger ensuite
 mère présenter part
 viande savoir
 dire dégoûté vivre
-mauvais herbage
+mauvais
 forcer avoir
 répugnance faire paraîtr faire plaisir mère voir
 manger solide répugnance
 avoir surmonter cacher
 moindre prochain fois nul
-voir tromp adieu
+voir tromp
 faire revenir
 tôt savoir être
 malade vouloir
 revenir soir
-sylvinet avoir croire revenir
+avoir croire revenir
 médecin argent
-sylvain chose faire
+chose faire
 soigner être malade
-avoir raison fadette désir
+avoir raison désir
 voir croire
 égoïsme chose soulagement
 causer
@@ -6461,8 +6461,8 @@ sœur mariage
 amitié pouvoir
 bien venir causer
 répréhensible
-aller agréez sylvinet
-revoir fadette lever grand mal tête
+aller agréez
+revoir lever grand mal tête
 poindre bien désolé
 nuit
 vouloir bien ôter mal
@@ -6473,14 +6473,14 @@ imposer main front
 bout minute trouver rafraîchir
 consoler sentir mal
 voir bien tort
-refuser fadette être grand
+refuser être grand
 remégeuse savoir charmer maladie
 mal
 drogue toucher
 guérir pouvoir
 auprès empêcher
 jamais malade fautif
-dire fadett être fâcher
+-moi être fâcher
 vouloir compter
 parole donner soumettre
 entièrement
@@ -6488,37 +6488,37 @@ compte -ell
 changer idée aimer
 être besson
 penser dire
-fanchon dire non
+dire non
 coutume besson
 cérémonie
-sylvain lève mange cause
+mange cause
 promèn dormir -ell lever
 commandement aujourd’hui demain
 travaillera
-aller voir sylvinet
+aller voir
 aller
 regarder air amitié pardon
 donner soudainement force envie
 quitter lit misère fainéantise
 xl
 mère barbeau émerveiller
-habileté petit fadette
+habileté petit
 soir dire homme
-sylvinet porte mieux
+porte mieux
 mois manger
 présenter aujourd’hui faire grimace
 accoutumer imaginant
-petit fadette
-bon dieu bien
+petit
+bon bien
 souhaiter grandement
 mariage frère
 miracle savoir dormir veille
-miracle non père barbeau fille grand esprit croire bien
+miracle non père fille grand esprit croire bien
 porter bonheur
 famille
 partit jour aller
-quérir frère arthon demander
-père fadette grand
+quérir frère demander
+père grand
 récompense pouvoir
 annoncer bonheur
 bonheur venir
@@ -6529,42 +6529,42 @@ revenir ensembl amuser chemin
 croire avoir
 heureux bessonnière
 voir attablé
-souper petit fadette petit jeanet
+souper petit petit
 milieu
 vie être bien doux
 demi-année jeune nanette être accorder
-cadet caillaud meilleur ami
-landry famille être
+meilleur ami
+famille être
 arrêter noce faire
-temps sylvinet prendre fadette
+temps prendre
 amitier grand faire consulter empire
 sembler regarder sœur
 malade jalousie
 question quelquefois paraître
-triste train rêvasser fadette réprimandait
+triste train rêvasser réprimandait
 aussitôt devenir sourire
 communicatif
 mariage avoir lieu jour
 messe moyen
 manquer faire bel noce
-père caillaud vie perdre
+père vie perdre
 sang froid fit min gris
-jour corrompre joie landry
+jour corrompre joie
 famille mêmemer
 pays famille
-riche petit fadette
-autant barbeau caillaud
+riche petit
+autant
 ensemble faire monde grand
-honnêteter grand charité fanchon
-cœur trop bon souhaiter
+honnêteter grand charité
+trop bon souhaiter
 bien mal
-mal juger mêmemer suite
-landry avoir acheter beau bien
+mal juger mêmement suite
+avoir acheter beau bien
 gouverner mieux savoir
 femme faire bâtir jolie maison recueillir enfant
 malheureux commune
 heure jour semaine prendre
-peine frère jeanet
+peine frère
 instruire enseigner vraie religion
 assister nécessiteux
 misèr souvenir être enfant
@@ -6572,10 +6572,10 @@ malheureux délaisser beau enfant
 mettre monde être styler bon
 heure affable compatissant
 riche choyer
-advint sylvinet milieu
+advint milieu
 bonheur famille chose
 pouvoir comprendre donner grandement
-songer père barbeau mois
+songer père mois
 mariage frère sœur
 père engager chercher
 prendre femme répondre sentir
@@ -6587,7 +6587,7 @@ mâle trop
 famille terre
 bras faut voir quasiment jamais engagement volontaire
 étonner grandement
-résolution sylvinet
+résolution
 donner raison fantaisie
 goût militaire
 jamais connaître surent père
@@ -6595,12 +6595,12 @@ mère frère sœur landry
 pouvoir détourner être forcer
 aviser fanchon meilleur tête
 meilleur conseil famille
-causer grand heure sylvinet
-voir quitter sylvinet
+causer grand heure
+voir quitter
 pleurer belle-sœur air
 tranquille résoudre avoir
-objection soulever sylvinet
-persister fanchon approuver
+objection soulever
+persister approuver
 résolution augurer grand
 bien suite temps
 bien sûr
@@ -6610,8 +6610,8 @@ poindre résister davantage mère
 barbeau rendre non verser
 beaucoup larme landry désespéré
 femme
-volonté dieu devoir
-partir sylvain croire
+volonté devoir
+partir croire
 savoir bien dire demande
 davantage
 landry faire conduite frère loin
@@ -6622,9 +6622,9 @@ cœur emporter revenir trouver chère
 femme avoir soigner
 grand mois chagrin rendre véritablement
 malade
-sylvain être poindre continua
-route jusqu’ frontière
-temps grand bel guerre empereur napoléon
+être poindre continua
+route frontière
+temps grand bel guerre empereur
 avoir jamais moindre
 goût état militaire commander bien
 vouloir être bientôt remarquer
@@ -6640,16 +6640,16 @@ croix marché
 revenir mère
 barbeau mari soir jour
 recevoir jolie lettre pleine
-amitier landry fanchon
+amitier
 jeune vieux
 famille quasiment général
 bien temps reposer
 grade joli augmenter
-père barbeau
+père
 grand honneur famille
 paysan
 fadette bien prédire chose
-arriver reprendre mère barbeau oui
+arriver reprendre mère
 annoncer
 égal père expliquer
 jamais idée tourner coup
@@ -6659,25 +6659,25 @@ tranquille ami petit aise
 vieux mère bru
 long vouloir
 attrape mère croire bien savoir long
-fadette
+
 bien temps
-reprendre père barbeau
-bien répliquer mère barbeau
-fanchon trop grand charmeur
-charmer sylvinet
+reprendre père
+bien répliquer mère
+trop grand charmeur
+charmer
 souhaiter voir charme
 opérer fort vouloir retenir
 amoindrir put
-sylvain voir penser trop femme
+voir penser trop femme
 frère partir grand honneur
-grand vertu fanchon soutenir
+grand vertu soutenir
 approuvé
-père barbeau
+père
 gratter oreille bien peur
-marie jamais baigneuse clavière
+marie jamais clavière
 temps lorsqu’ éprendre
 femme affolé
 frère aimer jamais
-vie cœur trop
+vie trop
 sensible trop passionner
 fin
