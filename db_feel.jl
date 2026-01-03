@@ -101,19 +101,39 @@ function get_mouvement_probabilities_delta0(lines_livre)
             
             all = split(l, ";")
             delta = abs(analyse_livre[all[1]] - parse(Float64, all[2]))
-            println(mouvement, " ", all[1], " ", delta)
+            #println(mouvement, " ", all[1], " ", delta)
             mouvements_ratios[mouvement] += delta
         end
     end
     
-    total = sum(values(mouvements_ratios))
-    for (key, value) in mouvements_ratios
-        mouvements_ratios[key] = value / total
-    end
+    # Ceci retourne le delta de chaque mouvement
     return mouvements_ratios
     
 end
 
-# open("book_data/naturalisme/thereseraquin_zola.txt") do f
-#     println(get_mouvement_probabilities_delta0(readlines(f)))
-# end
+# Debugging
+if true
+    # resultats["lumieres"] = [total, justes]
+    resultats = Dict()
+    
+    for m in readdir("book_data")
+        if !contains(m, '.')
+            resultats[m] = [0, 0]
+            for b in readdir("book_data/$m/clean_p2")
+                #println(m, " " ,b)
+                open("book_data/$m/clean_p2/$b") do f
+                    res = get_mouvement_probabilities_delta0(readlines(f))
+                    minimum = findmin(res)
+                    resultats[m][1] += 1
+                    if minimum[2] == m
+                        resultats[m][2] += 1
+                    else
+                        println("Faux ! $m $res")
+                    end
+                end
+            end
+        end
+    end
+    
+    println(resultats)
+end

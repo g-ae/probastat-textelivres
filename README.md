@@ -129,3 +129,6 @@ Vous pouvez ensuite `include('analyse_feel.jl')`, ce qui vous donnera accès à 
 
 ## Etape 4 : Affichage des résultats
 Pour afficher des résultats, nous avons utilisé **Julia** avec la librairie **Plots**.
+
+## Sources
+Abdaoui, Amine and Azé, Jérôme and Bringay, Sandra and Poncelet, Pascal (2017). FEEL: a French Expanded Emotion Lexicon. *Language Resources and Evaluation*, *51*. https://doi.org/10.1007/s10579-016-9364-5
