@@ -291,7 +291,7 @@ for (i, m) in enumerate(mouvements)
 end
 
 
-# Analyse de Spécificité (TF-IDF simplifié)
+# Analyse de Spécificité
 """
 Cette fonction compare les vocabulaires pour trouver les mots-clés typiques.
 Elle calcule un ratio : (Fréquence dans le mouvement) / (Fréquence globale).
@@ -299,6 +299,69 @@ Si le ratio > 1, le mot est sur-représenté.
 """
 function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequence::Int=50)
     println("\n--- ANALYSE DES MOTS DISCRIMINANTS (SPÉCIFICITÉ) ---")
+
+    # BLACKLIST (Patronymes et Lieux Uniques) - Liste générée par IA
+    blacklist = Set([
+        # === LUMIÈRES ===
+        # Voltaire (Noms uniques seulement)
+        "pangloss", "cunégonde", "cacambo", "zadig", "astarté", "moabdar",
+        "micromégas", "kerkabon", "formosante", "amazan", "babylone", "sirius",
+        # Montesquieu
+        "usbek", "rica", "roxane", "ispahan", "nadié", "zachi",
+        # Prévost & Marivaux
+        "lescaut", "grieux", "tiberge", "cleveland", "axminster",
+        "valville", "climal", "dutour", "habert", "fécour",
+        # Rousseau
+        "wolmar", "saint-preux", "étampes", "clarens", "héloïse",
+        # Diderot
+        "simonin", "arpajon", "mirzoza", "mangogul", "zaïde", "iwan",
+        # Laclos & Sade
+        "merteuil", "valmont", "tourvel", "volanges", "rosemonde", "danceny",
+        "blamont", "noirceuil", "saint-fond", "rodin", "sade",
+        # Lesage & Autres
+        "santillane", "sangrado", "asmodée", "cléofas", "zambullo",
+        "alvare", "biondetta", "soberano", "télémaque", "calypso", "idoménée",
+        "amanzéi", "phénime", "zulica", "meilcour", "lursay", "zilia", "aza", "déterville",
+        "joannetti", "corinne", "oswald", "nelvil", "lucile", "delphine", "albemar", "léonce",
+        "ellénore", "oberman",
+
+        # === ROMANTISME ===
+        # Chateaubriand
+        "atala", "chactas", "celuta", "aubry",
+        # Hugo (Noms distinctifs)
+        "esmeralda", "quasimodo", "frollo", "gringoire", "phoebus",
+        "valjean", "javert", "cosette", "marius", "gavroche", "thenardier", "fantine", "myriel",
+        "ordener", "schumacker", "bug-jargal", "habibrah",
+        "gilliatt", "déruchette", "lethierry", "gwynplaine", "dea", "ursus", "josiana",
+        "lantenac", "gauvain", "cimourdain",
+        # Dumas
+        "artagnan", "athos", "porthos", "aramis", "tréville", "planchet",
+        "dantes", "edmond", "monte-cristo", "faria", "mercedes", "mondego", "danglars", "villefort",
+        "mordaunt", "mazarin", "raoul", "bragelonne", "fouquet", "vallière",
+        "coconnas", "bussy", "monsoreau", "chicot", "balsamo",
+        # Sand
+        "indiana", "ralph", "raymon", "delmare", "lélia", "sténio", "trenmor",
+        "consuelo", "porpora", "rudolstadt", "fadette", "landry", "sylvinet", "fanchon",
+        "mauprat", "edmée",
+        # Vigny, Musset, Mérimée...
+        "cinq-mars", "stello", "collingwood", "sylvie", "aurélia",
+        "colomba", "orso", "rebbia", "carmen", "escamillo", "maupin", "graziella", "amaury", "couaën",
+
+        # === NATURALISME ===
+        # Zola (Rougon-Macquart)
+        "gervaise", "coupeau", "nana", "goujet", "lorilleux", "boche",
+        "lantier", "maheu", "maheude", "chaval", "hennebeau", "souvarine", "negrel", "voreux",
+        "muffat", "fontan", "satin", "roubaud", "severine", "pecqueux", "misard",
+        "baudu", "mouret", "bourdoncle", "hutin", "josserand", "campardon",
+        "saccard", "renée", "albine", "désirée", "florent", "quenu", "gradelle",
+        "raquin", "rougon", "macquart", "silvère", "miette", "adélaïde",
+        "clorinde", "sandoz", "fouan", "buteau", "gundermann",
+        # Maupassant
+        "lamare", "rosalie", "duroy", "forestier", "walter", "andermatt", "guilleroy", "mariolle",
+        # Huysmans & Autres
+        "desesseintes", "durtal", "hermies", "chantelouve", "vatard", "cyprien", "folantin",
+        "germinie", "lacerteux", "jupillon", "gervaisais", "vingtras", "mintié"
+    ])
 
     # Charger tous les dictionnaires
     dicts_par_mvt = Dict{String, Dict{String, Int}}()
@@ -366,6 +429,10 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
 
         for (mot, count) in d_mvt
             if count < seuil_frequence
+                continue
+            end
+
+            if mot in blacklist
                 continue
             end
 
