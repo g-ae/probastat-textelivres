@@ -225,26 +225,26 @@ function plot_stats_for_movement(occ_dict::Dict{String,Int}, mouvement::String; 
     println("Unique words: $unique_words")
 
     # Total words bar
-    bar([mouvement], [total_words];
-        color = :blue,
-        title = "Total de mots — $mouvement",
-        xlabel = "Mouvement", ylabel = "Nombre de mots",
-        legend = false
-    )
-    annotate!(1, total_words + total_words*0.02, text(string(total_words), :center, 10))
-    savefig(dir * "total_words_" * mouvement * ".png")
-    println("Saved: $(dir)total_words_$mouvement.png")
+#     bar([mouvement], [total_words];
+#         color = :blue,
+#         title = "Total de mots — $mouvement",
+#         xlabel = "Mouvement", ylabel = "Nombre de mots",
+#         legend = false
+#     )
+#     annotate!(1, total_words + total_words*0.02, text(string(total_words), :center, 10))
+#     savefig(dir * "total_words_" * mouvement * ".png")
+#     println("Saved: $(dir)total_words_$mouvement.png")
 
     # Unique words bar
-    bar([mouvement], [unique_words];
-        color = :green,
-        title = "Mots uniques — $mouvement",
-        xlabel = "Mouvement", ylabel = "Nombre de mots",
-        legend = false
-    )
-    annotate!(1, unique_words + unique_words*0.02, text(string(unique_words), :center, 10))
-    savefig(dir * "unique_words_" * mouvement * ".png")
-    println("Saved: $(dir)unique_words_$mouvement.png")
+#     bar([mouvement], [unique_words];
+#         color = :green,
+#         title = "Mots uniques — $mouvement",
+#         xlabel = "Mouvement", ylabel = "Nombre de mots",
+#         legend = false
+#     )
+#     annotate!(1, unique_words + unique_words*0.02, text(string(unique_words), :center, 10))
+#     savefig(dir * "unique_words_" * mouvement * ".png")
+#     println("Saved: $(dir)unique_words_$mouvement.png")
 
     # Top N most frequent words
     top_words = sort(collect(occ_dict), by = x->x[2], rev=true)[1:min(top_n, unique_words)]
