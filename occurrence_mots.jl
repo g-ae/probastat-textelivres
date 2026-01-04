@@ -300,8 +300,40 @@ Si le ratio > 1, le mot est sur-représenté.
 function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequence::Int=50)
     println("\n--- ANALYSE DES MOTS DISCRIMINANTS (SPÉCIFICITÉ) ---")
 
-    # BLACKLIST (Patronymes et Lieux Uniques) - Liste générée par IA
+    # BLACKLIST (Patronymes, lieux uniques et bruit) - Liste générée par IA
     blacklist = Set([
+        # === 1. VOCABULAIRE TECHNIQUE & JURIDIQUE (Licences Anglaises) ===
+        # Mots courants de la licence Project Gutenberg
+        "project", "gutenberg", "literary", "archive", "foundation",
+        "electronic", "work", "works", "license", "terms", "agreement",
+        "copyright", "domain", "public", "united", "states", "law", "laws",
+        "access", "distribute", "distributed", "copy", "copies", "copying",
+        "damages", "liability", "warranty", "disclaimer", "limitation", "indemnify",
+        "refund", "replacement", "donation", "charity", "donations",
+        "file", "files", "data", "computer", "system", "virus", "defect",
+        "format", "readable", "processor", "online", "network", "posted",
+        "this", "that", "with", "from", "have", "which", "form", "days",
+        "about", "associated", "compliance", "country", "forth", "located",
+        "http", "www", "org", "net", "com", "html", "txt", "ascii", "holder", "check",
+        "proofreading", "team", "digitized", "produced", "by", "of", "and", "the", "in", "to", "or", "is", "for", # Petits mots anglais fréquents
+
+        # === 1. DERNIERS AJOUTS  ===
+        "foundation", "access", "damages", "located", # Anglais
+        "cazotte",
+        "compliance", "country", "distribute", "copy", "forth",
+        "julielettre", "ferval", "zurich", "omphale", "gangarides",
+
+        # === 2. BRUIT INFORMATIQUE (Mots anglais des licences Gutenberg/Archive) ===
+        "this", "that", "with", "from", "have", "which", "form", "days",
+        "agreement", "requirements", "posted", "associated", "about", "work",
+        "works", "terms", "license", "online", "distributed", "proofreading",
+        "team", "file", "http", "www", "gutenberg", "archive", "digitized",
+        "project", "ebook", "ebooks", "title", "author", "language", "release",
+        "fees", "may", "used", "anyone", "anywhere", "subject", "special", "permissions", "see", "details", "distribution",
+        "modification", "under", "copyright", "laws", "public", "domain", "reading",
+        "rights", "reserved", "donate", "contributions", "support", "online", "copyright",
+
+        # === 3. PERSONNAGES & LIEUX (Détails littéraires) ===
         # === LUMIÈRES ===
         # Voltaire (Noms uniques seulement)
         "pangloss", "cunégonde", "cacambo", "zadig", "astarté", "moabdar",
