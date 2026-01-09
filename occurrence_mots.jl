@@ -298,7 +298,7 @@ Elle calcule un ratio : (Fréquence dans le mouvement) / (Fréquence globale).
 Si le ratio > 1, le mot est sur-représenté.
 """
 function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequence::Int=50)
-    println("\n--- ANALYSE DES MOTS DISCRIMINANTS (SPÉCIFICITÉ) ---")
+    println("--- ANALYSE DES MOTS DISCRIMINANTS (SPÉCIFICITÉ) ---")
 
     # BLACKLIST (Patronymes, lieux uniques et bruit) - Liste générée par IA
     blacklist = Set([
@@ -482,14 +482,14 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
         sort!(scores, by = x -> x[2], rev = true)
 
         # Affichage du Top 20
-        println("\n--- TOP 20 MOTS TYPIQUES : $(uppercase(m)) ---")
+        println("--- TOP 20 MOTS TYPIQUES : $(uppercase(m)) ---")
 
         for i in 1:min(20, length(scores))
             mot, score = scores[i]
             println("  $i. $mot (x$(round(score, digits=1)))")
         end
     end
-    println("======================================================\n")
+    println("======================================================")
 end
 
 """
@@ -498,7 +498,7 @@ TTR = (Nombre de mots uniques) / (Nombre total de mots).
 Un TTR élevé indique un vocabulaire riche et varié.
 """
 function analyser_richesse_lexicale(mouvements::Vector{String})
-    println("\n--- ANALYSE DE LA RICHESSE LEXICALE (TTR) ---")
+    println("--- ANALYSE DE LA RICHESSE LEXICALE (TTR) ---")
     println("Calcul du ratio : (Mots Uniques / Mots Totaux) * 100")
 
     for m in mouvements
@@ -538,12 +538,12 @@ function analyser_richesse_lexicale(mouvements::Vector{String})
         # Calcul du pourcentage
         ttr = (mots_uniques / mots_totaux) * 100
 
-        println("\n--- Mouvement : $(uppercase(m)) ---")
+        println("--- Mouvement : $(uppercase(m)) ---")
         println("Mots Totaux  : $mots_totaux")
         println("Mots Uniques : $mots_uniques")
         println("Score TTR    : $(round(ttr, digits=2)) %")
     end
-    println("============================================\n")
+    println("============================================")
 end
 
 # Lancement de l'analyse des mots discriminants
