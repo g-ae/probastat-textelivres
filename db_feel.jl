@@ -111,8 +111,18 @@ function get_mouvement_probabilities_delta0(lines_livre)
     
 end
 
+function lines_to_words_array(lines, start, stop)
+    if length(lines) < start
+        return []
+    end
+    if stop > length(lines)
+        return lines[start:end]
+    end
+    return lines[start:stop]
+end
+
 # Debugging
-if true
+if abspath(PROGRAM_FILE) == @__FILE__
     # resultats["lumieres"] = [total, justes]
     resultats = Dict()
     
@@ -122,13 +132,37 @@ if true
             for b in readdir("book_data/$m/clean_p2")
                 #println(m, " " ,b)
                 open("book_data/$m/clean_p2/$b") do f
-                    res = get_mouvement_probabilities_delta0(readlines(f))
-                    minimum = findmin(res)
-                    resultats[m][1] += 1
-                    if minimum[2] == m
-                        resultats[m][2] += 1
-                    else
-                        println("Faux ! $m $res")
+                    file_lines = readlines(f)
+                    
+                    if isempty(file_lines)
+                        println("   -> skipped (empty file)")
+                        return
+                    end
+                    
+                    # par blocs
+                    current_line = 1
+                    line_size = 100
+                    blocs = Dict{String,Float64}()
+                    
+                    while current_line <= length(file_lines)
+                        res = get_mouvement_probabilities_delta0(lines_to_words_array(file_lines, current_line, current_line + line_size))
+                        current_line += line_size
+                        minimum = findmin(res)
+                        try
+                            blocs[minimum[2]] += 1
+                        catch
+                            blocs[minimum[2]] = 1
+                        end
+                    end
+                    
+                    if !isempty(blocs)
+                        resultats[m][1] += 1
+                        
+                        if findmax(blocs)[2] == m
+                            resultats[m][2] += 1
+                        else
+                            println("FAUX $m ", blocs)
+                        end
                     end
                 end
             end
