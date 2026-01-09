@@ -1,7 +1,7 @@
 function longueur_phrases(text::String)
     # Renvoie un dictionnaire "nbr de mots dans la phrase" => "nbr de phrases"
     res = Dict{Int, Int}()
-    phrases = split(text, r"[.!?;]+")
+    phrases = split(text, r"[.!?]+")
 
     for phrase in phrases
         phrase = strip(phrase)
@@ -197,7 +197,7 @@ function plot_distribution(mouvements::Vector{String})
     Plots.bar(all_keys, counts,
         bar_position = :dodge,
         labels = mouvements,
-        title = "Distribution des longueurs de phrases (mots => nombre de phrases)",
+        title = "Distribution des longueurs de phrases",
         xlabel = "Longueur (mots)",
         ylabel = "Nombre de phrases",
         rotation = 45)
@@ -271,94 +271,97 @@ end
 
 # ANOVA
 function effectuer_test_anova(mouvements::Vector{String})
-    println("\n=== TEST STATISTIQUE (ANOVA) ===")
+    println("TEST ANOVA")
 
     # Charger les données pour chaque mouvement
     groupes = []
     for m in mouvements
         data = charger_longueurs_brutes(m)
         push!(groupes, data)
-        println("  Mouvement $m : $(length(data)) phrases analysées.")
+        println("Mouvement $m : $(length(data)) phrases analysées.")
     end
 
     if any(isempty.(groupes))
-        println("Erreur : Un des groupes est vide. Impossible de faire le test.")
+        println("Erreur : Un des mouvements est vide.")
         return
     end
 
     # ANOVA
-    test = OneWayANOVATest(groupes...) # L'opérateur '...' permet de passer le tableau comme arguments séparés
+    test = OneWayANOVATest(groupes...)
 
     # Affichage et interprétation
-    println("\nRésultat brut du test :")
+    println("Résultat brut du test :")
     println(test)
 
     valeur_p = pvalue(test)
-    println("\nP-value : $valeur_p")
+    println("P-value : $valeur_p")
 
-    println("\n--- INTERPRÉTATION ---")
+    println("--- INTERPRÉTATION ---")
     if valeur_p < 0.05
         println("RÉSULTAT SIGNIFICATIF (p < 0.05)")
-        println("Il y a une différence statistiquement avérée entre la longueur")
-        println("des phrases de ces mouvements littéraires.")
-        println("La probabilité que cette différence soit due au hasard est quasi nulle.")
+        println("Il y a une différence statistiquement avérée entre la longueur des phrases de ces mouvements littéraires.")
+        println("La probabilité que cette différence soit due au hasard est faible.")
     else
         println("RÉSULTAT NON SIGNIFICATIF")
         println("On ne peut pas affirmer que les mouvements sont différents.")
     end
-    println("================================\n")
+    println("========================================")
 end
 
 const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
-# ### Test
-# for m in mouvements
-#     all_files = readdir(pwd() * "/book_data/" * m * "/clean_p1/")
-#     book_files = filter(f -> contains(f, '.'), all_files)
-#
-#     dicts::Vector{Dict{Int, Int}} = []
-#
-#     for (i, file_name) in enumerate(book_files)
-#         println(m * "/clean_p1/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
-#
-#         # Ouvrir fichier pour récupérer son contenu
-#         lines = []
-#         open(pwd() * "/book_data/" * m * "/clean_p1/" * file_name) do f
-#             lines = readlines(f)
-#         end
-#
-#         if length(lines) == 0
-#             continue
-#         end
-#
-#         save_longueur_phrases(longueur_phrases(join(lines, " ")), "longueurs_phrases/" * m * "/" * file_name)
-#
-#         push!(dicts, longueur_phrases(join(lines, " ")))
-#     end
-#
-#     total_longueur = concat_longueur_dicts(dicts)
-#     save_longueur_phrases(total_longueur, "longueurs_phrases/" * m * "_total.txt")
-#
-#     println("--------------------------------------------------")
-#     for m in mouvements
-#         avg = moyenne_longueur_mvt(m)
-#         med = mediane_longueur_mvt(m)
-#         println("Mouvement: $m - Moyenne: $avg - Médiane: $med")
-#         distribution = distribution_longueurs_mvt(m)
-# #         println("Distribution des longueurs de phrases (en mots => nombre de phrases):")
-# #         for (nbr_mots, nbr_phrases) in sort(collect(distribution))
-# #             println("  $nbr_mots => $nbr_phrases")
-# #         end
-#     end
-#     println("--------------------------------------------------")
-# end
+function generer_data()
+    for m in mouvements
+        all_files = readdir(pwd() * "/book_data/" * m * "/clean_p1/")
+        book_files = filter(f -> contains(f, '.'), all_files)
+
+        dicts::Vector{Dict{Int, Int}} = []
+
+        for (i, file_name) in enumerate(book_files)
+            println(m * "/clean_p1/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
+
+            # Ouvrir fichier pour récupérer son contenu
+            lines = []
+            open(pwd() * "/book_data/" * m * "/clean_p1/" * file_name) do f
+                lines = readlines(f)
+            end
+
+            if length(lines) == 0
+                continue
+            end
+
+            save_longueur_phrases(longueur_phrases(join(lines, " ")), "longueurs_phrases/" * m * "/" * file_name)
+
+            push!(dicts, longueur_phrases(join(lines, " ")))
+        end
+
+        total_longueur = concat_longueur_dicts(dicts)
+        save_longueur_phrases(total_longueur, "longueurs_phrases/" * m * "_total.txt")
+
+        println("--------------------------------------------------")
+        for m in mouvements
+            avg = moyenne_longueur_mvt(m)
+            med = mediane_longueur_mvt(m)
+            println("Mouvement: $m - Moyenne: $avg - Médiane: $med")
+            distribution = distribution_longueurs_mvt(m)
+    #         println("Distribution des longueurs de phrases (en mots => nombre de phrases):")
+    #         for (nbr_mots, nbr_phrases) in sort(collect(distribution))
+    #             println("  $nbr_mots => $nbr_phrases")
+    #         end
+        end
+        println("--------------------------------------------------")
+    end
+end
+
+# Generate data
+# generer_data()
 
 ### Plots
-#plot_moyennes(mouvements)
-#plot_mediane(mouvements)
-#plot_distribution(mouvements)
-#plot_boxplot(mouvements)
+# plot_moyennes(mouvements)
+# plot_mediane(mouvements)
+# plot_distribution(mouvements)
+# plot_boxplot(mouvements)
 
 ### Test statistique
-println("Lancement de l'analyse statistique...")
+println("Lancement de l'analyse statistique")
 effectuer_test_anova(mouvements)
