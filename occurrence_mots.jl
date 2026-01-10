@@ -288,6 +288,23 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
 
     # BLACKLIST (Patronymes, lieux uniques et bruit) - Liste générée par IA
     blacklist = Set([
+        # === 1. BRUIT ANGLAIS TRONQUÉ (STAMMED) ===
+        "thi", "provid", "distribut", "includ", "stat", "damag", "us", "can",
+        "electr", "foundat", "copi", "copy", "project", "gutenberg", "archiv",
+        "work", "licens", "term", "agreem", "copyright", "public", "domain",
+        "law", "unit", "state", "complianc", "requir", "restrict", "violat",
+        "access", "liabil", "warranti", "disclaim", "limit", "indemnifi",
+        "refund", "replac", "defect", "neglig", "breach", "contract", "tort",
+        "merchant", "fit", "purpos", "incid", "consequ", "punit", "applic",
+        "proprietari", "intellectu", "properti", "fil", "comput", "system",
+        "viru", "format", "readabl", "binari", "compress", "download", "onlin",
+        "network", "server", "post", "locat", "associ", "provid", "forth",
+        "full", "legal", "http", "www", "org", "net", "com", "html", "txt",
+        "ascii", "zip", "email", "volunt", "newslett", "donat", "chariti",
+        "payment", "credit", "card", "check",
+        "the", "and", "that", "with", "from", "have", "which", "you", "one",
+        "all", "not", "are", "was", "but", "for", "may", "can", "very", "what",
+
         # === 1. VOCABULAIRE TECHNIQUE & JURIDIQUE (Licences Anglaises) ===
         # Mots courants de la licence Project Gutenberg
         "project", "gutenberg", "literary", "archive", "foundation",
@@ -318,6 +335,7 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
         "fees", "may", "used", "anyone", "anywhere", "subject", "special", "permissions", "see", "details", "distribution",
         "modification", "under", "copyright", "laws", "public", "domain", "reading",
         "rights", "reserved", "donate", "contributions", "support", "online", "copyright",
+        "including", "using", "other",
 
         # === 3. PERSONNAGES & LIEUX (Détails littéraires) ===
         # === LUMIÈRES ===
