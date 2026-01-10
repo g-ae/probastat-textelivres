@@ -1,3 +1,6 @@
+using Plots
+using Measures
+
 function clean_word(word::AbstractString)
     return strip(word, ['.', ',', '!', '?', ';', '"', '\'', '(', ')', '[', ']', '{', '}', '-'])
 end
@@ -217,34 +220,12 @@ function plot_stats_for_movement(occ_dict::Dict{String,Int}, mouvement::String; 
         mkpath(dir)
     end
 
-    # --- Total words ---
+    # Total words
     total_words = sum(values(occ_dict))
     unique_words = length(occ_dict)
     println("--- Stats for $mouvement ---")
     println("Total words: $total_words")
     println("Unique words: $unique_words")
-
-    # Total words bar
-#     bar([mouvement], [total_words];
-#         color = :blue,
-#         title = "Total de mots — $mouvement",
-#         xlabel = "Mouvement", ylabel = "Nombre de mots",
-#         legend = false
-#     )
-#     annotate!(1, total_words + total_words*0.02, text(string(total_words), :center, 10))
-#     savefig(dir * "total_words_" * mouvement * ".png")
-#     println("Saved: $(dir)total_words_$mouvement.png")
-
-    # Unique words bar
-#     bar([mouvement], [unique_words];
-#         color = :green,
-#         title = "Mots uniques — $mouvement",
-#         xlabel = "Mouvement", ylabel = "Nombre de mots",
-#         legend = false
-#     )
-#     annotate!(1, unique_words + unique_words*0.02, text(string(unique_words), :center, 10))
-#     savefig(dir * "unique_words_" * mouvement * ".png")
-#     println("Saved: $(dir)unique_words_$mouvement.png")
 
     # Top N most frequent words
     top_words = sort(collect(occ_dict), by = x->x[2], rev=true)[1:min(top_n, unique_words)]
@@ -273,21 +254,25 @@ function plot_stats_for_movement(occ_dict::Dict{String,Int}, mouvement::String; 
     println("Saved: $(dir)top_$(top_n)_words_$mouvement.png")
 end
 
-using Plots
-using Measures
-
-### Test process
-const mouvements = ["lumieres", "naturalisme", "romantisme"]
-const threshold = 5
-all_occ_dicts::Vector{Dict{String, Int64}} = []
-for m in mouvements
-    occ_mvt = process_mouvement(m, threshold)
-    push!(all_occ_dicts, occ_mvt)
-    #plot_word_stats(occ_mvt, m; top_n=10)
+function generate_data_mi()
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+    for m in mouvements
+        process_mouvement(m)
+    end
 end
-plot_total_and_unique_separately(all_occ_dicts, mouvements)
-for (i, m) in enumerate(mouvements)
-    plot_stats_for_movement(all_occ_dicts[i], m; top_n=10)
+
+function generate_plots_mi()
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+    threshold = 5
+    all_occ_dicts::Vector{Dict{String, Int64}} = []
+    for m in mouvements
+        occ_mvt = process_mouvement(m, threshold)
+        push!(all_occ_dicts, occ_mvt)
+    end
+    plot_total_and_unique_separately(all_occ_dicts, mouvements)
+    for (i, m) in enumerate(mouvements)
+        plot_stats_for_movement(all_occ_dicts[i], m; top_n=10)
+    end
 end
 
 
@@ -298,7 +283,8 @@ Elle calcule un ratio : (Fréquence dans le mouvement) / (Fréquence globale).
 Si le ratio > 1, le mot est sur-représenté.
 """
 function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequence::Int=50)
-    println("--- ANALYSE DES MOTS DISCRIMINANTS (SPÉCIFICITÉ) ---")
+    println("=======================================================")
+    println("ANALYSE DES MOTS DISCRIMINANTS (SPÉCIFICITÉ)")
 
     # BLACKLIST (Patronymes, lieux uniques et bruit) - Liste générée par IA
     blacklist = Set([
@@ -405,7 +391,7 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
 
     for m in mouvements
         path = [
-            "occurrences_mots/" * m * "_total.csv"
+            "occurrences_mots/frequence/" * m * "_total_0.csv"
         ]
 
         filename = ""
@@ -482,14 +468,14 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
         sort!(scores, by = x -> x[2], rev = true)
 
         # Affichage du Top 20
-        println("--- TOP 20 MOTS TYPIQUES : $(uppercase(m)) ---")
+        println("TOP 20 MOTS TYPIQUES : $(uppercase(m))")
 
         for i in 1:min(20, length(scores))
             mot, score = scores[i]
             println("  $i. $mot (x$(round(score, digits=1)))")
         end
     end
-    println("======================================================")
+    println("=======================================================")
 end
 
 """
@@ -498,11 +484,12 @@ TTR = (Nombre de mots uniques) / (Nombre total de mots).
 Un TTR élevé indique un vocabulaire riche et varié.
 """
 function analyser_richesse_lexicale(mouvements::Vector{String})
-    println("--- ANALYSE DE LA RICHESSE LEXICALE (TTR) ---")
+    println("=======================================================")
+    println("ANALYSE DE LA RICHESSE LEXICALE (TTR)")
     println("Calcul du ratio : (Mots Uniques / Mots Totaux) * 100")
 
     for m in mouvements
-        filename = "occurrences_mots/" * m * "_total.csv"
+        filename = "occurrences_mots/frequence/" * m * "_total_0.csv"
 
         if !isfile(filename)
             println("Fichier introuvable : $filename")
@@ -538,13 +525,22 @@ function analyser_richesse_lexicale(mouvements::Vector{String})
         # Calcul du pourcentage
         ttr = (mots_uniques / mots_totaux) * 100
 
-        println("--- Mouvement : $(uppercase(m)) ---")
+        println("Mouvement : $(uppercase(m))")
         println("Mots Totaux  : $mots_totaux")
         println("Mots Uniques : $mots_uniques")
         println("Score TTR    : $(round(ttr, digits=2)) %")
     end
-    println("============================================")
+    println("=======================================================")
 end
+
+# Liste des mouvements littéraires
+const mouvements = ["lumieres", "naturalisme", "romantisme"]
+
+# Génération des fichiers csv avec threshold 0
+generate_data_mi()
+
+# Génération des plots
+generate_plots_mi()
 
 # Lancement de l'analyse des mots discriminants
 analyser_specificite_mouvements(mouvements, 30)
