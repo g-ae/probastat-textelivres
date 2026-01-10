@@ -585,17 +585,22 @@ function analyser_richesse_lexicale(mouvements::Vector{String})
     println("=======================================================")
 end
 
-# Liste des mouvements littéraires
-const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
-# Génération des fichiers csv avec threshold 0
-generate_data_mi()
+function generate_all()
+    # Liste des mouvements littéraires
+    const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
-# Génération des plots
-generate_plots_mi()
+    # Génération des fichiers csv avec threshold 0
+    generate_data_mi()
 
-# Lancement de l'analyse des mots discriminants
-analyser_specificite_mouvements(mouvements, 30)
+    # Génération des plots
+    generate_plots_mi()
 
-# Lancement de l'analyse de richesse
-analyser_richesse_lexicale(mouvements)
+    # Lancement de l'analyse des mots discriminants
+    analyser_specificite_mouvements(mouvements, 30)
+
+    # Lancement de l'analyse de richesse
+    analyser_richesse_lexicale(mouvements)
+end
+
+# generate_all()
