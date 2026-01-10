@@ -573,7 +573,7 @@ function analyser_richesse_lexicale(mouvements::Vector{String})
         println("Mouvement : $(uppercase(m))")
         println("Mots Totaux  : $mots_totaux")
         println("Mots Uniques : $mots_uniques")
-        println("Score TTR    : $(round(ttr, digits=2)) %")
+        println("Score TTR    : $(round(ttr, digits=4)) %")
 
         # Save in CSV
         println(f_csv, "$m;$mots_totaux;$mots_uniques;$(round(ttr, digits=4))")
@@ -586,9 +586,125 @@ function analyser_richesse_lexicale(mouvements::Vector{String})
 end
 
 
+"""
+Charge les données de référence (CSV) en mémoire pour la comparaison.
+"""
+function charger_reference(mouvements::Vector{String})
+    refs = Dict{String, Dict{String, Int}}()
+    println("========================================================")
+    println("Chargement des données de référence")
+    for m in mouvements
+        path = "occurrences_mots/frequence/" * m * "_total_0.csv"
+
+        if !isfile(path)
+            println("Fichier de référence manquant pour $m : $path")
+            continue
+        end
+
+        d = Dict{String, Int}()
+        open(path, "r") do f
+            for line in eachline(f)
+                if startswith(line, "mot;") continue end # Sauter l'en-tête
+                parts = split(line, ";")
+                if length(parts) >= 2
+                    try
+                        d[String(parts[1])] = parse(Int, parts[2])
+                    catch; end
+                end
+            end
+        end
+        refs[m] = d
+    end
+    return refs
+end
+
+"""
+Analyse un fichier unique et le compare à la base de données globale.
+Affiche son TTR et ses mots les plus spécifiques par rapport au corpus.
+"""
+function analyser_texte_inconnu(chemin_fichier::String, donnees_ref::Dict{String, Dict{String, Int}})
+    println("=======================================================")
+    println("ANALYSE DU FICHIER : $(basename(chemin_fichier))")
+
+    if !isfile(chemin_fichier)
+        println("Erreur : Le fichier '$chemin_fichier' n'existe pas.")
+        return
+    end
+
+    # Lecture et Nettoyage
+    dict_livre = process_file(chemin_fichier)
+    if dict_livre === nothing
+        println("Erreur : Impossible de lire le fichier.")
+        return
+    end
+
+    # Calcul du TTR (Richesse)
+    mots_uniques = length(dict_livre)
+    mots_totaux = sum(values(dict_livre))
+    ttr = (mots_uniques / mots_totaux) * 100
+
+    println("STATISTIQUES DE STYLE :")
+    println("Mots Totaux  : $mots_totaux")
+    println("Mots Uniques : $mots_uniques")
+    println("Richesse (TTR) : $(round(ttr, digits=4)) %")
+
+    # Mots Discriminants
+    # On reconstruit le dictionnaire global pour la comparaison
+    dict_global = Dict{String, Int}()
+    for d in values(donnees_ref)
+        for (mot, count) in d
+            dict_global[mot] = get(dict_global, mot, 0) + count
+        end
+    end
+    total_global = sum(values(dict_global))
+
+    blacklist = Set([
+        "the", "and", "of", "to", "project", "gutenberg", "edition", "chapter",
+        "this", "that", "with", "from", "julielettre", "cazotte", "persan",
+        "pangloss", "cunegond", "usbek", "atala", "valjean", "gervaise", "nana"
+    ])
+
+    scores = Tuple{String, Float64}[]
+
+    for (mot, count) in dict_livre
+        if count < 3 || mot in blacklist; continue; end # Filtre bruit
+
+        freq_livre = count / mots_totaux
+        # Compare à la fréquence globale (si le mot n'existe pas globalement, prend une fréquence minime)
+        count_global = get(dict_global, mot, 1)
+        freq_global = count_global / total_global
+
+        score = freq_livre / freq_global
+        push!(scores, (mot, score))
+    end
+
+    sort!(scores, by = x -> x[2], rev = true)
+
+    println("MOTS CLÉS (SIGNATURE DU LIVRE) :")
+    for i in 1:min(15, length(scores))
+        mot, score = scores[i]
+        println("   $i. $mot (x$(round(score, digits=1)))")
+    end
+    println("=======================================================")
+end
+
+
+"""
+Point d'entrée pour analyser un texte inconnu.
+"""
+function main_analyse_inconnu()
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+    fichier_mystere = "book_data/romantisme/clean_p2/Notre-Dame_de_Paris.txt"
+    donnees_completes = charger_reference(mouvements)
+    analyser_texte_inconnu(fichier_mystere, donnees_completes)
+end
+
+"""
+Génère toutes les données nécessaires pour l'analyse.
+"""
 function generate_all()
     # Liste des mouvements littéraires
-    const mouvements = ["lumieres", "naturalisme", "romantisme"]
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
 
     # Génération des fichiers csv avec threshold 0
     generate_data_mi()
@@ -603,4 +719,8 @@ function generate_all()
     analyser_richesse_lexicale(mouvements)
 end
 
+
+### Main Execution (to comment when not in test)
+
 # generate_all()
+# main_analyse_inconnu()
