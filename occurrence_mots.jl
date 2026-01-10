@@ -175,6 +175,20 @@ function plot_total_and_unique_separately(occ_dicts::Vector{Dict{String,Int}}, m
         println("  Unique words: $(unique_words[i])\n")
     end
 
+    # Save in CSV
+    open("occurrences_mots/stats_globales_plots.csv", "w") do f
+        println(f, "mouvement;motal_mots;mots_uniques") # En-tête
+        for i in 1:n
+            println("Movement: $(mouvements[i])")
+            println("  Total words: $(total_words[i])")
+            println("  Unique words: $(unique_words[i])\n")
+
+            # Écriture ligne CSV
+            println(f, "$(mouvements[i]);$(total_words[i]);$(unique_words[i])")
+        end
+    end
+    println("Stats sauvegardées dans : occurrences_mots/stats_globales_plots.csv")
+
     dir = "occurrences_mots/"
     if !isdir(dir)
         mkpath(dir)
@@ -399,6 +413,11 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
         "germinie", "lacerteux", "jupillon", "gervaisais", "vingtras", "mintié"
     ])
 
+    # Open CSV for output
+    output_csv = "occurrences_mots/mots_discriminants.csv"
+    f_csv = open(output_csv, "w")
+    println(f_csv, "mouvement;rang;mot;score") # En-tête
+
     # Charger tous les dictionnaires
     dicts_par_mvt = Dict{String, Dict{String, Int}}()
     total_mots_par_mvt = Dict{String, Int}()
@@ -408,10 +427,7 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
     total_mots_global = 0
 
     for m in mouvements
-        path = [
-            "occurrences_mots/frequence/" * m * "_total_0.csv"
-        ]
-
+        path = ["occurrences_mots/frequence/" * m * "_total_0.csv"]
         filename = ""
         for p in path
             if isfile(p)
@@ -457,7 +473,6 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
     total_mots_global = sum(values(dict_global))
 
     # Calcul des scores de spécificité
-
     for m in mouvements
         scores = Tuple{String, Float64}[]
         d_mvt = dicts_par_mvt[m]
@@ -491,8 +506,16 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
         for i in 1:min(20, length(scores))
             mot, score = scores[i]
             println("  $i. $mot (x$(round(score, digits=1)))")
+
+            # Save in CSV
+            println(f_csv, "$m;$i;$mot;$(round(score, digits=4))")
         end
     end
+
+    # Close CSV
+    close(f_csv)
+    println("Mots discriminants sauvegardés dans : $output_csv")
+
     println("=======================================================")
 end
 
@@ -505,6 +528,11 @@ function analyser_richesse_lexicale(mouvements::Vector{String})
     println("=======================================================")
     println("ANALYSE DE LA RICHESSE LEXICALE (TTR)")
     println("Calcul du ratio : (Mots Uniques / Mots Totaux) * 100")
+
+    # Open CSV for output
+    output_csv = "occurrences_mots/resultats_ttr.csv"
+    f_csv = open(output_csv, "w")
+    println(f_csv, "mouvement;mots_totaux;mots_uniques;ttr_pourcentage")
 
     for m in mouvements
         filename = "occurrences_mots/frequence/" * m * "_total_0.csv"
@@ -525,7 +553,6 @@ function analyser_richesse_lexicale(mouvements::Vector{String})
                 if length(parts) >= 2
                     try
                         count = parse(Int, parts[2])
-
                         mots_uniques += 1      # C'est une ligne valide, donc un mot unique
                         mots_totaux += count   # On ajoute toutes les fois où il apparait
                     catch e
@@ -547,7 +574,14 @@ function analyser_richesse_lexicale(mouvements::Vector{String})
         println("Mots Totaux  : $mots_totaux")
         println("Mots Uniques : $mots_uniques")
         println("Score TTR    : $(round(ttr, digits=2)) %")
+
+        # Save in CSV
+        println(f_csv, "$m;$mots_totaux;$mots_uniques;$(round(ttr, digits=4))")
     end
+
+    # Close CSV
+    close(f_csv)
+    println("Résultats TTR sauvegardés dans : $output_csv")
     println("=======================================================")
 end
 
