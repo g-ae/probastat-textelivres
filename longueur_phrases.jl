@@ -501,6 +501,181 @@ function save_stats_csv(stats)
 end
 
 """
+Calcule la distance de Kolmogorov-Smirnov (KS) entre deux échantillons.
+Mesure à quel point les deux distributions se ressemblent (0 = identique, 1 = différent).
+"""
+function calcul_distance_ks(data1::Vector{Int}, data2::Vector{Int})
+    if isempty(data1) || isempty(data2); return 1.0; end
+
+    # On trie les données
+    s1 = sort(data1)
+    s2 = sort(data2)
+
+    n1 = length(s1)
+    n2 = length(s2)
+
+    # On parcourt les deux courbes cumulées (ECDF) pour trouver l'écart max
+    i = 1; j = 1
+    max_diff = 0.0
+
+    while i <= n1 && j <= n2
+        v1 = s1[i]
+        v2 = s2[j]
+
+        # Proportions actuelles (Hauteur sur la courbe cumulée)
+        p1 = i / n1
+        p2 = j / n2
+
+        diff = abs(p1 - p2)
+        if diff > max_diff; max_diff = diff; end
+
+        if v1 < v2
+            i += 1
+        elseif v2 < v1
+            j += 1
+        else
+            i += 1; j += 1
+        end
+    end
+
+    return max_diff
+end
+
+"""
+Charge les données brutes (listes de longueurs) pour comparer les distributions.
+"""
+function charger_donnees_brutes_ref(mouvements::Vector{String})
+    refs_brutes = Dict{String, Vector{Int}}()
+
+    for m in mouvements
+        # On lit le fichier histogramme
+        path = "longueurs_phrases/" * m * "_total.txt"
+        if !isfile(path); continue; end
+
+        data = Int[]
+        open(path, "r") do f
+            for line in eachline(f)
+                parts = split(line, ":")
+                if length(parts) == 2
+                    len = parse(Int, strip(parts[1]))
+                    count = parse(Int, strip(parts[2]))
+                    # On "décompresse" : si longueur 10 apparaît 3 fois, on ajoute [10, 10, 10]
+                    append!(data, fill(len, count))
+                end
+            end
+        end
+        refs_brutes[m] = data
+    end
+    return refs_brutes
+end
+
+"""
+Charge les statistiques de référence depuis le CSV.
+"""
+function charger_stats_reference()
+    refs = Dict{String, Tuple{Float64, Float64, Float64, Float64}}()
+    path = "longueurs_phrases/stats_longueurs_phrases.csv"
+
+    if !isfile(path)
+        println("Fichier stats manquant. Lancez generate_all() d'abord.")
+        return refs
+    end
+
+    open(path, "r") do f
+        for line in eachline(f)
+            if startswith(line, "mouvement"); continue; end
+            parts = split(line, ";")
+            if length(parts) >= 5
+                mvt = String(parts[1])
+                moy = parse(Float64, parts[2]) # Colonne 2 : Moyenne
+                med = parse(Float64, parts[3]) # Colonne 3 : Médiane
+                ecart = parse(Float64, parts[4]) # Colonne 4 : Écart-Type
+                ari = parse(Float64, parts[5]) # Colonne 5 : ARI
+                refs[mvt] = (moy, med, ecart, ari)
+            end
+        end
+    end
+    return refs
+end
+
+"""
+Analyse un fichier inconnu et le compare aux références
+en utilisant une distance multidimensionnelle (4 critères).
+"""
+function analyser_texte_inconnu_syntaxe(filepath::String)
+    println("=======================================================")
+    println("ANALYSE DU FICHIER : $(basename(filepath))")
+
+    if !isfile(filepath); println("Fichier introuvable."); return; end
+
+    # Analyse du fichier
+    lines = []; open(filepath) do f; lines = readlines(f); end
+    texte = join(lines, " ")
+    longueurs = longueur_phrases(texte)
+
+    if isempty(longueurs); println("Fichier vide."); return; end
+
+    # Calculs
+    my_moy = mean(longueurs)
+    my_med = median(longueurs)
+    my_ecart = std(longueurs)
+    my_ari = calcul_ari(texte, length(longueurs))
+
+    println("Signature du texte mystère :")
+    println("   1. Moyenne    : $(round(my_moy, digits=2)) mots")
+    println("   2. Médiane    : $(round(my_med, digits=2)) mots")
+    println("   3. Écart-Type : $(round(my_ecart, digits=2))")
+    println("   4. Complexité (ARI) : $(round(my_ari, digits=2))")
+
+    # Chargement des Références
+    refs_stats = charger_stats_reference()
+    refs_brutes = charger_donnees_brutes_ref(["lumieres", "naturalisme", "romantisme"])
+
+    if isempty(refs_stats); return; end
+
+    println("Comparaison (Score le plus bas = Meilleur match) :")
+    scores = Tuple{String, Float64}[]
+
+    for (mvt, (ref_moy, ref_med, ref_ecart, ref_ari)) in refs_stats
+        # Distance Scalaire (Somme des écarts standardisés)
+        dist_scal = abs(my_moy - ref_moy) + abs(my_med - ref_med) + abs(my_ecart - ref_ecart) + abs(my_ari - ref_ari)
+
+        # Distance de Distribution (KS) - Valeur entre 0 et 1
+        # On multiplie par 20 pour qu'elle ait un poids comparable aux autres critères
+        dist_ks = 1.0
+        if haskey(refs_brutes, mvt)
+            dist_ks = calcul_distance_ks(longueurs, refs_brutes[mvt])
+        end
+        poids_ks = dist_ks * 20.0
+
+        score_total = dist_scal + poids_ks
+        push!(scores, (mvt, score_total))
+
+        print("vs $(uppercase(mvt)) \t: Score = $(round(score_total, digits=2))")
+        println(" (Dist.KS: $(round(dist_ks, digits=3)) | Diff.Scalaire: $(round(dist_scal, digits=1)))")
+    end
+
+    sort!(scores, by = x -> x[2])
+    gagnant = scores[1][1]
+    ks_gagnant = 0.0
+    if haskey(refs_brutes, gagnant); ks_gagnant = calcul_distance_ks(longueurs, refs_brutes[gagnant]); end
+
+    println("VERDICT : Le style est $(uppercase(gagnant))")
+    println("   (La distribution des phrases correspond à $(round((1-ks_gagnant)*100, digits=1))%)")
+    println("=======================================================")
+end
+
+
+"""
+Point d'entrée pour analyser un texte inconnu.
+"""
+function main_analyse_inconnu()
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+    fichier_mystere = "book_data/romantisme/clean_p1/Notre-Dame_de_Paris.txt"
+    analyser_texte_inconnu_syntaxe(fichier_mystere)
+end
+
+"""
 Génère toutes les données et les graphiques associés à l'analyse des longueurs de phrases.
 """
 function generate_all()
@@ -519,4 +694,5 @@ end
 
 ### Main Execution (to comment when not in test)
 
-generate_all()
+# generate_all()
+main_analyse_inconnu()
