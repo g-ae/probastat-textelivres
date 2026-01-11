@@ -331,11 +331,14 @@ end
 function generate_data_mi()
     mouvements = ["lumieres", "naturalisme", "romantisme"]
 
+    global_data = Dict{String, Vector{Int}}()
+    stats_csv = []
+
     for m in mouvements
         all_files = readdir(pwd() * "/book_data/" * m * "/clean_p1/")
-        book_files = filter(f -> contains(f, '.'), all_files)
+        book_files = filter(f -> endswith(f, '.txt'), all_files)
 
-        dicts::Vector{Dict{Int, Int}} = []
+        total_longueurs_mvt = Int[]
 
         for (i, file_name) in enumerate(book_files)
             println(m * "/clean_p1/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
@@ -350,26 +353,43 @@ function generate_data_mi()
                 continue
             end
 
-            save_longueur_phrases(longueur_phrases(join(lines, " ")), "longueurs_phrases/" * m * "/" * file_name)
-
-            push!(dicts, longueur_phrases(join(lines, " ")))
+            longueurs_livre = longueur_phrases(join(lines, " "))
+            save_longueur_phrases(longueurs_livre, "longueurs_phrases/" * m * "/" * file_name)
+            append!(total_longueurs_mvt, longueurs_livre)
         end
 
-        total_longueur = concat_longueur_dicts(dicts)
-        save_longueur_phrases(total_longueur, "longueurs_phrases/" * m * "_total.txt")
+        save_longueur_phrases(total_longueurs_mvt, "longueurs_phrases/" * m * "_total.txt")
 
-        println("--------------------------------------------------")
-        for m in mouvements
-            avg = moyenne_longueur_mvt(m)
-            med = mediane_longueur_mvt(m)
-            println("Mouvement: $m - Moyenne: $avg - Médiane: $med")
-            distribution = distribution_longueurs_mvt(m)
-    #         println("Distribution des longueurs de phrases (en mots => nombre de phrases):")
-    #         for (nbr_mots, nbr_phrases) in sort(collect(distribution))
-    #             println("  $nbr_mots => $nbr_phrases")
-    #         end
+        # Stockage pour les graphiques
+        global_data[m] = total_longueurs_mvt
+
+#         println("================================================")
+#         for m in mouvements
+#             avg = moyenne_longueur_mvt(m)
+#             med = mediane_longueur_mvt(m)
+#             println("Mouvement: $m - Moyenne: $avg - Médiane: $med")
+#             distribution = distribution_longueurs_mvt(m)
+#     #         println("Distribution des longueurs de phrases (en mots => nombre de phrases):")
+#     #         for (nbr_mots, nbr_phrases) in sort(collect(distribution))
+#     #             println("  $nbr_mots => $nbr_phrases")
+#     #         end
+#         end
+        # Calcul des stats
+        if !isempty(total_longueurs_mvt)
+            moy = mean(total_longueurs_mvt)
+            med = median(total_longueurs_mvt)
+            ecart = std(total_longueurs_mvt)
+            max_len = maximum(total_longueurs_mvt)
+
+            println("================================================")
+            println("STATS : $m")
+            println("Moyenne : $(round(moy, digits=2))")
+            println("Médiane : $(round(med, digits=2))")
+            println("Écart-Type : $(round(ecart, digits=2))")
+            println("================================================")
+
+            push!(stats_pour_csv, (m, moy, med, ecart))
         end
-        println("--------------------------------------------------")
     end
 end
 
