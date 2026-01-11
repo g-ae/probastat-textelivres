@@ -1,4 +1,4 @@
-mouvement;moyenne;mediane;ecart_type
-lumieres,31.01,24.0,26.25
-naturalisme,23.19,19.0,18.78
-romantisme,28.02,20.0,28.56
+mouvement;moyenne;mediane;ecart_type;ari_moyen
+lumieres;31.01;24.0;26.25;17.01
+naturalisme;23.19;19.0;18.78;14.85
+romantisme;28.02;20.0;28.56;15.78

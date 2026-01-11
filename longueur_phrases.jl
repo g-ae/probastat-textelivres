@@ -211,12 +211,34 @@ function plot_distribution(mouvements::Vector{String})
     # bar groupé: chaque mouvement est une série
     Plots.bar(all_keys, counts,
         bar_position = :dodge,
-        labels = mouvements,
+        labels = false,
         title = "Distribution des longueurs de phrases",
         xlabel = "Longueur (mots)",
         ylabel = "Nombre de phrases",
         rotation = 45)
     savefig("longueurs_phrases/distribution_longueurs_phrases.png")
+end
+
+function plot_distribution_densite(donnees::Dict{String, Vector{Int}}, mouvements::Vector{String})
+    # xlims=(0, 80) : On zoome sur les phrases de 0 à 80 mots (99% des données)
+    # pour éviter que les phrases géantes n'écrasent tout le graphique.
+    p = plot(title="Distribution des longueurs de phrases",
+             xlabel="Nombre de mots", ylabel="Fréquence (Densité)",
+             xlims=(0, 80),
+             legend=:topright)
+
+    colors = Dict("lumieres" => :blue, "naturalisme" => :green, "romantisme" => :red)
+
+    for m in mouvements
+        if !haskey(donnees, m); continue; end
+        vals = donnees[m]
+
+        # Il trace la courbe de probabilité lissée.
+        StatsPlots.density!(vals, label=uppercase(m), color=colors[m], linewidth=3, fill=(0, 0.2))
+    end
+
+    output_path = "longueurs_phrases/distribution_densite.png"
+    savefig(p, output_path)
 end
 
 function plot_boxplot(mouvements::Vector{String}, donnees)
@@ -252,6 +274,7 @@ function generate_plots_mi(donnees::Dict{String, Vector{Int}})
     plot_moyennes(mouvements)
     plot_mediane(mouvements)
     plot_distribution(mouvements)
+    plot_distribution_densite(donnees, mouvements)
     plot_boxplot(mouvements, donnees)
 end
 
@@ -322,17 +345,45 @@ function effectuer_test_anova(mouvements::Vector{String})
     println("========================================")
 end
 
+"""
+Calcule le score ARI (Automated Readability Index).
+Plus le score est élevé, plus le texte est complexe.
+"""
+function calcul_ari(text::String, nb_phrases::Int)
+    # Nettoyage basique pour compter les caractères réels (sans espaces)
+    text_clean = replace(text, r"\s+" => "")
+    nb_caracteres = length(text_clean)
+
+    # On compte les mots (approximation par l'espace)
+    nb_mots = length(split(text))
+
+    if nb_mots == 0 || nb_phrases == 0
+        return 0.0
+    end
+
+    # Formule ARI
+    avg_char_per_word = nb_caracteres / nb_mots
+    avg_word_per_sentence = nb_mots / nb_phrases
+
+    score = 4.71 * avg_char_per_word + 0.5 * avg_word_per_sentence - 21.43
+    return score
+end
+
 function generate_data_mi()
     mouvements = ["lumieres", "naturalisme", "romantisme"]
 
     global_data = Dict{String, Vector{Int}}()
     stats_csv = []
+    scores_ari = []
 
     for m in mouvements
         all_files = readdir(pwd() * "/book_data/" * m * "/clean_p1/")
         book_files = filter(f -> endswith(f, ".txt"), all_files)
 
         total_longueurs_mvt = Int[]
+
+        total_ari_mvt = 0.0
+        count_files = 0
 
         for (i, file_name) in enumerate(book_files)
             println(m * "/clean_p1/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ")")
@@ -350,6 +401,13 @@ function generate_data_mi()
             longueurs_livre = longueur_phrases(join(lines, " "))
             save_longueur_phrases(longueurs_livre, "longueurs_phrases/" * m * "/" * file_name)
             append!(total_longueurs_mvt, longueurs_livre)
+
+            nb_phrases_livre = length(longueurs_livre)
+            if nb_phrases_livre > 0
+                ari_livre = calcul_ari(join(lines, " "), nb_phrases_livre)
+                total_ari_mvt += ari_livre
+                count_files += 1
+            end
         end
 
         save_longueur_phrases(total_longueurs_mvt, "longueurs_phrases/" * m * "_total.txt")
@@ -375,14 +433,17 @@ function generate_data_mi()
             ecart = std(total_longueurs_mvt)
             max_len = maximum(total_longueurs_mvt)
 
+            ari_moyen = count_files > 0 ? total_ari_mvt / count_files : 0.0
+
             println("================================================")
             println("STATS : $m")
             println("Moyenne : $(round(moy, digits=2))")
             println("Médiane : $(round(med, digits=2))")
             println("Écart-Type : $(round(ecart, digits=2))")
+            println("Complexité (ARI moyen) : $(round(ari_moyen, digits=2))")
             println("================================================")
 
-            push!(stats_csv, (m, moy, med, ecart))
+            push!(stats_csv, (m, moy, med, ecart, ari_moyen))
         end
     end
 
@@ -400,9 +461,9 @@ function save_stats_csv(stats)
     end
 
     open(output_file, "w") do f
-        println(f, "mouvement;moyenne;mediane;ecart_type")
-        for (m, moy, med, ecart) in stats
-            println(f, "$m,$(round(moy, digits=2)),$(round(med, digits=2)),$(round(ecart, digits=2))")
+        println(f, "mouvement;moyenne;mediane;ecart_type;ari_moyen")
+        for (m, moy, med, ecart, ari) in stats
+            println(f, "$m;$(round(moy, digits=2));$(round(med, digits=2));$(round(ecart, digits=2));$(round(ari, digits=2))")
         end
     end
 
