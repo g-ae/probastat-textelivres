@@ -1,3 +1,9 @@
+using Plots
+using StatsPlots
+using Measures
+using HypothesisTests
+using Statistics
+
 function longueur_phrases(text::String)
     # Renvoie un dictionnaire "nbr de mots dans la phrase" => "nbr de phrases"
     res = Dict{Int, Int}()
@@ -133,10 +139,6 @@ function distribution_longueurs_mvt(mvt::String)
     return longueurs
 end
 
-using Plots
-using StatsPlots
-using Measures
-
 function plot_moyennes(mouvements::Vector{String})
     moyennes = [moyenne_longueur_mvt(m) for m in mouvements]
     palette = [:blue, :green, :red]
@@ -193,7 +195,7 @@ function plot_distribution(mouvements::Vector{String})
         end
     end
 
-    # bar groupé (dodge) : chaque mouvement est une série
+    # bar groupé: chaque mouvement est une série
     Plots.bar(all_keys, counts,
         bar_position = :dodge,
         labels = mouvements,
@@ -238,8 +240,13 @@ function plot_boxplot(mouvements::Vector{String})
     savefig("longueurs_phrases/boxplot_longueurs_phrases.png")
 end
 
-using HypothesisTests
-using Statistics
+function generate_plots_mi()
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+    plot_moyennes(mouvements)
+    plot_mediane(mouvements)
+    plot_distribution(mouvements)
+    plot_boxplot(mouvements)
+end
 
 # Fonction pour récupérer les données brutes
 function charger_longueurs_brutes(mvt::String)
@@ -308,9 +315,9 @@ function effectuer_test_anova(mouvements::Vector{String})
     println("========================================")
 end
 
-const mouvements = ["lumieres", "naturalisme", "romantisme"]
+function generate_data_mi()
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
 
-function generer_data()
     for m in mouvements
         all_files = readdir(pwd() * "/book_data/" * m * "/clean_p1/")
         book_files = filter(f -> contains(f, '.'), all_files)
@@ -353,15 +360,20 @@ function generer_data()
     end
 end
 
-# Generate data
-# generer_data()
+"""
+Génère toutes les données et les graphiques associés à l'analyse des longueurs de phrases.
+"""
+function generate_all()
+    generate_data_mi()
+    generate_plots_mi()
+end
 
-### Plots
-# plot_moyennes(mouvements)
-# plot_mediane(mouvements)
-# plot_distribution(mouvements)
-# plot_boxplot(mouvements)
 
-### Test statistique
+### Main Execution (to comment when not in test)
+const mouvements = ["lumieres", "naturalisme", "romantisme"]
+
+generate_all()
+
+# Test statistique
 println("Lancement de l'analyse statistique")
 effectuer_test_anova(mouvements)
