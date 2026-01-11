@@ -364,16 +364,19 @@ end
 Génère toutes les données et les graphiques associés à l'analyse des longueurs de phrases.
 """
 function generate_all()
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+
+    # Génération des données
     generate_data_mi()
+
+    # Génération des graphiques
     generate_plots_mi()
+
+    # Test statistique
+    effectuer_test_anova(mouvements)
 end
 
 
 ### Main Execution (to comment when not in test)
-const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
 generate_all()
-
-# Test statistique
-println("Lancement de l'analyse statistique")
-effectuer_test_anova(mouvements)
