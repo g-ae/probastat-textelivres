@@ -219,46 +219,40 @@ function plot_distribution(mouvements::Vector{String})
     savefig("longueurs_phrases/distribution_longueurs_phrases.png")
 end
 
-function plot_boxplot(mouvements::Vector{String})
-    data = []
+function plot_boxplot(mouvements::Vector{String}, donnees)
+    x_data = String[]
+    y_data = Int[]
 
     for m in mouvements
-        filename = "longueurs_phrases/" * m * "_total.txt"
-        longueurs = Int[]
+        if !haskey(donnees, m); continue; end
 
-        open(filename, "r") do f
-            for line in eachline(f)
-                parts = split(line, ":")
-                if length(parts) == 2
-                    nbr_mots = parse(Int, strip(parts[1]))
-                    nbr_phrases = parse(Int, strip(parts[2]))
+        vals = donnees[m]
+        vals_plot = filter(v -> v <= 100, vals)
 
-                    for _ in 1:nbr_phrases
-                        push!(longueurs, nbr_mots)
-                    end
-                end
-            end
-        end
-
-        push!(data, longueurs)
+        append!(x_data, fill(uppercase(m), length(vals_plot)))
+        append!(y_data, vals_plot)
     end
 
-    StatsPlots.boxplot(data;
-        labels = false,
-        orientation = :horizontal,
-        yticks = (1:length(mouvements), mouvements),
+    p = boxplot(x_data, y_data,
         title = "Longueurs des phrases par mouvement",
-        xlabel = "Longueur des phrases (mots)",
-        ylabel = "Mouvement")
-    savefig("longueurs_phrases/boxplot_longueurs_phrases.png")
+        ylabel = "Mots par phrase",
+        legend = false,
+        outliers = false,
+        color = [:blue :green :red],
+        fillalpha = 0.5,
+        linewidth = 2
+    )
+
+    if !isdir("longueurs_phrases"); mkpath("longueurs_phrases"); end
+    savefig(p, "longueurs_phrases/boxplot_longueurs_phrases.png")
 end
 
-function generate_plots_mi()
+function generate_plots_mi(donnees::Dict{String, Vector{Int}})
     mouvements = ["lumieres", "naturalisme", "romantisme"]
     plot_moyennes(mouvements)
     plot_mediane(mouvements)
     plot_distribution(mouvements)
-    plot_boxplot(mouvements)
+    plot_boxplot(mouvements, donnees)
 end
 
 # Fonction pour récupérer les données brutes
@@ -336,7 +330,7 @@ function generate_data_mi()
 
     for m in mouvements
         all_files = readdir(pwd() * "/book_data/" * m * "/clean_p1/")
-        book_files = filter(f -> endswith(f, '.txt'), all_files)
+        book_files = filter(f -> endswith(f, ".txt"), all_files)
 
         total_longueurs_mvt = Int[]
 
@@ -422,10 +416,10 @@ function generate_all()
     mouvements = ["lumieres", "naturalisme", "romantisme"]
 
     # Génération des données
-    generate_data_mi()
+    donnees = generate_data_mi()
 
     # Génération des graphiques
-    generate_plots_mi()
+    generate_plots_mi(donnees)
 
     # Test statistique
     effectuer_test_anova(mouvements)
