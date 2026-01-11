@@ -569,6 +569,38 @@ function verifier_loi_zipf()
     println("=======================================================")
 end
 
+"""
+Calcule la similarité Cosinus entre deux dictionnaires de fréquence.
+Retourne une valeur entre 0 (différent) et 1 (identique).
+Prend en compte la fréquence relative pour ignorer la taille des textes.
+"""
+function calcul_similarite_cosinus(dict_texte::Dict{String, Int}, dict_ref::Dict{String, Int})
+    # Calcul des totaux pour passer en fréquence
+    total_texte = sum(values(dict_texte))
+    total_ref = sum(values(dict_ref))
+
+    # Identification des mots communs (le produit scalaire ne se fait que sur l'intersection)
+    mots_communs = intersect(keys(dict_texte), keys(dict_ref))
+
+    produit_scalaire = 0.0
+
+    # Calcul du Numérateur (A . B)
+    for mot in mots_communs
+        freq1 = dict_texte[mot] / total_texte
+        freq2 = dict_ref[mot] / total_ref
+        produit_scalaire += freq1 * freq2
+    end
+
+    # Calcul des Normes (||A|| * ||B||)
+    norme_texte = sqrt(sum([(c/total_texte)^2 for c in values(dict_texte)]))
+    norme_ref = sqrt(sum([(c/total_ref)^2 for c in values(dict_ref)]))
+
+    if norme_texte == 0 || norme_ref == 0
+        return 0.0
+    end
+
+    return produit_scalaire / (norme_texte * norme_ref)
+end
 
 """
 Analyse un fichier unique et le compare à la base de données globale.
@@ -599,6 +631,23 @@ function analyser_texte_inconnu(chemin_fichier::String, donnees_ref::Dict{String
     println("Mots Totaux  : $mots_totaux")
     println("Mots Uniques : $mots_uniques")
     println("Richesse (TTR) : $(round(ttr, digits=4)) %")
+
+    # CLASSIFICATION (SIMILARITÉ COSINUS)
+    println("Calcul de ressemblance (Similarité Cosinus) :")
+    scores_classif = Tuple{String, Float64}[]
+
+    for (mvt, dict_ref) in donnees_ref
+        score = calcul_similarite_cosinus(dict_livre, dict_ref)
+        push!(scores_classif, (mvt, score))
+        # On affiche le score en pourcentage pour que ce soit parlant
+        println("vs $(uppercase(mvt)) \t: $(round(score * 100, digits=2)) % de similarité")
+    end
+
+    # Tri pour trouver le vainqueur
+    sort!(scores_classif, by = x -> x[2], rev = true)
+    gagnant = scores_classif[1][1]
+
+    println("VERDICT LEXICAL : Le vocabulaire est le plus proche du $(uppercase(gagnant))")
 
     # Mots Discriminants
     # On reconstruit le dictionnaire global pour la comparaison
