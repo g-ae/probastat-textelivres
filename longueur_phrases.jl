@@ -195,6 +195,35 @@ function plot_mediane(mouvements::Vector{String})
 end
 
 function plot_distribution(mouvements::Vector{String})
+    colors = Dict("lumieres" => :blue, "naturalisme" => :green, "romantisme" => :red)
+
+    for m in mouvements
+        dist = distribution_longueurs_mvt(m)
+
+        longueurs = sort(collect(keys(dist)))
+        comptes = [dist[l] for l in longueurs]
+
+        # On ne garde que les phrases <= 80 mots pour le graphique.
+        mask = longueurs .<= 150
+        x_val = longueurs[mask]
+        y_val = comptes[mask]
+
+        p = Plots.bar(x_val, y_val,
+            title = "Distribution : $(uppercase(m))",
+            xlabel = "Nombre de mots par phrase",
+            ylabel = "Nombre de phrases (Volume)",
+            legend = false,
+            color = colors[m],
+            linecolor = :match, # Couleur du contour identique
+            size = (600, 400)   # Taille de l'image
+        )
+
+        filename = "longueurs_phrases/distribution_$(m).png"
+        savefig(p, filename)
+    end
+end
+
+function plot_distribution_global(mouvements::Vector{String})
     dists = [distribution_longueurs_mvt(m) for m in mouvements]
 
     # union triée des longueurs présentes
@@ -224,7 +253,7 @@ function plot_distribution_densite(donnees::Dict{String, Vector{Int}}, mouvement
     # pour éviter que les phrases géantes n'écrasent tout le graphique.
     p = plot(title="Distribution des longueurs de phrases",
              xlabel="Nombre de mots", ylabel="Fréquence (Densité)",
-             xlims=(0, 80),
+             xlims=(0, 150),
              legend=:topright)
 
     colors = Dict("lumieres" => :blue, "naturalisme" => :green, "romantisme" => :red)
@@ -274,6 +303,7 @@ function generate_plots_mi(donnees::Dict{String, Vector{Int}})
     plot_moyennes(mouvements)
     plot_mediane(mouvements)
     plot_distribution(mouvements)
+    plot_distribution_global(mouvements)
     plot_distribution_densite(donnees, mouvements)
     plot_boxplot(mouvements, donnees)
 end
