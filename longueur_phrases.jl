@@ -388,9 +388,31 @@ function generate_data_mi()
             println("Écart-Type : $(round(ecart, digits=2))")
             println("================================================")
 
-            push!(stats_pour_csv, (m, moy, med, ecart))
+            push!(stats_csv, (m, moy, med, ecart))
         end
     end
+
+    # Save in CSV
+    save_stats_csv(stats_csv)
+
+    return global_data
+end
+
+function save_stats_csv(stats)
+    output_file = "longueurs_phrases/stats_longueurs_phrases.csv"
+    dir = dirname(output_file)
+    if !isempty(dir) && dir != "." && !isdir(dir)
+        mkpath(dir)
+    end
+
+    open(output_file, "w") do f
+        println(f, "mouvement;moyenne;mediane;ecart_type")
+        for (m, moy, med, ecart) in stats
+            println(f, "$m,$(round(moy, digits=2)),$(round(med, digits=2)),$(round(ecart, digits=2))")
+        end
+    end
+
+    println("Statistiques sauvegardées dans $output_file")
 end
 
 """
