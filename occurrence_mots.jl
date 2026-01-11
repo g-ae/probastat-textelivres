@@ -510,6 +510,66 @@ function charger_reference(mouvements::Vector{String})
     return refs
 end
 
+
+"""
+Vérifie la Loi de Zipf pour chaque mouvement.
+Trace Log(Fréquence) en fonction de Log(Rang).
+Si c'est une droite, la loi est vérifiée.
+"""
+function verifier_loi_zipf()
+    println("=======================================================")
+    println("ANALYSE DE LA LOI DE ZIPF")
+
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+    donnees = charger_reference(mouvements)
+
+    # Création du dossier pour les plots
+    dir = "occurrences_mots/"
+    if !isdir(dir); mkpath(dir); end
+
+    # Initialisation du graphique
+    p = plot(
+        title = "Loi de Zipf : Log(Fréquence) vs Log(Rang)",
+        xlabel = "Log(Rang)",
+        ylabel = "Log(Fréquence)",
+        legend = :topright
+    )
+
+    colors = Dict("lumieres" => :blue, "naturalisme" => :green, "romantisme" => :red)
+
+    for m in mouvements
+        # Récupération des fréquences
+        d = donnees[m]
+        counts = collect(values(d))
+
+        # Tri décroissant (Du plus fréquent au moins fréquent)
+        sort!(counts, rev=true)
+
+        # On calcule les Rangs (1, 2, 3...)
+        ranks = 1:length(counts)
+
+        # Transformation Logarithmique
+        log_ranks = log10.(ranks)
+        log_freqs = log10.(counts)
+
+        # Ajout de la courbe au graphique
+        plot!(p, log_ranks, log_freqs,
+              label = uppercase(m),
+              color = get(colors, m, :black),
+              linewidth = 2,
+              alpha = 0.8)
+
+        println("Courbe générée pour : $m")
+    end
+
+    # Sauvegarde
+    output_path = dir * "loi_de_zipf.png"
+    savefig(p, output_path)
+    println("Graphique sauvegardé : $output_path")
+    println("=======================================================")
+end
+
+
 """
 Analyse un fichier unique et le compare à la base de données globale.
 Affiche son TTR et ses mots les plus spécifiques par rapport au corpus.
@@ -605,6 +665,9 @@ function generate_all()
 
     # Lancement de l'analyse de richesse
     analyser_richesse_lexicale(mouvements)
+
+    # Vérification de la loi de Zipf
+    verifier_loi_zipf()
 end
 
 
