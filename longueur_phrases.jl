@@ -5,9 +5,13 @@ using HypothesisTests
 using Statistics
 
 function longueur_phrases(text::String)
-    # Renvoie un dictionnaire "nbr de mots dans la phrase" => "nbr de phrases"
-    res = Dict{Int, Int}()
-    phrases = split(text, r"[.!?]+")
+    longueurs = Int[]
+
+    text = replace(text, "\r\n" => " ")
+    text = replace(text, "\n" => " ")
+    text = replace(text, r"\s+" => " ")
+
+    phrases = split(text, r"(?<=[.!?])\s+(?=[A-ZÀ-É])")
 
     for phrase in phrases
         phrase = strip(phrase)
@@ -18,25 +22,34 @@ function longueur_phrases(text::String)
         words = split(phrase)
         n_words = length(words)
 
-        if haskey(res, n_words)
-            res[n_words] += 1
-        else
-            res[n_words] = 1
+        if n_words >= 3
+            push!(longueurs, n_words)
         end
     end
 
-    return res
+    return longueurs
 end
 
-function save_longueur_phrases(phrases_dict::Dict{Int, Int}, output_file::String)
+function save_longueur_phrases(longueurs::Vector{Int}, output_file::String)
     dir = dirname(output_file)
     if !isempty(dir) && dir != "." && !isdir(dir)
         mkpath(dir)
     end
 
+    # Conversion en dictionnaire
+    phrases_dict = Dict{Int, Int}()
+    for l in longueurs
+        if haskey(phrases_dict, l)
+            phrases_dict[l] += 1
+        else
+            phrases_dict[l] = 1
+        end
+    end
+
     open(output_file, "w") do f
-        for (nbr_mots, nbr_phrases) in phrases_dict
-            println(f, "$nbr_mots: $nbr_phrases")
+        # Tri par longueur croissante
+        for l in sort(collect(keys(phrases_dict)))
+            println(f, "$l: $(phrases_dict[l])")
         end
     end
 end
