@@ -171,8 +171,6 @@ if abspath(PROGRAM_FILE) == @__FILE__
                     
                     if findmax(blocs)[2] == m
                         resultats[m][2] += 1
-                    else
-                        println("FAUX $m ", blocs)
                     end
                 end
             end
