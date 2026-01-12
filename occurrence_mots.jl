@@ -1,3 +1,8 @@
+using Plots
+using Measures
+
+include("occurrences_mots/blacklist.jl")
+
 function clean_word(word::AbstractString)
     return strip(word, ['.', ',', '!', '?', ';', '"', '\'', '(', ')', '[', ']', '{', '}', '-'])
 end
@@ -172,6 +177,20 @@ function plot_total_and_unique_separately(occ_dicts::Vector{Dict{String,Int}}, m
         println("  Unique words: $(unique_words[i])\n")
     end
 
+    # Save in CSV
+    open("occurrences_mots/stats_globales_plots.csv", "w") do f
+        println(f, "mouvement;motal_mots;mots_uniques") # En-tête
+        for i in 1:n
+            println("Movement: $(mouvements[i])")
+            println("  Total words: $(total_words[i])")
+            println("  Unique words: $(unique_words[i])\n")
+
+            # Écriture ligne CSV
+            println(f, "$(mouvements[i]);$(total_words[i]);$(unique_words[i])")
+        end
+    end
+    println("Stats sauvegardées dans : occurrences_mots/stats_globales_plots.csv")
+
     dir = "occurrences_mots/"
     if !isdir(dir)
         mkpath(dir)
@@ -217,34 +236,12 @@ function plot_stats_for_movement(occ_dict::Dict{String,Int}, mouvement::String; 
         mkpath(dir)
     end
 
-    # --- Total words ---
+    # Total words
     total_words = sum(values(occ_dict))
     unique_words = length(occ_dict)
     println("--- Stats for $mouvement ---")
     println("Total words: $total_words")
     println("Unique words: $unique_words")
-
-    # Total words bar
-#     bar([mouvement], [total_words];
-#         color = :blue,
-#         title = "Total de mots — $mouvement",
-#         xlabel = "Mouvement", ylabel = "Nombre de mots",
-#         legend = false
-#     )
-#     annotate!(1, total_words + total_words*0.02, text(string(total_words), :center, 10))
-#     savefig(dir * "total_words_" * mouvement * ".png")
-#     println("Saved: $(dir)total_words_$mouvement.png")
-
-    # Unique words bar
-#     bar([mouvement], [unique_words];
-#         color = :green,
-#         title = "Mots uniques — $mouvement",
-#         xlabel = "Mouvement", ylabel = "Nombre de mots",
-#         legend = false
-#     )
-#     annotate!(1, unique_words + unique_words*0.02, text(string(unique_words), :center, 10))
-#     savefig(dir * "unique_words_" * mouvement * ".png")
-#     println("Saved: $(dir)unique_words_$mouvement.png")
 
     # Top N most frequent words
     top_words = sort(collect(occ_dict), by = x->x[2], rev=true)[1:min(top_n, unique_words)]
@@ -273,21 +270,25 @@ function plot_stats_for_movement(occ_dict::Dict{String,Int}, mouvement::String; 
     println("Saved: $(dir)top_$(top_n)_words_$mouvement.png")
 end
 
-using Plots
-using Measures
-
-### Test process
-const mouvements = ["lumieres", "naturalisme", "romantisme"]
-const threshold = 5
-all_occ_dicts::Vector{Dict{String, Int64}} = []
-for m in mouvements
-    occ_mvt = process_mouvement(m, threshold)
-    push!(all_occ_dicts, occ_mvt)
-    #plot_word_stats(occ_mvt, m; top_n=10)
+function generate_data_mi()
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+    for m in mouvements
+        process_mouvement(m)
+    end
 end
-plot_total_and_unique_separately(all_occ_dicts, mouvements)
-for (i, m) in enumerate(mouvements)
-    plot_stats_for_movement(all_occ_dicts[i], m; top_n=10)
+
+function generate_plots_mi()
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+    threshold = 5
+    all_occ_dicts::Vector{Dict{String, Int64}} = []
+    for m in mouvements
+        occ_mvt = process_mouvement(m, threshold)
+        push!(all_occ_dicts, occ_mvt)
+    end
+    plot_total_and_unique_separately(all_occ_dicts, mouvements)
+    for (i, m) in enumerate(mouvements)
+        plot_stats_for_movement(all_occ_dicts[i], m; top_n=10)
+    end
 end
 
 
@@ -298,102 +299,16 @@ Elle calcule un ratio : (Fréquence dans le mouvement) / (Fréquence globale).
 Si le ratio > 1, le mot est sur-représenté.
 """
 function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequence::Int=50)
-    println("--- ANALYSE DES MOTS DISCRIMINANTS (SPÉCIFICITÉ) ---")
+    println("=======================================================")
+    println("ANALYSE DES MOTS DISCRIMINANTS (SPÉCIFICITÉ)")
 
     # BLACKLIST (Patronymes, lieux uniques et bruit) - Liste générée par IA
-    blacklist = Set([
-        # === 1. VOCABULAIRE TECHNIQUE & JURIDIQUE (Licences Anglaises) ===
-        # Mots courants de la licence Project Gutenberg
-        "project", "gutenberg", "literary", "archive", "foundation",
-        "electronic", "work", "works", "license", "terms", "agreement",
-        "copyright", "domain", "public", "united", "states", "law", "laws",
-        "access", "distribute", "distributed", "copy", "copies", "copying",
-        "damages", "liability", "warranty", "disclaimer", "limitation", "indemnify",
-        "refund", "replacement", "donation", "charity", "donations",
-        "file", "files", "data", "computer", "system", "virus", "defect",
-        "format", "readable", "processor", "online", "network", "posted",
-        "this", "that", "with", "from", "have", "which", "form", "days",
-        "about", "associated", "compliance", "country", "forth", "located",
-        "http", "www", "org", "net", "com", "html", "txt", "ascii", "holder", "check",
-        "proofreading", "team", "digitized", "produced", "by", "of", "and", "the", "in", "to", "or", "is", "for", # Petits mots anglais fréquents
+    blacklist = get_blacklist()
 
-        # === 1. DERNIERS AJOUTS  ===
-        "foundation", "access", "damages", "located", # Anglais
-        "cazotte",
-        "compliance", "country", "distribute", "copy", "forth",
-        "julielettre", "ferval", "zurich", "omphale", "gangarides",
-
-        # === 2. BRUIT INFORMATIQUE (Mots anglais des licences Gutenberg/Archive) ===
-        "this", "that", "with", "from", "have", "which", "form", "days",
-        "agreement", "requirements", "posted", "associated", "about", "work",
-        "works", "terms", "license", "online", "distributed", "proofreading",
-        "team", "file", "http", "www", "gutenberg", "archive", "digitized",
-        "project", "ebook", "ebooks", "title", "author", "language", "release",
-        "fees", "may", "used", "anyone", "anywhere", "subject", "special", "permissions", "see", "details", "distribution",
-        "modification", "under", "copyright", "laws", "public", "domain", "reading",
-        "rights", "reserved", "donate", "contributions", "support", "online", "copyright",
-
-        # === 3. PERSONNAGES & LIEUX (Détails littéraires) ===
-        # === LUMIÈRES ===
-        # Voltaire (Noms uniques seulement)
-        "pangloss", "cunégonde", "cacambo", "zadig", "astarté", "moabdar",
-        "micromégas", "kerkabon", "formosante", "amazan", "babylone", "sirius",
-        # Montesquieu
-        "usbek", "rica", "roxane", "ispahan", "nadié", "zachi",
-        # Prévost & Marivaux
-        "lescaut", "grieux", "tiberge", "cleveland", "axminster",
-        "valville", "climal", "dutour", "habert", "fécour",
-        # Rousseau
-        "wolmar", "saint-preux", "étampes", "clarens", "héloïse",
-        # Diderot
-        "simonin", "arpajon", "mirzoza", "mangogul", "zaïde", "iwan",
-        # Laclos & Sade
-        "merteuil", "valmont", "tourvel", "volanges", "rosemonde", "danceny",
-        "blamont", "noirceuil", "saint-fond", "rodin", "sade",
-        # Lesage & Autres
-        "santillane", "sangrado", "asmodée", "cléofas", "zambullo",
-        "alvare", "biondetta", "soberano", "télémaque", "calypso", "idoménée",
-        "amanzéi", "phénime", "zulica", "meilcour", "lursay", "zilia", "aza", "déterville",
-        "joannetti", "corinne", "oswald", "nelvil", "lucile", "delphine", "albemar", "léonce",
-        "ellénore", "oberman",
-
-        # === ROMANTISME ===
-        # Chateaubriand
-        "atala", "chactas", "celuta", "aubry",
-        # Hugo (Noms distinctifs)
-        "esmeralda", "quasimodo", "frollo", "gringoire", "phoebus",
-        "valjean", "javert", "cosette", "marius", "gavroche", "thenardier", "fantine", "myriel",
-        "ordener", "schumacker", "bug-jargal", "habibrah",
-        "gilliatt", "déruchette", "lethierry", "gwynplaine", "dea", "ursus", "josiana",
-        "lantenac", "gauvain", "cimourdain",
-        # Dumas
-        "artagnan", "athos", "porthos", "aramis", "tréville", "planchet",
-        "dantes", "edmond", "monte-cristo", "faria", "mercedes", "mondego", "danglars", "villefort",
-        "mordaunt", "mazarin", "raoul", "bragelonne", "fouquet", "vallière",
-        "coconnas", "bussy", "monsoreau", "chicot", "balsamo",
-        # Sand
-        "indiana", "ralph", "raymon", "delmare", "lélia", "sténio", "trenmor",
-        "consuelo", "porpora", "rudolstadt", "fadette", "landry", "sylvinet", "fanchon",
-        "mauprat", "edmée",
-        # Vigny, Musset, Mérimée...
-        "cinq-mars", "stello", "collingwood", "sylvie", "aurélia",
-        "colomba", "orso", "rebbia", "carmen", "escamillo", "maupin", "graziella", "amaury", "couaën",
-
-        # === NATURALISME ===
-        # Zola (Rougon-Macquart)
-        "gervaise", "coupeau", "nana", "goujet", "lorilleux", "boche",
-        "lantier", "maheu", "maheude", "chaval", "hennebeau", "souvarine", "negrel", "voreux",
-        "muffat", "fontan", "satin", "roubaud", "severine", "pecqueux", "misard",
-        "baudu", "mouret", "bourdoncle", "hutin", "josserand", "campardon",
-        "saccard", "renée", "albine", "désirée", "florent", "quenu", "gradelle",
-        "raquin", "rougon", "macquart", "silvère", "miette", "adélaïde",
-        "clorinde", "sandoz", "fouan", "buteau", "gundermann",
-        # Maupassant
-        "lamare", "rosalie", "duroy", "forestier", "walter", "andermatt", "guilleroy", "mariolle",
-        # Huysmans & Autres
-        "desesseintes", "durtal", "hermies", "chantelouve", "vatard", "cyprien", "folantin",
-        "germinie", "lacerteux", "jupillon", "gervaisais", "vingtras", "mintié"
-    ])
+    # Open CSV for output
+    output_csv = "occurrences_mots/mots_discriminants.csv"
+    f_csv = open(output_csv, "w")
+    println(f_csv, "mouvement;rang;mot;score") # En-tête
 
     # Charger tous les dictionnaires
     dicts_par_mvt = Dict{String, Dict{String, Int}}()
@@ -404,10 +319,7 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
     total_mots_global = 0
 
     for m in mouvements
-        path = [
-            "occurrences_mots/" * m * "_total.csv"
-        ]
-
+        path = ["occurrences_mots/frequence/" * m * "_total_0.csv"]
         filename = ""
         for p in path
             if isfile(p)
@@ -453,7 +365,6 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
     total_mots_global = sum(values(dict_global))
 
     # Calcul des scores de spécificité
-
     for m in mouvements
         scores = Tuple{String, Float64}[]
         d_mvt = dicts_par_mvt[m]
@@ -482,14 +393,22 @@ function analyser_specificite_mouvements(mouvements::Vector{String}, seuil_frequ
         sort!(scores, by = x -> x[2], rev = true)
 
         # Affichage du Top 20
-        println("--- TOP 20 MOTS TYPIQUES : $(uppercase(m)) ---")
+        println("TOP 20 MOTS TYPIQUES : $(uppercase(m))")
 
         for i in 1:min(20, length(scores))
             mot, score = scores[i]
             println("  $i. $mot (x$(round(score, digits=1)))")
+
+            # Save in CSV
+            println(f_csv, "$m;$i;$mot;$(round(score, digits=4))")
         end
     end
-    println("======================================================")
+
+    # Close CSV
+    close(f_csv)
+    println("Mots discriminants sauvegardés dans : $output_csv")
+
+    println("=======================================================")
 end
 
 """
@@ -498,11 +417,17 @@ TTR = (Nombre de mots uniques) / (Nombre total de mots).
 Un TTR élevé indique un vocabulaire riche et varié.
 """
 function analyser_richesse_lexicale(mouvements::Vector{String})
-    println("--- ANALYSE DE LA RICHESSE LEXICALE (TTR) ---")
+    println("=======================================================")
+    println("ANALYSE DE LA RICHESSE LEXICALE (TTR)")
     println("Calcul du ratio : (Mots Uniques / Mots Totaux) * 100")
 
+    # Open CSV for output
+    output_csv = "occurrences_mots/resultats_ttr.csv"
+    f_csv = open(output_csv, "w")
+    println(f_csv, "mouvement;mots_totaux;mots_uniques;ttr_pourcentage")
+
     for m in mouvements
-        filename = "occurrences_mots/" * m * "_total.csv"
+        filename = "occurrences_mots/frequence/" * m * "_total_0.csv"
 
         if !isfile(filename)
             println("Fichier introuvable : $filename")
@@ -520,7 +445,6 @@ function analyser_richesse_lexicale(mouvements::Vector{String})
                 if length(parts) >= 2
                     try
                         count = parse(Int, parts[2])
-
                         mots_uniques += 1      # C'est une ligne valide, donc un mot unique
                         mots_totaux += count   # On ajoute toutes les fois où il apparait
                     catch e
@@ -538,16 +462,265 @@ function analyser_richesse_lexicale(mouvements::Vector{String})
         # Calcul du pourcentage
         ttr = (mots_uniques / mots_totaux) * 100
 
-        println("--- Mouvement : $(uppercase(m)) ---")
+        println("Mouvement : $(uppercase(m))")
         println("Mots Totaux  : $mots_totaux")
         println("Mots Uniques : $mots_uniques")
-        println("Score TTR    : $(round(ttr, digits=2)) %")
+        println("Score TTR    : $(round(ttr, digits=4)) %")
+
+        # Save in CSV
+        println(f_csv, "$m;$mots_totaux;$mots_uniques;$(round(ttr, digits=4))")
     end
-    println("============================================")
+
+    # Close CSV
+    close(f_csv)
+    println("Résultats TTR sauvegardés dans : $output_csv")
+    println("=======================================================")
 end
 
-# Lancement de l'analyse des mots discriminants
-analyser_specificite_mouvements(mouvements, 30)
 
-# Lancement de l'analyse de richesse
-analyser_richesse_lexicale(mouvements)
+"""
+Charge les données de référence (CSV) en mémoire pour la comparaison.
+"""
+function charger_reference(mouvements::Vector{String})
+    refs = Dict{String, Dict{String, Int}}()
+    println("========================================================")
+    println("Chargement des données de référence")
+    for m in mouvements
+        path = "occurrences_mots/frequence/" * m * "_total_0.csv"
+
+        if !isfile(path)
+            println("Fichier de référence manquant pour $m : $path")
+            continue
+        end
+
+        d = Dict{String, Int}()
+        open(path, "r") do f
+            for line in eachline(f)
+                if startswith(line, "mot;") continue end # Sauter l'en-tête
+                parts = split(line, ";")
+                if length(parts) >= 2
+                    try
+                        d[String(parts[1])] = parse(Int, parts[2])
+                    catch; end
+                end
+            end
+        end
+        refs[m] = d
+    end
+    return refs
+end
+
+
+"""
+Vérifie la Loi de Zipf pour chaque mouvement.
+Trace Log(Fréquence) en fonction de Log(Rang).
+Si c'est une droite, la loi est vérifiée.
+"""
+function verifier_loi_zipf()
+    println("=======================================================")
+    println("ANALYSE DE LA LOI DE ZIPF")
+
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+    donnees = charger_reference(mouvements)
+
+    # Création du dossier pour les plots
+    dir = "occurrences_mots/"
+    if !isdir(dir); mkpath(dir); end
+
+    # Initialisation du graphique
+    p = plot(
+        title = "Loi de Zipf : Log(Fréquence) vs Log(Rang)",
+        xlabel = "Log(Rang)",
+        ylabel = "Log(Fréquence)",
+        legend = :topright
+    )
+
+    colors = Dict("lumieres" => :blue, "naturalisme" => :green, "romantisme" => :red)
+
+    for m in mouvements
+        # Récupération des fréquences
+        d = donnees[m]
+        counts = collect(values(d))
+
+        # Tri décroissant (Du plus fréquent au moins fréquent)
+        sort!(counts, rev=true)
+
+        # On calcule les Rangs (1, 2, 3...)
+        ranks = 1:length(counts)
+
+        # Transformation Logarithmique
+        log_ranks = log10.(ranks)
+        log_freqs = log10.(counts)
+
+        # Ajout de la courbe au graphique
+        plot!(p, log_ranks, log_freqs,
+              label = uppercase(m),
+              color = get(colors, m, :black),
+              linewidth = 2,
+              alpha = 0.8)
+
+        println("Courbe générée pour : $m")
+    end
+
+    # Sauvegarde
+    output_path = dir * "loi_de_zipf.png"
+    savefig(p, output_path)
+    println("Graphique sauvegardé : $output_path")
+    println("=======================================================")
+end
+
+"""
+Calcule la similarité Cosinus entre deux dictionnaires de fréquence.
+Retourne une valeur entre 0 (différent) et 1 (identique).
+Prend en compte la fréquence relative pour ignorer la taille des textes.
+"""
+function calcul_similarite_cosinus(dict_texte::Dict{String, Int}, dict_ref::Dict{String, Int})
+    # Calcul des totaux pour passer en fréquence
+    total_texte = sum(values(dict_texte))
+    total_ref = sum(values(dict_ref))
+
+    # Identification des mots communs (le produit scalaire ne se fait que sur l'intersection)
+    mots_communs = intersect(keys(dict_texte), keys(dict_ref))
+
+    produit_scalaire = 0.0
+
+    # Calcul du Numérateur (A . B)
+    for mot in mots_communs
+        freq1 = dict_texte[mot] / total_texte
+        freq2 = dict_ref[mot] / total_ref
+        produit_scalaire += freq1 * freq2
+    end
+
+    # Calcul des Normes (||A|| * ||B||)
+    norme_texte = sqrt(sum([(c/total_texte)^2 for c in values(dict_texte)]))
+    norme_ref = sqrt(sum([(c/total_ref)^2 for c in values(dict_ref)]))
+
+    if norme_texte == 0 || norme_ref == 0
+        return 0.0
+    end
+
+    return produit_scalaire / (norme_texte * norme_ref)
+end
+
+"""
+Analyse un fichier unique et le compare à la base de données globale.
+Affiche son TTR et ses mots les plus spécifiques par rapport au corpus.
+"""
+function analyser_texte_inconnu(chemin_fichier::String, donnees_ref::Dict{String, Dict{String, Int}})
+    println("=======================================================")
+    println("ANALYSE DU FICHIER : $(basename(chemin_fichier))")
+
+    if !isfile(chemin_fichier)
+        println("Erreur : Le fichier '$chemin_fichier' n'existe pas.")
+        return
+    end
+
+    # Lecture et Nettoyage
+    dict_livre = process_file(chemin_fichier)
+    if dict_livre === nothing
+        println("Erreur : Impossible de lire le fichier.")
+        return
+    end
+
+    # Calcul du TTR (Richesse)
+    mots_uniques = length(dict_livre)
+    mots_totaux = sum(values(dict_livre))
+    ttr = (mots_uniques / mots_totaux) * 100
+
+    println("STATISTIQUES DE STYLE :")
+    println("Mots Totaux  : $mots_totaux")
+    println("Mots Uniques : $mots_uniques")
+    println("Richesse (TTR) : $(round(ttr, digits=4)) %")
+
+    # CLASSIFICATION (SIMILARITÉ COSINUS)
+    println("Calcul de ressemblance (Similarité Cosinus) :")
+    scores_classif = Tuple{String, Float64}[]
+
+    for (mvt, dict_ref) in donnees_ref
+        score = calcul_similarite_cosinus(dict_livre, dict_ref)
+        push!(scores_classif, (mvt, score))
+        # On affiche le score en pourcentage pour que ce soit parlant
+        println("vs $(uppercase(mvt)) \t: $(round(score * 100, digits=2)) % de similarité")
+    end
+
+    # Tri pour trouver le vainqueur
+    sort!(scores_classif, by = x -> x[2], rev = true)
+    gagnant = scores_classif[1][1]
+
+    println("VERDICT LEXICAL : Le vocabulaire est le plus proche du $(uppercase(gagnant))")
+
+    # Mots Discriminants
+    # On reconstruit le dictionnaire global pour la comparaison
+    dict_global = Dict{String, Int}()
+    for d in values(donnees_ref)
+        for (mot, count) in d
+            dict_global[mot] = get(dict_global, mot, 0) + count
+        end
+    end
+    total_global = sum(values(dict_global))
+
+    blacklist = get_blacklist()
+
+    scores = Tuple{String, Float64}[]
+
+    for (mot, count) in dict_livre
+        if count < 3 || mot in blacklist; continue; end # Filtre bruit
+
+        freq_livre = count / mots_totaux
+        # Compare à la fréquence globale (si le mot n'existe pas globalement, prend une fréquence minime)
+        count_global = get(dict_global, mot, 1)
+        freq_global = count_global / total_global
+
+        score = freq_livre / freq_global
+        push!(scores, (mot, score))
+    end
+
+    sort!(scores, by = x -> x[2], rev = true)
+
+    println("MOTS CLÉS (SIGNATURE DU LIVRE) :")
+    for i in 1:min(15, length(scores))
+        mot, score = scores[i]
+        println("   $i. $mot (x$(round(score, digits=1)))")
+    end
+    println("=======================================================")
+end
+
+
+"""
+Point d'entrée pour analyser un texte inconnu.
+"""
+function main_analyse_inconnu()
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+    fichier_mystere = "book_data/romantisme/clean_p2/Notre-Dame_de_Paris.txt"
+    donnees_completes = charger_reference(mouvements)
+    analyser_texte_inconnu(fichier_mystere, donnees_completes)
+end
+
+"""
+Génère toutes les données nécessaires pour l'analyse.
+"""
+function generate_all()
+    # Liste des mouvements littéraires
+    mouvements = ["lumieres", "naturalisme", "romantisme"]
+
+    # Génération des fichiers csv avec threshold 0
+    generate_data_mi()
+
+    # Génération des plots
+    generate_plots_mi()
+
+    # Lancement de l'analyse des mots discriminants
+    analyser_specificite_mouvements(mouvements, 30)
+
+    # Lancement de l'analyse de richesse
+    analyser_richesse_lexicale(mouvements)
+
+    # Vérification de la loi de Zipf
+    verifier_loi_zipf()
+end
+
+
+### Main Execution (to comment when not in test)
+
+# generate_all()
+# main_analyse_inconnu()
