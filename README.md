@@ -124,6 +124,7 @@ Vous pouvez ensuite `include('analyse_feel.jl')`, ce qui vous donnera accès à 
 #### Longueur des phrases
 
 #### Niveau de langage
+Le niveau de langage est calculé par rapport au TTR des livres. C'est à dire qu'on regarde le nombre de mots différents dans un livre, ce qui nous donne la richesse du vocabulaire. On calcule ceci sur un nombre de lignes prédéfini sur tout le texte pour avoir un pourcentage à peu près correct.
 
 #### Classification de mots
 
