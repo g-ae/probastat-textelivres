@@ -121,6 +121,41 @@ function lines_to_words_array(lines, start, stop)
     return lines[start:stop]
 end
 
+function db_analysis_blocks(file_lines::Vector{String})
+    if isempty(file_lines)
+        return Dict{String,Float64}()
+    end
+    
+    # par blocs
+    current_line = 1
+    line_size = 100
+    blocs = Dict{String,Float64}()
+    
+    while current_line <= length(file_lines)
+        res = get_mouvement_probabilities_delta0(lines_to_words_array(file_lines, current_line, current_line + line_size))
+        current_line += line_size
+        
+        if isempty(res) continue end
+
+        minimum = findmin(res)
+        try
+            blocs[minimum[2]] += 1
+        catch
+            blocs[minimum[2]] = 1
+        end
+    end
+    
+    return blocs
+end
+
+function db_analysis_file(file_name::String)
+    file_lines = []
+    open(file_name) do f
+        file_lines = readlines(f)
+    end
+    return db_analysis_blocks(file_lines)
+end
+
 # Debugging
 if abspath(PROGRAM_FILE) == @__FILE__
     # resultats["lumieres"] = [total, justes]
@@ -130,39 +165,14 @@ if abspath(PROGRAM_FILE) == @__FILE__
         if !contains(m, '.')
             resultats[m] = [0, 0]
             for b in readdir("book_data/$m/clean_p2")
-                #println(m, " " ,b)
-                open("book_data/$m/clean_p2/$b") do f
-                    file_lines = readlines(f)
+                blocs = db_analysis_file("book_data/$m/clean_p2/"*b)
+                if !isempty(blocs)
+                    resultats[m][1] += 1
                     
-                    if isempty(file_lines)
-                        println("   -> skipped (empty file)")
-                        return
-                    end
-                    
-                    # par blocs
-                    current_line = 1
-                    line_size = 100
-                    blocs = Dict{String,Float64}()
-                    
-                    while current_line <= length(file_lines)
-                        res = get_mouvement_probabilities_delta0(lines_to_words_array(file_lines, current_line, current_line + line_size))
-                        current_line += line_size
-                        minimum = findmin(res)
-                        try
-                            blocs[minimum[2]] += 1
-                        catch
-                            blocs[minimum[2]] = 1
-                        end
-                    end
-                    
-                    if !isempty(blocs)
-                        resultats[m][1] += 1
-                        
-                        if findmax(blocs)[2] == m
-                            resultats[m][2] += 1
-                        else
-                            println("FAUX $m ", blocs)
-                        end
+                    if findmax(blocs)[2] == m
+                        resultats[m][2] += 1
+                    else
+                        println("FAUX $m ", blocs)
                     end
                 end
             end
