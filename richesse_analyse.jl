@@ -78,73 +78,81 @@ function get_richesse_per_movement()
             continue
         end
         avg_ttr = mean(stats[m])
+        med_ttr = median(stats[m])
+        
         open(dir * m * ".txt", "w") do f
-            println(f, string(avg_ttr))
+            println(f, "$avg_ttr;$med_ttr")
         end
-        println("Average TTR for $m: $avg_ttr")
+        println("Stats for $m => Mean: $avg_ttr | Median: $med_ttr")
     end
 end
 
 function predict_movement_richesse(lines::Vector{String})
-    # Load model
-    model = Dict{String, Float64}()
+    # Load model (Mean, Median)
+    model = Dict{String, Tuple{Float64, Float64}}()
     for m in MOVEMENTS
         path = "richesse_data/" * m * ".txt"
         if isfile(path)
-            model[m] = parse(Float64, read(path, String))
+            content = split(read(path, String), ";")
+            if length(content) >= 2
+                model[m] = (parse(Float64, content[1]), parse(Float64, content[2]))
+            end
         end
     end
     
     if isempty(model)
-        println("No data inside stats file")
-        return Dict()
+        println("No valid data inside stats files")
+        return Dict{String, Float64}()
     end
     
-    # Process input lines in blocks and vote
-    votes = Dict{String, Float64}()
-    for m in keys(model)
-        votes[m] = 0.0
-    end
-    
+    # Calculate text stats
+    block_ttrs = Float64[]
     current_line = 1
-    total_blocks = 0
     
     while current_line <= length(lines)
         end_line = min(current_line + BLOCK_SIZE - 1, length(lines))
         block = lines[current_line:end_line]
         
         ttr = calculate_block_ttr(block)
-        
         if ttr > 0
-            # Find closest movement
-            min_diff = Inf
-            best_m = ""
-            
-            for (m, ref_ttr) in model
-                diff = abs(ttr - ref_ttr)
-                if diff < min_diff
-                    min_diff = diff
-                    best_m = m
-                end
-            end
-            
-            if best_m != ""
-                votes[best_m] += 1
-            end
-            total_blocks += 1
+            push!(block_ttrs, ttr)
         end
-        
         current_line += BLOCK_SIZE
     end
     
-    # Normalize votes
-    if total_blocks > 0
-        for m in keys(votes)
-            votes[m] = votes[m] / total_blocks
-        end
+    if isempty(block_ttrs)
+        return Dict{String, Float64}()
     end
     
-    return votes
+    text_mean = mean(block_ttrs)
+    text_median = median(block_ttrs)
+    
+    # Calculate distances
+    scores = Dict{String, Float64}()
+    max_dist = 0.0
+    
+    dists = Dict{String, Float64}()
+    
+    for (m, (ref_mean, ref_median)) in model
+        # On donne plus de poids à la médiane pour mieux distinguer le Naturalisme
+        dist = abs(text_mean - ref_mean) + 3.0 * abs(text_median - ref_median)
+        dists[m] = dist
+    end
+    
+    # Convert distances to probabilities (Inverse distance weighting)
+    # Plus la distance est petite, plus le score est élevé
+    total_inv_dist = 0.0
+    epsilon = 1e-6 # Avoid division by zero
+    
+    for d in values(dists)
+        total_inv_dist += 1.0 / (d + epsilon)
+    end
+    
+    for (m, d) in dists
+        scores[m] = (1.0 / (d + epsilon)) / total_inv_dist
+    end
+    
+    return scores
 end
 
 if abspath(PROGRAM_FILE) == @__FILE__
