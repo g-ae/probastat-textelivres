@@ -663,6 +663,8 @@ function analyser_texte_inconnu_syntaxe(filepath::String)
     println("VERDICT : Le style est $(uppercase(gagnant))")
     println("   (La distribution des phrases correspond à $(round((1-ks_gagnant)*100, digits=1))%)")
     println("=======================================================")
+
+    return scores
 end
 
 

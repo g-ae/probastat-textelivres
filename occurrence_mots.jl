@@ -683,6 +683,8 @@ function analyser_texte_inconnu(chemin_fichier::String, donnees_ref::Dict{String
         println("   $i. $mot (x$(round(score, digits=1)))")
     end
     println("=======================================================")
+
+    return scores_classif
 end
 
 
