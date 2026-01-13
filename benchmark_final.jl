@@ -6,7 +6,7 @@ include("occurrence_mots.jl")
 include("longueur_phrases.jl")
 
 # CHOIX DU MODE : :vocab, :syntaxe, ou :tout
-const MODE_ANALYSE = :syntaxe
+const MODE_ANALYSE = :tout
 
 function run_benchmark()
     println("DÉMARRAGE DU BENCHMARK FINAL ($MODE_ANALYSE)")
