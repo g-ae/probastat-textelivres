@@ -13,7 +13,6 @@ function calculate_block_ttr(lines::Vector{String})
         return 0.0
     end
     
-    # Reuse occurrence_mots to get counts
     occ_dict = occurrence_mots(text)
     
     unique_words = length(occ_dict)
@@ -27,7 +26,7 @@ function calculate_block_ttr(lines::Vector{String})
 end
 
 function get_richesse_per_movement()
-    println("Training Richesse Model (TTR per $BLOCK_SIZE lines)...")
+    println("Training Richesse (TTR per $BLOCK_SIZE lines)...")
     
     stats = Dict{String, Vector{Float64}}()
     for m in MOVEMENTS
@@ -37,13 +36,13 @@ function get_richesse_per_movement()
     for m in MOVEMENTS
         base_path = "book_data/" * m * "/clean_p2/"
         if !isdir(base_path)
-            println("Warning: Directory not found: $base_path")
+            println("Directory not found: $base_path")
             continue
         end
         
         files = readdir(base_path)
         for file in files
-            if !contains(file, '.') continue end # Skip directories if any
+            if !contains(file, '.') continue end
             
             full_path = joinpath(base_path, file)
             if !isfile(full_path) continue end
@@ -56,7 +55,6 @@ function get_richesse_per_movement()
                 block = lines[current_line:end_line]
                 
                 ttr = calculate_block_ttr(block)
-                # Filter out outliers or very small blocks if needed, but for now keep all
                 if ttr > 0
                     push!(stats[m], ttr)
                 end
@@ -133,9 +131,10 @@ function predict_movement_richesse(lines::Vector{String})
     
     dists = Dict{String, Float64}()
     
+    # TODO: pres
     for (m, (ref_mean, ref_median)) in model
         # On donne plus de poids à la médiane pour mieux distinguer le Naturalisme
-        dist = abs(text_mean - ref_mean) + 3.0 * abs(text_median - ref_median)
+        dist = abs(text_mean - ref_mean) + 2 * abs(text_median - ref_median)
         dists[m] = dist
     end
     
@@ -156,12 +155,15 @@ function predict_movement_richesse(lines::Vector{String})
 end
 
 if abspath(PROGRAM_FILE) == @__FILE__
+    using Plots, StatsPlots
+
     get_richesse_per_movement()
     
     println("\nTesting Model on ALL files")
     
     total_correct = 0
     total_files = 0
+    resultats = Dict{String, Vector{Int}}()
     
     for m in MOVEMENTS
         dir_path = "book_data/" * m * "/clean_p2/"
@@ -193,6 +195,8 @@ if abspath(PROGRAM_FILE) == @__FILE__
             global total_files += 1
         end
         
+        resultats[m] = [movement_total, movement_correct]
+        
         accuracy = round(movement_correct / movement_total * 100, digits=2)
         println("Accuracy for $m: $accuracy% ($movement_correct/$movement_total)")
     end
@@ -201,4 +205,31 @@ if abspath(PROGRAM_FILE) == @__FILE__
         global_accuracy = round(total_correct / total_files * 100, digits=2)
         println("GLOBAL ACCURACY: $global_accuracy% ($total_correct/$total_files)")
     end
+
+    # Sauvegarde du plot
+    movements_list = String[]
+    counts = Int[]
+    categories = String[]
+
+    for m in sort(collect(keys(resultats)))
+        total = resultats[m][1]
+        juste = resultats[m][2]
+        perc = total > 0 ? round(juste / total * 100, digits=1) : 0.0
+        label = "$m\n($perc%)"
+
+        push!(movements_list, label)
+        push!(counts, total)
+        push!(categories, "Total")
+
+        push!(movements_list, label)
+        push!(counts, juste)
+        push!(categories, "Juste")
+    end
+
+    groupedbar(movements_list, counts, group=categories, 
+        title="Résultats Analyse Richesse Lexicale",
+        ylabel="Nombre de livres",
+        legend=:topleft
+    )
+    savefig("plot_richesse.svg")
 end

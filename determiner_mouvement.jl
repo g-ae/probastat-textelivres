@@ -23,8 +23,10 @@ function calc_mouvement_proba(file_name = "")
 end
 
 if abspath(PROGRAM_FILE) == @__FILE__
+    using Plots, StatsPlots
     results = Dict("correct" => 0, "total" => 0)
     movements = ["lumieres", "naturalisme", "romantisme"]
+    resultats_mouv = Dict{String, Vector{Int}}()
     
     for m in movements
         dir_path = "book_data/" * m * "/clean_p2/"
@@ -56,10 +58,38 @@ if abspath(PROGRAM_FILE) == @__FILE__
             results["total"] += 1
         end
         
+        resultats_mouv[m] = [m_total, m_correct]
         acc = m_total > 0 ? round(m_correct / m_total * 100, digits=2) : 0.0
         println("Précision pour $m : $acc% ($m_correct/$m_total)")
     end
     
     global_acc = results["total"] > 0 ? round(results["correct"] / results["total"] * 100, digits=2) : 0.0
-    println("\nPRÉCISION GLOBALE : $global_acc% ($(results["correct"])/$(results["total"])))")
+    println("\nPRÉCISION GLOBALE : $global_acc% ($(results["correct"])/$(results["total"]))")
+
+    # Sauvegarde du plot
+    movements_list = String[]
+    counts = Int[]
+    categories = String[]
+
+    for m in sort(collect(keys(resultats_mouv)))
+        total = resultats_mouv[m][1]
+        juste = resultats_mouv[m][2]
+        perc = total > 0 ? round(juste / total * 100, digits=1) : 0.0
+        label = "$m\n($perc%)"
+
+        push!(movements_list, label)
+        push!(counts, total)
+        push!(categories, "Total")
+
+        push!(movements_list, label)
+        push!(counts, juste)
+        push!(categories, "Juste")
+    end
+
+    groupedbar(movements_list, counts, group=categories, 
+        title="Résultats Classification Finale (Feel + Richesse)",
+        ylabel="Nombre de livres",
+        legend=:topleft
+    )
+    savefig("plot_mouvement_final.svg")
 end

@@ -158,6 +158,8 @@ end
 
 # Debugging
 if abspath(PROGRAM_FILE) == @__FILE__
+    using Plots, StatsPlots
+
     # resultats["lumieres"] = [total, justes]
     resultats = Dict()
     
@@ -177,5 +179,37 @@ if abspath(PROGRAM_FILE) == @__FILE__
         end
     end
     
+    total_books = sum(v[1] for v in values(resultats))
+    total_correct = sum(v[2] for v in values(resultats))
+    global_acc = total_books > 0 ? round(total_correct / total_books * 100, digits=2) : 0.0
+    println("\nPrécision Globale: $global_acc% ($total_correct/$total_books)")
+
     println(resultats)
+
+    # Sauvegarde du plot
+    movements_list = String[]
+    counts = Int[]
+    categories = String[]
+
+    for m in sort(collect(keys(resultats)))
+        total = resultats[m][1]
+        juste = resultats[m][2]
+        pourcentage = total > 0 ? round(juste / total * 100, digits=1) : 0.0
+        label = "$m\n($pourcentage%)"
+
+        push!(movements_list, label)
+        push!(counts, total)
+        push!(categories, "Total")
+
+        push!(movements_list, label)
+        push!(counts, juste)
+        push!(categories, "Juste")
+    end
+
+    groupedbar(movements_list, counts, group=categories, 
+        title="Résultats Analyse DB Feel",
+        ylabel="Nombre de livres",
+        legend=:topleft
+    )
+    savefig("p2_resultats_feel.svg")
 end
