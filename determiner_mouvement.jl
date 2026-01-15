@@ -1,5 +1,11 @@
 include("db_feel.jl")
 include("richesse_analyse.jl")
+include("longueur_phrases.jl")
+include("occurrence_mots.jl")
+include("themes_analyse_book.jl")
+
+movements = ["lumieres", "naturalisme", "romantisme"]
+reference = charger_reference(movements)
 
 function calc_mouvement_proba(file_name = "")
     if isempty(file_name) return Dict{String, Float64}() end
@@ -17,15 +23,32 @@ function calc_mouvement_proba(file_name = "")
     # Niveau de langage
     proba = mergewith(+, proba, predict_movement_richesse(file_lines))
 
-    # TODO: Ajouter proba ici pour essayer d'améliorer précision
-    
+    # Longueur phrases -> baisse trop les stats
+    # retour_lp = analyser_texte_inconnu_syntaxe(replace(file_name, "clean_p2" => "clean_p1"))
+    # total = 0
+    # for m in retour_lp
+    #     total += m[2]
+    # end
+    # dict = Dict()
+    # for m in retour_lp
+    #     dict[m[1]] = m[2]/total
+    # end
+    # proba = mergewith(+, proba, dict)
+
+    # Occurrence des mots
+    for m in analyser_texte_inconnu(file_name, reference)
+        proba = mergewith(+, proba, Dict(m[1] => m[2]))
+    end
+
+    # Analyse des thèmes
+    proba = mergewith(+, proba, get_ratio_from_dict(analyse_themes(file_name)))
+
     return proba
 end
 
 if abspath(PROGRAM_FILE) == @__FILE__
     using Plots, StatsPlots
     results = Dict("correct" => 0, "total" => 0)
-    movements = ["lumieres", "naturalisme", "romantisme"]
     resultats_mouv = Dict{String, Vector{Int}}()
     
     for m in movements
