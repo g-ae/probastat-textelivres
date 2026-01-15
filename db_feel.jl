@@ -5,13 +5,6 @@ include("occurrence_mots.jl")
 path = pwd() * "/FEEL.csv"
 csv_data = DataFrame(CSV.File(path, delim=';'))
 
-using CSV, DataFrames
-
-include("occurrence_mots.jl")
-
-path = pwd() * "/FEEL.csv"
-csv_data = DataFrame(CSV.File(path, delim=';'))
-
 # Optimisation: Prétraiter les données CSV dans un dictionnaire pour un accès rapide
 const feel_lexicon = Dict(
     row.word => (
@@ -80,4 +73,143 @@ function get_ratio_from_dict(dict::Dict{String, Float64})
     end
     
     return dict
+end
+
+function get_mouvement_probabilities_delta0(lines_livre)
+    # Fait l'analyse de DB FEEL sur les lignes données, puis calcule les probabilités que ce livre apartienne à chaque mouvement à partir de cette analyse.
+    
+    # Faire analyse DB FEEL sur lignes données
+    analyse_livre = get_ratio_from_dict(analyse_feel(lines_livre))
+    
+    # Prendre chaque sentiment de chaque mouvement, comparer
+    mouvements_files = readdir("db_feel/")
+    mouvements_ratios = Dict{String,Float64}()
+    for file_name in mouvements_files
+        mouvement = split(file_name, ".")[1]
+        
+        mouvements_ratios[mouvement] = 0.0
+        global file_lines = []
+        
+        open("db_feel/" * file_name) do f
+            file_lines = readlines(f)
+        end
+        
+        for l in file_lines
+            if startswith(l, "feel") || isempty(l)
+                continue
+            end
+            
+            all = split(l, ";")
+            delta = abs(analyse_livre[all[1]] - parse(Float64, all[2]))
+            #println(mouvement, " ", all[1], " ", delta)
+            mouvements_ratios[mouvement] += delta
+        end
+    end
+    
+    # Ceci retourne le delta de chaque mouvement
+    return mouvements_ratios
+    
+end
+
+function lines_to_words_array(lines, start, stop)
+    if length(lines) < start
+        return []
+    end
+    if stop > length(lines)
+        return lines[start:end]
+    end
+    return lines[start:stop]
+end
+
+function db_analysis_blocks(file_lines::Vector{String})
+    if isempty(file_lines)
+        return Dict{String,Float64}()
+    end
+    
+    # par blocs
+    current_line = 1
+    line_size = 100
+    blocs = Dict{String,Float64}()
+    
+    while current_line <= length(file_lines)
+        res = get_mouvement_probabilities_delta0(lines_to_words_array(file_lines, current_line, current_line + line_size))
+        current_line += line_size
+        
+        if isempty(res) continue end
+
+        minimum = findmin(res)
+        try
+            blocs[minimum[2]] += 1
+        catch
+            blocs[minimum[2]] = 1
+        end
+    end
+    
+    return blocs
+end
+
+function db_analysis_file(file_name::String)
+    file_lines = []
+    open(file_name) do f
+        file_lines = readlines(f)
+    end
+    return db_analysis_blocks(file_lines)
+end
+
+# Debugging
+if abspath(PROGRAM_FILE) == @__FILE__
+    using Plots, StatsPlots
+
+    # resultats["lumieres"] = [total, justes]
+    resultats = Dict()
+    
+    for m in readdir("book_data")
+        if !contains(m, '.')
+            resultats[m] = [0, 0]
+            for b in readdir("book_data/$m/clean_p2")
+                blocs = db_analysis_file("book_data/$m/clean_p2/"*b)
+                if !isempty(blocs)
+                    resultats[m][1] += 1
+                    
+                    if findmax(blocs)[2] == m
+                        resultats[m][2] += 1
+                    end
+                end
+            end
+        end
+    end
+    
+    total_books = sum(v[1] for v in values(resultats))
+    total_correct = sum(v[2] for v in values(resultats))
+    global_acc = total_books > 0 ? round(total_correct / total_books * 100, digits=2) : 0.0
+    println("\nPrécision Globale: $global_acc% ($total_correct/$total_books)")
+
+    println(resultats)
+
+    # Sauvegarde du plot
+    movements_list = String[]
+    counts = Int[]
+    categories = String[]
+
+    for m in sort(collect(keys(resultats)))
+        total = resultats[m][1]
+        juste = resultats[m][2]
+        pourcentage = total > 0 ? round(juste / total * 100, digits=1) : 0.0
+        label = "$m\n($pourcentage%)"
+
+        push!(movements_list, label)
+        push!(counts, total)
+        push!(categories, "Total")
+
+        push!(movements_list, label)
+        push!(counts, juste)
+        push!(categories, "Juste")
+    end
+
+    groupedbar(movements_list, counts, group=categories, 
+        title="Résultats Analyse DB Feel",
+        ylabel="Nombre de livres",
+        legend=:topleft
+    )
+    savefig("p2_resultats_feel.svg")
 end

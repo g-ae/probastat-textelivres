@@ -34,7 +34,6 @@ spacy = pyimport("spacy")
 println("Chargement du modèle de language")
 nlp = spacy.load("fr_core_news_sm", disable=["ner", "parser"])
 
-include("occurrence_mots.jl")
 
 const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
@@ -107,7 +106,7 @@ for m in mouvements
         end
 
         # Tout le texte en minuscule
-        lines = lowercase.(lines)
+        #lines = lowercase.(lines)
 
         # Strip et suppression des lignes vides
         lines = [strip(l) for l in lines if !isempty(strip(l))]
@@ -130,30 +129,30 @@ for m in mouvements
         end
 
         # Suppression des pronoms, déterminants et conjonctions
-        pos_a_supprimer = Set(["PRON", "DET", "CCONJ", "SCONJ", "ADP", "PUNCT"])
+        pos_a_supprimer = Set(["PRON", "DET", "CCONJ", "SCONJ", "ADP", "PUNCT", "PROPN", "NUM"])
         elisions = Set(["l", "d", "s", "c", "j", "m", "t", "n", "qu"])
 
         function filtrer_texte(lines, nlp, pos_a_supprimer; batch_size=50)
             println("  Traitement de $(length(lines)) lignes...")
 
             docs = nlp.pipe(lines, batch_size=batch_size)
-
             lines_filtrees = Vector{String}(undef, length(lines))
-
+        
             for (i, doc) in enumerate(docs)
                 tokens_gardes = String[]
                 for tkn in doc
+                    # Extraction du lemme et de la POS
+                    # .lemma_ pour avoir la racine (ex: "mangeait" -> "manger")
+                    lemme = pyconvert(String, tkn.lemma_)
                     pos = pyconvert(String, tkn.pos_)
-                    text = pyconvert(String, tkn.text)
-
-                    # différents types de guillemets
-                    #text_normalise = replace(text, r"[''’]" => "'")
-
-                    # Filtrer
-                    # Par POS
-                    # Élisions (l', d', s', etc.)
-                    if !(pos in pos_a_supprimer)
-                        push!(tokens_gardes, text)
+                    
+                    # Vérifier si c'est un stop-word (optionnel mais recommandé)
+                    is_stop = pyconvert(Bool, tkn.is_stop)
+        
+                    # On retire les POS inutiles ET les stop-words, 
+                    # ET on s'assure que le mot n'est pas une scorie de ponctuation
+                    if !(pos in pos_a_supprimer) && !is_stop && length(lemme) > 1
+                        push!(tokens_gardes, lemme)
                     end
                 end
                 lines_filtrees[i] = join(tokens_gardes, " ")
@@ -170,8 +169,9 @@ for m in mouvements
         # Utilisation avec timing
         @time lines = filtrer_texte(lines, nlp, pos_a_supprimer, batch_size=100)
 
-        # Occurrence des mots (test)
-        #save_occurrence_mots(occurrence_mots(join(lines, " ")), "occurrences_mots/" * m * "/" * file_name)
+        # Tout le texte en minuscule
+        lines = lowercase.(lines)
+
 
         ####### Sauvegarde fichiers #######
         println(" Sauvegarde des fichiers nettoyés")

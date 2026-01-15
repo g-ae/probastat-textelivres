@@ -69,11 +69,11 @@ Ce qu'il fait sur chaque fichier :
 - Supprimer toutes les lignes jusqu'à `MediaWiki`
 - Supprimer toutes les lignes jusqu'à la ligne 100 contenant des chiffres romains (I,V,X en majuscule et séparé avec des espaces des autres mots ou "IV.").
 - Supprimer toutes les lignes après `À propos de cette édition électronique`
-- Mettre tout le texte en minuscule.
 - Lignes vides
 - [ ] Sauvegarder pour analyse longueur phrases sous `book_data/\<mouvement\>/clean_p1/\<nom\>.txt
 - Sur tout le texte, chercher les apostrophes (`'`). Si les deux derniers caractères sont `<espace><char>`, remplacer ces trois derniers par `<char>e<espace>`.
-- Supprimer pronoms (je,tu,etc), déterminants, conjonctions et ponctuation (peut être prépositions mais à voir.) avec `spacy` qui est une librairie Python. Nous pouvons utiliser cette librairie en Julia en utilisant PythonCall comme mentionné au-dessus.
+- Supprimer pronoms (je,tu,etc), déterminants, conjonctions, noms propres et ponctuation (peut être prépositions mais à voir.) avec `spacy` qui est une librairie Python. Nous pouvons utiliser cette librairie en Julia en utilisant PythonCall comme mentionné au-dessus.
+- Mettre tout le texte en minuscule.
 - [ ] Save fichier final sous `book_data/\<mouvement\>/clean_p2/\<nom\>.txt pour analyse.
 
 ### Etape 3 : Analyse des textes
@@ -124,8 +124,12 @@ Vous pouvez ensuite `include('analyse_feel.jl')`, ce qui vous donnera accès à 
 #### Longueur des phrases
 
 #### Niveau de langage
+Le niveau de langage est calculé par rapport au TTR des livres. C'est à dire qu'on regarde le nombre de mots différents dans un livre, ce qui nous donne la richesse du vocabulaire. On calcule ceci sur un nombre de lignes prédéfini sur tout le texte pour avoir un pourcentage à peu près correct.
 
 #### Classification de mots
 
 ## Etape 4 : Affichage des résultats
 Pour afficher des résultats, nous avons utilisé **Julia** avec la librairie **Plots**.
+
+## Sources
+Abdaoui, Amine and Azé, Jérôme and Bringay, Sandra and Poncelet, Pascal (2017). FEEL: a French Expanded Emotion Lexicon. *Language Resources and Evaluation*, *51*. https://doi.org/10.1007/s10579-016-9364-5

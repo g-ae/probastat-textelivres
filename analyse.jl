@@ -1,6 +1,7 @@
 include("occurrence_mots.jl")
 include("longueur_phrases.jl")
 include("db_feel.jl")
+include("richesse_analyse.jl")
 
 const mouvements = ["lumieres", "naturalisme", "romantisme"]
 
@@ -16,7 +17,7 @@ for m in mouvements
     all_files = readdir(clean_p1_path)
     book_files = filter(f -> contains(f, '.'), all_files)
 
-    dicts_longueurs_phrases::Vector{Dict{Int, Int}} = []
+    total_longueurs_mvt = Int[]
 
     for (i, file_name) in enumerate(book_files)
         println(m * "/" * file_name * " (" * string(i) * "/" * string(length(book_files)) * ") -> clean_p1")
@@ -28,12 +29,12 @@ for m in mouvements
         end
 
         # Longueur des phrases
-        push!(dicts_longueurs_phrases, longueur_phrases(join(lines, " ")))
+        longueurs = longueur_phrases(join(lines, " "))
+        append!(total_longueurs_mvt, longueurs)
     end
 
-    # Longueur des phrases - total
-    total_longueur = concat_longueur_dicts(dicts_longueurs_phrases)
-    save_longueur_phrases(total_longueur, "longueurs_phrases/" * m * "_total.txt")
+    # Longueur des phrases - total (sauvegarde le vecteur via la fonction existante)
+    save_longueur_phrases(total_longueurs_mvt, "longueurs_phrases/" * m * "_total.txt")
 
 
     # Analyse des fichiers clean partie 2
@@ -72,9 +73,12 @@ for m in mouvements
 
     # Occurrence des mots - total
     total_occ = concat_occurrence_dicts(dicts_occurrences_mots)
-    save_occurrence_mots(total_occ, "occurrences_mots/" * m * "_total.txt")
+    save_occurrence_mots(total_occ, "occurrences_mots/" * m * "_total.csv")
 
     # Sauvegarde db feels par mouvement
     get_ratio_from_dict(dict_feel)
     save_feel_file(m, dict_feel)
 end
+
+# Création fichiers "richesse lexicale" -> gère mouvements tout seul
+get_richesse_per_movement()
