@@ -483,8 +483,8 @@ Charge les données de référence (CSV) en mémoire pour la comparaison.
 """
 function charger_reference(mouvements::Vector{String})
     refs = Dict{String, Dict{String, Int}}()
-    println("========================================================")
-    println("Chargement des données de référence")
+    # println("========================================================")
+    # println("Chargement des données de référence")
     for m in mouvements
         path = "occurrences_mots/frequence/" * m * "_total_0.csv"
 
