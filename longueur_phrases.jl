@@ -603,8 +603,8 @@ Analyse un fichier inconnu et le compare aux références
 en utilisant une distance multidimensionnelle (4 critères).
 """
 function analyser_texte_inconnu_syntaxe(filepath::String)
-    println("=======================================================")
-    println("ANALYSE DU FICHIER : $(basename(filepath))")
+    # println("=======================================================")
+    # println("ANALYSE DU FICHIER : $(basename(filepath))")
 
     if !isfile(filepath); println("Fichier introuvable."); return; end
 
@@ -621,11 +621,11 @@ function analyser_texte_inconnu_syntaxe(filepath::String)
     my_ecart = std(longueurs)
     my_ari = calcul_ari(texte, length(longueurs))
 
-    println("Signature du texte mystère :")
-    println("   1. Moyenne    : $(round(my_moy, digits=2)) mots")
-    println("   2. Médiane    : $(round(my_med, digits=2)) mots")
-    println("   3. Écart-Type : $(round(my_ecart, digits=2))")
-    println("   4. Complexité (ARI) : $(round(my_ari, digits=2))")
+    # println("Signature du texte mystère :")
+    # println("   1. Moyenne    : $(round(my_moy, digits=2)) mots")
+    # println("   2. Médiane    : $(round(my_med, digits=2)) mots")
+    # println("   3. Écart-Type : $(round(my_ecart, digits=2))")
+    # println("   4. Complexité (ARI) : $(round(my_ari, digits=2))")
 
     # Chargement des Références
     refs_stats = charger_stats_reference()
@@ -633,7 +633,7 @@ function analyser_texte_inconnu_syntaxe(filepath::String)
 
     if isempty(refs_stats); return; end
 
-    println("Comparaison (Score le plus bas = Meilleur match) :")
+    # println("Comparaison (Score le plus bas = Meilleur match) :")
     scores = Tuple{String, Float64}[]
 
     for (mvt, (ref_moy, ref_med, ref_ecart, ref_ari)) in refs_stats
@@ -651,8 +651,8 @@ function analyser_texte_inconnu_syntaxe(filepath::String)
         score_total = dist_scal + poids_ks
         push!(scores, (mvt, score_total))
 
-        print("vs $(uppercase(mvt)) \t: Score = $(round(score_total, digits=2))")
-        println(" (Dist.KS: $(round(dist_ks, digits=3)) | Diff.Scalaire: $(round(dist_scal, digits=1)))")
+        # print("vs $(uppercase(mvt)) \t: Score = $(round(score_total, digits=2))")
+        # println(" (Dist.KS: $(round(dist_ks, digits=3)) | Diff.Scalaire: $(round(dist_scal, digits=1)))")
     end
 
     sort!(scores, by = x -> x[2])
@@ -660,9 +660,9 @@ function analyser_texte_inconnu_syntaxe(filepath::String)
     ks_gagnant = 0.0
     if haskey(refs_brutes, gagnant); ks_gagnant = calcul_distance_ks(longueurs, refs_brutes[gagnant]); end
 
-    println("VERDICT : Le style est $(uppercase(gagnant))")
-    println("   (La distribution des phrases correspond à $(round((1-ks_gagnant)*100, digits=1))%)")
-    println("=======================================================")
+    # println("VERDICT : Le style est $(uppercase(gagnant))")
+    # println("   (La distribution des phrases correspond à $(round((1-ks_gagnant)*100, digits=1))%)")
+    # println("=======================================================")
 
     return scores
 end

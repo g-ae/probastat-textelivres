@@ -607,8 +607,8 @@ Analyse un fichier unique et le compare à la base de données globale.
 Affiche son TTR et ses mots les plus spécifiques par rapport au corpus.
 """
 function analyser_texte_inconnu(chemin_fichier::String, donnees_ref::Dict{String, Dict{String, Int}})
-    println("=======================================================")
-    println("ANALYSE DU FICHIER : $(basename(chemin_fichier))")
+    #println("=======================================================")
+    #println("ANALYSE DU FICHIER : $(basename(chemin_fichier))")
 
     if !isfile(chemin_fichier)
         println("Erreur : Le fichier '$chemin_fichier' n'existe pas.")
@@ -627,27 +627,27 @@ function analyser_texte_inconnu(chemin_fichier::String, donnees_ref::Dict{String
     mots_totaux = sum(values(dict_livre))
     ttr = (mots_uniques / mots_totaux) * 100
 
-    println("STATISTIQUES DE STYLE :")
-    println("Mots Totaux  : $mots_totaux")
-    println("Mots Uniques : $mots_uniques")
-    println("Richesse (TTR) : $(round(ttr, digits=4)) %")
+    #println("STATISTIQUES DE STYLE :")
+    #println("Mots Totaux  : $mots_totaux")
+    #println("Mots Uniques : $mots_uniques")
+    #println("Richesse (TTR) : $(round(ttr, digits=4)) %")
 
     # CLASSIFICATION (SIMILARITÉ COSINUS)
-    println("Calcul de ressemblance (Similarité Cosinus) :")
+    #println("Calcul de ressemblance (Similarité Cosinus) :")
     scores_classif = Tuple{String, Float64}[]
 
     for (mvt, dict_ref) in donnees_ref
         score = calcul_similarite_cosinus(dict_livre, dict_ref)
         push!(scores_classif, (mvt, score))
         # On affiche le score en pourcentage pour que ce soit parlant
-        println("vs $(uppercase(mvt)) \t: $(round(score * 100, digits=2)) % de similarité")
+        #println("vs $(uppercase(mvt)) \t: $(round(score * 100, digits=2)) % de similarité")
     end
 
     # Tri pour trouver le vainqueur
     sort!(scores_classif, by = x -> x[2], rev = true)
     gagnant = scores_classif[1][1]
 
-    println("VERDICT LEXICAL : Le vocabulaire est le plus proche du $(uppercase(gagnant))")
+    #println("VERDICT LEXICAL : Le vocabulaire est le plus proche du $(uppercase(gagnant))")
 
     # Mots Discriminants
     # On reconstruit le dictionnaire global pour la comparaison
@@ -677,15 +677,28 @@ function analyser_texte_inconnu(chemin_fichier::String, donnees_ref::Dict{String
 
     sort!(scores, by = x -> x[2], rev = true)
 
-    println("MOTS CLÉS (SIGNATURE DU LIVRE) :")
+    #println("MOTS CLÉS (SIGNATURE DU LIVRE) :")
     for i in 1:min(15, length(scores))
         mot, score = scores[i]
-        println("   $i. $mot (x$(round(score, digits=1)))")
+        #println("   $i. $mot (x$(round(score, digits=1)))")
     end
-    println("=======================================================")
+    #println("=======================================================")
 
-    return scores_classif
+    #return scores_classif
+    probs = softmax_scores(scores_classif, 0.2)   # équilibré
+    return probs
 end
+
+function softmax_scores(scores::Vector{Tuple{String, Float64}}, T::Float64)
+    values = [s[2] for s in scores]
+
+    max_val = maximum(values)
+    exp_vals = exp.((values .- max_val) ./ T)
+    probs = exp_vals ./ sum(exp_vals)
+
+    return [(scores[i][1], probs[i]) for i in eachindex(scores)]
+end
+
 
 
 """
