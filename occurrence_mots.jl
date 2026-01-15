@@ -608,7 +608,7 @@ Affiche son TTR et ses mots les plus spécifiques par rapport au corpus.
 """
 function analyser_texte_inconnu(chemin_fichier::String, donnees_ref::Dict{String, Dict{String, Int}})
     #println("=======================================================")
-    3println("ANALYSE DU FICHIER : $(basename(chemin_fichier))")
+    #println("ANALYSE DU FICHIER : $(basename(chemin_fichier))")
 
     if !isfile(chemin_fichier)
         println("Erreur : Le fichier '$chemin_fichier' n'existe pas.")
