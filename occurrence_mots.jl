@@ -684,8 +684,21 @@ function analyser_texte_inconnu(chemin_fichier::String, donnees_ref::Dict{String
     end
     println("=======================================================")
 
-    return scores_classif
+    #return scores_classif
+    probs = softmax_scores(scores_classif, 0.2)   # équilibré
+    return probs
 end
+
+function softmax_scores(scores::Vector{Tuple{String, Float64}}, T::Float64)
+    values = [s[2] for s in scores]
+
+    max_val = maximum(values)
+    exp_vals = exp.((values .- max_val) ./ T)
+    probs = exp_vals ./ sum(exp_vals)
+
+    return [(scores[i][1], probs[i]) for i in eachindex(scores)]
+end
+
 
 
 """
