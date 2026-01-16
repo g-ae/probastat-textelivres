@@ -110,7 +110,7 @@ if abspath(PROGRAM_FILE) == @__FILE__
     end
 
     groupedbar(movements_list, counts, group=categories, 
-        title="Résultats Classification Finale (Feel + Richesse)",
+        title="Résultats Classification Finale",
         ylabel="Nombre de livres",
         legend=:topleft
     )
